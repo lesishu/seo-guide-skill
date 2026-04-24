@@ -1,0 +1,399 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success)
+
+[10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## SEO Terms & Meanings
+
+If you've been reading [our starter guide to SEO](https://moz.com/beginners-guide-to-seo#terms) and found yourself confused by some of the terms you've seen, no worries! We know learning all the ins and outs of SEO vocabulary and jargon can feel like learning another language. To help you get a handle on all the new terms we're throwing at you, we've compiled a chapter-by-chapter SEO glossary with definitions and helpful links. You might want to bookmark this page for future reference!
+
+## Try Moz Pro, free!
+
+Moz Pro helps you achieve your search goals, whether you need better keywords, quality links, technical SEO help, or all of the above and more. Try it free and see why so many marketers trust our SEO tools!
+
+[ Start my free trial ](/checkout/freetrial)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Topic-Clustering.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855265&s=9b3d69587bd8910d30992b4038578bb5)
+
+## Chapter 1: SEO 101
+
+**10 blue links:** The format search engines used to display search results; ten organic results all appearing in the same format.
+
+**Black hat:** Search engine optimization practices that violate Google’s quality guidelines.
+
+**Crawling:** The process by which search engines discover your web pages.
+
+**De-indexed:** Refers to a page or group of pages being removed from Google’s index.
+
+**Featured snippets:** Organic answer boxes that appear at the top of SERPs for certain queries.
+
+**Google My Business listing:** A free listing available to local businesses.
+
+**Image carousels:** Image results in some SERPs that are scrollable from left to right.
+
+**Indexing:** The storing and organizing of content found during crawling.
+
+**Intent:** In the context of SEO, intent refers to what users really want from the words they typed into the search bar.
+
+**KPI:** A “key performance indicator” is a measurable value that indicates how well an activity is achieving a goal.
+
+**Local pack:** A pack of typically three local business listings that appear for local-intent searches such as “oil change near me.”
+
+**Organic:** Earned placement in search results, as opposed to paid advertisements.
+
+**People Also Ask boxes:** A box in some SERPs featuring a list of questions related to the query and their answers.
+
+**Query:** Words typed into the search bar.
+
+**Ranking:** Ordering search results by relevance to the query.
+
+**Search engine:** An information retrieval program that searches for items in a database that match the request input by the user. Examples: Google, Bing, and Yahoo.
+
+**SERP features:** Results displayed in a non-standard format.
+
+**SERP:** Stands for “search engine results page” — the page you see after conducting a search.
+
+**Traffic:** Visits to a website.
+
+[**URL**](/learn/seo/url)**:** Uniform Resource Locators are the locations or addresses for individual pieces of content on the web.
+
+**Webmaster guidelines:** Guidelines published by search engines like Google and Bing for the purpose of helping site owners create content that will be found, indexed, and perform well in search results.
+
+**White hat:** Search engine optimization practices that comply with Google’s quality guidelines.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Josh-Stricklin-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760464890&s=eacd99407daefbc78ebb6cec3a1c505b)](/checkout/freetrial)
+
+## Chapter 2: How Search Engines Work – Crawling, Indexing, and Ranking
+
+**2xx status codes:** A class of status codes that indicate the request for a page has succeeded.
+
+**4xx status codes:** A class of status codes that indicate the request for a page resulted in error.
+
+**5xx status codes:** A class of status codes that indicate the server’s inability to perform the request.
+
+**Advanced search operators:** Special characters and commands you can type into the search bar to further specify your query.
+
+**Algorithms:** A process or formula by which stored information is retrieved and ordered in meaningful ways.
+
+**[Backlinks](/learn/seo/external-link): **Or "inbound links" are links from other websites that point to your website.
+
+**Bots:** Also known as “crawlers” or “spiders,” these are what scour the Internet to find content.
+
+**Caching:** A saved version of your web page.
+
+**Caffeine:** Google’s web indexing system. Caffeine is the index, or collection of web content, whereas Googlebot is the crawler that goes out and finds the content.
+
+**[Citations](/learn/seo/local-citations):** Also known as a “business listing,” a citation is a web-based reference to a local business' name, address, and phone number (NAP).
+
+**Cloaking:** Showing different content to search engines than you show to human visitors.
+
+**Crawl budget:** The average number of pages a search engine bot will crawl on your site
+
+**[Crawler directives](/learn/seo/robots-meta-directives): **Instructions to the crawler regarding what you want it to crawl and index on your site.
+
+**Distance:** In the context of the local pack, distance refers to proximity, or the location of the searcher and/or the location specified in the query.
+
+**Engagement:** Data that represents how searchers interact with your site from search results.
+
+**Google Quality Guidelines:** Published guidelines from Google detailing tactics that are forbidden because they are malicious and/or intended to manipulate search results.
+
+**Google Search Console:** A free program provided by Google that allows site owners to monitor how their site is doing in search.
+
+**HTML:** Hypertext markup language is the language used to create web pages.
+
+**Index Coverage report:** A report in Google Search Console that shows you the indexation status of your site’s pages.
+
+**Index:** A huge database of all the content search engine crawlers have discovered and deem good enough to serve up to searchers.
+
+**[Internal links](/learn/seo/internal-link):** Links on your own site that point to your other pages on the same site.
+
+**JavaScript:** A programming language that adds dynamic elements to static web pages.
+
+**Login forms:** Refers to pages that require login authentication before a visitor can access the content.
+
+**Manual penalty:** Refers to a Google “Manual Action” where a human reviewer has determined certain pages on your site violate Google’s quality guidelines.
+
+**Meta robots tag:** Pieces of code that provide crawlers instructions for how to crawl or index web page content.
+
+**Navigation:** A list of links that help visitors navigate to other pages on your site. Often, these appear in a list at the top of your website (“top navigation”), on the side column of your website (“side navigation”), or at the bottom of your website (“footer navigation”).
+
+**NoIndex tag:** A meta tag that instructions a search engine not to index the page it’s on.
+
+**PageRank:** A component of Google's core algorithm. It is a link analysis program that estimates the importance of a web page by measuring the quality and quantity of links pointing to it.
+
+**Personalization:** Refers to the way a search engine will modify a person’s results on factors unique to them, such as their location and search history.
+
+**Prominence:** In the context of the local pack, prominence refers to businesses that are well-known and well-liked in the real world.
+
+**RankBrain:** the machine learning component of Google’s core algorithm that adjusts ranking by promoting the most relevant, helpful results.
+
+**Relevance:** In the context of the local pack, relevance is how well a local business matches what the searcher is looking for
+
+**[Robots.txt](/learn/seo/robotstxt): **Files that suggest which parts of your site search engines should and shouldn't crawl.
+
+**Search forms:** Refers to search functions or search bars on a website that help users find pages on that website.
+
+**Search Quality Rater Guidelines:** Guidelines for human raters that work for Google to determine the quality of real web pages.
+
+**Sitemap:** A list of URLs on your site that crawlers can use to discover and index your content.
+
+**Spammy tactics:** Like “black hat,” spammy tactics are those that violate search engine quality guidelines.
+
+**[URL folders](/learn/seo/url):** Sections of a website occurring after the TLD (“.com”), separated by slashes (“/”). For example, in “moz.com/blog” we could say “/blog” is a folder.
+
+**URL parameters:** Information following a question mark that is appended to a URL to change the page’s content (active parameter) or track information (passive parameter).
+
+**X-robots-tag:** Like meta robots tags, this tag provides crawlers instructions for how to crawl or index web page content.
+
+## Chapter 3: Keyword Research
+
+**Ambiguous intent:** Refers to a search phrase where the goal of the searcher is unclear and requires further specification.
+
+**Commercial investigation queries:** A query in which the searcher wants to compare products to find the one that best suits them.
+
+[**Informational queries**](/learn/seo/informational-keywords)**:** A query in which the searcher is looking for information, such as the answer to a question.
+
+**Keyword Difficulty:** At Moz, Keyword Difficulty is an estimate, in the form of a numerical score, of how difficult it is for a site to outrank their competitors.
+
+[**Keyword Explorer**](/explorer)**:** A Moz tool for in-depth keyword research and discovery.
+
+**Local queries:** A query in which the searcher is looking for something in a specific location, such as “coffee shops near me” or “gyms in Brooklyn.”
+
+**Long-tail keywords:** Longer queries, typically those containing more than three words. Indicative of their length, they are often more specific than short-tail queries.
+
+**Navigational queries:** A query in which the searcher is trying to get to a certain location, such as the Moz blog (query = “Moz blog”).
+
+**Regional keywords:** Refers to keywords unique to a specific locale. Use Google Trends, for example, to see whether “pop” or “soda” is the more popular term in Kansas.
+
+**Search volume:** The number of times a keyword was searched. Many keyword research tools show an estimated monthly search volume.
+
+**Seasonal trends:** Refers to the popularity of keywords over time, such as “Halloween costumes” being most popular the week before October 31.
+
+**Seed keywords:** The term we use to describe the primary words that describe the product or service you provide.
+
+[**Transactional queries**](/learn/seo/transactional-keywords)**:** The searcher wants to take an action, such as buy something. If keyword types sat in the marketing funnel, transactional queries would be at the bottom.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Lily-Ray-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760469108&s=6561e9bf182f53d75a1cdeceb7c98b1c)](/checkout/freetrial)
+
+## Chapter 4: On-Site Optimization
+
+**[Alt text](/learn/seo/alt-text): **Alternative text is the text in HTML code that describes the images on web pages.
+
+**[Anchor text](/learn/seo/anchor-text): **The text with which you link to pages.
+
+**Auto-generated content:** Content that is created programmatically, not written by humans.
+
+**[Duplicate content](/learn/seo/duplicate-content):** Content that is shared between domains or between multiple pages of a single domain.
+
+**Geographic modifiers:** Terms that describe a physical location or service area. For example, “pizza” is not geo-modified, but “pizza in Seattle” is.
+
+**Header tags:** An HTML element used to designate headings on your page.
+
+**Image compression:** The act of speeding up web pages by making image file sizes smaller without degrading the image’s quality.
+
+**Image sitemap:** A sitemap containing only the image URLs on a website.
+
+**Keyword stuffing:** A spammy tactic involving the overuse of important keywords and their variants in your content and links.
+
+**Link accessibility:** The ease with which a link can be found by human visitors or crawlers.
+
+**Link equity:** The value or authority a link can pass to its destination.
+
+**Link volume:** The quantity of links on a page.
+
+**Local business schema:** Structured data markup placed on a web page that helps search engines understand information about a business.
+
+**[Meta descriptions](/learn/seo/meta-description):** HTML elements that describe the contents of the page that they’re on. Google sometimes uses these as the description line in search result snippets.
+
+**Panda:** A Google algorithm update that targeted low-quality content.
+
+**Protocol:** The “http” or “https” preceding your domain name. This governs how data is relayed between the server and browser.
+
+**[Redirection](/learn/seo/redirection):** When a URL is moved from one location to another. Most often, redirection is permanent (301 redirect).
+
+**[Rel=canonical](/learn/seo/canonicalization): **A tag that allows site owners to tell Google which version of a web page is the original and which are the duplicates.
+
+**Scraped content:** Taking content from websites that you do not own and republishing it without permission on your own site.
+
+**SSL certificate:** A “Secure Sockets Layer” is used to encrypt data passed between the web server and browser of the searcher.
+
+**Thin content:** Content that adds little-to-no value to the visitor.
+
+**Thumbnails:** Image thumbnails are a smaller version of a larger image.
+
+**[Title tag](/learn/seo/title-tag): **An HTML element that specifies the title of a web page.
+
+## Chapter 5: Technical Optimization
+
+**AMP:** Often described as “diet HTML,” accelerated mobile pages (AMP) are designed to make the viewing experience lightning fast for mobile visitors.
+
+**Async:** Short for “asynchronous,” async means that the browser doesn’t have to wait for a task to finish before moving onto the next one while assembling your web page.
+
+**Browser:** A web browser, like Chrome or Firefox, is software that allows you to access information on the web. When you make a request in your browser (ex: “google.com”), you’re instructing your browser to retrieve the resources necessary to render that page on your device.
+
+**Bundling:** To combine multiple resources into a single resource.
+
+**[ccTLD](/learn/seo/cctlds): **Short for “country code top level domain,” ccTLD refers to domains associated with countries. For example, .ru is the recognized ccTLD for Russia.
+
+**Client-side & server-side rendering: **Client-side and server-side rendering refer to where the code runs. Client-side means the file is executed in the browser. Server-side means the files are executed at the server and the server sends them to the browser in their fully rendered state.
+
+**Critical rendering path:** The sequence of steps a browser goes through to convert HTML, CSS and JavaScript into a viewable web page.
+
+**CSS:** A Cascading Style Sheet (CSS) is the code that makes a website look a certain way (ex: fonts and colors).
+
+**DNS:** A Domain Name Server (DNS) allows domain names (ex: “moz.com”) to be linked to IP addresses (ex: “127.0.0.1”). DNS essentially translates domain names into IP addresses so that browsers can load the page’s resources.
+
+**DOM:** The Document Object Model (DOM) is the structure of an HTML document — it defines how that document can be accessed and changed by things like JavaScript.
+
+**Domain name registrar:** A company that manages the reservation of internet domain names. Example: GoDaddy.
+
+**Faceted navigation:** Often used on e-commerce websites, faceted navigations offer a number of sorting and filtering options to help visitors more easily locate the URL they’re looking for out of a stack of thousands or even millions of URLs. For example, you could sort a clothing page by price: low to high, or filter the page to view only size: small.
+
+**Fetch and Render tool:** A tool available in Google Search Console that allows you to see a web page how Google sees it.
+
+**File compression:** The process of encoding information using fewer bits; reducing the size of the file. There are many different compression techniques.
+
+**[Hreflang](/learn/seo/hreflang-tag):** A tag that indicates to Google which language the content is in. This helps Google serve the appropriate language version of your page to people searching in that language.
+
+**IP address:** An internet protocol (IP) address is a string of numbers that’s unique to each specific website. We assign domain names to IP addresses because they’re easier for humans to remember (ex: “moz.com”) but the internet needs these numbers to find websites.
+
+**JSON-LD:** JavaScript Object Notation for Linked Data (JSON-LD) is a format for structuring your data. For example, schema.org can be implemented in a number of different formats, JSON-LD is just one of them, but it is the format preferred by Google.
+
+**Lazy loading:** A way of deferring the loading of an object until it’s needed. This method is often used to improve page speed.
+
+**Minification:** To minify something means to remove as many unnecessary characters from the source code as possible without altering functionality. Whereas compression makes something smaller, minification actually removes things.
+
+**Mobile-first indexing:** Google began progressively moving websites over to mobile first indexing in 2018. This change means that Google crawls and indexes your pages based on their mobile version rather than their desktop version.
+
+**Pagination:** A website owner can opt to split a page into multiple parts in a sequence, similar to pages in the book. This can be especially helpful on very large pages. The hallmarks of a paginated page are the rel=”next” and rel=”prev” tags, indicating where each page falls in the greater sequence. These tags help Google understand that the pages should have consolidated link properties and that searchers should be sent to the first page in the sequence.
+
+**Programming language:** Writing instructions in a way a computer can understand. For example, JavaScript is a programming language that adds dynamic (not-static) elements to a web page.
+
+**Rendering:** The process of a browser turning a website’s code into a viewable page.
+
+**Render-blocking scripts:** A script that forces your browser to wait to be fetched before the page can be rendered. Render-blocking scripts can add extra round trips before your browser can fully render a page.
+
+**Responsive design:** Google’s preferred design pattern for mobile-friendly websites, responsive design allows the website to adapt to fit whatever device it’s being viewed on.
+
+**Rich snippet:** A snippet is the title and description preview that Google and other search engines show of URLs on its results page. A “rich” snippet, therefore, is an enhanced version of the standard snippet. Some rich snippets can be encouraged by the use of structured data markup, like review markup displaying as rating stars next to those URLs in the search results.
+
+**[Schema.org](/learn/seo/schema-structured-data):** Code that “wraps around” elements of your web page to provide additional information about it to the search engine. Data using schema.org is referred to as “structured” as opposed to “unstructured” — in other words, organized rather than unorganized.
+
+**SRCSET:** Like responsive design for images, SRCSET indicates which version of the image to show for different situations.
+
+**Structured Data:** Another way to say “organized” data (as opposed to unorganized). Schema.org is a way to structure your data, for example, by labeling it with additional information that helps the search engine understand it.
+
+## Chapter 6: Link Building & Establishing Authority
+
+**10x content:** Coined by Rand Fishkin to describe content that is “10x better” than anything else on the web for that same topic.
+
+**Amplification:** Sharing or spreading the word about your brand; often used in the context of social media, paid advertisements, and influencer marketing.
+
+[**Brand Authority**](https://moz.com/learn/seo/brand-authority): Brand Authority™ is a score (1-100) developed by Moz that measures the total strength of a brand. With Brand Authority, Moz makes the elusive but powerful idea of brand into concrete and actionable data.
+
+[**DA**](/learn/seo/domain-authority)**:** Domain Authority (DA) is a Moz metric used to predict a domain’s ranking ability; best used as a comparative metric (ex: comparing a website’s DA score to that of its [direct competitors](https://moz.com/competitive-research)).
+
+**Deindexed:** When a URL, section of URLs, or an entire domain has been removed from a search engine index. This can happen for a number of reasons, such as when a website receives a manual penalty for violating [Google’s quality guidelines](https://support.google.com/webmasters/topic/6001971?hl=en&ref_topic=6001981).
+
+**Directory links:** “Directory” in the context of local SEO is an aggregate list of local businesses, usually including each business’s name, address, phone number (NAP) and other information like their website. “Directory” can also refer to a type of unnatural link that violates Google’s guidelines: “low-quality directory or bookmark site links.”
+
+**Editorial links:** When links are earned naturally and given out of an author’s own volition (rather than paid for or coerced), they are considered editorial.
+
+**Follow:** The default state of a link, “follow” links pass PageRank.
+
+**Google Analytics:** A free (with an option to pay for upgraded features) tool that helps website owners get insight into how people are engaging with their website. Some examples of reports you can see in Google Analytics include acquisition reports that show what channels your visitors are coming from, and conversion reports that show the rate at which people are completing goals (ex: form fills) on your website.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Brandon-Doyle-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760481097&s=9384ea0f6a26270a76e84f3007c1e849)](/checkout/freetrial)
+
+**Google search operators:** Special text that can be appended to your query to further specify what types of results you’re looking for. For example, adding “site:” before a domain name can return a list of all (or many) indexed pages on said domain.
+
+**Guest blogging:** Often used as a link building strategy, guest blogging involves pitching an article (or idea for an article) to a publication in the hopes that they will feature your content and allow you to include a link back to your website. Just be careful though. Large-scale guest posting campaigns with keyword-rich anchor text links are a violation of Google’s quality guidelines.
+
+[**Link building**](/learn/seo/links-link-building)**:** While “building” sounds like this activity involves creating links to your website yourself, link building actually describes the process of earning links to your site for the purpose of building your site’s authority in search engines.
+
+**Link exchange:** Also known as reciprocal linking, link exchanges involve “you link to me and I’ll link to you” tactics. Excessive link exchanges are a violation of Google’s quality guidelines.
+
+[**Link Explorer**](/link-explorer)**:** Moz’s tool for link discovery and analysis.
+
+**Link profile:** A term used to describe all the inbound links to a select domain, subdomain, or URL.
+
+**Linked unstructured citations:** References to a business’ complete or partial contact information on a non-directory platform (like online news, blogs, best-of lists, etc.)
+
+**MozBar:** A [plugin](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en) available for the Chrome browser that allows you to easily view metrics for the selected page, like DA, PA, title tag, and more.
+
+**NoFollow:** Links marked up with rel=”nofollow” do not pass PageRank. Google encourages the use of these in some situations, like when a link has been paid for.
+
+**PA:** Similar to DA, Page Authority (PA) predicts an individual page’s ranking ability.
+
+**Purchased links:** Exchanging money, or something else of value, for a link. If a link is purchased, it constitutes an advertisement and should be treated with a nofollow tag so that it does not pass PageRank.
+
+**Qualified traffic:** When traffic is “qualified,” it usually means that the visit is relevant to the intended topic of the page, and therefore the visitor is more likely to find the content useful and convert.
+
+**Referral Traffic:** Traffic sent to a website from another website. For example, if your website is receiving visits from people clicking on your site from a link on Facebook, Google Analytics will attribute that traffic as “facebook.com / referral” in the Source/Medium report.
+
+**Resource pages:** Commonly used for the purpose of link building, resource pages typically contain a list of helpful links to other websites. If your business sells email marketing software, for example, you could look up marketing intitle:"resources" and reach out to the owners of said sites to see if they would include a link to your website on their page.
+
+**Sentiment:** How people feel about your brand.
+
+[**Spam Score:**](/help/link-explorer/link-building/spam-score) A Moz metric used to quantify a domain’s relative risk of penalization by using a series of flags that are highly correlated with penalized sites.
+
+**Unnatural links:** Google describes unnatural links as “creating links that weren’t editorially placed or vouched for by the site’s owner on a page.” This is a violation of their guidelines and could warrant a penalty against the offending website.
+
+## Chapter 7: Measuring, Prioritizing, & Executing SEO
+
+**API:** An application programming interface (API) allows for the creation of applications by accessing the features or data of another service like an operating system or application.
+
+**Bounce rate:** The percentage of total visits that did not result in a secondary action on your site. For example, if someone visited your home page and then left before viewing any other pages, that would be a bounced session.
+
+**Channel:** The different vehicles by which you can get attention and acquire traffic, such as organic search and social media.
+
+**Click-through rate:** The ratio of impressions to clicks on your URLs.
+
+**Conversion rate:** The ratio of visits to conversions. Conversion rate answers _how many of my website visitors are filling out my forms, calling, signing up for my newsletter, etc.?_
+
+**Qualified lead:** If you use your website to encourage potential customers to contact you via phone call or form, a “lead” is every contact you receive. Not all of those leads will become customers, but “qualified” leads are relevant prospects that have a high likelihood of becoming paying customers.
+
+**Google Analytics goals:** What actions are you hoping people take on your website? Whatever your answer, you can set those up as goals in Google Analytics to track your conversion rate.
+
+**Google Tag Manager:** A single hub for managing multiple website tracking codes.
+
+**Googlebot / Bingbot:** How major search engines like Google and Bing crawl the web; their “crawlers” or “spiders.”
+
+**Kanban:** A scheduling system.
+
+**Pages per session:** Also referred to as “page depth,” pages per session describes the average number of pages people view of your website in a single session.
+
+**Page speed:** Page speed is made up of a number of equally important qualities, such as first contentful/meaningful paint and time to interactive.
+
+**Pruning:** In an SEO context, pruning typically refers to removing low-quality pages in order to increase the quality of the site overall.
+
+**Scroll depth:** A method of tracking how far visitors are scrolling down your pages.
+
+**Scrum board:** A method of keeping track of tasks that need to be completed to accomplish a larger goal.
+
+**Search traffic:** Visits sent to your websites from search engines like Google.
+
+**Time on page:** The amount of time someone spent on your page before clicking to the next page. Because Google Analytics tracks time on page by when someone clicks your next page, bounced sessions will clock a time on page of 0.
+
+**UTM code:** An urchin tracking module (UTM) is a simple code that you can append to the end of your URL to track additional details about the click, such as its source, medium, and campaign name.
+
+##### Try Moz Pro free
+
+[![](https://moz.com/images/learn/Learn-CTAs/Jason-Nurmi-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760481297&s=9bc9576bd72c4141499d452c64370501)](/checkout/freetrial)
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

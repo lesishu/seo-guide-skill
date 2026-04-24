@@ -1,0 +1,225 @@
+Kind: captions
+Language: en
+There are over 4 million blog posts published
+every single day.
+So if you're just publishing "high-quality"
+content and hoping to gain traction, it
+probably won't be enough because no
+one will know your content even exists!
+So today, I'm going to show you how to
+promote your content with a simple, yet
+effective content promotion checklist.
+Stay tuned.
+[music]
+What's up marketers, so the checklist we're
+about to go through is something you can
+follow whenever you publish a new piece of content.
+And I want you to know that you don't have
+to follow every step in this checklist.
+But generally speaking, the more things you do,
+the more eyeballs you'll attract, and the more
+traffic you'll get.
+Let's get started.
+The first thing you should do is send an email to
+your email list, and there are three reasons for this.
+First, content is non-promotional and should
+be designed to help your readers.
+Second, some of the people on your list might
+be bloggers or journalists who have the power
+to amplify and link to your content.
+And third, they actually want to get updates
+from you.
+Otherwise, they wouldn't have signed up for
+your email list.
+So, if you're not emailing them with your
+content, you're doing them a disservice.
+Now, if you don't have an email list, then let
+me say it plain and simple: start building one.
+I won't bother going into list building in
+this tutorial, but if you want to see a video
+on that, let me know in the comments.
+The next thing on our checklist is to share
+your content on social media.
+If you already have a social following, it's
+simple: share your new content through
+your social accounts.
+But don't just call it a day after you've done that.
+There are a couple of other things you can
+do to get the most mileage out of social media.
+And the promotion methods will vary
+from platform to platform.
+So first off, you should reshare your content.
+Since social media is heavily biased towards
+timing, activities like Facebook shares or Tweets
+generally have a very short shelf-life.
+This means that not everyone is going to see
+your content the first time you share it.
+So you can do something as simple as retweeting
+your own tweet.
+In fact, Buffer conducted an experiment and
+found that retweeting your own tweets increases
+reach, engagement and clicks.
+Best of all you won't be annoying your followers
+by doing this.
+And this something that we've tested at Ahrefs
+with decent success.
+Now, rather than always sharing the same thing
+over and over again, you can play around with
+the copy or featured images.
+For example, if you're promoting a tweet,
+play around with the copy because it's
+the most prominent part of a tweet.
+But if you're sharing on Pinterest, you may
+want to play around with the actual image
+since that's the most prominent part of a pin.
+The second thing you can try is to create
+soundbites from your content.
+If you have a blog or in-depth piece of content,
+you can pull out some of the key points and
+share them on social media as soundbites.
+For example, on Twitter, we often share standalone
+tips and stats which help drive engagement.
+Gary Vee does this by turning his long videos
+into short clips and image quotes.
+There are plenty of things you can do, so get
+creative and test things out with your audience.
+Now, if you don't have a social following yet,
+focus on building your social presence on just
+one platform where your target audience
+is rather than trying to dip your toes into
+every social network.
+You'll grow faster that way.
+The next tip is to email other bloggers you've
+linked to.
+If you've created an in-depth guide, chances are
+you've linked to useful resources  or mentioned
+other creators.
+So in my opinion, it's worth reaching out
+to let them know.
+You can say something as simple as:
+"Hey Bobby,
+I read your post on French press hacks and
+loved your tip on using drip coffee filters.
+I included it in our post of why French press
+coffee is better than pour over.
+Thanks for the tip and I hope the mention
+sends some well-deserved visitors your way.
+Cheers, Sam."
+The email isn't meant to be complicated.
+It's simply a way of letting them know you
+appreciate their work, which can potentially
+spark a relationship, a share, and sometimes
+even links back to your site.
+The next tip is to submit your post to
+online communities.
+These are places like niche forums, Reddit,
+and Facebook groups.
+These communities are generally tightly knit
+groups who are interested in a specific topic.
+So by getting your content in front of them,
+you have the opportunity to drive targeted
+traffic to your site.
+Now, this doesn't mean you can or should join
+them and start spamming links to your site.
+You'll probably get kicked out of groups,
+banned, or worse, taint your reputation.
+Instead, you'll want to integrate yourself
+into these communities and it all starts with
+understanding the group's culture.
+To do this, start by reading through the group
+rules and follow them.
+Then, focus on becoming an active and helpful
+member in the group.
+Leave thoughtful comments, participate in
+discussions, ask questions, and answer others'
+when you can add value.
+The aim is to become a recognizable name in
+the community.
+That way, when you share your content,
+it'll be better received.
+Alright, the next tip is to answer questions
+on Quora.
+If you haven't heard of Quora, it's a popular
+Q&amp;A site.
+And in 2018, they reached 300 million monthly
+unique visitors to their site.
+So in plain English, this means you can potentially
+get your content in front of a lot of people just by
+answering questions.
+Now, the problem is that Quora doesn't tell
+you how many people are visiting each page.
+And answering every possible question would
+be way too time-consuming.
+But what we do know is that Quora gets a ton
+of search traffic from Google.
+In fact, Ahrefs' Site Explorer estimates that
+Quora gets over 80 million monthly search
+visits, which is an underestimation.
+So to tap into this traffic, you can find questions
+on Quora that are getting consistent traffic from
+Google and answer them with a link
+back to your content.
+To find these pages, go to Ahrefs' Site Explorer
+and search for quora.com.
+Next, I'll go to the Top pages report.
+Then, I'll set the country filter to All countries
+so I can see the total traffic estimations
+to these pages.
+So assuming I had a website on cooking, I can
+enter a keyword like "recipe" in the Include box
+which will narrow our results down to relevant pages.
+And now you can see some questions worth answering
+like, "what is a good substitute for applesauce."
+Just make sure you answer the question and
+feel free to add relevant links back to your site.
+If you're having doubts about this strategy,
+then check this out.
+I created an experimental site that got over
+60,000 page views in seven months.
+And the only traffic source I had was
+one link from a single Quora answer.
+The next tip is to use paid ads.
+Now, paid marketing is awesome because once
+you start paying for traffic, you'll get it
+almost immediately.
+And given the variety of targeting options
+you have on platforms like Facebook and Google,
+you can reach new and hyper-targeted audiences
+quite easily.
+For example, at Ahrefs, we've had great success at
+getting cheap engaged views using YouTube Ads.
+In fact, our average cost-per-view is only
+seven Singapore cents, which roughly translates
+to about five cents in US dollars.
+So to translate this…
+We're paying around five cents for someone to
+watch about 6-8 minutes of our video, which is
+just bananas in my books.
+Now, if you don't create videos, Facebook
+Ads are still pretty cheap.
+I believe on average we pay around
+15-30 cents per click.
+So even if you're just putting in $5 per day,
+it can go a long way in getting more visitors
+to your site.
+Last but not least, build backlinks.
+A backlink is when another website links to
+one of your pages.
+Google looks at this as a signal that the
+information being linked to is well trusted.
+And the result?
+Higher Google rankings and consistent, passive,
+and free traffic from search engines.
+So how do you build them?
+Well, we have an entire playlist with
+step-by-step tutorials on link building.
+So I recommend watching those videos as well
+as our video on how to rank higher in Google.
+I'll make sure to link those up in the description.
+Now, I'm wondering if there are any content
+promotion tips or steps that I've missed in
+this checklist.
+Let me know in the comments and if you enjoyed
+this video, make sure to like, share and subscribe
+for more actionable marketing tutorials.
+I'll see you in the next one.

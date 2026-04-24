@@ -1,0 +1,142 @@
+# Module 4.2: Hybrid Outreach - Scaling Value in Email Outreach
+
+Hey, it's Sam Oh and welcome to the
+second&nbsp;lesson in the outreach module.
+In this lesson, we're going to talk about
+scaling so-called&nbsp;"value" using the hybrid
+outreach approach.
+Now, in the previous lesson, I mentioned that
+outreach emails usually have a similar anatomy.
+They include a good reason for
+contact and a value proposition.
+And the great thing about using the hybrid&nbsp;
+approach is that your linkable point&nbsp;will be
+your "good reason for contact."
+For example, if they have an outdated stat,
+your reason for contact is to tell them about
+it and share new data.
+Or if they've mentioned a specific tactic like
+the 50/30/20 budget rule, then you can use
+that to set the context of the conversation.
+Now, finding a value proposition that appeals
+to the majority is the tough part because "value"
+is subjective to the person receiving the email.
+But because the hybrid approach forces
+you to segment prospects, your value
+propositions can be more impactful because
+of the similar attributes&nbsp;that prospects have
+in a given segment.
+Now, there is no set list of value&nbsp;propositions
+because it depends highly on the context of
+your linkable point.
+But a good way to start brainstorming value
+props is to think about how your reason for
+contact&nbsp;impacts prospects
+and their audiences.
+For example, a while back, I was working on
+a&nbsp;natural health site and noticed that an article
+from a large publication was recommending to
+consume cinnamon to lose weight because of
+a chemical compound called cinnamaldehyde.
+Now, a top leading essential oils expert
+specifically states in his book that you
+should not consume too much
+cinnamaldehyde because it can kill you.
+So how many people are saying this?
+Well, with a search like this in Content Explorer,
+you'll see that there are hundreds of pages.
+So we have our reason for contact that's
+going to set the context of our email.
+Now, how does this impact
+prospects and their audience?
+And does it impact them enough to make an
+edit&nbsp;to their post and potentially link to us?
+Well, if someone follows their tips,
+there could potentially be lost lives
+and lawsuits.
+So in my eyes, there was&nbsp;potential
+for a pretty strong pitch.
+So I actually updated my page on cinnamon
+essential oil stating these facts and contacted
+prospects letting them know&nbsp;of
+potential dangers in their content.
+I also shared a link to the $100+ book and a page&nbsp;
+number as a reference to strengthen my pitch.
+And of course, I offered the tl;dr which
+was written&nbsp;in my post which they could
+access for free.
+As for the results, I was able to secure
+some top notch links from big publications
+with an almost 20% conversion rate.
+Now, it's important to note that my email
+was not about inducing fear into prospects.
+It was written to highlight the importance
+of updating their content.&nbsp;
+So my link outreach was&nbsp;actually
+fun to do and it was well received.
+Now, pitch angles don't always
+have to be&nbsp;about life or death.
+And they won't always be this strong.
+But sometimes, that isn't&nbsp;even
+necessary to get good results.
+I'll give you an example from
+our SEO stats campaign.
+As a quick refresher, we noticed that a competing
+page had a ton of backlinks because of the stat,
+"93% of online experiences begin
+with a search engine."
+And that stat was super outdated
+and not even on the target page,
+making all&nbsp;links based on that stat irrelevant.
+Now, the reason for contact is that the 93%
+stat they've mentioned isn't on the page.
+But to be frank, this reason is no better
+than saying "you have a broken link."
+So how does this impact
+prospects and their audience?
+Well, the truth is that most people won't
+care&nbsp;because everyone has outdated content
+on their site, and it's impossible to keep
+everything up to date at all times.
+So the angle we went with was to tell
+them that the page they're linking to
+doesn't even mention the stat and
+we&nbsp;accentuated how outdated it is.
+We said something along the lines of
+"That&nbsp;stat is actually fourteen years old.
+More recent research suggests that this number
+has&nbsp;gone down to 68% because of X, Y and Z."
+In other words, our value prop was fresh
+data to keep your content up to date.
+As a result, we had a conversion rate of 6.8%
+on this campaign with no follow-up emails.
+Not bad but not great.
+So how could we have made
+this appeal to more people?
+Well, seeing as there was a huge change
+in the data point, 93% to 68%, one thing
+we could have done was to offer to rewrite
+a paragraph or part of their article to make
+it reflect current data&nbsp;better –
+whether they linked to us or not.
+This isn't the strongest pitch, but in my
+opinion,&nbsp;it's better than what we had before.
+So bottomline, when you're coming up with value
+propositions, try and brainstorm ideas by segment.
+Use your reason for contact as a starting
+point to understand how linking to you will
+impact prospects and benefit their audience.
+It's not an easy exercise, but you'll find
+that strong value propositions that are
+tied to your&nbsp;linkable point will a) create
+a very easy to write outreach email; and
+b) can lead to incredible&nbsp;conversion
+rates for link acquisition.
+Now, when people use templates, the
+result&nbsp;is usually a robotic sounding email.
+And that's likely the reason why the majority of
+outreach emails in your inbox seem like spam.
+So in the next lesson, I'm going to give you
+some&nbsp;tips and exercises to write templated
+outreach emails that don't sound generic.
+I'll see you there.

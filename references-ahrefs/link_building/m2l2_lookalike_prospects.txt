@@ -1,0 +1,239 @@
+# Module 2.2: How to Grow Your List with Lookalike Prospects
+
+Hey, it's Sam Oh and welcome to the second
+lesson&nbsp;in the link prospecting module.
+In this lesson, we're going to talk about
+how to grow your list&nbsp;of prospects with
+"lookalike prospects."
+And the name "lookalike prospects" is
+inspired by lookalike audiences which
+is commonly used in online advertising.
+Now, if you're unfamiliar with lookalike audiences,
+ad platforms like Google and Facebook let you target
+people who are similar to an&nbsp;existing audience.
+For example, people that are&nbsp;like
+your customers or website visitors.
+And by targeting these lookalike audiences,
+you're able to reach new people who are likely
+to be interested in your business because
+they share similar characteristics to your
+existing customers or website visitors.
+Now, lookalike prospects in link
+building are very much the same.
+You're trying to find people&nbsp;who are similar
+to a seed prospect – which is&nbsp;something we
+covered in the previous lesson.
+But&nbsp;as a refresher, seed prospects are people
+who&nbsp;link to a page for a specific reason.
+And these specific reasons are what I call
+"linkable points," which are usually identified
+by patterns in a competing page's link profile.
+Best of all, these linkable points
+help us define our pitch angles.
+Now, if this went over your head, then
+I highly recommend watching lesson 2.1.
+on finding seed prospects so you can
+get&nbsp;the most value from this lesson.
+Alright so there are 3 tools I use
+to find lookalike prospects.
+The first is Ahrefs.
+More specifically, Ahrefs&nbsp;Site Explorer, Content
+Explorer, SEO toolbar,&nbsp;and batch analysis.
+The second tool is Google and&nbsp;the third
+is the Scraper Chrome Extension.
+With that said, let's go through some examples
+of finding lookalike prospects based on a seed.
+And we'll continue with the examples
+we&nbsp;discussed in the previous lesson.
+Alright, the first example is
+for our SEO statistics page.
+When we were creating this page, we analyzed
+a competing page's anchors report in Ahrefs
+Site Explorer.
+And we noticed a pattern&nbsp;that the majority of
+links to this page were because of a specific stat.
+Now, when we went to visit these competing
+pages,&nbsp;we noticed that a lot of the stats that
+were in the anchors report weren't even on
+the page or they were just super outdated.
+So we&nbsp;had a couple pitch angles to run with.
+Now, usually when you find these patterns
+or&nbsp;linkable points in a competitor's backlink
+profile, you'll likely want to get an&nbsp;understanding
+of the breadth of the opportunity.&nbsp;&nbsp;
+And this will help you gauge whether it'll
+be&nbsp;worth your time and effort to pursue it.
+The easiest way to do that is to look
+for a&nbsp;footprint within the pattern.
+And a footprint is just a common
+mark among a dataset.
+So in this case, the footprint
+would be the percent sign.
+Now, with footprint in hand, we can
+go to the backlinks report and use
+the filters&nbsp;to narrow in on
+relevant opportunities.
+And because our footprint is a percent sign in
+the&nbsp;anchor or surrounding text of the backlink,
+I'll type that into the search box and
+choose anchors&nbsp;with surrounding text
+as the search mode.
+And as you can see, there are around 1,800&nbsp;
+pages from unique websites that link to this
+page because of a specific stat.
+That's a&nbsp;pretty nice opportunity in my opinion.
+Now, we didn't stop here.
+We also looked&nbsp;at other anchors profiles for
+other top ranking pages that had a significant
+number of referring domains.
+And we basically just&nbsp;did the exact same
+thing and found well over 3,000 lookalike
+prospects to our seed.
+Alright the next example was when we found
+an&nbsp;opportunity for our link building guide.
+What we noticed was that a competing page
+was&nbsp;getting backlinks because they used to
+have a downloadable ebook in their link building guide.
+And like the previous example, there was no CTA
+or&nbsp;mention of a downloadable ebook on the page.
+Now, the pattern I noticed is that all of
+the&nbsp;referring pages are on the topic of
+"top seo ebooks."
+So that means our&nbsp;seed prospects are people
+who have a&nbsp;listicle on the top SEO ebooks.
+So what we need to search for are titles of
+pages that include the word "best or top,"
+which implies a listicle and "seo ebooks,"
+which implies the main topic.
+So to find our lookalike prospects, we can use
+Google search or Ahrefs' Content Explorer.
+In Google search, you can type in something
+like&nbsp;intitle:best intitle:seo intitle:ebook.
+And we're left with a few hundred results.
+Now, you can enable Ahrefs' SEO toolbar to get
+both domain and page level metrics on the results.
+And if you prefer to work in Excel or Sheets,
+you can export the SERP as needed.
+But this job is much easier if you
+use Ahrefs'&nbsp;Content Explorer.
+So I'll search for "best OR&nbsp;top" within
+parentheses, and then SEO ebook.&nbsp;&nbsp;
+Finally, I'll change the search
+mode&nbsp;to Title and run the search.
+And now you can see a few hundred
+results along with their SEO metrics.
+And this report is also filterable
+and exportable too.
+Now, if you want to further expand your
+list of lookalike prospects, you can simply
+change the word "SEO" to something like
+marketing since link building is a smaller
+part of the broader marketing category.
+And now we have well over 1,000
+prospects&nbsp;in total for this campaign.
+Alright, the final seed we talked&nbsp;about
+was for our page that debunks&nbsp;myths
+behind so-called "LSI keywords."
+Now, we established that our seed prospect is
+any page that recommends using LSI keywords,
+because&nbsp;there's no such
+thing as LSI keywords.
+And while there were a few hundred prospects
+in the link profile we looked at in lesson 2.1,
+we can easily find a bigger list of lookalike
+prospects using Content Explorer.
+So this time, I'm going to search for "use&nbsp;LSI
+keywords" as a phrase match, which should
+surface pages where authors are recommending
+visitors to use so-called LSI keywords.
+And now we have thousands of prospects
+who've&nbsp;said this phrase on their page.
+So it would just be a matter of vetting these
+pages and&nbsp;we'll get into this in the next module.
+Now, these are just a few methods that I
+would use to find lookalike prospects for
+these hypothetical campaigns.
+And while there&nbsp;are other ways to generate
+similar results,&nbsp;I won't bother going into them
+because the most&nbsp;important part
+of this exercise is to understand
+how seed prospects help to broaden the scope&nbsp;
+of your campaign with lookalike prospects.
+Now, there's one more technique to finding
+lookalike prospects I want to talk about.
+And it's not so much about&nbsp;finding them
+necessarily,&nbsp;&nbsp;but it's an efficient technique
+that I find myself using pretty frequently.
+And that's scraping.
+There are going to be times&nbsp;when
+you're browsing the web and you
+notice a potential seed that's worth exploring.
+For example, I was looking for ways to build links
+to our SEO course landing page in Ahrefs Academy.
+And I went through the usual routine of analyzing
+the backlink profiles of competing pages.
+Now, this was all well and good, but then
+I&nbsp;happened to find another low-hanging
+opportunity that none of our organic
+search&nbsp;competitors would be able to do.
+And I discovered it in YouTube analytics.
+I realized that our SEO course videos had
+gotten&nbsp;over a million views in less than a year.
+So I was like… man… I'm sure someone has
+linked to&nbsp;these videos or embedded it in their
+posts at some point.
+Meaning, these are warm prospects who
+I could reach out to and ask to link to our
+academy instead.
+Basically, my idea followed a similar&nbsp;concept
+to unlinked mentions, which usually has a pretty
+high conversion rate for us.
+So I ran the video URL in Ahrefs' Site Explorer,
+and sure enough, this video had collected a ton
+of referring domains.
+And I also checked the embed URL
+for this same video in Site Explorer.
+And there were even more referring
+domains to sort through.
+So our seed prospect for this hypothetical&nbsp;
+campaign is anyone linking to one of our
+SEO course videos on our YouTube channel.
+Or anyone&nbsp;that's embedded the video on their page.
+Now, because there's a total of 15 videos
+of this course on our YouTube channel,
+I needed to get all of the URLs so I can run
+them through a tool like Ahrefs' Batch Analysis.
+And to do that, I used
+the&nbsp;Chrome Scraper Extension.
+All you need to do is right click on
+the information you want to scrape
+and click "Scrape similar."
+From here, I modified the Xpath code a bit
+and within seconds, we had a full list of
+URLs ready to batch analyze.
+Finally, I ran the URLs&nbsp;through Ahrefs' Batch
+Analysis,&nbsp;sorted by Referring Domains, and I
+could instantly&nbsp;see that we had
+a huge list of lookalike prospects
+that might be willing to
+link to our academy page.
+As you can see, finding lookalike prospects is
+all about finding a footprint within your seed
+and following the rabbit hole.
+And when you have&nbsp;a general scope of
+the breadth of the campaign,&nbsp;you're able
+to get an idea if actually running the&nbsp;campaign
+will be worth your time and effort.
+Now, when you're dealing with thousands of
+potential link prospects with multiple seeds,
+it can get quite messy.
+Plus, sending&nbsp;personalized emails at scale is tough.
+And that's where segmenting your link
+prospects is going to help you stay organized,
+convert more emails into links
+and save you a ton of time.
+So in the next lesson, we're going to talk
+about how you can effectively segment
+your prospects so you can scale
+personalized&nbsp;outreach campaigns.
+I'll see you there.

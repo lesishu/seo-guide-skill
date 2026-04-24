@@ -1,0 +1,52 @@
+# How to Find Citations for Local SEO
+
+Hey, it's Sam Oh, and in today's Tip of
+the Day, I'm going to show you how to
+find&nbsp;opportunities to build local citations
+so&nbsp;you can improve local SEO for your site.
+To set the scene, let's say that I'm
+an&nbsp;electrician in Toronto.
+The first thing&nbsp;you need to do is go to Google
+and&nbsp;search for your niche + your city.
+So I would search for "electrician Toronto."
+Now, what I'm looking for here&nbsp;are
+my competitor's websites.
+So that would exclude directories from places&nbsp;
+like Yelp or Homestars, and no "best of" posts.
+So something like Torontowiring.com&nbsp;
+would be a good candidate.
+After you've collected a few URLs, go&nbsp;
+to the Link Intersect tool in Ahrefs.
+Now in the top section is where you'll want&nbsp;
+to paste your competitors' homepage URLs.
+And if you have more than three, you can
+click the Add&nbsp;Target button, which will
+bring up a new field.
+Now, because we're looking for local citations&nbsp;
+which usually point to the homepage URLs,
+we'll switch the mode to "URL mode" too.
+Finally, add the homepage URL for
+your site&nbsp;in the bottom section.
+And let's&nbsp;change the mode to URL here too.
+So what this will do is show us websites&nbsp;
+that are linking to any of these homepages,
+but they're not linking to our page.
+And if we run the search, you'll see
+around 500 domains.
+Now, generally speaking, the more targets
+the referring domains are linking to, the more
+likely it's a business directory of some sort.
+So to clean up our list a bit, let's change the
+Intersections filter to only show websites
+where at least two of the targets are&nbsp;
+linking to our competitor's sites.
+And clearly, domains like&nbsp;websites.ca,
+sitesweb.ca,&nbsp;ourbis.ca, and so on are
+all going to be places&nbsp;where you
+can create your own citations.
+So go and try it out for yours&nbsp;and
+your clients' websites.
+And if you enjoyed this video, make&nbsp;sure to
+like, share, and subscribe for more quick
+SEO tips like this one.
+I'll see you in the next tip of the day.

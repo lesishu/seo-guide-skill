@@ -1,0 +1,348 @@
+Kind: captions
+Language: en
+As of today, our blog has 250 published posts.
+And according to Ahrefs' Content Explorer, 61
+pages have been republished at least once.
+And if you look at the traffic trends over the
+past three years, you'll see that nearly all of
+our republished pages have consistently been
+gaining more and more search traffic over time.
+Now, the best part about this SEO strategy
+is that increases in traffic can happen almost
+immediately, as you can see here, here, and here.
+So if you want to know how to get organic traffic fast
+by simply refreshing older content, then stay tuned.
+[music]
+When you update content, you can't just recreate
+any old page and expect to get a quick boost
+in organic traffic.
+There are some requirements in page selection
+and you actually need to update the content
+with some thought.
+Plus, your website should follow at least
+the basic SEO best practices.
+So you should have good content, a technically
+sound website, and have some kind of website
+authority; meaning, you're not a new site or
+have no links pointing at any of your pages.
+Updating content isn't a magic trick that'll
+send a torrent of organic traffic your way.
+So if you fall short of this criteria, then I recommend
+watching some of our beginner-level videos first
+to amp up your site.
+And I'll link those up in the description.
+But if your site matches this criteria, then
+let's get started with the first step, which
+is to diagnose pages where your content
+is responsible for underperformance.
+Content is obviously a huge contributor to
+your ranking success.
+But it's not always going to be the main reason
+why you're not ranking in the top 3 positions.
+So the first thing we need to do is actually
+identify that a content issue exists.
+And there are four main things to look out for.
+First, check the age of your page.
+It takes time to acquire backlinks and for
+Google to understand where your page fits
+in the SERP.
+So as a general rule of thumb, you should
+give your page around 6-12 months to rank
+before considering a major update.
+Second, you need to check that the page
+is targeting a meaningful keyword.
+And for the purposes of this video, I'll define
+a "meaningful" keyword as a topic that has
+potential to get search traffic.
+For example, this post on how to start a link
+building campaign fast, isn't targeting a keyword.
+So we wouldn't update it for the purpose of
+getting more organic traffic.
+You should be able to tell right away whether
+you're targeting a keyword from your page
+title and URL.
+But if you're not 100% sure, you can double-
+check if the topic has traffic potential by
+going to Ahrefs' Keywords Explorer and entering
+a query you think could have traffic potential.
+Then scroll down to the SERP overview table
+and look at the amount of search traffic the top
+ranking pages get.
+And now you just need to assess whether the
+topic is worth updating based on the time and
+resources required for the potential traffic gain.
+Now, I don't want you to think that I'm saying
+to only update pages with traffic potential.
+For example, we create data studies which
+helps us build links, contribute to the SEO
+community, and also flex our big-data muscles.
+But since we're talking about updating pages
+for more organic traffic, we'll skip over these
+types of pages for the purposes of this tutorial.
+Alright, so third, make sure your page isn't already
+ranking in the top 3 for its target keyword.
+Minor updates are usually fine, but generally
+speaking, if you're already ranking in the top
+positions, you probably don't want to do a full
+rewrite and potentially lose those rankings.
+There's obviously exceptions to this rule,
+but let's keep this tutorial simple.
+Alright, so to find pages that aren't ranking
+in the top 3 positions, you can use either
+Google Search Console or Ahrefs' Site Explorer.
+With Search Console, go to the Performance
+or Search Results report, and then make sure
+that you have the average position selected.
+Next, let's set a Positions filter to only show
+keywords that are ranking in position 4 or higher.
+From here, you'd want to look through your list
+of queries and try and spot topics you're targeting.
+Now, since Search Console shows average
+positions, it usually isn't a great representation
+of where your page ranks today.
+So you can use Ahrefs Site Explorer to get
+more current ranking positions.
+So I'll enter our blog URL here and run the search.
+Next, I'll go to the Top pages report, which
+will show us pages that generate the most
+search traffic in our blog subfolder.
+Ideally, you want to find pages where you're not
+ranking in the top 3 for your primary keyword.
+And an easy way to spot this is to look at
+the page URLs, along with the top keyword
+and its position.
+So after going through the list, I found
+a post that can benefit from an update.
+Our guide on guest blogging is ranking in
+position 3 for "links and guest."
+But hey, our target keyword is actually "guest
+blogging," so there's a good chance it's ranking
+lower than we'd like.
+So if I click on the keywords number here,
+you'll see that we're ranking in position 7
+for our target query "guest blogging."
+Now, this page actually checks all the boxes
+that we've gone through so far.
+It's been longer than 12 months since our
+last major update, it's targeting a meaningful
+keyword, and it's an underperforming page.
+Now, the last thing we need to do is make
+sure our subpar rankings aren't due to
+backlink-related factors.
+To do this, we need to find out how many backlinks
+the top-ranking pages have and assess the quality
+of those links.
+So let's go to the SERP overview table in
+Ahrefs' Keywords Explorer for this query.
+So, here you can see all ranking pages as
+well as their SEO metrics.
+And the main metrics we're looking at are
+the number of Referring Domains, which are
+unique websites that link to the page, Domain
+Rating, which represents the overall strength
+of a website's backlink profile, and URL rating,
+which represents the overall strength of a page's
+backlink profile.
+So based on these metrics, our page has plenty
+of unique referring domains and high website
+authority, yet we're being outranked by other
+so-called "weaker" pages.
+Now, we may not be able to rank in the first position
+because of the sheer amount of links the page has,
+but a jump from position 7 to position 2 or 3
+could give us a decent bump in traffic for a topic
+that has a lot of business value for our company.
+And so therefore, this page could benefit
+from an update.
+We have a full video on assessing keyword
+and ranking difficulty, so I'll link that up for
+you in the description.
+Alright, so now that we've identified a
+page to update, it's time to refresh it.
+And this requires a bit of research and decision making.
+The first thing you'll want to do is assess search
+intent and make sure your page matches it.
+Search intent means the reason behind
+a searchers query.
+And the best way to do this is to look at
+the top-ranking pages and identify the 3 C's
+of search intent.
+The first C is content type.
+Content type can usually be categorized into
+blog posts, product, category, and landing pages.
+So based on the SERP, these are all blog posts
+including ours.
+The second C is content format.
+And this applies more to blog posts and landing pages.
+A few common blog formats you'll see are how-tos,
+tutorials, list posts, and opinion editorials.
+For a landing page, that might be something
+like a tool or a calculator.
+In this case, you'll see a mixture of "complete
+guides" and a couple "what is guest blogging"
+type posts.
+We've gone with the how-to format.
+And the third C is content angle.
+Content angle is often depicted in the title
+as the "benefit."
+It's basically your hook as to why someone
+should click and who it's for.
+Based on the top-ranking pages, it looks like
+the "ultimate guide" posts are hitting the angle
+of thoroughness.
+Whereas the "what is guest blogging" posts
+are targeting beginners.
+Ours on the other hand is actually targeting
+more of an advanced audience.
+We've gone with the angle of building high-quality
+links at scale, which probably isn't appealing or
+helpful for a beginner.
+So overall, our post matches search intent
+but it also tells me that we're likely missing
+a lot of depth and context for a beginner-level
+audience; whom in my opinion are the ones
+searching for the query "guest blogging."
+Another interesting observation from this
+SERP is that the "what is guest blogging"
+pages are actually ranking higher than the
+more authoritative pages with significantly
+fewer referring domains.
+So something to consider is that these pages
+may actually serve searcher intent better than
+the other pages.
+So if we were to update this page, we'd probably
+include a short section on "What is Guest Blogging"
+within the content.
+Now, I want to illustrate my point on the importance
+of matching search intent with an example.
+In November, 2018, we published a post targeting
+"what is seo."
+And the post was created as an expert roundup
+where we asked seasoned SEOs what search engine
+optimization meant to them.
+The post was great, but it didn't match search intent.
+As you can see from the SERP, these pages
+are posts for beginners with basic information
+on the definition of SEO.
+As a result, our organic traffic growth fell
+short of its full potential.
+We then updated the post on September 5th,
+2019 and almost immediately got a huge spike
+in traffic.
+And it continues to grow.
+So bottomline, if your page isn't perfectly
+matching searcher intent, then your traffic
+and rankings will be limited.
+The next thing you need to do is analyze the
+top-ranking relevant pages.
+Now, since we've already pinpointed that we
+have a content issue rather than a links- or
+technical-related one, we need to see what
+the top ranking pages are doing right.
+So this would require you to manually visit
+the pages and analyze key points that are
+being made.
+And you don't need to actually read every
+single post word for word.
+You just want to get an understanding of
+structure and key talking points.
+And because the majority of pages have gone
+with the "complete guide" angle, I'll open up
+these three pages since that's the angle
+we'd go with too.
+The easiest place to start is to look at heading
+tags because it'll tell you the main points that
+are discussed throughout the post.
+To speed up the process, you can use Ahrefs'
+SEO toolbar and use the on-page feature which
+is free for everyone.
+Just click the Page icon and you'll see a
+list of the main headings.
+Then do the same for the other pages.
+So I've put the headings in a Google Sheet
+and now we're just looking for similar topics
+that are covered by the top-ranking pages.
+So a couple of them talk about guest blogging
+goals, they all talk about finding guest posts
+opportunities, preparing your pitch, writing
+the actual post, and so on.
+So your typical step-by-step guide to guest blogging.
+And again, we'd probably include a section on "What
+is Guest Blogging," so I add that as a separate note.
+Alright, so this should give you a decent
+outline to work with to write a great post.
+But there's one last thing that I think is
+worth doing.
+And that's to analyze the page's backlink profile.
+Since we're updating a page and we've ruled
+out that links aren't the reason for the page's
+underperformance, it's worth looking at the
+page's backlinks to see why people linked to it.
+For example, if you have a post that includes
+stats and people linked to you because of
+that stat, generally speaking, you should
+include it in your updated post so the link
+stays relevant.
+Does this play a role in rankings?
+I can't say it does or it doesn't.
+But only good can come from it, assuming
+the point is still valid, accurate, and up to date.
+Plus, if a lot of people are linking to you
+because of something you've mentioned,
+then it could lead to more links going forward.
+To see your backlink profile, go to Ahrefs'
+Site Explorer and enter the URL of the page
+you're updating.
+Next, go to the Backlinks report.
+From here, you can just skim through the list
+and look for unique reasons why people are
+linking to you.
+So as you can see here, we got a link from
+Entrepreneur because of a stat mentioning 20%.
+And the link below that also talks about a
+traffic increase by 20%.
+So to quickly see how many links we got
+because of this stat, I'll scroll back up
+and enter "20" into the Include box.
+And I'll also set the Search filter to only
+look in the surrounding text and link anchor.
+And there are nearly 60 unique pages that
+have linked to this page because of that stat,
+so it's probably worth mentioning.
+Now, you don't have to include everything
+you find in the Backlinks report.
+Just do it if it's still relevant, adds value, and
+makes sense with the context of your page.
+Alright, so after doing this, you should have
+a thorough outline of the key things to include
+in your content.
+The last step is to republish your post and
+submit it for reindexing.
+If you use a CMS like WordPress, change your
+published date to the current date, and hit Update.
+After you can resubmit your URL in Google
+Search Console and request reindexing.
+Just enter the URL in the search bar.
+And then hit the Request Indexing link.
+From my experience, Google recrawls the page
+almost immediately.
+So if you've done everything right and your page
+matched all of the aforementioned requirements,
+you can sometimes see an immediate bump in
+rankings and traffic.
+Now, you don't have to actually request indexing,
+you can also wait for Google to recrawl the page
+which should have the same effect.
+So I encourage you to go and do a content
+audit of your site to see which pages could
+benefit from a full-blown update.
+And we have a full tutorial on doing a content
+audit as well as a free template that'll do
+the heavy lifting for you.
+So I'll leave a link to that in the description.
+Now, if you found this video to be helpful,
+make sure to like, share and subscribe for
+more actionable SEO and marketing tutorials.
+And if you have any questions, leave one in
+the comments below.
+I'll see you in the next tutorial.

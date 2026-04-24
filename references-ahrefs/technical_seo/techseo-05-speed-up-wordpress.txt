@@ -1,0 +1,702 @@
+So,<c> my</c><c> buddy</c><c> Zach</c><c> messages</c><c> me</c><c> and</c><c> he's</c>
+So, my buddy Zach messages me and he's
+like,<c> "Hey,</c><c> can</c><c> I</c><c> hire</c><c> you</c><c> to</c><c> speed</c><c> up</c>
+like, "Hey, can I hire you to speed up
+my<c> WordPress</c><c> website?"</c><c> And</c><c> I</c><c> was</c><c> like,</c>
+my WordPress website?" And I was like,
+"Dude,<c> just</c><c> do</c><c> A,</c><c> B,</c><c> and</c><c> C,</c><c> and</c><c> I'm</c>
+"Dude, just do A, B, and C, and I'm
+pretty<c> sure</c><c> you'll</c><c> see</c><c> a</c><c> huge</c>
+pretty sure you'll see a huge
+performance<c> boost."</c><c> A</c><c> few</c><c> days</c><c> passed</c>
+performance boost." A few days passed
+and<c> he</c><c> said,</c><c> "The</c><c> speed</c><c> tips</c><c> you</c><c> gave</c><c> me</c>
+and he said, "The speed tips you gave me
+worked<c> perfectly."</c><c> So,</c><c> today</c><c> I'm</c><c> going</c>
+worked perfectly." So, today I'm going
+to<c> show</c><c> you</c><c> how</c><c> to</c><c> speed</c><c> up</c><c> your</c>
+to show you how to speed up your
+WordPress<c> site</c><c> with</c><c> three</c><c> simple</c><c> steps</c>
+WordPress site with three simple steps
+and<c> take</c><c> your</c><c> site</c><c> speed</c><c> from</c><c> something</c>
+and take your site speed from something
+like<c> this</c><c> to</c><c> this.</c><c> Stay</c><c> tuned.</c>
+like this to this. Stay tuned.
+[Music]
+Google<c> has</c><c> used</c><c> site</c><c> speed</c><c> as</c><c> a</c><c> ranking</c>
+Google has used site speed as a ranking
+signal<c> for</c><c> desktop</c><c> searches</c><c> since</c><c> 2010.</c>
+signal for desktop searches since 2010.
+And<c> as</c><c> of</c><c> 2018,</c><c> page</c><c> speed</c><c> became</c><c> a</c>
+And as of 2018, page speed became a
+ranking<c> factor</c><c> for</c><c> mobile</c><c> searches,</c><c> too.</c>
+ranking factor for mobile searches, too.
+And<c> even</c><c> though</c><c> speed</c><c> improvements</c><c> will</c>
+And even though speed improvements will
+only<c> affect</c><c> a</c><c> small</c><c> percentage</c><c> of</c><c> slow</c>
+only affect a small percentage of slow
+websites,<c> faster</c><c> page</c><c> load</c><c> times</c><c> lead</c><c> to</c>
+websites, faster page load times lead to
+better<c> user</c><c> experience</c><c> and</c><c> ultimately</c>
+better user experience and ultimately
+more<c> revenue.</c><c> In</c><c> fact,</c><c> a</c><c> study</c><c> by</c><c> Google</c>
+more revenue. In fact, a study by Google
+shows<c> that</c><c> as</c><c> page</c><c> load</c><c> time</c><c> goes</c><c> up,</c>
+shows that as page load time goes up,
+bounce<c> rate</c><c> rises</c><c> with</c><c> it.</c><c> Now,</c><c> there</c>
+bounce rate rises with it. Now, there
+are<c> numerous</c><c> reasons</c><c> why</c><c> your</c><c> website</c>
+are numerous reasons why your website
+might<c> load</c><c> slowly.</c><c> But</c><c> the</c><c> most</c><c> common</c>
+might load slowly. But the most common
+reasons<c> that</c><c> I've</c><c> seen</c><c> are</c><c> due</c><c> to</c><c> slow</c>
+reasons that I've seen are due to slow
+connectivity,<c> caching,</c><c> page</c><c> size,</c><c> and</c>
+connectivity, caching, page size, and
+sometimes<c> more</c><c> technical</c><c> reasons</c><c> like</c>
+sometimes more technical reasons like
+render<c> blocking.js.</c><c> But</c><c> if</c><c> you're</c>
+render blocking.js. But if you're
+anything<c> like</c><c> Zach,</c><c> who's</c><c> not</c><c> exactly</c>
+anything like Zach, who's not exactly
+the<c> most</c><c> technical</c><c> person,</c><c> then</c><c> the</c>
+the most technical person, then the
+three<c> steps</c><c> that</c><c> I'm</c><c> about</c><c> to</c><c> show</c><c> you</c>
+three steps that I'm about to show you
+should<c> help</c><c> you</c><c> get</c><c> better</c><c> performance</c>
+should help you get better performance
+from<c> your</c><c> site.</c><c> Now,</c><c> before</c><c> we</c><c> get</c>
+from your site. Now, before we get
+started,<c> it's</c><c> important</c><c> to</c><c> note</c><c> that</c><c> the</c>
+started, it's important to note that the
+things<c> I</c><c> did</c><c> for</c><c> this</c><c> site</c><c> won't</c>
+things I did for this site won't
+necessarily<c> translate</c><c> perfectly</c><c> to</c><c> your</c>
+necessarily translate perfectly to your
+site.<c> There</c><c> are</c><c> tons</c><c> of</c><c> things</c><c> to</c>
+site. There are tons of things to
+consider<c> when</c><c> it</c><c> comes</c><c> to</c><c> WordPress</c><c> site</c>
+consider when it comes to WordPress site
+speed,<c> like</c><c> your</c><c> themes</c><c> code,</c><c> specific</c>
+speed, like your themes code, specific
+plugins<c> you</c><c> might</c><c> be</c><c> using,</c><c> server</c>
+plugins you might be using, server
+configuration,<c> image</c><c> file</c><c> sizes,</c><c> and</c>
+configuration, image file sizes, and
+more.<c> So,</c><c> as</c><c> we</c><c> go</c><c> through</c><c> the</c><c> tutorial,</c>
+more. So, as we go through the tutorial,
+I'll<c> try</c><c> and</c><c> explain</c><c> the</c><c> more</c><c> technical</c>
+I'll try and explain the more technical
+reasons<c> behind</c><c> poor</c><c> performance</c><c> so</c><c> you</c>
+reasons behind poor performance so you
+can<c> hopefully</c><c> diagnose</c><c> further</c><c> issues</c>
+can hopefully diagnose further issues
+yourself.<c> All</c><c> right,</c><c> so</c><c> let</c><c> me</c><c> give</c><c> you</c>
+yourself. All right, so let me give you
+a<c> background</c><c> on</c><c> the</c><c> website</c><c> we'll</c><c> be</c>
+a background on the website we'll be
+optimizing.<c> And</c><c> we'll</c><c> start</c><c> with</c><c> some</c>
+optimizing. And we'll start with some
+benchmark<c> speeds.</c><c> This</c><c> is</c><c> a</c><c> brand</c><c> new</c>
+benchmark speeds. This is a brand new
+affiliate<c> site</c><c> built</c><c> on</c><c> WordPress</c><c> using</c>
+affiliate site built on WordPress using
+the<c> free</c><c> WP</c><c> Astra</c><c> theme.</c><c> He's</c><c> activated</c>
+the free WP Astra theme. He's activated
+seven<c> plugins,</c><c> many</c><c> of</c><c> which</c><c> will</c>
+seven plugins, many of which will
+contribute<c> to</c><c> page</c><c> load</c><c> time</c><c> in</c><c> big</c><c> and</c>
+contribute to page load time in big and
+small<c> ways.</c><c> Now,</c><c> to</c><c> keep</c><c> things</c><c> simple,</c>
+small ways. Now, to keep things simple,
+I've<c> run</c><c> a</c><c> single</c><c> post</c><c> which</c><c> has</c><c> text,</c>
+I've run a single post which has text,
+images,<c> and</c><c> a</c><c> video</c><c> through</c><c> three</c><c> page</c>
+images, and a video through three page
+speed<c> tools.</c><c> Page</c><c> Speed</c><c> Insights</c><c> shows</c><c> a</c>
+speed tools. Page Speed Insights shows a
+mobile<c> score</c><c> of</c><c> 45</c><c> and</c><c> a</c><c> desktop</c><c> score</c>
+mobile score of 45 and a desktop score
+of<c> 79.</c>
+of 79.
+Pingdom<c> shows</c><c> a</c><c> load</c><c> time</c><c> of</c><c> 1.72</c>
+Pingdom shows a load time of 1.72
+seconds,<c> page</c><c> size</c><c> of</c><c> 1.7</c><c> megabytes</c><c> and</c>
+seconds, page size of 1.7 megabytes and
+63<c> requests.</c><c> And</c><c> GTMetrics</c><c> fully</c><c> loaded</c>
+63 requests. And GTMetrics fully loaded
+in<c> 4.3</c><c> seconds</c><c> with</c><c> a</c><c> page</c><c> size</c><c> of</c><c> 1.55</c>
+in 4.3 seconds with a page size of 1.55
+megabytes<c> and</c><c> 61</c><c> requests.</c><c> Now,</c><c> since</c>
+megabytes and 61 requests. Now, since
+these<c> tools</c><c> only</c><c> allow</c><c> you</c><c> to</c><c> view</c><c> one</c>
+these tools only allow you to view one
+page<c> at</c><c> a</c><c> time,</c><c> I</c><c> ran</c><c> a</c><c> full</c><c> crawl</c><c> using</c>
+page at a time, I ran a full crawl using
+HF's<c> site</c><c> audit</c><c> tool.</c><c> And</c><c> if</c><c> we</c><c> look</c><c> in</c>
+HF's site audit tool. And if we look in
+page<c> explorer,</c><c> you'll</c><c> see</c><c> there</c><c> were</c><c> a</c>
+page explorer, you'll see there were a
+total<c> of</c><c> 23</c><c> pages</c><c> with</c><c> a</c><c> load</c><c> time</c><c> of</c><c> 1</c>
+total of 23 pages with a load time of 1
+second<c> or</c><c> longer,</c><c> which</c><c> is</c><c> basically</c><c> all</c>
+second or longer, which is basically all
+the<c> sites</c><c> pages.</c><c> So,</c><c> there's</c><c> definitely</c>
+the sites pages. So, there's definitely
+some<c> room</c><c> for</c><c> improvements.</c>
+some room for improvements.
+So,<c> the</c><c> first</c><c> thing</c><c> we</c><c> did</c><c> was</c><c> to</c><c> switch</c>
+So, the first thing we did was to switch
+DNS<c> providers</c><c> to</c><c> Cloudflare's</c><c> free</c><c> DNS</c>
+DNS providers to Cloudflare's free DNS
+service.<c> Now,</c><c> in</c><c> order</c><c> to</c><c> understand</c><c> why</c>
+service. Now, in order to understand why
+we<c> use</c><c> Cloudflare,</c><c> you</c><c> need</c><c> to</c>
+we use Cloudflare, you need to
+understand<c> how</c><c> the</c><c> web</c><c> works,</c><c> at</c><c> least</c>
+understand how the web works, at least
+at<c> an</c><c> elementary</c><c> level.</c><c> Websites</c><c> are</c>
+at an elementary level. Websites are
+just<c> files</c><c> on</c><c> a</c><c> computer</c><c> that</c><c> are</c><c> made</c>
+just files on a computer that are made
+accessible<c> through</c><c> the</c><c> internet.</c><c> Now,</c>
+accessible through the internet. Now,
+each<c> device</c><c> that's</c><c> connected</c><c> to</c><c> the</c>
+each device that's connected to the
+internet<c> has</c><c> an</c><c> IP</c><c> address,</c><c> including</c>
+internet has an IP address, including
+the<c> server</c><c> that</c><c> hosts</c><c> your</c><c> website.</c><c> So,</c>
+the server that hosts your website. So,
+if<c> your</c><c> server</c><c> is</c><c> located</c><c> in</c><c> Los</c>
+if your server is located in Los
+Angeles,<c> California,</c><c> and</c><c> your</c><c> visitor</c><c> is</c>
+Angeles, California, and your visitor is
+in<c> Las</c><c> Vegas,</c><c> these</c><c> two</c><c> IP</c><c> addresses</c>
+in Las Vegas, these two IP addresses
+need<c> to</c><c> create</c><c> a</c><c> connection</c><c> in</c><c> order</c><c> to</c>
+need to create a connection in order to
+download<c> the</c><c> file</c><c> contents</c><c> to</c><c> the</c>
+download the file contents to the
+device.<c> Now,</c><c> IP</c><c> addresses</c><c> are</c><c> tough</c><c> to</c>
+device. Now, IP addresses are tough to
+memorize,<c> and</c><c> I</c><c> doubt</c><c> many</c><c> people</c><c> would</c>
+memorize, and I doubt many people would
+key<c> in</c><c> an</c><c> address</c><c> like</c><c> this</c><c> to</c><c> visit</c>
+key in an address like this to visit
+your<c> site.</c><c> That's</c><c> where</c><c> DNS</c><c> comes</c><c> into</c>
+your site. That's where DNS comes into
+play.<c> DNS</c><c> stands</c><c> for</c><c> domain</c><c> name</c><c> system,</c>
+play. DNS stands for domain name system,
+and<c> it's</c><c> often</c><c> referred</c><c> to</c><c> as</c><c> the</c><c> phone</c>
+and it's often referred to as the phone
+book<c> of</c><c> the</c><c> worldwide</c><c> web.</c><c> In</c><c> short,</c><c> DNS</c>
+book of the worldwide web. In short, DNS
+maps<c> domain</c><c> names</c><c> to</c><c> IP</c><c> addresses.</c><c> So,</c>
+maps domain names to IP addresses. So,
+people<c> can</c><c> type</c><c> in</c><c> a</c><c> domain</c><c> name</c><c> to</c>
+people can type in a domain name to
+visit<c> a</c><c> website.</c><c> But</c><c> the</c><c> thing</c><c> with</c><c> this</c>
+visit a website. But the thing with this
+is<c> that</c><c> when</c><c> someone</c><c> types</c><c> in</c><c> the</c><c> domain</c>
+is that when someone types in the domain
+name<c> in</c><c> their</c><c> browser,</c><c> a</c><c> DNS</c><c> lookup</c>
+name in their browser, a DNS lookup
+occurs<c> to</c><c> find</c><c> the</c><c> IP</c><c> address</c><c> of</c><c> the</c>
+occurs to find the IP address of the
+server.<c> So,</c><c> that</c><c> takes</c><c> time</c><c> and</c><c> usually</c>
+server. So, that takes time and usually
+free<c> DNS</c><c> providers</c><c> from</c><c> your</c><c> domain</c>
+free DNS providers from your domain
+registar<c> are</c><c> usually</c><c> slow</c><c> to</c><c> respond,</c>
+registar are usually slow to respond,
+creating<c> slower</c><c> page</c><c> load</c><c> times.</c>
+creating slower page load times.
+Cloudflare's<c> DNS,</c><c> on</c><c> the</c><c> other</c><c> hand,</c><c> is</c>
+Cloudflare's DNS, on the other hand, is
+pretty<c> darn</c><c> fast</c><c> considering</c><c> it's</c><c> free.</c>
+pretty darn fast considering it's free.
+But<c> again,</c><c> your</c><c> mileage</c><c> may</c><c> vary</c>
+But again, your mileage may vary
+depending<c> on</c><c> the</c><c> DNS</c><c> provider</c><c> you're</c>
+depending on the DNS provider you're
+currently<c> using.</c><c> So</c><c> to</c><c> set</c><c> this</c><c> up,</c><c> sign</c>
+currently using. So to set this up, sign
+up<c> for</c><c> a</c><c> Cloudflare</c><c> account,</c><c> and</c><c> then</c>
+up for a Cloudflare account, and then
+click<c> add</c><c> a</c><c> site.</c><c> Enter</c><c> your</c><c> domain</c>
+click add a site. Enter your domain
+name,<c> select</c><c> and</c><c> confirm</c><c> your</c><c> plan,</c><c> and</c>
+name, select and confirm your plan, and
+after<c> a</c><c> few</c><c> seconds,</c><c> Cloudflare</c><c> will</c>
+after a few seconds, Cloudflare will
+give<c> you</c><c> a</c><c> chance</c><c> to</c><c> review</c><c> your</c><c> DNS</c>
+give you a chance to review your DNS
+records.<c> Click</c><c> continue</c><c> and</c><c> you'll</c><c> be</c>
+records. Click continue and you'll be
+asked<c> to</c><c> change</c><c> your</c><c> name</c><c> servers</c><c> which</c>
+asked to change your name servers which
+is<c> something</c><c> you</c><c> need</c><c> to</c><c> do</c><c> with</c><c> your</c>
+is something you need to do with your
+domain<c> registar.</c>
+domain registar.
+Boom.<c> Step</c><c> one</c><c> is</c><c> done.</c><c> The</c><c> next</c><c> thing</c>
+Boom. Step one is done. The next thing
+we<c> did</c><c> was</c><c> purchase</c><c> and</c><c> install</c><c> the</c><c> WP</c>
+we did was purchase and install the WP
+Rocket<c> plugin.</c><c> WP</c><c> Rocket</c><c> is</c><c> an</c>
+Rocket plugin. WP Rocket is an
+all-in-one<c> sight</c><c> speed</c><c> optimization</c>
+all-in-one sight speed optimization
+plugin<c> for</c><c> WordPress</c><c> and</c><c> they</c><c> make</c><c> it</c>
+plugin for WordPress and they make it
+super<c> simple</c><c> to</c><c> make</c><c> technical</c>
+super simple to make technical
+optimizations<c> even</c><c> if</c><c> you</c><c> have</c><c> no</c><c> clue</c>
+optimizations even if you have no clue
+what<c> you're</c><c> doing.</c><c> The</c><c> plug-in</c><c> handles</c>
+what you're doing. The plug-in handles
+common<c> page</c><c> speed</c><c> optimizations</c><c> like</c>
+common page speed optimizations like
+caching,<c> preloading,</c><c> compression,</c><c> and</c>
+caching, preloading, compression, and
+lazy<c> loads</c><c> images</c><c> to</c><c> name</c><c> a</c><c> few.</c><c> After</c>
+lazy loads images to name a few. After
+activating<c> the</c><c> plugin,</c><c> you</c><c> can</c><c> access</c>
+activating the plugin, you can access
+the<c> WP</c><c> Rocket</c><c> settings</c><c> from</c><c> the</c><c> top</c>
+the WP Rocket settings from the top
+navigation<c> bar.</c><c> All</c><c> right,</c><c> so</c><c> let's</c><c> go</c>
+navigation bar. All right, so let's go
+through<c> some</c><c> of</c><c> the</c><c> important</c><c> settings,</c>
+through some of the important settings,
+starting<c> with</c><c> caching.</c><c> If</c><c> you're</c>
+starting with caching. If you're
+unfamiliar<c> with</c><c> caching,</c><c> it's</c><c> basically</c>
+unfamiliar with caching, it's basically
+a<c> way</c><c> to</c><c> temporarily</c><c> store</c><c> copies</c><c> of</c>
+a way to temporarily store copies of
+files<c> so</c><c> it</c><c> can</c><c> be</c><c> delivered</c><c> to</c><c> visitors</c>
+files so it can be delivered to visitors
+in<c> a</c><c> more</c><c> efficient</c><c> way.</c><c> And</c><c> because</c><c> the</c>
+in a more efficient way. And because the
+site<c> is</c><c> a</c><c> basic</c><c> blog</c><c> that's</c><c> responsive,</c>
+site is a basic blog that's responsive,
+I<c> enabled</c><c> caching</c><c> for</c><c> mobile</c><c> devices.</c>
+I enabled caching for mobile devices.
+Next<c> is</c><c> file</c><c> optimization,</c><c> which</c><c> is</c>
+Next is file optimization, which is
+where<c> you'll</c><c> spend</c><c> the</c><c> majority</c><c> of</c><c> your</c>
+where you'll spend the majority of your
+time.<c> For</c><c> the</c><c> basic</c><c> settings,</c><c> I</c><c> chose</c><c> to</c>
+time. For the basic settings, I chose to
+minify<c> HTML</c><c> and</c><c> optimize</c><c> Google</c><c> fonts.</c>
+minify HTML and optimize Google fonts.
+Minification<c> just</c><c> removes</c><c> whites</c><c> space</c>
+Minification just removes whites space
+and<c> comments</c><c> from</c><c> code,</c><c> which</c><c> will</c>
+and comments from code, which will
+reduce<c> file</c><c> size,</c><c> and</c><c> smaller</c><c> files</c><c> load</c>
+reduce file size, and smaller files load
+faster<c> than</c><c> larger</c><c> ones.</c><c> I</c><c> also</c><c> chose</c><c> to</c>
+faster than larger ones. I also chose to
+optimize<c> Google</c><c> fonts</c><c> since</c><c> the</c><c> theme</c>
+optimize Google fonts since the theme
+uses<c> them.</c>
+uses them.
+The<c> next</c><c> section</c><c> is</c><c> about</c><c> optimizing</c><c> CSS</c>
+The next section is about optimizing CSS
+files.<c> Again,</c><c> I</c><c> minified</c><c> CSS</c><c> files</c><c> and</c>
+files. Again, I minified CSS files and
+also<c> chose</c><c> to</c><c> combine</c><c> them.</c><c> You</c><c> already</c>
+also chose to combine them. You already
+understand<c> the</c><c> benefits</c><c> of</c><c> minification.</c>
+understand the benefits of minification.
+So,<c> let's</c><c> touch</c><c> on</c><c> combining</c><c> files.</c>
+So, let's touch on combining files.
+WordPress<c> sites</c><c> often</c><c> include</c><c> multiple</c>
+WordPress sites often include multiple
+CSS<c> files.</c><c> Some</c><c> will</c><c> be</c><c> for</c><c> themes,</c>
+CSS files. Some will be for themes,
+others<c> for</c><c> plugins,</c><c> and</c><c> you</c><c> might</c><c> have</c>
+others for plugins, and you might have
+added<c> some</c><c> custom</c><c> ones,</c><c> too.</c><c> Now,</c>
+added some custom ones, too. Now,
+whether<c> you</c><c> choose</c><c> to</c><c> activate</c><c> this</c>
+whether you choose to activate this
+option<c> or</c><c> not</c><c> will</c><c> mostly</c><c> depend</c><c> on</c><c> how</c>
+option or not will mostly depend on how
+your<c> server</c><c> delivers</c><c> the</c><c> files.</c>
+your server delivers the files.
+Generally<c> speaking,</c><c> your</c><c> files</c><c> will</c><c> be</c>
+Generally speaking, your files will be
+loaded<c> either</c><c> using</c><c> HTTP</c><c> 1.1</c><c> or</c><c> HTTP2.</c>
+loaded either using HTTP 1.1 or HTTP2.
+With<c> 1.1,</c><c> your</c><c> files</c><c> will</c><c> be</c><c> loaded</c>
+With 1.1, your files will be loaded
+consecutively,<c> meaning</c><c> one</c><c> file</c><c> needs</c><c> to</c>
+consecutively, meaning one file needs to
+fully<c> load</c><c> before</c><c> the</c><c> next</c><c> one</c><c> starts</c>
+fully load before the next one starts
+loading.<c> So,</c><c> combining</c><c> your</c><c> CSS</c><c> scripts</c>
+loading. So, combining your CSS scripts
+can<c> help</c><c> reduce</c><c> the</c><c> load</c><c> time</c><c> because</c>
+can help reduce the load time because
+fewer<c> CSS</c><c> files</c><c> will</c><c> need</c><c> to</c><c> be</c><c> loaded.</c>
+fewer CSS files will need to be loaded.
+Now,<c> with</c><c> HTTP2,</c><c> the</c><c> files</c><c> can</c><c> load</c>
+Now, with HTTP2, the files can load
+concurrently,<c> meaning</c><c> if</c><c> you</c><c> have</c>
+concurrently, meaning if you have
+multiple<c> CSS</c><c> files,</c><c> they</c><c> can</c><c> begin</c>
+multiple CSS files, they can begin
+loading<c> at</c><c> the</c><c> same</c><c> time.</c><c> So,</c><c> combining</c>
+loading at the same time. So, combining
+them<c> won't</c><c> necessarily</c><c> be</c><c> as</c><c> impactful.</c>
+them won't necessarily be as impactful.
+To<c> see</c><c> if</c><c> your</c><c> site</c><c> uses</c><c> HTTP2,</c><c> you</c><c> can</c>
+To see if your site uses HTTP2, you can
+use<c> key</c><c> CDN's</c><c> tester</c><c> and</c><c> key</c><c> in</c><c> your</c>
+use key CDN's tester and key in your
+URL.<c> The</c><c> final</c><c> option</c><c> we</c><c> enabled</c><c> is</c><c> to</c>
+URL. The final option we enabled is to
+optimize<c> CSS</c><c> delivery.</c><c> Basically,</c><c> this</c>
+optimize CSS delivery. Basically, this
+option<c> will</c><c> generate</c><c> CSS</c><c> needed</c><c> for</c>
+option will generate CSS needed for
+content<c> above</c><c> the</c><c> fold</c><c> and</c>
+content above the fold and
+asynchronously<c> load</c><c> other</c><c> CSS</c><c> files</c><c> so</c>
+asynchronously load other CSS files so
+they<c> don't</c><c> block</c><c> the</c><c> rendering</c><c> process.</c>
+they don't block the rendering process.
+Now,<c> these</c><c> concepts</c><c> can</c><c> be</c><c> quite</c>
+Now, these concepts can be quite
+technical,<c> so</c><c> I</c><c> won't</c><c> expand</c><c> on</c><c> these,</c>
+technical, so I won't expand on these,
+but<c> in</c><c> general,</c><c> these</c><c> are</c><c> page</c><c> speed</c>
+but in general, these are page speed
+optimization<c> best</c><c> practices.</c>
+optimization best practices.
+All<c> right,</c><c> let's</c><c> scroll</c><c> down</c><c> to</c><c> the</c>
+All right, let's scroll down to the
+JavaScript<c> file</c><c> section.</c><c> So,</c><c> first</c><c> I</c>
+JavaScript file section. So, first I
+remove<c> jQuery</c><c> migrate,</c><c> which</c><c> is</c><c> a</c><c> file</c>
+remove jQuery migrate, which is a file
+that's<c> been</c><c> added</c><c> to</c><c> WordPress</c><c> since</c>
+that's been added to WordPress since
+version<c> 3.6.</c><c> six.</c><c> Now,</c><c> since</c><c> there</c>
+version 3.6. six. Now, since there
+weren't<c> any</c><c> issues</c><c> with</c><c> jQuery</c><c> for</c><c> this</c>
+weren't any issues with jQuery for this
+theme<c> or</c><c> any</c><c> plugins,</c><c> I</c><c> chose</c><c> to</c><c> disable</c>
+theme or any plugins, I chose to disable
+it<c> as</c><c> there's</c><c> no</c><c> point</c><c> in</c><c> loading</c><c> an</c>
+it as there's no point in loading an
+additional<c> script</c><c> without</c><c> purpose.</c>
+additional script without purpose.
+Again,<c> we</c><c> chose</c><c> to</c><c> minify</c><c> JS</c><c> files</c><c> as</c><c> we</c>
+Again, we chose to minify JS files as we
+did<c> with</c><c> HTML</c><c> and</c><c> CSS</c><c> and</c><c> combined</c><c> our</c>
+did with HTML and CSS and combined our
+JS<c> files</c><c> since</c><c> there</c><c> were</c><c> no</c><c> conflicts</c>
+JS files since there were no conflicts
+or<c> issues.</c><c> And</c><c> the</c><c> last</c><c> option</c><c> we</c>
+or issues. And the last option we
+enabled<c> is</c><c> to</c><c> defer</c><c> loading</c><c> of</c>
+enabled is to defer loading of
+JavaScript.<c> This</c><c> option</c><c> will</c><c> basically</c>
+JavaScript. This option will basically
+delay<c> the</c><c> loading</c><c> of</c><c> JavaScript</c><c> files.</c>
+delay the loading of JavaScript files.
+So<c> the</c><c> most</c><c> important</c><c> content</c><c> like</c><c> your</c>
+So the most important content like your
+HTML<c> and</c><c> CSS</c><c> can</c><c> be</c><c> delivered</c><c> to</c><c> your</c>
+HTML and CSS can be delivered to your
+visitors<c> first</c><c> and</c><c> then</c><c> the</c><c> JS</c><c> will</c>
+visitors first and then the JS will
+load.<c> And</c><c> this</c><c> will</c><c> in</c><c> most</c><c> cases</c><c> fix</c>
+load. And this will in most cases fix
+the<c> eliminate</c><c> render</c><c> blockingJS</c><c> issue</c>
+the eliminate render blockingJS issue
+that<c> you</c><c> may</c><c> have</c><c> seen</c><c> in</c><c> page</c><c> speed</c>
+that you may have seen in page speed
+insights.<c> Now</c><c> it's</c><c> important</c><c> to</c><c> note</c>
+insights. Now it's important to note
+that<c> if</c><c> you</c><c> choose</c><c> to</c><c> minify,</c><c> combine,</c>
+that if you choose to minify, combine,
+and<c> or</c><c> defer</c><c> your</c><c> JavaScript</c><c> files,</c>
+and or defer your JavaScript files,
+things<c> may</c><c> break</c><c> on</c><c> your</c><c> site.</c><c> So,</c><c> it's</c>
+things may break on your site. So, it's
+important<c> to</c><c> actually</c><c> test</c><c> your</c><c> site's</c>
+important to actually test your site's
+functions<c> before</c><c> permanently</c><c> leaving</c><c> it</c>
+functions before permanently leaving it
+on.<c> All</c><c> right,</c><c> let's</c><c> move</c><c> on</c><c> to</c><c> the</c>
+on. All right, let's move on to the
+media<c> category.</c><c> Here,</c><c> I've</c><c> chosen</c><c> to</c>
+media category. Here, I've chosen to
+lazy<c> load</c><c> all</c><c> media</c><c> files.</c><c> Lazy</c><c> load</c>
+lazy load all media files. Lazy load
+improves<c> page</c><c> speed</c><c> because</c><c> it</c><c> defers</c>
+improves page speed because it defers
+the<c> loading</c><c> of</c><c> images</c><c> and</c><c> videos</c><c> until</c>
+the loading of images and videos until
+they're<c> visible</c><c> on</c><c> the</c><c> screen.</c><c> In</c><c> fact,</c>
+they're visible on the screen. In fact,
+WordPress<c> 5.5</c><c> will</c><c> lazy</c><c> load</c><c> images</c><c> by</c>
+WordPress 5.5 will lazy load images by
+default.<c> So,</c><c> you</c><c> won't</c><c> necessarily</c><c> need</c>
+default. So, you won't necessarily need
+a<c> plugin</c><c> if</c><c> you</c><c> just</c><c> want</c><c> this</c><c> feature.</c>
+a plugin if you just want this feature.
+Next<c> up</c><c> is</c><c> preloading.</c><c> Pre-loading</c>
+Next up is preloading. Pre-loading
+allows<c> you</c><c> to</c><c> define</c><c> essential</c><c> resources</c>
+allows you to define essential resources
+so<c> that</c><c> browsers</c><c> know</c><c> the</c><c> priority</c><c> of</c>
+so that browsers know the priority of
+files<c> that</c><c> should</c><c> be</c><c> loaded</c><c> first.</c><c> For</c>
+files that should be loaded first. For
+example,<c> let's</c><c> say</c><c> that</c><c> your</c><c> HTML</c><c> code</c>
+example, let's say that your HTML code
+looks<c> like</c><c> this.</c><c> Based</c><c> on</c><c> this</c><c> code,</c><c> the</c>
+looks like this. Based on this code, the
+JavaScript<c> file</c><c> would</c><c> need</c><c> to</c><c> load</c><c> first</c>
+JavaScript file would need to load first
+simply<c> because</c><c> of</c><c> hierarchy.</c><c> Of</c><c> course,</c>
+simply because of hierarchy. Of course,
+you<c> could</c><c> edit</c><c> the</c><c> code,</c><c> but</c><c> that</c><c> can</c>
+you could edit the code, but that can
+get<c> messy</c><c> and</c><c> confusing</c><c> if</c><c> you</c><c> don't</c>
+get messy and confusing if you don't
+have<c> coding</c><c> knowledge.</c><c> But</c><c> if</c><c> we</c><c> add</c>
+have coding knowledge. But if we add
+another<c> link</c><c> tag</c><c> to</c><c> preload</c><c> the</c>
+another link tag to preload the
+stylesheet,<c> then</c><c> this</c><c> would</c><c> tell</c>
+stylesheet, then this would tell
+browsers<c> to</c><c> load</c><c> the</c><c> CSS</c><c> file</c><c> with</c><c> a</c>
+browsers to load the CSS file with a
+higher<c> priority</c><c> than</c><c> the</c><c> JS</c><c> file.</c><c> And</c>
+higher priority than the JS file. And
+that's<c> exactly</c><c> what</c><c> this</c><c> option</c><c> in</c><c> WP</c>
+that's exactly what this option in WP
+Rocket<c> does</c><c> for</c><c> you.</c><c> Now,</c><c> the</c><c> last</c><c> thing</c>
+Rocket does for you. Now, the last thing
+I<c> want</c><c> to</c><c> talk</c><c> about</c><c> here</c><c> is</c><c> using</c><c> a</c>
+I want to talk about here is using a
+CDN.<c> And</c><c> it's</c><c> easiest</c><c> to</c><c> understand</c><c> how</c>
+CDN. And it's easiest to understand how
+these<c> work</c><c> if</c><c> we</c><c> look</c><c> at</c><c> our</c><c> first</c>
+these work if we look at our first
+example<c> of</c><c> how</c><c> devices</c><c> connect</c><c> to</c><c> web</c>
+example of how devices connect to web
+servers.<c> So</c><c> again,</c><c> if</c><c> the</c><c> server</c><c> is</c><c> in</c>
+servers. So again, if the server is in
+LA<c> and</c><c> a</c><c> visitor</c><c> is</c><c> in</c><c> Las</c><c> Vegas,</c><c> it</c>
+LA and a visitor is in Las Vegas, it
+probably<c> won't</c><c> take</c><c> very</c><c> long</c><c> for</c><c> the</c>
+probably won't take very long for the
+two<c> devices</c><c> to</c><c> connect,</c><c> seeing</c><c> as</c>
+two devices to connect, seeing as
+they're<c> relatively</c><c> close</c><c> in</c><c> proximity.</c>
+they're relatively close in proximity.
+But<c> what</c><c> happens</c><c> when</c><c> someone</c><c> from</c>
+But what happens when someone from
+Germany,<c> India,</c><c> Australia,</c><c> or</c><c> Singapore</c>
+Germany, India, Australia, or Singapore
+tries<c> to</c><c> connect</c><c> to</c><c> the</c><c> web</c><c> server?</c><c> It's</c>
+tries to connect to the web server? It's
+going<c> to</c><c> take</c><c> longer.</c><c> And</c><c> that's</c><c> where</c>
+going to take longer. And that's where
+CDN's<c> can</c><c> help.</c><c> CDN</c><c> stands</c><c> for</c><c> content</c>
+CDN's can help. CDN stands for content
+delivery<c> network.</c><c> And</c><c> that's</c><c> exactly</c>
+delivery network. And that's exactly
+what<c> it</c><c> is.</c><c> a</c><c> network</c><c> of</c><c> servers</c><c> located</c>
+what it is. a network of servers located
+all<c> over</c><c> the</c><c> world</c><c> that</c><c> delivers</c><c> content</c>
+all over the world that delivers content
+to<c> visitors</c><c> as</c><c> fast</c><c> as</c><c> possible.</c><c> By</c>
+to visitors as fast as possible. By
+using<c> a</c><c> CDN,</c><c> you're</c><c> essentially</c><c> caching</c>
+using a CDN, you're essentially caching
+files<c> on</c><c> multiple</c><c> servers</c><c> globally.</c>
+files on multiple servers globally.
+Then,<c> when</c><c> a</c><c> visitor</c><c> tries</c><c> to</c><c> access</c>
+Then, when a visitor tries to access
+your<c> site,</c><c> it'll</c><c> connect</c><c> them</c><c> to</c><c> the</c><c> one</c>
+your site, it'll connect them to the one
+that's<c> closest,</c><c> creating</c><c> a</c><c> faster</c>
+that's closest, creating a faster
+connection<c> between</c><c> the</c><c> user</c><c> and</c><c> the</c>
+connection between the user and the
+content.<c> So</c><c> if</c><c> your</c><c> site</c><c> attracts</c><c> a</c>
+content. So if your site attracts a
+global<c> audience,</c><c> then</c><c> it</c><c> might</c><c> be</c><c> worth</c>
+global audience, then it might be worth
+signing<c> up</c><c> for</c><c> a</c><c> CDN</c><c> service,</c><c> enabling</c>
+signing up for a CDN service, enabling
+the<c> option</c><c> in</c><c> WP</c><c> Rocket</c><c> and</c><c> adding</c><c> the</c>
+the option in WP Rocket and adding the
+appropriate<c> CNAME.</c><c> Now</c><c> there</c><c> are</c><c> other</c>
+appropriate CNAME. Now there are other
+free<c> caching</c><c> plugins</c><c> that</c><c> have</c><c> a</c><c> lot</c><c> of</c>
+free caching plugins that have a lot of
+these<c> features</c><c> like</c><c> autooptimize</c><c> and</c><c> W3</c>
+these features like autooptimize and W3
+Total<c> Cache,</c><c> but</c><c> I</c><c> personally</c><c> prefer</c><c> to</c>
+Total Cache, but I personally prefer to
+pay<c> a</c><c> small</c><c> fee</c><c> for</c><c> WP</c><c> Rocket</c><c> as</c><c> I've</c>
+pay a small fee for WP Rocket as I've
+had<c> the</c><c> best</c><c> results</c><c> with</c><c> them.</c><c> And</c><c> the</c>
+had the best results with them. And the
+final<c> step</c><c> in</c><c> the</c><c> sight</c><c> speed</c>
+final step in the sight speed
+optimization<c> tutorial</c><c> is</c><c> to</c><c> optimize</c>
+optimization tutorial is to optimize
+your<c> images.</c><c> Now,</c><c> since</c><c> we've</c><c> already</c>
+your images. Now, since we've already
+added<c> lazy</c><c> load</c><c> to</c><c> images,</c><c> this</c><c> will</c>
+added lazy load to images, this will
+solve<c> a</c><c> lot</c><c> of</c><c> problems.</c><c> But</c><c> if</c><c> you're</c>
+solve a lot of problems. But if you're
+using<c> featured</c><c> images</c><c> that</c><c> are</c><c> above</c><c> the</c>
+using featured images that are above the
+fold<c> on</c><c> load,</c><c> then</c><c> lazy</c><c> load</c><c> isn't</c><c> going</c>
+fold on load, then lazy load isn't going
+to<c> help.</c><c> Plus,</c><c> smaller</c><c> images</c><c> will</c><c> save</c>
+to help. Plus, smaller images will save
+you<c> with</c><c> storage</c><c> space.</c><c> So,</c><c> the</c><c> simple</c>
+you with storage space. So, the simple
+solution<c> is</c><c> to</c><c> compress</c><c> your</c><c> images</c>
+solution is to compress your images
+using<c> lossy</c><c> or</c><c> lossless</c><c> compression.</c><c> And</c>
+using lossy or lossless compression. And
+there's<c> some</c><c> great</c><c> plugins</c><c> that'll</c><c> do</c>
+there's some great plugins that'll do
+this<c> for</c><c> you</c><c> like</c><c> Short</c><c> Pixel</c><c> and</c>
+this for you like Short Pixel and
+Imageify.<c> Now,</c><c> to</c><c> give</c><c> you</c><c> an</c><c> idea</c><c> of</c>
+Imageify. Now, to give you an idea of
+how<c> much</c><c> image</c><c> compression</c><c> can</c><c> help,</c>
+how much image compression can help,
+take<c> a</c><c> look</c><c> at</c><c> the</c><c> WordPress</c><c> media</c>
+take a look at the WordPress media
+library<c> here.</c><c> You'll</c><c> see</c><c> that</c><c> Short</c>
+library here. You'll see that Short
+Pixel<c> has</c><c> reduced</c><c> the</c><c> image</c><c> sizes</c><c> by</c>
+Pixel has reduced the image sizes by
+quite<c> a</c><c> lot,</c><c> which</c><c> will</c><c> help</c><c> improve</c>
+quite a lot, which will help improve
+page<c> speed.</c><c> Short</c><c> pixel</c><c> also</c><c> has</c><c> a</c>
+page speed. Short pixel also has a
+feature<c> that</c><c> lets</c><c> you</c><c> serve</c><c> images</c><c> in</c>
+feature that lets you serve images in
+the<c> WEBP</c><c> format,</c><c> which</c><c> basically</c><c> lets</c>
+the WEBP format, which basically lets
+you<c> compress</c><c> images</c><c> even</c><c> further</c><c> without</c>
+you compress images even further without
+compromising<c> quality</c><c> by</c><c> much.</c><c> Just</c><c> go</c><c> to</c>
+compromising quality by much. Just go to
+settings<c> and</c><c> choose</c><c> short</c><c> pixel,</c><c> then</c>
+settings and choose short pixel, then
+click<c> on</c><c> the</c><c> advanced</c><c> tab.</c><c> From</c><c> here,</c>
+click on the advanced tab. From here,
+you'll<c> want</c><c> to</c><c> make</c><c> sure</c><c> that</c><c> you've</c>
+you'll want to make sure that you've
+checked<c> this</c><c> box</c><c> so</c><c> short</c><c> pixel</c><c> creates</c>
+checked this box so short pixel creates
+a<c> webp</c><c> version</c><c> of</c><c> your</c><c> images.</c><c> So,</c><c> now</c>
+a webp version of your images. So, now
+that<c> we've</c><c> done</c><c> the</c><c> three</c><c> main</c>
+that we've done the three main
+optimizations<c> for</c><c> WordPress</c><c> sight</c><c> speed,</c>
+optimizations for WordPress sight speed,
+let's<c> run</c><c> the</c><c> page</c><c> speed</c><c> tools</c><c> and</c>
+let's run the page speed tools and
+compare<c> them</c><c> with</c><c> our</c><c> original</c>
+compare them with our original
+benchmarks.<c> On</c><c> page</c><c> speed</c><c> insights,</c><c> the</c>
+benchmarks. On page speed insights, the
+page<c> previously</c><c> scored</c><c> a</c><c> 45</c><c> on</c><c> mobile</c>
+page previously scored a 45 on mobile
+and<c> now</c><c> has</c><c> a</c><c> score</c><c> of</c><c> 95.</c><c> It</c><c> had</c><c> a</c>
+and now has a score of 95. It had a
+desktop<c> score</c><c> of</c><c> 79</c><c> and</c><c> now</c><c> has</c><c> a</c><c> near</c>
+desktop score of 79 and now has a near
+perfect<c> desktop</c><c> score.</c><c> On</c><c> Pingdom,</c><c> the</c>
+perfect desktop score. On Pingdom, the
+page<c> previously</c><c> loaded</c><c> in</c><c> 1.72</c><c> seconds</c>
+page previously loaded in 1.72 seconds
+with<c> a</c><c> 1.7</c><c> megabyte</c><c> page</c><c> size</c><c> in</c><c> 63</c>
+with a 1.7 megabyte page size in 63
+requests.<c> With</c><c> a</c><c> new</c><c> speed</c><c> test,</c><c> you'll</c>
+requests. With a new speed test, you'll
+see<c> there</c><c> was</c><c> a</c><c> significant</c><c> decrease</c><c> on</c>
+see there was a significant decrease on
+all<c> three</c><c> metrics.</c><c> Page</c><c> size</c><c> is</c><c> just</c>
+all three metrics. Page size is just
+over<c> 900</c><c> kilobyt.</c><c> Load</c><c> time</c><c> came</c><c> in</c><c> at</c>
+over 900 kilobyt. Load time came in at
+200<c> milliseconds</c><c> and</c><c> the</c><c> number</c><c> of</c>
+200 milliseconds and the number of
+requests<c> have</c><c> shrunk</c><c> by</c><c> nearly</c><c> 3x.</c><c> And</c>
+requests have shrunk by nearly 3x. And
+you'll<c> see</c><c> the</c><c> same</c><c> pattern</c><c> for</c>
+you'll see the same pattern for
+GTMetrics,<c> an</c><c> improvement</c><c> across</c><c> the</c>
+GTMetrics, an improvement across the
+board.<c> Finally,</c><c> I</c><c> ran</c><c> a</c><c> new</c><c> crawl</c><c> of</c><c> the</c>
+board. Finally, I ran a new crawl of the
+site<c> with</c><c> HF</c><c> site</c><c> audit.</c><c> And</c><c> as</c><c> you</c><c> can</c>
+site with HF site audit. And as you can
+see,<c> every</c><c> single</c><c> page</c><c> loaded</c><c> in</c><c> under</c><c> a</c>
+see, every single page loaded in under a
+second.<c> Now,</c><c> these</c><c> are</c><c> the</c><c> steps</c><c> that</c>
+second. Now, these are the steps that
+work<c> for</c><c> Zach's</c><c> site,</c><c> and</c><c> I've</c><c> used</c><c> it</c>
+work for Zach's site, and I've used it
+for<c> other</c><c> sites</c><c> with</c><c> success.</c><c> But</c>
+for other sites with success. But
+remember,<c> each</c><c> WordPress</c><c> configuration</c>
+remember, each WordPress configuration
+will<c> be</c><c> different</c><c> since</c><c> you</c><c> might</c><c> be</c>
+will be different since you might be
+using<c> a</c><c> clunkier</c><c> theme,</c><c> more</c>
+using a clunkier theme, more
+resource-conuming<c> plugins,</c><c> have</c><c> inferior</c>
+resource-conuming plugins, have inferior
+hosting,<c> or</c><c> you</c><c> have</c><c> tons</c><c> of</c><c> third</c><c> party</c>
+hosting, or you have tons of third party
+tracking<c> scripts.</c><c> So,</c><c> if</c><c> you're</c><c> still</c>
+tracking scripts. So, if you're still
+unhappy<c> with</c><c> your</c><c> site</c><c> speed</c><c> after</c>
+unhappy with your site speed after
+making<c> these</c><c> optimizations,</c><c> then</c><c> you'll</c>
+making these optimizations, then you'll
+likely<c> need</c><c> more</c><c> custom</c><c> work</c><c> done</c><c> for</c>
+likely need more custom work done for
+you.<c> So,</c><c> you</c><c> may</c><c> want</c><c> to</c><c> consider</c>
+you. So, you may want to consider
+removing<c> plugins</c><c> and</c><c> scripts,</c><c> switching</c>
+removing plugins and scripts, switching
+themes,<c> or</c><c> hiring</c><c> a</c><c> developer</c><c> to</c><c> make</c>
+themes, or hiring a developer to make
+the<c> appropriate</c><c> fixes.</c><c> So,</c><c> give</c><c> it</c><c> a</c>
+the appropriate fixes. So, give it a
+shot.<c> And</c><c> if</c><c> you</c><c> enjoyed</c><c> this</c><c> tutorial,</c>
+shot. And if you enjoyed this tutorial,
+then<c> make</c><c> sure</c><c> to</c><c> like,</c><c> share,</c><c> and</c>
+then make sure to like, share, and
+subscribe<c> for</c><c> more</c><c> actionable</c><c> SEO</c><c> and</c>
+subscribe for more actionable SEO and
+marketing<c> tutorials.</c><c> And</c><c> let</c><c> me</c><c> know</c><c> in</c>
+marketing tutorials. And let me know in
+the<c> comments</c><c> if</c><c> these</c><c> tips</c><c> helped</c><c> you</c>
+the comments if these tips helped you
+boost<c> your</c><c> WordPress</c><c> site</c><c> speed.</c><c> I'll</c>
+boost your WordPress site speed. I'll
+see<c> you</c><c> in</c><c> the</c><c> next</c><c> tutorial.</c>

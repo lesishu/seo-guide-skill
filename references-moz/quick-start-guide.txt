@@ -1,0 +1,493 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo)
+
+[2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide)
+
+[3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## Quick Start Guide
+
+### Speed up to catch up
+
+SEO isn’t hard, but it can take time to master many of the more advanced areas. In the meantime, you want to ensure you're set up with all the essential SEO fundamentals so you're best placed to capitalize on your results sooner rather than later, with this **Bonus SEO Quick Start Guide.**
+
+Fortunately, when you are beginning, there are basic practices you can take to cover the bases. Following these simple steps will help you avoid common SEO pitfalls, and set you on the path to success. They'll also provide a starting point to learn the fundamentals, so you can raise your SEO traffic levels to new heights down the road.
+
+We'll cover these points in more depth throughout the Beginner's Guide to SEO (and other places on Moz) but for now, let's get started.
+
+### Get the free checklist!
+
+We've included a nifty PDF download to guide you through the steps and help keep you and your team on track.
+
+[ Download now  ](https://hsinfo.moz.com/hubfs/Whitepapers,%20eBooks,%20Reports/Quick%20Start%20Guide%20to%20SEO%20Cheat%20Sheet.pdf)
+
+## 1\. Gather Your SEO Data
+
+To do SEO you really only need 3 things to get started: a website, your brain, and data.
+
+Hopefully, you already have the first two, so let's make sure you have the right data.
+
+Data is everywhere in SEO, from visitor analytics to keyword research, and especially link building. Your most important data is going to come from your website itself. To this end, we recommend making sure you have the following data sources set up.
+
+### ✅ Install Analytics
+
+Web analytics gives you information about who visits your site, how much traffic you receive and from where, what pages people visit, how they engage with your content, and more.
+
+[Google Analytics](https://analytics.google.com/analytics/web/) is by far the most popular analytics platform. Most SEOs install it by default. You should note that Google is transitioning to a new type of analytics [known as GA4](https://moz.com/blog/transitioning-to-ga4). If unsure, you can simply follow Google's instructions to set up both Universal Analytics (traditional) and GA4 at the same time (at least until Google deprecates Universal Analytics.)
+
+If you'd rather not use a Google product, many alternatives exist such as [Matomo](https://matomo.org/), [Statcounter](https://statcounter.com/), and more.
+
+### ✅ Register With Search Engines
+
+Search engines like Bing and Google offer a wealth of information about your website that you simply can’t get anywhere else. This data often includes the keywords you rank for in search, how each search engine crawls your site and more.
+
+Two of the most popular search engine analytics services are:
+
+  1. [Google Search Console](https://search.google.com/search-console/about)
+  2. [Bing Webmaster Tools](https://www.bing.com/webmasters/about)
+
+To be clear, registering your site with search engines doesn’t necessarily get you more traffic, but it can give you access to special tools to help you get there.
+
+### ✅ Recommended: Run a Crawl
+
+While not required, we _**highly recommend**_ you run a crawl of your website in order to highlight SEO issues that may not be obvious. This will also help you see your site like a search engine does.
+
+A good SEO audit tool such as [Moz Pro’s Site Crawl](https://moz.com/products/pro/site-crawl) will find issues such as broken pages, links that don’t work, [duplicate content](https://moz.com/blog/resolve-duplicate-content) issues, and other technical SEO problems. Other good crawlers we recommend include [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) and [Sitebulb](https://sitebulb.com/).
+
+  * [_Take a free trial of Moz Pro_](https://moz.com/moz-pro-free-trial)
+
+### Get your free Moz Pro training
+
+New to Moz Pro? Check out the How to Use Moz Pro course available free on Moz Academy.
+
+[ Learn more  ](https://academy.moz.com/how-to-use-moz)
+
+## Duplicate Content Solutions — Whiteboard Friday
+
+![](https://fast.wistia.com/embed/medias/s8j6sh5zn9/swatch)
+
+Learn how to resolve duplicate content issues with Meghan in this [Whiteboard Friday](https://moz.com/blog/resolve-duplicate-content) episode.
+
+### ✅ Quick Website Assessment
+
+Now that you’ve identified technical issues on your website, it’s time to gather some metrics together that will give you a bird’s-eye-view of your overall performance. Possessing these baseline metrics will give you a firm grasp on where you stand - your strengths, weaknesses, authority, and health.
+
+It may sound like a time-consuming process, but luckily, you can - within seconds - create a comprehensive SEO summary quickly and efficiently with the Moz Pro tool [Domain Overview](https://moz.com/domain-overview) (you can access this tool by creating [a free community account here](https://moz.com/community/join)). This report will provide you with a snapshot of your current standings, including your Domain Authority™, keyword rankings, competitors, linking domains, Brand Authority™, comparisons, and more!
+
+Learn about SEO auditing success in Aleyda Solis's Whiteboard Friday:
+
+## 2\. Check How Your Site Is Indexed
+
+To be eligible to show up in search results, the pages of your site first must be “indexed” by search engines. Indexing basically means a search engine has crawled a page and made a record of its content. (Sometimes search engines may rank a page even if it can’t crawl it, but this is much rarer.)
+
+### ✅ Perform a site: search
+
+The simplest way to check if a site or page is indexed is to perform a site: search. This works for both Google and Bing. For example, if you wanted to check the index status of moz.com, you’d type the following into Google’s search box.
+
+    site:moz.com
+
+This will also tell you _approximately_ how many pages Google has indexed. In this case, we see tens of thousands of pages.
+
+![](https://fast.wistia.com/embed/medias/wg7p3wnu0c/swatch)
+
+![Google search results for site:moz.com](https://moz.com/images/learn/guides/how-many-pages-google-had-indexed.png?auto=compress%2Cformat&fit=crop&dm=1664980306&s=2d202b8316bbb3a3ab97f895140fbda0)
+
+You can also check if individual pages are indexed, like this:
+
+    site:moz.com/learn/seo/domain-authority
+
+### If Your Site or Page Isn’t Indexed
+
+If you find your site isn’t indexed, there are typically a few areas to check and questions to ask yourself.
+
+#### ✅ Is the site brand new?
+
+It takes time for search engines to crawl and index sites, so new sites or pages may not show up right away.
+
+#### ✅ Does the site offer unique, valuable content?
+
+Ask yourself if the site is truly worthy of appearing in search results. In other words, _is it uniquely valuable_? Spam, non-original, or low-value content may be excluded by search engines by default.
+
+#### ✅ Is the site crawlable and indexable?
+
+Here we’re going into a bit of Technical SEO. If you believe a site/page should be indexed, and it’s not, there are a few basic steps you can perform.
+
+First, you want to check your **Site Crawl** and/or **Google Search Console.**
+
+If you performed a [site crawl](https://moz.com/help/moz-pro/site-crawl/critical-crawler-issues) using a recommended SEO tool (step 1) it should highlight any major issues that might prevent your site from being indexed.
+
+Similarly, you can enter a URL into Search Console’s [URL Inspection Tool](https://search.google.com/search-console?action=inspect). If the URL is not on Google, hit the “Test Live URL” button for a diagnostic report.
+
+![screenshot of URL inspector](https://moz.com/images/learn/guides/URL-inspector-Screengrab.png?auto=compress%2Cformat&fit=crop&dm=1664980354&s=b629288e1b685fcb0cd3c85cd5173d7e)
+
+#### Common Technical Indexing Problems
+
+Your crawl report and/or Google Search Console may report any number of issues with your page that could impact how it may appear in search.
+
+  1. **The page isn’t crawlable and/or doesn’t return a 200 status code**. [Learn more about HTTP Status Codes](https://moz.com/learn/seo/http-status-codes).
+  2. **Robots meta directive doesn’t allow indexing**. [Learn more about robots meta tags](https://moz.com/learn/seo/robots-meta-directives).
+  3. **Page is blocked by robots.txt**. [Learn more about robots.txt](https://moz.com/learn/seo/robotstxt).
+  4. **Page isn’t listed in the sitemap file.** Sitemap files aren’t required for crawling and indexing, but they can help search engines discover your content. [Learn more about sitemaps](https://developers.google.com/search/docs/advanced/sitemaps/overview).
+  5. **Duplicate content issues**. If the same content lives in multiple places, it can impact visibility in search. Canonicalization is one way to solve this problem, though there are other methods as well. Learn more about [duplicate content](https://moz.com/learn/seo/duplicate-content).
+
+#### ✅ Mobile Check: See Your Site Like a Search Engine
+
+We can’t stress this point enough: while your site might look excellent when you view it in your web browser, _you can’t always trust your eyes_. **Search engines aren’t human** , and things like JavaScript or mobile versions of your site may sometimes trip them up.
+
+Looking at your site like a search engine does help ensure that the important content on your site gets crawled and indexed properly.
+
+Perhaps most important is how your site performs on **mobile devices**. While you may look at your site on a desktop computer, the majority of web users now access most sites through search via their phone. For this reason, Google typically considers the mobile version of your site [for ranking purposes](https://moz.com/blog/mobile-first-indexing-seo).
+
+For a quick look at how search engines see the mobile version of your site, you can try [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly).
+
+## 3\. Target Specific Keywords
+
+The magic of SEO is that people can find your content the **exact moment** they search for an answer using a search engine. If your content provides an _above-average, targeted answer_ to a specific search query, you have a good shot of ranking and earning the click.
+
+But first, you need to know exactly what people are searching for, e.g. the **“keywords”** they use.
+
+Beyond that, you want to know if enough people are searching for something to make it worth your time to create content, and how difficult it might be to actually rank for those keywords.
+
+Keyword research is a [big topic in SEO](https://moz.com/beginners-guide-to-seo/keyword-research). While it can take a long time to master, there are a few simple steps to get you up and running:
+
+#### ✅ Discover Keywords You Already Rank For
+
+Knowing what keywords and phrases you _already rank for_ is often a good starting point before you begin optimizing for new keywords. Enter your domain into [Keyword Explorer](https://moz.com/explorer) to see all of your top-ranking keywords by search volume.
+
+### Find rankings keywords
+
+Uncover keywords you already rank for with Moz's Ranking Keywords in Keyword Explorer
+
+[ Learn more  ](/help/keyword-explorer/explore-by-site/ranking-keywords)
+
+![moz keyword explorer top keyword rankings interface](https://moz.com/images/learn/guides/screenshot-of-moz-keyword-rexplore-top-rankings-keywords.png?auto=compress%2Cformat&fit=crop&dm=1664980504&s=aad6c2056912cda14b38a5ec59142435)
+
+Another great place to find keywords you already rank for is [Search Console’s Performance Report](https://support.google.com/webmasters/answer/7576553?hl=en).
+
+#### ✅ Find Keywords Related To Your Topic
+
+The next step is to find keywords that you might want to target. Again, we go into the details of this in our [Keyword Research Master Guide](https://moz.com/keyword-research-guide), but to oversimplify, you’ll want to find keywords that:
+
+  * Have sufficient search volume
+  * Aren’t too difficult for you to rank for
+  * Are relevant to your business
+
+Use “[seed keywords](https://moz.com/keyword-research-guide/seed-keywords)” in your favorite keyword research tool to build out a list to target.
+
+#### ✅ Target Keywords On Your Page
+
+Once you know what keywords your content targets, it’s important to actually incorporate those keywords, topics, and related concepts onto your page. Obvious places to place your important keywords include your title tag, meta description, headline, paragraph headers, and body text. Here’s a few more ideas for [incorporating keywords into your on-page optimization](https://moz.com/keyword-research-guide/on-page-keyword-optimization).
+
+Be sure not to overdo it, as you want to [avoid keyword stuffing](https://moz.com/blog/how-much-keyword-repetition-is-optimal-whiteboard-friday).
+
+  * [_Learn more about keyword research_](https://moz.com/keyword-research-guide)
+
+## Find keywords that move the needle
+
+**with Keyword Explorer**
+
+[ Show my keyword gaps ](/checkout/freetrial/signup/pro_medium/monthly)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Keyword-Research.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855252&s=a0f13ab27cde45208f08d8269288c98d)
+
+## 4\. Optimize Your Search Appearance
+
+When you rank in search, Google (and other search engines) takes elements of your page to display in search results. These elements can not only influence how many people click on your result, but in some cases, they can also influence how well you rank.
+
+Optimizing your search appearance is an important part of SEO. Here’s a quick breakdown of the major elements you should consider: title tags, meta description, breadcrumbs, rich snippets, and favicons.
+
+![screenshot of search result for moz.com](https://moz.com/images/learn/guides/screenshot-of-optimized-search-result.png?auto=compress%2Cformat&fit=crop&dm=1664980407&s=1ea39e50c3f5d17daab533a98da0b05b)
+
+Each of these is important in its own right, so let's go over each in turn.
+
+### 4a. Write Descriptive, Click-Worthy Title Tags
+
+Title tags might be the most impactful part of your search appearance, and they’re also a small ranking factor! Google is known to [rewrite a lot of title tags](https://moz.com/blog/title-tag-rewrite-case-study), but there are a number of best practices you can use to help your SEO.
+
+#### ✅ Write Unique, Accurate Titles for Each Page
+
+Avoid using the same title on multiple pages. Make sure you create descriptive, unique titles that accurately describe what a visitor will find on the page.
+
+#### ✅ Use Keywords In Your Titles, But Don’t Overdo It
+
+Using keyword research (which we’ll cover below) make sure your titles contain the keywords users are likely searching for when your page appears in search results. Use a tool like Google Search Console or [Keyword Explorer](https://moz.com/explorer) to find out what keywords a URL is already ranking for.
+
+**Note** : Google is more likely to rewrite page titles that repeat the same keywords, so using a keyword once is typically enough.
+
+#### ✅ Aim For Between 50-60 Characters (& Maybe More for Mobile)
+
+Google will often rewrite titles that are either too long or too short. On desktop, the “sweet spot” is typically between 50-60 characters. You can check title length using this [length checking tool](https://moz.com/learn/seo/title-tag).
+
+If your title is too long, it’s best to keep your important keywords visible near the front. Mobile results are often longer, so if you know that most of your search comes from mobile devices, it’s often okay and workable to have longer title tags.
+
+  * [_Learn more about title tags_](https://moz.com/learn/seo/title-tag)
+
+### Get the free checklist!
+
+We've included a nifty PDF download to guide you through the steps and help keep you and your team on track.
+
+[ Download now  ](https://hsinfo.moz.com/hubfs/Whitepapers,%20eBooks,%20Reports/Quick%20Start%20Guide%20to%20SEO%20Cheat%20Sheet.pdf)
+
+### 4b. Create Descriptive Meta Descriptions
+
+To be clear, meta descriptions don’t count as a Google ranking factor. Also, Google is known to not use a site’s meta description much of the time. That said, using unique, well-written meta descriptions can have a positive impact on the number of clicks you ultimately receive.
+
+#### ✅ Write Unique, Compelling Descriptions for Each Page
+
+Google likes unique meta descriptions, so don’t reuse the same description across multiple pages. While there’s no limit on length, Google usually truncates descriptions between 150-160 characters (sometimes longer) so make sure to stay within reasonable limits.
+
+#### ✅ Use Keywords In Your Meta Descriptions
+
+Your meta descriptions should offer a compelling reason for users to click your results. Good copywriting is key! A dead-simple way to do this is to use important keywords in your description. When the keywords in your description match the user query, Google will highlight these words in your description, thereby helping it to stand out.
+
+![screenshot of moz meta description search result](https://moz.com/images/learn/guides/screenshot-of-search-result-for-moz-learn-center.png?auto=compress%2Cformat&fit=crop&dm=1664980459&s=28cf92b1936436ce21db55fe0d1b9f06)
+
+  * [_Learn more about meta descriptions_](https://moz.com/learn/seo/meta-description)
+
+### 4c. Use Structured Data for Rich Results
+
+Rich results are special features in search results that go beyond title and meta descriptions and include things like review stars, images, FAQs, and more. You can explore [Google’s supported rich results here](https://developers.google.com/search/docs/appearance/structured-data/search-gallery).
+
+Rich results are most often [triggered by structured data](https://moz.com/learn/seo/schema-structured-data). Most modern content management systems include support for some type of structured data by default (such as [Yoast](https://yoast.com/) or [Rankmath](https://rankmath.com/) for WordPress.)
+
+#### ✅ Use Structured Data on All Your Pages
+
+At a minimum, schema types such as [Article](https://developers.google.com/search/docs/appearance/structured-data/article) or [Product](https://developers.google.com/search/docs/appearance/structured-data/product) offer basic markup for the majority of pages. Other schemas may be more appropriate for your individual circumstances. The more specific information you can offer—such as author, dates, prices, etc.—the better off you’ll be.
+
+#### ✅ Validate Your Structured Data
+
+Because it’s easy to mess up, it’s important to verify your structured data using a tool specially built for the purpose. Two of our favorites are the [Schema Markup Validator](https://validator.schema.org/) and [Rich Results Test](https://search.google.com/test/rich-results).
+
+### 4d. Define Your Breadcrumbs
+
+Breadcrumbs might seem like a tiny part of Google search, but they can have a significant impact on your overall traffic. Experiments have shown that there’s no right answer when it comes to breadcrumbs, but typically, having a compelling, keyword-rich structure is known to help.
+
+#### ✅ Use Breadcrumb structured data
+
+Using structured data is the most straightforward, least ambiguous way to [define your breadcrumbs](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb) to Google. Be sure to validate your results using one of the validators mentioned above.
+
+#### ✅ Use A Clear, Keyword-Focused URL Structure
+
+Oftentimes—especially on mobile or when structured data isn’t present—search engines will use your URL structure to define breadcrumbs, for example, if our URL was:
+
+    https://moz.com/seo/tools/keyword
+
+Google might display the following breadcrumbs:
+
+    https://moz.com > seo > tools > keyword
+
+**Note** : More on URL structure is covered below in section 6. Internal Links & Site Architecture.
+
+### 4e. Stand Out With a Favicon
+
+Favicons are little icons that appear next to your Google listing on mobile. While small, using an attractive, eye-catching favicon can help make your listing stand out. A single favicon is [defined across your entire site](https://developers.google.com/search/docs/appearance/favicon-in-search#guidelines).
+
+#### ✅ Define Your Favicon
+
+Define a “shortcut icon” in the <head> of your home page that points to your favicon like this:
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+While no one favicon works best, favicons that are high-contrast and work with your brand are usually the way to go.
+
+![moz logo displayed in the search results on google mobile](https://moz.com/images/learn/guides/moz_favicons_display_mobile.jpg?auto=compress%2Cformat&fit=crop&dm=1666868450&s=c842c99df6dcb71e1e1f5c5becf8e3d6)
+
+### Moz Academy SEO Essentials Certification
+
+Organize your learning with Moz's SEO Essentials Certification. Learn with on-demand videos and task lessons, test your knowledge with exams at the end of each section, and top it all off with shiny new credentials to share with your professional network.
+
+[ Get Certified  ](https://academy.moz.com/path/seo-essentials-moz-certification)
+
+## 5\. Create Content Like a Boss
+
+SEO is about more than putting keywords on your page (a lot more!) How your page is structured, its relevance to the query, and how it satisfies user intent goes a long way in helping you to rank and attract visitors.
+
+Here's a few basic steps to point you in the right direction.
+
+#### ✅ Start With User Intent
+
+Beyond keywords, does your content give users what they're looking for? If they search for "shaggy cat" do you know if they want pictures of shaggy cats, how to adopt shaggy cats, or maybe how to groom shaggy cats? A good place to start is by looking at current search results, and seeing what already ranks highly.
+
+Remember, the goal isn't to copy your competitors, but to use the results shown as a clue towards what Google might be looking for, and satisfy user intent even better so you deserve to rank even higher.
+
+  * [_Learn more about user intent_](https://moz.com/blog/understanding-fulfilling-search-intent)
+
+## Target the right intent, every time with Moz
+
+[ Filter my keyword list by intent ](/checkout/freetrial/signup/pro_medium/monthly)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Search-Intent.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855262&s=2e2c5838e6c7b5e4d71545b66c66290a)
+
+#### ✅ Use Headers and Subheaders
+
+Breaking up your content using headlines and subheaders (H1, H2, etc.) not only helps readers digest your content, but helps Google understand it as well!
+
+A good SEO practice is to think of your content like an outline, and break it into logical sections as appropriate.
+
+#### ✅ Use Images Wisely
+
+Google is getting better and better at understanding images, but they still can't "see" images like a human. Because of this, there are a few SEO best practices to keep in mind:
+
+  1. Don't rely on images for important text. It's fine to use text in images, but don't expect search engines to be able to "read" image text like a human. Use text (like this) for text.
+
+  2. Use [alt text](https://moz.com/learn/seo/alt-text). Alt text helps search engines and screen readers understand your images. It's also important when you link your images.
+
+    <img src="pupdanceparty.gif" alt="Puppies dancing">
+
+  3. Overly large image files can slow down [your website speed](https://moz.com/blog/page-speed-optimization) and even your rankings. Properly size your image and define your dimension. [Optimize your images](https://developers.google.com/search/docs/appearance/google-images) for the best possible chance of ranking.
+
+## Visual Search Optimization — Whiteboard Friday
+
+![](https://fast.wistia.com/embed/medias/ft8yxe45za/swatch)
+
+Learn all about visual search optimization with Crystal Carter in this [Whiteboard Friday](https://moz.com/blog/visual-search-optimization-whiteboard-friday) episode.
+
+#### ✅ Keep Your Content Relevant and Fresh
+
+Content freshness, in different forms, [is an actual Google ranking factor](https://moz.com/blog/google-fresh-factor-new). Don't let your content go stale, and make sure to update your content regularly to keep it relevant. Not every piece of content needs updating for freshness sake, but if your out-of-date content isn't as good as the competition, consider a [content refresh](https://moz.com/blog/how-to-update-content).
+
+#### ✅ Optimize for User Satisfaction
+
+Your primary goal in creating content that attracts SEO traffic is to **satisfy the user**. The best way to do this is to make sure they don't want to go back to Google and click on another result.
+
+This is known as "[be the last click](https://moz.com/blog/click-based-seo-engagement-signals#:~:text=3.%20be%20the%20last%20click)." There's evidence that satisfying the user in this way can actually boost your rankings, so strive to make it your number one goal!
+
+## 6\. Internal Links & Site Architecture
+
+Links ([like this](https://moz.com/learn/seo/backlinks)) work as the glue to hold the internet together. Links also help search engines to discover, crawl, and rank your web pages. When a page is linked to a lot by other pages, this can signal its importance to search engines.
+
+[Internal links](https://moz.com/learn/seo/internal-link), or links from your own site, can act as strong hints to Google to crawl, index, and ultimately rank your pages
+
+#### ✅ Use A Clear And Helpful Navigation
+
+Users, and search engines, should be able to tell where they are on your site, and how to navigate to other pages. You can accomplish this by incorporating:
+
+  1. A clear navigation that links to your most important pages
+  2. Breadcrumbs
+  3. Related links
+
+![moz learn center site architecture and navigational links](https://moz.com/images/learn/guides/moz-learn-center-on-page-experience.png?auto=compress%2Cformat&fit=crop&dm=1664980983&s=07e8550d5b2378baeed2b7517258c873)
+
+#### ✅ Make Sure All Important Pages Are Linked
+
+Make sure you don't have "orphaned" pages - pages that aren't linked to from anywhere else on your site. Ideally, visitors should be able to navigate from your homepage to any other page on your site with only a handful of clicks.
+
+**Note** : For very large sites, pages should still be linked, but the "handful" of clicks may be a difficult rule to strictly follow. In these cases, [XML sitemaps are your friend](https://moz.com/blog/xml-sitemaps).
+
+#### ✅ Use Descriptive and Unique Anchor Text
+
+Anchor text refers to the words you use when you link. In code, it looks like this:
+
+    <a href="">Example Anchor Text</a>
+
+Anchor text can be used by search engines to determine what a page is about (relevancy) and for ranking purposes. For example, if we link to one of our MozCon pages using the anchor text "marketing conference," Google might correctly understand this page has something to do with marketing conferences, and rank the page higher for those types of queries.
+
+**Note** : While anchor text from external links is considered a much stronger signal, your own internal links can still carry significant weight when used appropriately. Be careful not to overdo it, as [over-optimizing your anchor text](https://moz.com/blog/top-1-seo-tips-for-2013#:~:text=1a.%20diversify%20anchor%20text) can lead to negative consequences.
+
+  * [__Learn more about anchor text__](https://moz.com/learn/seo/anchor-text)
+
+#### ✅ Employ A Logical URL Structure
+
+Google and other search engines can often understand your site better when it's properly organized with a good URL structure.
+
+For example, if your site sells electronics, and many of these are televisions, it may make sense to put all TVs in this category in a television directory, like this:
+
+    https://example.com/televisions/awesome-tv-brand
+
+In general, it's best practice for your URL to match your site structure, much like your navigation.
+
+  * [__Learn more about URL best practices__](https://moz.com/blog/15-seo-best-practices-for-structuring-urls)
+
+## 7\. Gaining Popularity Through Link Building
+
+Here's a truth about SEO: _popular sites typically rank higher._
+
+So how do search engines determine popularity? One way is by looking at _who links to you_.
+
+While internal links are important, **external links** are what can really boost your ranking potential. In fact, it's extremely [difficult to rank without external links](https://moz.com/blog/backlinks-google-study), and the [top sites on the internet](https://moz.com/top500) are typically the ones with the most number of high quality links.
+
+#### ✅ See Who's Already Linking To You
+
+A good place to start with link building is to find out _who already links to you_. This can help inform your decisions down the road, and give you a relative sense of strength.
+
+Using a good backlink checker such as [Link Explorer](https://moz.com/link-explorer), you can easily find what sites on the internet, if any, have already linked to your site.
+
+![screenshot of moz link explorer](https://moz.com/images/learn/guides/moz-link-explorer-linking-root-domains.png?auto=compress%2Cformat&fit=crop&dm=1664981048&s=f41b6a66ba20dccbf7039219b31c8cba)
+
+Backlink analysis like this can also help identify what content on your site is the most successful at attracting links, which can inform your content strategy.
+
+### Get the free checklist!
+
+We've included a nifty PDF download to guide you through the steps and help keep you and your team on track.
+
+[ Download now  ](https://hsinfo.moz.com/hubfs/Whitepapers,%20eBooks,%20Reports/Quick%20Start%20Guide%20to%20SEO%20Cheat%20Sheet.pdf)
+
+#### ✅ Find Out Who Links to Your Competitors
+
+Getting others to link to your site can be difficult, but one of the easier ways to get links is to scope out your competitors, and find out who's linking to them.
+
+To do this, it's important to understand who your actual online competitors are. If you run a real-world business, your online search competitors are often _very different_ than your real-world ones. [Tools like Domain Analysis](https://moz.com/domain-analysis) can help you figure out who your real competitors are.
+
+Once you know who your competitors are, use the same tools used to find your own links and find out who is [linking to your competitors](https://moz.com/help/link-explorer/link-building/link-intersect). See what type of content earns your competitors the best links. These bits of information can help you formulate your own link-earning strategy.
+
+  * [__Learn more about competitive link analysis__](https://moz.com/seo-competitor-analysis/link-gap-analysis)
+
+#### 🚫 Avoid Shady Link Practices
+
+While Google rewards links, it discourages [manipulative link building](https://developers.google.com/search/docs/essentials/spam-policies#link-spam). For this reason, Google tends to favor **editorial links** : those links freely given by human editors without manipulation.
+
+This means Google frowns upon:
+
+  1. Paid links
+  2. Self-placed links (e.g. spammy comment links)
+  3. Affiliate or advertising links placed without disclosure. See: [ugc and sponsored links](https://moz.com/blog/nofollow-sponsored-ugc).
+
+These types of links are often ignored, and can even get you penalized. In general, the easier a link is for anyone to get, the less likely Google is to value it.
+
+  * [_Learn more about link schemes to avoid_](https://developers.google.com/search/docs/essentials/spam-policies#link-spam)
+
+#### ✅ Promote Your Site And Your Best Content
+
+Don't let manipulative link building scare you. The best SEOs and content marketers actively build links to their best content. To stay on Google's good side, this can be done in a safe, editorial friendly way that makes the Internet a better place.
+
+There are many link building strategies you can employ, but most of them _simply involve letting potential linkers know about your content_. This might mean sharing your content on social media, running a focused PR campaign, or performing outreach to specific bloggers or journalists.
+
+Some common [link building tactics include](https://moz.com/beginners-guide-to-link-building/tactics):
+
+  * Contributing to respected publications
+  * Content based link building
+  * Broken linking building
+
+… and many more. The key to successful link building is to make sure your content is worth linking to (is it truly the best of its type on the internet?) and forming good relationships with those that might want to link to you.
+
+  * [_Learn more about link building_](https://moz.com/beginners-guide-to-link-building)
+
+#####
+
+That concludes the SEO Quickstart Guide! You should now have a great foundation to build on and an idea of what you can do about SEO today. If you want to dive deeper, we have much more to explore, starting with [Chapter 1 (SEO 101 - what is it, and why is it important?)](https://moz.com/beginners-guide-to-seo/how-search-engines-operate).
+
+* * *
+
+Written by Cyrus Shepard and the Moz staff.
+
+## Learn more about SEO strategy
+
+  * [How to Create an SEO Strategy [Plus Free Tools & Templates]](https://moz.com/blog/how-to-create-an-seo-strategy)
+  * [How to Create a Brand SEO Strategy — Whiteboard Friday](https://moz.com/blog/brand-seo-strategy-whiteboard-friday)
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

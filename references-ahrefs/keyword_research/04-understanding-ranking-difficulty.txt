@@ -1,0 +1,297 @@
+hey it's ammo and welcome to the fourth
+lesson in our keyword research module
+today i'm going to show you how to
+determine ranking difficulty for a
+keyword
+this will help you understand how hard
+it'll be to rank high in google for your
+target keywords
+let's get started so when it comes to
+ranking in google
+you need to understand who you'll be up
+against before you target a keyword
+otherwise you could be entering a battle
+you won't be able to win
+from an seo perspective competitors are
+pages and websites that rank at the top
+of google for your target keywords
+so that means your competitors can be
+different for every single keyword you
+target
+so there are three main things you'll
+want to consider before you decide to
+pick a fight
+and those are search intent metrics of
+the top ranking pages and websites
+and topical authority of the top ranking
+websites
+now as we go through these points we're
+going to create a list of self-check
+questions
+which should help you make informed
+decisions in your keyword targeting
+also in order to see things like metrics
+of top ranking pages
+you need an seo tool since google won't
+show you data on other pages
+so i'll be using ahrefs keywords
+explorer throughout this lesson
+now if you don't have an ahrefs account
+you can use our free serp checker tool
+which will give you data on the top
+three pages
+all right let's start with search intent
+the first thing you need to do is look
+at the serp and ask yourself
+do some of the top ranking pages fail to
+closely match
+search intent to find this out you can
+go through the three c's of search
+intent as we discussed in lesson two of
+this module
+and by the looks of it they're all
+listicle blog posts
+using the freshness angle so they do
+match it
+also pay close attention to the titles
+and urls of the ranking pages
+in general if the top pages include the
+primary keyword
+or a variation of it in the title and or
+url
+they're likely targeting that keyword
+for example
+all of the top ranking pages for the
+quarry how to save money are
+exactly about that whereas a quarry like
+best convertible car seats for small
+cars is a bit mixed
+as you can see some pages have gone
+specifically with the angle
+for small cars as a result it's probably
+matching searcher intent
+better than the more broad posts about
+the best convertible car seats
+for any car this is a sign of weakness
+in the serp because it means there's
+probably a lack of rank-worthy content
+out there
+about the best convertible car seats for
+small
+cars now i don't want you to take this
+as advice
+that you must include the exact keyword
+phrase in your titles
+and or urls with this example finding
+convertible car seats for small
+cars is actually a very specific need
+for a specific person all right let's
+talk about the metrics
+the first metric to look at is the
+number of websites that are linking to
+the page
+at ahrefs we call this referring domains
+as i mentioned in module 1 backlinks are
+one of google's most prominent ranking
+signals
+so if a page has a lot of quality links
+pointing at it
+then it'll be more competitive to rank
+so before choosing a keyword
+you need to ask yourself can i get more
+quality backlinks
+than the top ranking pages now at this
+point in the course
+we haven't talked about the attributes
+of quality backlinks
+but our link building module that's
+coming out in a couple of weeks
+should help you answer this question the
+second metric is website authority
+at ahrefs we call this domain rating
+which represents the overall strength of
+a website's backlink profile
+very generally speaking you should be
+going after keywords where your
+website's dr is in a similar ballpark
+range
+as the top ranking pages or at the very
+least
+one of the top ranking pages should be
+in the same range as your website
+for example if all of the websites that
+rank in the top 10
+have high dr's and you have a dr of
+let's say
+10 then you may want to consider
+competing when you're at a similar level
+so let's add that question to our
+checklist is my website in a similar dr
+or higher than the top ranking websites
+again this is a very general
+recommendation
+but still a decent one to follow if
+you're a beginner to seo
+to see the domain rating of your own
+site you can enter your domain in site
+explorer
+and see it here on the overview page or
+you can enter your domain in our free
+website authority checker
+i'll be leaving links to all of these
+tools in the description
+all right let's move on to the third
+part which is topical authority of the
+top ranking websites
+google wants to rank pages from
+authoritative sources
+and this goes beyond backlinks for
+example
+if we look at the serp 4 how to unclog a
+toilet
+you'll see that this dr42 site is
+outranking
+much more powerful websites with
+significantly more referring domains
+well this page comes from a website
+that's just about
+plumbing so it's likely more
+authoritative on the topic
+so the question you need to ask yourself
+is is my website
+equally or more topically authoritative
+than the top ranking websites if the
+answer is yes
+then that's a positive thing for you the
+easiest and quickest way to find out is
+to just look at the domain names
+and use some common sense for example
+looking at the serp 4
+best convertible car seat for small cars
+you'll see sites like
+experienced mommy baby center parenting
+pod
+baby list and other relevant sites that
+talk about products for children
+and for domains that aren't as easily
+distinguishable like
+800buckleup.org you can just visit the
+site
+hit the about page and get a general
+idea of what the site is about
+in this case you'll see that they talk
+about car seat recalls
+and review car seat brands so yes it is
+topically authoritative
+on car seats alright let's look at our
+full list of yes or no questions
+as a very general rule of thumb the more
+yeses you can check off
+the better your chances of ranking again
+very general because
+seo is quite nuanced with that said
+let's go through a couple of
+hypothetical examples for our golf site
+to set the scene
+let's say you have a website that's
+about golf instruction and you also
+review golf equipment
+and your website's domain rating is low
+at around 15.
+alright so the first example is for the
+quarry best golf grips let's start with
+the first question
+closely match search intent
+from the looks of it they all look
+decent so i'll check the no box
+next up can i get more quality backlinks
+than the top ranking pages
+again we haven't covered anything about
+quality backlinks yet
+so for now let's just look at quantity
+most of the sites have very few
+referring domains
+so i'd say this is a yes next question
+is my website in a similar dr range or
+higher than the top ranking websites
+based on the serp there are a few sites
+with similar website authority so let's
+give this a yes as well
+and finally is my website equally or
+more topically authoritative than the
+well all of the top pages are from golf
+sites and so is mine so let's give this
+a yes as well
+so based on our analysis it looks like
+this would be a topic worth going after
+all right the next analysis is for the
+keyword best putters
+looking at search intent overall it
+looks like the majority of pages are
+good
+so i'll check the no box but i do want
+to touch on this page
+on the best blade putters this is more
+of a focused post and they're likely
+ranking high for this because of
+all of the other factors like high
+website authority
+lots of referring domains and topical
+authority
+so i would actually exclude them from
+the rest of this analysis
+alright next up can i get more quality
+backlinks than the top ranking pages
+again just looking at the quantity of
+links to these pages
+the answer would likely be a yes seeing
+as we're still looking at about
+a dozen referring domains but it's
+important to realize
+that getting more links than the number
+one page probably won't happen in the
+near future
+meaning getting the top ranking spot
+will be tough
+next is my website in a similar dr range
+the answer is no
+and finally my website is topically
+authoritative
+so i'll give this a yes now it looks
+like we're at a tie between yeses and
+notes
+and this is exactly why i said as a very
+general rule of thumb
+the more yeses you can check off the
+better your chances of ranking
+again seo is nuanced plus you need to
+weigh out some of the other principles
+we discussed
+like traffic potential and business
+value
+and the best way to make sound judgment
+calls is through
+experience so it will take time to hone
+your skills
+and gain a better grasp of keyword
+analysis
+so as you can see understanding how hard
+it will be to rank in google
+will be a key skill to your success in
+search
+why because it's the first step to
+getting predictable results
+after all if you know what it'll take to
+rank ahead of your competition
+then it all comes down to execution and
+that's what the next two modules are all
+about next week i'll be dropping our
+on-page seo module
+which will help with actually creating
+content that ranks
+so make sure to subscribe so you don't
+miss out on those lessons
+or if you're watching at a later time
+then check the description to
+continue on with the course i'll see you
+in the next lesson

@@ -1,0 +1,273 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide)
+
+[3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary)
+
+[4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## SEO 101
+
+### What is it, and why is it important?
+
+Welcome! We’re excited that you’re here!
+
+If you already have a solid understanding of SEO and why it's important, you can skip to [Chapter 2](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) (though we'd still recommend skimming the best practices from Google and Bing at the end of this chapter; they're useful refreshers).
+
+For everyone else, this chapter will help build your foundational SEO knowledge and confidence as you move forward.
+
+## What is SEO?
+
+SEO stands for “search engine optimization.” It’s the practice of increasing both the quality and quantity of website traffic, as well as exposure to your brand, through non-paid (also known as "organic") search engine results.
+
+_Despite the acronym, SEO is as much about people as it is about search engines themselves._ It’s about understanding what people are searching for online, the answers they are seeking, the words they’re using, and the type of content they wish to consume. Knowing the answers to these questions will allow you to connect to the people who are searching online for the solutions you offer.
+
+If knowing your audience’s intent is one side of the SEO coin, delivering it in a way search engine crawlers can find and understand is the other. In this guide, expect to learn how to do both.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Laura-Simis-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760464910&s=fd254189cd07c74553b5f4228a2e720e)](/checkout/freetrial)
+
+### What's that word mean?
+
+If you're having trouble with any of the definitions in this chapter, be sure to open up our SEO glossary for reference!
+
+[ Check out the SEO glossary  ](/beginners-guide-to-seo/seo-glossary)
+
+## Search engine basics
+
+Search engines are answer machines. They scour billions of pieces of content and evaluate thousands of factors to determine which content is most likely to answer your query.
+
+Search engines do all of this by discovering and cataloguing all available content on the Internet (web pages, PDFs, images, videos, etc.) via a process known as “crawling and indexing,” and then ordering it by how well it matches the query in a process we refer to as “ranking.” We’ll cover crawling, indexing, and ranking in more detail in the next chapter.
+
+### Which search results are "organic"?
+
+As we said earlier, organic search results are the ones that are earned through effective SEO, not paid for (i.e. not advertising). These used to be easy to spot - the ads were clearly labeled as such and the remaining results typically took the form of "10 blue links" listed below them. But with the way search has changed, how can we spot organic results today?
+
+Today, search engine results pages — often referred to as “SERPs” — are filled with both more advertising and more dynamic organic results formats (called “SERP features”) than we've ever seen before. Some examples of SERP features are featured snippets (or answer boxes), People Also Ask boxes, image carousels, etc. New SERP features continue to emerge, driven largely by what people are seeking.
+
+For example, if you search for "Denver weather," you’ll see a weather forecast for the city of Denver directly in the SERP instead of a link to a site that might have that forecast. And, if you search for “pizza Denver,” you’ll see a “local pack” result made up of Denver pizza places. Convenient, right?
+
+It’s important to remember that search engines make money from advertising. Their goal is to better solve searcher’s queries (within SERPs), to keep searchers coming back, and to keep them on the SERPs longer.
+
+Some SERP features on Google are organic and can be influenced by SEO. These include featured snippets (a promoted organic result that displays an answer inside a box) and related questions (a.k.a. "People Also Ask" boxes).
+
+It's worth noting that there are many other search features that, even though they aren't paid advertising, can't typically be influenced by SEO. These features often have data acquired from proprietary data sources, such as Wikipedia, WebMD, and IMDb.
+
+## Why SEO is important
+
+While paid advertising, social media, and other online platforms can generate traffic to websites, the majority of online traffic is driven by search engines.
+
+Organic search results cover more digital real estate, appear more credible to savvy searchers, and receive way more clicks than paid advertisements. For example, [of all US searches, only ~2.8%](/rand/seo-opportunity-growing-shrinking/) of people click on paid advertisements.
+
+In a nutshell: [SEO has ~20X more traffic opportunity than PPC on both mobile and desktop.](/blog/state-of-searcher-behavior-revealed)
+
+SEO is also one of the only online marketing channels that, when set up correctly, can continue to pay dividends over time. If you provide a solid piece of content that deserves to rank for the right keywords, your traffic can snowball over time, whereas advertising needs continuous funding to send traffic to your site.
+
+Search engines are getting smarter, but they still need our help.
+
+Optimizing your site will help deliver better information to search engines so that your content can be properly indexed and displayed within search results.
+
+Check out this Whiteboard Friday by Larry Waddell on [How to Explain the Value of SEO to Executives](https://moz.com/blog/explain-seo-value-whiteboard-friday)!
+
+![](https://fast.wistia.com/embed/medias/xb9w5eeshy/swatch)
+
+### Should I hire an SEO professional, consultant, or agency?
+
+Depending on your bandwidth, willingness to learn, and the complexity of your website(s), you could perform some basic SEO yourself. Or, you might discover that you would prefer the help of an expert. Either way is okay!
+
+If you end up looking for expert help, it's important to know that many agencies and consultants "provide SEO services," but can vary widely in quality. [Knowing how to choose a good SEO company](https://cms.moz.com/blog/how-to-choose-seo-company-whiteboard-friday) can save you a lot of time and money, as the wrong SEO techniques can actually harm your site more than they will help.
+
+We also maintain a [recommended list of agency partners](https://moz.com/community/recommended), all of whom use [Moz SEO tools](https://moz.com/products) to power their work on your behalf!
+
+[![](https://moz.com/images/learn/Learn-CTAs/Alex-Bruner-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760465575&s=b6df7d89e7184ab658ab2bd7bd2383e5)](/checkout/freetrial)
+
+### White hat vs black hat SEO
+
+"White hat SEO" refers to SEO techniques, best practices, and strategies that abide by search engine rule, its primary focus to provide more value to people.
+
+"Black hat SEO" refers to techniques and strategies that attempt to spam/fool search engines. While black hat SEO can work, it puts websites at tremendous risk of being penalized and/or de-indexed (removed from search results) and has ethical implications.
+
+Penalized websites have bankrupted businesses. It's just another reason to be very careful when choosing an SEO expert or agency.
+
+### Search engines share similar goals with the SEO industry
+
+Search engines want to help you succeed. In fact, Google even has a Search Engine Optimization Starter Guide, much like [our own SEO Beginner’s Guide](https://moz.com/beginners-guide-to-seo#guide)! They're also quite supportive of efforts by the SEO community. Digital marketing conferences — such as Unbounce, MNsearch, SearchLove, and Moz's own [MozCon](https://moz.com/mozcon) — regularly attract engineers and representatives from major search engines.
+
+Google assists webmasters and SEOs through their [Webmaster Central Help Forum](https://productforums.google.com/forum/#!forum/webmasters) and [Google SEO Office Hours](https://developers.google.com/search/help/office-hours)[.](https://sites.google.com/site/webmasterhelpforum/en/office-hours) (Bing, unfortunately, shut down their Webmaster Forums in 2014.)
+
+While webmaster guidelines vary from search engine to search engine, the underlying principles stay the same: Don’t try to trick search engines. Instead, provide your visitors with a great online experience. To do that, follow search engine guidelines and fulfill user intent.
+
+### Google Webmaster Guidelines
+
+#### Basic principles:
+
+  * Make pages primarily for users, not search engines.
+  * Don't deceive your users.
+  * Avoid tricks intended to improve search engine rankings. A good rule of thumb is whether you'd feel comfortable explaining what you've done to a website to a Google employee. Another useful test is to ask, "Does this help my users? Would I do this if search engines didn't exist?"
+  * Think about what makes your website unique, valuable, or engaging.
+
+#### Things to avoid:
+
+  * Automatically generated content
+  * Participating in link schemes
+  * Creating pages with little or no original content (i.e. copied from somewhere else)
+  * Cloaking — the practice of showing search engine crawlers different content than visitors.
+  * Hidden text and links
+  * Doorway pages — pages created to rank well for specific searches to funnel traffic to your website.
+
+#### Things to avoid:
+
+  * Thin content, pages showing mostly ads or affiliate links, or that otherwise redirect visitors away to other sites will not rank well.
+  * Abusive link tactics that aim to inflate the number and nature of inbound links such as buying links, participating in link schemes, can lead to de-indexing.
+  * Ensure clean, concise, keyword-inclusive URL structures are in place. Dynamic parameters can dirty up your URLs and cause duplicate content issues.
+  * Make your URLs descriptive, short, keyword rich when possible, and avoid non-letter characters.
+  * Burying links in Javascript/Flash/Silverlight; keep content out of these as well.
+  * Duplicate content
+  * Keyword stuffing
+  * Cloaking — the practice of showing search engine crawlers different content than visitors.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Lily-Ray-Try-Link-Explorer-1.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760466668&s=7403b3485dd1e79742d4f456dfb0c81c)](/link-explorer)
+
+### Guidelines for representing your local business on Google
+
+If the business for which you perform SEO work operates locally, either out of a storefront or drives to customers’ locations to perform service, it qualifies for a Google My Business listing. For local businesses like these, Google has guidelines that govern what you should and shouldn’t do in creating and managing these listings.
+
+#### Basic principles:
+
+  * Be sure you’re eligible for inclusion in the Google My Business index; you must have a physical address, even if it’s your home address, and you must serve customers face-to-face, either at your location (like a retail store) or at theirs (like a plumber)
+  * Honestly and accurately represent all aspects of your local business data, including its name, address, phone number, website address, business categories, hours of operation, and other features.
+
+#### Things to avoid
+
+  * Creation of Google My Business listings for entities that aren’t eligible
+  * Misrepresentation of any of your core business information, including “stuffing” your business name with geographic or service keywords, or creating listings for fake addresses
+  * Use of PO boxes or virtual offices instead of authentic street addresses
+  * Abuse of the review portion of the Google My Business listing, via fake positive reviews of your business or fake negative ones of your competitors
+  * Costly, novice mistakes stemming from failure to [read the fine details of Google’s guidelines](https://support.google.com/business/answer/3038177?hl=en)
+
+It's good to be very familiar with Google's Webmaster Guidelines. Make time to get to know them.
+
+[ See the full Google Webmaster Guidelines here  ](https://support.google.com/webmasters/answer/35769?hl=en)
+
+### Local, national, or international SEO?
+
+Local businesses will often want to rank for local-intent keywords such as “[service] + [near me]” or “[service] + [city]” in order to capture potential customers searching for products or services in the specific locale in which they offer them. However, not all businesses operate locally. Many websites do not represent a location-based business, but instead target audiences on a national or even an international level. Be on the lookout for more on the topic of local, national, and international SEO in [Chapter 4](/beginners-guide-to-seo/on-page-seo)!
+
+### Bing Webmaster Guidelines
+
+#### Basic principles:
+
+  * Provide clear, deep, engaging, and easy-to-find content on your site.
+  * Keep page titles clear and relevant.
+  * Links are regarded as a signal of popularity and Bing rewards links that have grown organically.
+  * Social influence and social shares are positive signals and can have an impact on how you rank organically in the long run.
+  * Page speed is important, along with a positive, useful user experience.
+  * Use alt attributes to describe images, so that Bing can better understand the content.
+
+### Fulfilling user intent
+
+Instead of violating these guidelines in an attempt to trick search engines into ranking you higher, focus on understanding and fulfilling user intent. When a person searches for something, they have a desired outcome. Whether it’s an answer, concert tickets, or a cat photo, that desired content is their “[user intent.](https://moz.com/learn/seo/search-intent)”
+
+If a person performs a search for “bands," is their intent to find musical bands, wedding bands, band saws, or something else?
+
+Your job as an SEO is to quickly provide users with the content they desire in the format in which they desire it.
+
+Common user intent types:
+
+> [**Informational**](https://moz.com/learn/seo/informational-keywords)**:** Searching for information. Example: “What is the best type of laptop for photography?”
+
+> [**Navigational**](https://moz.com/learn/seo/navigational-keywords)**:** Searching for a specific website. Example: “Apple”
+
+> [**Transactional**](https://moz.com/learn/seo/transactional-keywords)**:** Searching to buy something. Example: “good deals on MacBook Pros”
+
+You can get a glimpse of user intent by Googling your desired keyword(s) and evaluating the current SERP. For example, if there's a photo carousel, it’s very likely that people searching for that keyword search for photos.
+
+Also evaluate what content your top-ranking competitors are providing that you currently aren’t. How can you provide 10X the value on your website?
+
+Providing relevant, high-quality content on your website will help you rank higher in search results, and more importantly, it will establish credibility and trust with your online audience.
+
+Before you do any of that, you have to first understand your website’s goals to execute a strategic SEO plan.
+
+If you'll be focusing on ranking in the Bing search engine, get to know their guidelines, as well. It's only polite (and good sense!)
+
+[ See the full Bing Webmaster Guidelines here  ](https://www.bing.com/webmaster/help/webmaster-guidelines-30fba23a)
+
+What will your KPIs (Key Performance Indicators) be to measure the return on SEO investment? More simply, what is your barometer to measure the success of your organic search efforts? You'll want to have it documented, even if it's this simple:
+
+> For the website ____________, my primary SEO KPI is ____________.
+
+Here are a few common KPIs to get you started:
+
+  * Sales
+  * Downloads
+  * Email signups
+  * Contact form submissions
+  * Phone calls
+
+And if your business has a local component, you’ll want to define KPIs for your Google My Business listings, as well. These might include:
+
+  * Clicks-to-call
+  * Clicks-to-website
+  * Clicks-for-driving-directions
+
+[![](https://moz.com/images/learn/Learn-CTAs/Will-Critchlow-Try-Link-Explorer.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760466404&s=323838f945b2817cd403c9615a32073a)](/link-explorer)
+
+You may have noticed that things like “ranking” and “traffic” weren’t on the KPIs list, and that’s intentional.
+
+“But wait a minute!” You say. “I came here to learn about SEO because I heard it could help me rank and get traffic, and you’re telling me those aren’t important goals?”
+
+Not at all! You’ve heard correctly. SEO can help your website rank higher in search results and consequently drive more traffic to your website, it’s just that ranking and traffic are a means to an end. There’s little use in ranking if no one is clicking through to your site, and there’s little use in increasing your traffic if that traffic isn’t accomplishing a larger business objective.
+
+For example, if you run a lead generation site, would you rather have:
+
+  * 1,000 monthly visitors and 3 people fill out a contact form? Or...
+  * 300 monthly visitors and 40 people fill out a contact form?
+
+If you’re using SEO to drive traffic to your site for the purpose of conversions, we hope you’d pick the latter! Before embarking on SEO, make sure you’ve laid out your business goals, then use SEO to help you accomplish them — not the other way around.
+
+SEO accomplishes so much more than vanity metrics. When done well, it helps real businesses achieve real goals for their success.
+
+Setting (and eventually achieving) the right goals is one of the most important things you can do as an SEO. We even have a handy Whiteboard Friday all about how to set smart, measurable goals for your clients!
+
+[ Watch the Whiteboard Friday  ](/blog/smart-seo-goals)
+
+#####
+
+This guide will help you become more data-driven in your SEO efforts. Rather than haphazardly throwing arrows all over the place (and getting lucky every once in a while), you'll put more wood behind fewer arrows.
+
+Grab a bow (and some coffee); let's dive into [Chapter 2 (How Search Engines Work – Crawling, Indexing, and Ranking)](/beginners-guide-to-seo/how-search-engines-operate).
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz staff.
+
+## Deliver the right content for every stage of your buyer’s journey
+
+**with Keyword Explorer**
+
+[ Analyze search intent ](/checkout/freetrial/signup/pro_medium/monthly)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Search-Intent.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855262&s=2e2c5838e6c7b5e4d71545b66c66290a)
+
+### Know your website/client’s goals
+
+Every website is different, so take the time to [really understand a specific site’s business goals](/blog/seo-value-for-clients). This will not only help you determine which areas of SEO you should focus on, where to track conversions, and how to set benchmarks, but it will also help you create talking points for negotiating SEO projects with clients, bosses, etc.
+
+Learn more about determining strategy and setting business, marketing, and SEO goals in the first installment of the One-Hour Guide to SEO, hosted by the one and only Rand Fishkin!
+
+[ Watch the video  ](https://moz.com/learn/seo/one-hour-guide-to-seo)
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

@@ -1,0 +1,456 @@
+hey<c> it's</c><c> ammo</c><c> and</c><c> welcome</c><c> to</c><c> the</c><c> final</c>
+hey it's ammo and welcome to the final
+module<c> in</c><c> ahrefs</c><c> seo</c><c> course</c><c> for</c>
+module in ahrefs seo course for
+beginners
+throughout<c> the</c><c> next</c><c> two</c><c> lessons</c><c> we're</c>
+throughout the next two lessons we're
+going<c> to</c><c> be</c><c> talking</c><c> about</c><c> technical</c><c> seo</c>
+going to be talking about technical seo
+and<c> technical</c><c> seo</c><c> is</c><c> the</c><c> process</c><c> of</c>
+and technical seo is the process of
+optimizing<c> your</c><c> website</c>
+optimizing your website
+to<c> help</c><c> search</c><c> engines</c><c> find</c><c> understand</c>
+to help search engines find understand
+and<c> index</c><c> your</c><c> pages</c>
+and index your pages
+now<c> for</c><c> beginners</c><c> technical</c><c> seo</c><c> doesn't</c>
+now for beginners technical seo doesn't
+need<c> to</c><c> be</c><c> all</c><c> that</c><c> technical</c>
+need to be all that technical
+and<c> for</c><c> that</c><c> reason</c><c> this</c><c> module</c><c> will</c><c> be</c>
+and for that reason this module will be
+focused<c> on</c><c> the</c><c> basics</c><c> so</c><c> you</c><c> can</c><c> perform</c>
+focused on the basics so you can perform
+regular<c> maintenance</c><c> on</c><c> your</c><c> site</c>
+regular maintenance on your site
+and<c> ensure</c><c> that</c><c> your</c><c> pages</c><c> can</c><c> be</c>
+and ensure that your pages can be
+discovered<c> and</c><c> indexed</c><c> by</c><c> search</c><c> engines</c>
+discovered and indexed by search engines
+let's<c> get</c><c> started</c><c> alright</c><c> so</c><c> let's</c><c> talk</c>
+let's get started alright so let's talk
+about<c> why</c><c> technical</c><c> seo</c><c> is</c><c> important</c><c> at</c>
+about why technical seo is important at
+the<c> core</c>
+the core
+basically<c> if</c><c> search</c><c> engines</c><c> can't</c>
+basically if search engines can't
+properly<c> access</c>
+properly access
+read<c> understand</c><c> or</c><c> index</c><c> your</c><c> pages</c><c> then</c>
+read understand or index your pages then
+you<c> won't</c><c> rank</c>
+you won't rank
+or<c> even</c><c> be</c><c> found</c><c> for</c><c> that</c><c> matter</c><c> so</c><c> to</c>
+or even be found for that matter so to
+avoid<c> innocent</c><c> mistakes</c><c> like</c><c> removing</c>
+avoid innocent mistakes like removing
+yourself<c> from</c><c> google's</c><c> index</c>
+yourself from google's index
+or<c> diluting</c><c> a</c><c> page's</c><c> backlinks</c><c> i</c><c> want</c><c> to</c>
+or diluting a page's backlinks i want to
+discuss
+four<c> things</c><c> that</c><c> should</c><c> help</c><c> you</c><c> avoid</c>
+four things that should help you avoid
+that<c> first</c><c> is</c><c> the</c><c> no</c><c> index</c><c> meta</c><c> tag</c>
+that first is the no index meta tag
+by<c> adding</c><c> this</c><c> piece</c><c> of</c><c> code</c><c> to</c><c> your</c>
+by adding this piece of code to your
+page<c> it's</c><c> telling</c><c> search</c><c> engines</c>
+page it's telling search engines
+not<c> to</c><c> add</c><c> it</c><c> to</c><c> their</c><c> index</c><c> and</c><c> you</c>
+not to add it to their index and you
+probably<c> don't</c><c> want</c><c> to</c><c> do</c><c> that</c>
+probably don't want to do that
+and<c> this</c><c> actually</c><c> happens</c><c> more</c><c> often</c>
+and this actually happens more often
+than<c> you</c><c> might</c><c> think</c>
+than you might think
+for<c> example</c><c> let's</c><c> say</c><c> you</c><c> hire</c><c> design</c>
+for example let's say you hire design
+inc<c> to</c><c> create</c><c> or</c><c> redesign</c><c> a</c><c> website</c><c> for</c>
+inc to create or redesign a website for
+you
+during<c> the</c><c> development</c><c> phase</c><c> they</c><c> may</c>
+during the development phase they may
+create<c> it</c><c> on</c><c> a</c><c> subdomain</c><c> on</c><c> their</c><c> own</c>
+create it on a subdomain on their own
+site
+so<c> it</c><c> actually</c><c> makes</c><c> sense</c><c> for</c><c> them</c><c> to</c>
+so it actually makes sense for them to
+know<c> index</c><c> the</c><c> site</c><c> they're</c><c> working</c><c> on</c>
+know index the site they're working on
+but<c> what</c><c> often</c><c> happens</c><c> is</c><c> after</c><c> you've</c>
+but what often happens is after you've
+approved<c> the</c><c> design</c>
+approved the design
+they'll<c> migrate</c><c> it</c><c> over</c><c> to</c><c> your</c><c> domain</c>
+they'll migrate it over to your domain
+but
+they<c> often</c><c> forget</c><c> to</c><c> remove</c><c> them</c><c> at</c><c> a</c><c> no</c>
+they often forget to remove them at a no
+index<c> tag</c>
+index tag
+and<c> as</c><c> a</c><c> result</c><c> your</c><c> pages</c><c> end</c><c> up</c>
+and as a result your pages end up
+getting<c> removed</c><c> from</c><c> google</c><c> search</c><c> index</c>
+getting removed from google search index
+or<c> never</c><c> making</c><c> it</c><c> in</c><c> now</c><c> there</c><c> are</c>
+or never making it in now there are
+times<c> when</c><c> it</c><c> actually</c><c> makes</c><c> sense</c><c> to</c><c> no</c>
+times when it actually makes sense to no
+index<c> certain</c><c> pages</c>
+index certain pages
+for<c> example</c><c> our</c><c> author's</c><c> pages</c><c> are</c><c> no</c>
+for example our author's pages are no
+indexed
+because<c> from</c><c> an</c><c> seo</c><c> perspective</c><c> these</c>
+because from an seo perspective these
+pages<c> provide</c>
+pages provide
+very<c> little</c><c> value</c><c> to</c><c> search</c><c> engines</c><c> but</c>
+very little value to search engines but
+from<c> a</c><c> user</c><c> experience</c><c> standpoint</c>
+from a user experience standpoint
+it<c> can</c><c> be</c><c> argued</c><c> that</c><c> it</c><c> makes</c><c> sense</c><c> to</c>
+it can be argued that it makes sense to
+be<c> there</c><c> some</c><c> people</c><c> may</c><c> have</c><c> their</c>
+be there some people may have their
+favorite<c> authors</c><c> on</c><c> a</c><c> blog</c>
+favorite authors on a blog
+and<c> want</c><c> to</c><c> read</c><c> just</c><c> their</c><c> content</c>
+and want to read just their content
+generally<c> speaking</c><c> for</c><c> small</c><c> sites</c>
+generally speaking for small sites
+you<c> won't</c><c> need</c><c> to</c><c> worry</c><c> about</c><c> no</c>
+you won't need to worry about no
+indexing<c> specific</c><c> pages</c>
+indexing specific pages
+just<c> keep</c><c> your</c><c> eye</c><c> out</c><c> for</c><c> no</c><c> index</c><c> tags</c>
+just keep your eye out for no index tags
+on<c> your</c><c> pages</c><c> especially</c><c> if</c><c> after</c><c> a</c>
+on your pages especially if after a
+redesign
+the<c> second</c><c> point</c><c> of</c><c> discussion</c><c> is</c>
+the second point of discussion is
+robots.txt
+robots.txt<c> is</c><c> a</c><c> file</c><c> that</c><c> usually</c><c> lives</c>
+robots.txt is a file that usually lives
+on<c> your</c><c> root</c><c> domain</c>
+on your root domain
+and<c> you</c><c> should</c><c> be</c><c> able</c><c> to</c><c> access</c><c> it</c><c> at</c>
+and you should be able to access it at
+yourdomain.com
+robots.txt<c> now</c><c> the</c><c> file</c><c> itself</c><c> includes</c>
+robots.txt now the file itself includes
+a<c> set</c><c> of</c><c> rules</c><c> for</c><c> search</c><c> engine</c>
+a set of rules for search engine
+crawlers
+and<c> tells</c><c> them</c><c> where</c><c> they</c><c> can</c><c> and</c><c> cannot</c>
+and tells them where they can and cannot
+go<c> on</c><c> your</c><c> site</c>
+go on your site
+and<c> it's</c><c> important</c><c> to</c><c> note</c><c> that</c><c> a</c>
+and it's important to note that a
+website<c> can</c><c> have</c><c> multiple</c><c> robots</c><c> files</c>
+website can have multiple robots files
+if<c> you're</c><c> using</c><c> sub</c><c> domains</c><c> for</c><c> example</c>
+if you're using sub domains for example
+if<c> you</c><c> have</c><c> a</c><c> blog</c><c> on</c><c> domain.com</c>
+if you have a blog on domain.com
+then<c> you'd</c><c> have</c><c> a</c><c> robots.txt</c><c> file</c><c> for</c>
+then you'd have a robots.txt file for
+just<c> the</c><c> root</c><c> domain</c>
+just the root domain
+but<c> you</c><c> might</c><c> also</c><c> have</c><c> an</c><c> ecommerce</c>
+but you might also have an ecommerce
+store<c> that</c><c> lives</c><c> on</c><c> store.domain.com</c>
+store that lives on store.domain.com
+so<c> you</c><c> could</c><c> have</c><c> a</c><c> separate</c><c> robots</c><c> file</c>
+so you could have a separate robots file
+for<c> your</c><c> online</c><c> store</c>
+for your online store
+that<c> means</c><c> that</c><c> crawlers</c><c> could</c><c> be</c><c> given</c>
+that means that crawlers could be given
+two<c> different</c><c> sets</c><c> of</c><c> rules</c>
+two different sets of rules
+depending<c> on</c><c> the</c><c> domain</c><c> they're</c><c> trying</c>
+depending on the domain they're trying
+to<c> crawl</c><c> now</c><c> the</c><c> rules</c><c> are</c><c> created</c><c> using</c>
+to crawl now the rules are created using
+something<c> called</c><c> directives</c>
+something called directives
+and<c> while</c><c> you</c><c> probably</c><c> don't</c><c> need</c><c> to</c>
+and while you probably don't need to
+know<c> what</c><c> all</c><c> of</c><c> them</c><c> are</c>
+know what all of them are
+or<c> what</c><c> they</c><c> do</c><c> there</c><c> are</c><c> two</c><c> that</c><c> you</c>
+or what they do there are two that you
+should<c> know</c><c> about</c><c> from</c><c> an</c><c> indexing</c>
+should know about from an indexing
+standpoint
+the<c> first</c><c> is</c><c> user</c><c> agent</c><c> which</c><c> defines</c>
+the first is user agent which defines
+the<c> crawler</c><c> that</c><c> the</c><c> rules</c><c> apply</c><c> to</c>
+the crawler that the rules apply to
+and<c> the</c><c> value</c><c> for</c><c> this</c><c> directive</c><c> will</c><c> be</c>
+and the value for this directive will be
+the<c> name</c><c> of</c><c> the</c><c> crawler</c>
+the name of the crawler
+for<c> example</c><c> google's</c><c> user</c><c> agent</c><c> is</c><c> named</c>
+for example google's user agent is named
+googlebot
+and<c> the</c><c> second</c><c> directive</c><c> is</c><c> disallow</c>
+and the second directive is disallow
+this<c> is</c><c> a</c><c> page</c><c> or</c><c> directory</c><c> on</c><c> your</c>
+this is a page or directory on your
+domain<c> that</c><c> you</c><c> don't</c><c> want</c><c> the</c><c> user</c>
+domain that you don't want the user
+agent<c> to</c><c> crawl</c><c> for</c><c> example</c><c> if</c><c> you</c><c> set</c>
+agent to crawl for example if you set
+the<c> user</c><c> agent</c><c> to</c><c> googlebot</c>
+the user agent to googlebot
+and<c> the</c><c> disallow</c><c> value</c><c> to</c><c> a</c><c> slash</c><c> you're</c>
+and the disallow value to a slash you're
+telling<c> google</c>
+telling google
+not<c> to</c><c> crawl</c><c> any</c><c> pages</c><c> on</c><c> your</c><c> site</c><c> not</c>
+not to crawl any pages on your site not
+good
+now<c> if</c><c> you</c><c> were</c><c> to</c><c> set</c><c> the</c><c> user</c><c> agent</c><c> to</c>
+now if you were to set the user agent to
+an<c> asterisk</c>
+an asterisk
+that<c> means</c><c> your</c><c> rule</c><c> should</c><c> apply</c><c> to</c><c> all</c>
+that means your rule should apply to all
+crawlers
+so<c> if</c><c> your</c><c> robot's</c><c> file</c><c> looks</c><c> something</c>
+so if your robot's file looks something
+like<c> this</c>
+like this
+then<c> it's</c><c> telling</c><c> all</c><c> crawlers</c><c> please</c>
+then it's telling all crawlers please
+don't<c> crawl</c>
+don't crawl
+any<c> pages</c><c> on</c><c> my</c><c> site</c><c> while</c><c> this</c><c> might</c>
+any pages on my site while this might
+sound<c> like</c><c> something</c><c> you</c><c> would</c><c> never</c>
+sound like something you would never
+use<c> there</c><c> are</c><c> times</c><c> when</c><c> it</c><c> makes</c><c> sense</c>
+use there are times when it makes sense
+to<c> block</c><c> certain</c><c> parts</c><c> of</c><c> your</c><c> site</c>
+to block certain parts of your site
+or<c> to</c><c> block</c><c> certain</c><c> crawlers</c><c> for</c><c> example</c>
+or to block certain crawlers for example
+if<c> you</c><c> have</c><c> a</c><c> wordpress</c><c> website</c><c> and</c><c> you</c>
+if you have a wordpress website and you
+don't<c> want</c><c> your</c><c> wp</c><c> admin</c><c> folder</c><c> to</c><c> be</c>
+don't want your wp admin folder to be
+crawled
+then<c> you</c><c> can</c><c> simply</c><c> set</c><c> the</c><c> user</c><c> agent</c>
+then you can simply set the user agent
+to<c> all</c><c> crawlers</c>
+to all crawlers
+and<c> set</c><c> the</c><c> disallow</c><c> value</c><c> to</c><c> wp</c><c> admin</c>
+and set the disallow value to wp admin
+now<c> if</c><c> you're</c><c> a</c><c> beginner</c><c> i</c><c> wouldn't</c>
+now if you're a beginner i wouldn't
+worry<c> too</c><c> much</c><c> about</c><c> your</c><c> robot's</c><c> file</c>
+worry too much about your robot's file
+but<c> if</c><c> you</c><c> run</c><c> into</c><c> any</c><c> indexing</c><c> issues</c>
+but if you run into any indexing issues
+that<c> need</c><c> to</c><c> be</c><c> troubleshooted</c>
+that need to be troubleshooted
+robots.txt<c> is</c><c> one</c><c> of</c><c> the</c><c> first</c><c> places</c><c> i</c>
+robots.txt is one of the first places i
+check
+alright<c> the</c><c> next</c><c> thing</c><c> to</c><c> discuss</c><c> are</c>
+alright the next thing to discuss are
+sitemaps<c> sitemaps</c><c> are</c><c> usually</c><c> xml</c><c> files</c>
+sitemaps sitemaps are usually xml files
+and<c> they</c><c> list</c><c> the</c><c> important</c><c> urls</c><c> on</c><c> your</c>
+and they list the important urls on your
+website
+so<c> these</c><c> can</c><c> be</c><c> pages</c><c> images</c><c> videos</c>
+so these can be pages images videos
+and<c> other</c><c> files</c><c> and</c><c> sitemaps</c><c> help</c><c> search</c>
+and other files and sitemaps help search
+engines<c> like</c><c> google</c><c> to</c><c> more</c>
+engines like google to more
+intelligently<c> crawl</c><c> your</c><c> site</c>
+intelligently crawl your site
+now<c> creating</c><c> an</c><c> xml</c><c> file</c><c> can</c><c> be</c>
+now creating an xml file can be
+complicated<c> if</c><c> you</c><c> don't</c><c> know</c><c> how</c><c> to</c>
+complicated if you don't know how to
+code
+and<c> it's</c><c> almost</c><c> impossible</c><c> to</c><c> maintain</c>
+and it's almost impossible to maintain
+manually
+but<c> if</c><c> you're</c><c> using</c><c> a</c><c> cms</c><c> like</c><c> wordpress</c>
+but if you're using a cms like wordpress
+there<c> are</c><c> plugins</c><c> like</c><c> yoast</c>
+there are plugins like yoast
+and<c> rank</c><c> math</c><c> which</c><c> will</c><c> automatically</c>
+and rank math which will automatically
+generate<c> sitemaps</c><c> for</c><c> you</c>
+generate sitemaps for you
+to<c> help</c><c> search</c><c> engines</c><c> find</c><c> your</c>
+to help search engines find your
+sitemaps<c> you</c><c> can</c><c> use</c><c> the</c><c> sitemap</c>
+sitemaps you can use the sitemap
+directive<c> in</c><c> your</c><c> robots</c><c> file</c>
+directive in your robots file
+and<c> also</c><c> submit</c><c> it</c><c> in</c><c> google</c><c> search</c>
+and also submit it in google search
+console
+next<c> up</c><c> are</c><c> redirects</c><c> a</c><c> redirect</c><c> takes</c>
+next up are redirects a redirect takes
+visitors<c> and</c><c> bots</c><c> from</c><c> one</c><c> url</c><c> to</c>
+visitors and bots from one url to
+another
+and<c> their</c><c> purpose</c><c> is</c><c> to</c><c> consolidate</c>
+and their purpose is to consolidate
+signals<c> for</c><c> example</c>
+signals for example
+let's<c> say</c><c> you</c><c> have</c><c> two</c><c> pages</c><c> on</c><c> your</c>
+let's say you have two pages on your
+website<c> on</c><c> the</c><c> best</c><c> golf</c><c> balls</c>
+website on the best golf balls
+an<c> old</c><c> one</c><c> at</c><c> domain.com</c>
+an old one at domain.com
+bestgolfballs2018
+and<c> another</c><c> at</c><c> domain.com</c><c> best</c><c> golf</c>
+and another at domain.com best golf
+balls
+seeing<c> as</c><c> these</c><c> are</c><c> highly</c><c> relevant</c><c> to</c>
+seeing as these are highly relevant to
+one<c> another</c><c> it</c><c> would</c><c> make</c><c> sense</c><c> to</c>
+one another it would make sense to
+redirect<c> the</c><c> 2018</c><c> version</c>
+redirect the 2018 version
+to<c> the</c><c> current</c><c> version</c><c> and</c><c> by</c>
+to the current version and by
+consolidating<c> these</c><c> pages</c>
+consolidating these pages
+you're<c> telling</c><c> search</c><c> engines</c><c> to</c><c> pass</c>
+you're telling search engines to pass
+the<c> signals</c><c> from</c><c> the</c><c> redirected</c><c> url</c>
+the signals from the redirected url
+to<c> the</c><c> destination</c><c> url</c><c> and</c><c> the</c><c> last</c>
+to the destination url and the last
+point<c> i</c><c> want</c><c> to</c><c> talk</c><c> about</c><c> is</c><c> the</c>
+point i want to talk about is the
+canonical
+tag<c> a</c><c> canonical</c><c> tag</c><c> is</c><c> a</c><c> snippet</c><c> of</c><c> html</c>
+tag a canonical tag is a snippet of html
+code<c> that</c><c> looks</c><c> like</c>
+code that looks like
+this<c> its</c><c> purpose</c><c> is</c><c> to</c><c> tell</c><c> search</c>
+this its purpose is to tell search
+engines<c> what</c><c> the</c><c> preferred</c><c> url</c>
+engines what the preferred url
+is<c> for</c><c> a</c><c> page</c><c> and</c><c> this</c><c> helps</c><c> to</c><c> solve</c>
+is for a page and this helps to solve
+duplicate<c> content</c><c> issues</c>
+duplicate content issues
+for<c> example</c><c> let's</c><c> say</c><c> your</c><c> website</c><c> is</c>
+for example let's say your website is
+accessible<c> at</c><c> both</c>
+accessible at both
+http<c> colon</c><c> double</c><c> slash</c><c> yourdomain.com</c>
+http colon double slash yourdomain.com
+and<c> https</c><c> colon</c><c> double</c><c> slash</c>
+and https colon double slash
+yourdomain.com<c> and</c><c> for</c><c> whatever</c><c> reason</c>
+yourdomain.com and for whatever reason
+you<c> weren't</c><c> able</c><c> to</c><c> use</c><c> a</c><c> redirect</c><c> these</c>
+you weren't able to use a redirect these
+would<c> be</c><c> exact</c><c> duplicates</c>
+would be exact duplicates
+but<c> by</c><c> setting</c><c> a</c><c> canonical</c><c> url</c><c> you're</c>
+but by setting a canonical url you're
+telling<c> search</c><c> engines</c><c> that</c><c> there's</c><c> a</c>
+telling search engines that there's a
+preferred<c> version</c><c> of</c><c> the</c><c> page</c>
+preferred version of the page
+as<c> a</c><c> result</c><c> they'll</c><c> pass</c><c> signals</c><c> such</c><c> as</c>
+as a result they'll pass signals such as
+links<c> to</c><c> the</c><c> canonical</c><c> url</c>
+links to the canonical url
+so<c> they're</c><c> not</c><c> diluted</c><c> across</c><c> two</c>
+so they're not diluted across two
+different<c> pages</c>
+different pages
+now<c> it's</c><c> important</c><c> to</c><c> note</c><c> that</c><c> google</c>
+now it's important to note that google
+may<c> choose</c><c> to</c><c> ignore</c><c> your</c><c> canonical</c><c> tag</c>
+may choose to ignore your canonical tag
+looking<c> back</c><c> at</c><c> the</c><c> previous</c><c> example</c><c> if</c>
+looking back at the previous example if
+we<c> set</c><c> the</c><c> canonical</c><c> tag</c><c> to</c><c> the</c><c> unsecure</c>
+we set the canonical tag to the unsecure
+http<c> page</c><c> google</c><c> would</c><c> probably</c><c> choose</c>
+http page google would probably choose
+the<c> secure</c>
+the secure
+https<c> version</c><c> instead</c><c> now</c><c> if</c><c> you're</c>
+https version instead now if you're
+running<c> a</c><c> simple</c><c> wordpress</c><c> site</c>
+running a simple wordpress site
+you<c> shouldn't</c><c> have</c><c> to</c><c> worry</c><c> about</c><c> this</c>
+you shouldn't have to worry about this
+too<c> much</c><c> cmss</c><c> are</c><c> pretty</c><c> good</c><c> out</c><c> of</c><c> the</c>
+too much cmss are pretty good out of the
+box
+and<c> will</c><c> handle</c><c> a</c><c> lot</c><c> of</c><c> these</c><c> basic</c>
+and will handle a lot of these basic
+technical<c> issues</c><c> for</c><c> you</c>
+technical issues for you
+so<c> these</c><c> are</c><c> some</c><c> of</c><c> the</c><c> foundational</c>
+so these are some of the foundational
+things<c> that</c><c> are</c><c> good</c><c> to</c><c> know</c><c> when</c><c> it</c>
+things that are good to know when it
+comes<c> to</c><c> indexing</c><c> which</c><c> is</c><c> arguably</c>
+comes to indexing which is arguably
+the<c> most</c><c> important</c><c> part</c><c> in</c><c> seo</c><c> because</c>
+the most important part in seo because
+again
+if<c> your</c><c> pages</c><c> aren't</c><c> getting</c><c> indexed</c>
+if your pages aren't getting indexed
+nothing<c> else</c><c> really</c>
+nothing else really
+matters<c> now</c><c> we</c><c> won't</c><c> really</c><c> dig</c><c> deeper</c>
+matters now we won't really dig deeper
+into<c> this</c>
+into this
+because<c> you'll</c><c> probably</c><c> only</c><c> have</c><c> to</c>
+because you'll probably only have to
+worry<c> about</c><c> indexing</c><c> issues</c>
+worry about indexing issues
+if<c> and</c><c> when</c><c> you</c><c> run</c><c> into</c><c> problems</c>
+if and when you run into problems
+instead<c> we'll</c><c> be</c><c> focusing</c><c> on</c><c> technical</c>
+instead we'll be focusing on technical
+seo<c> best</c><c> practices</c>
+seo best practices
+to<c> keep</c><c> your</c><c> website</c><c> in</c><c> good</c><c> health</c><c> and</c>
+to keep your website in good health and
+that<c> lesson</c><c> will</c><c> be</c><c> published</c><c> later</c><c> on</c>
+that lesson will be published later on
+this<c> week</c>
+this week
+so<c> make</c><c> sure</c><c> to</c><c> subscribe</c><c> so</c><c> you</c><c> don't</c>
+so make sure to subscribe so you don't
+miss<c> out</c><c> on</c><c> that</c><c> and</c><c> if</c><c> you're</c><c> watching</c>
+miss out on that and if you're watching
+this<c> at</c><c> a</c><c> later</c><c> date</c>
+this at a later date
+then<c> check</c><c> the</c><c> description</c><c> because</c><c> we'll</c>
+then check the description because we'll
+have<c> links</c><c> to</c><c> the</c><c> rest</c><c> of</c><c> the</c><c> course</c>
+have links to the rest of the course
+there
+i'll<c> see</c><c> you</c><c> in</c><c> the</c><c> next</c><c> lesson</c>

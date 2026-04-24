@@ -1,0 +1,310 @@
+# Link Building for Local SEO: 6 Easy Ways to Get Backlinks
+
+If you want to rank yours or your client's
+local business higher in Google, then you're
+going to need backlinks.
+In fact, a 2018 study by Moz showed that backlinks
+are an important ranking factor for both Map
+Pack and localized organic rankings.
+But unlike general link building tactics where
+location isn't always hugely important, links
+from local sites seem to have more impact
+when it comes to link building for local SEO.
+So in this tutorial, I'm going to show you
+6 ways to find solid local link prospects
+that'll help you rank your local business
+higher in Google.
+Stay tuned.
+[music]
+Now, before we get into the actual tactics,
+it's important we differentiate between local
+link building and just link building in general.
+Link building is the process of getting contextually
+relevant websites to link to a page on your website.
+And local link building is basically the same thing,
+but with one additional but very important layer.
+Ideally, you want to get backlinks from pages
+that are both contextually and locally relevant
+to your website.
+For example, let's say you're a photographer in
+Toronto and want to get backlinks to your site.
+Getting a link from a page on how to take
+good pictures would certainly be contextually
+relevant, but this site lacks locational relevance.
+It's a blog that targets a global audience.
+Now, there's nothing wrong with these links but
+it's ideal if you can get a link from a page like
+this where there's contextual relevance
+and it's on a locally relevant website.
+And if we add in authority to our venn diagram
+which is authority, then the ideal backlink
+would land somewhere in this sweet spot.
+But finding "ideal" links isn't always possible
+so it's perfectly fine to get contextual or
+locally relevant links too.
+Now, while the difference doesn't sound that
+big, your approach to finding, qualifying and
+pitching link prospects will be different from
+most link building tactics that are usually
+talked about in a global context.
+Now, the good thing about local SEO when it
+comes to backlinks is that there won't be as
+much competition because you're
+competing with local players.
+But the downside is that you may need to get
+more creative in finding link prospects because
+there will likely be fewer targets compared
+to a site doing global SEO.
+So let's talk about some easy
+local link building tactics.
+The first way is to join your local
+chamber of commerce.
+A chamber of commerce is simply a business
+network for local organizations.
+And most major cities and even smaller suburban
+towns will have a chamber of commerce.
+And these kinds of links would fall right
+into this section in our venn diagram.
+Chamber of commerce websites often have
+high authority and local relevance, but aren't
+the strongest in terms of contextual relevance
+because they're usually just directory links.
+Nevertheless, they're easy to get
+and not bad at all.
+So to get started, just search for "chamber
+of commerce" and your city.
+Then go to one of those sites and you should
+be able to easily sign up for a membership.
+After you've paid for your membership, you
+should be added to their directory with your
+business's name, address, phone number,
+and website URL.
+Now, in addition to becoming a member at your
+local chamber of commerce, you may want to
+consider providing member discounts as it
+can lead to new business as well as a link
+back to your site.
+The next way is to join niche-relevant
+business associations.
+These types of links are much like chamber
+of commerce links.
+For legitimate business associations, authority
+will be high and local relevance will be there too.
+So to find niche-relevant business associations,
+you can search in Google for any of these
+search queries.
+Take a screenshot and let's run
+through an example.
+With Ahrefs' SEO Toolbar enabled, I'll search
+for "toronto photographers association," which
+is my city + my hypothetical niche + association.
+And right within the SERP, you'll see SEO
+metrics for each domain and page.
+Now, if we visit this page, and go to their
+member directory, you'll see that indeed,
+they do have indexed URLs with outbound
+links to their members' websites.
+Now, you might consider the two types of links
+that we've discussed so far as glorified citations
+because they don't carry much weight in terms
+of topical or contextual relevance.
+So it's important that we also talk about
+getting backlinks within content.
+These are typically harder to get, but generally
+speaking, the tougher it is to acquire a link,
+the more valuable it'll be.
+So let's move on to the next tactic which
+is local resource page link building.
+Resource page link building is where you get
+backlinks from web pages that curate and link
+out to useful industry resources.
+And it works really well because the purpose
+of the pages are to literally link out to relevant
+and helpful resources.
+Now, in our venn diagram, resource page links
+will usually fall around here, where contextual
+and locational relevance are decent.
+But on occasion, you'll be able to find some
+websites that have decent domain-level authority.
+So let's assume that we're building resource
+page links for a plumber in the UK.
+To get started, I'll go to Google and search for
+something like inurl:resources.html site:co.uk,
+and then I'll add a word like "plumbing"
+since it's relevant to my niche.
+And now you can see sites that contain resources.html
+in the URL, are on a co.uk domain and include the word
+"plumbing" on the page.
+Again, you can enable Ahrefs SEO toolbar to
+get domain and page level metrics for each
+of these results.
+From here, you'll want to do two things.
+#1. Visit the pages to see if they actually
+link out to external websites.
+If they don't, then it's probably not worth
+your time to ask for one.
+And #2. Use some common sense.
+If you're a plumber and you're asking another
+plumbing company down the road to link to
+you, then it's probably not going to happen.
+Now, you can alter your search a bit because
+there could be tons of locally relevant websites
+using a generic top-level domain like .com.
+So let's search for inurl:resources, your city and
+state, and then your niche-relevant keyword.
+Filter through the list and then send your
+link pitches where appropriate.
+But you shouldn't stop here.
+You can also search for tangential businesses
+in the same location.
+For example, if you're a wedding photographer
+in Toronto, you might want to look for flower
+shops, event venues, cake shops, etc.
+So you might search for "inurl:resources.html
+toronto wedding venue."
+Then click on the results and see if there
+are any appropriate places for you to ask
+to be considered as a resource.
+We have a full video on doing resource page
+link building at scale, so I highly recommend
+watching that if you want to do this efficiently.
+Alright the next tactic is to guest
+post on local websites.
+Guest posting is when you write content
+on someone else's website.
+And this tactic falls smack dab in the middle
+of our venn diagram because when you guest
+blog, you can handpick the sites you
+want to write for.
+To get started, you can use Ahrefs' Content
+Explorer to search through billions of pages
+of content and filter prospects by
+their SEO metrics.
+So let's say you're a photographer in Australia.
+I'll search for "title:photography site:au."
+This will narrow down results to pages that
+mention photography in the title and live
+on a .au domain.
+Next, let's hit the one page per domain filter
+since we don't need to pitch the same site
+multiple times.
+I'll also exclude homepages since we're looking
+for local websites that have blog posts.
+And they'd likely be more receptive
+to a guest post pitch.
+Now, since we're searching for guest blogging
+opportunities, let's set a word count filter to
+show pages with at least 500 words in the
+content which will exclude gallery, contact,
+and other thin pages.
+Finally, we'll set a Domain Rating filter with a
+minimum value of 30 and a maximum value of 60.
+And this will show us websites that have
+decent website authority.
+And now we have a very manageable list of blogs
+we could pitch for a guest writing opportunity.
+Again, you can alter the search and replace
+the "site" part of the query with your city name
+to find potential local opportunities too.
+Alright, the next tactic is to get
+featured on local list posts.
+For almost any product or service, there's
+likely going to be some "best of" lists.
+For example, "best mexican restaurants
+in Seattle," "best helicopter tour nyc," etc.
+Plus, there's going to be variations like "fun
+things to do in london" and "child-friendly
+activities in chicago."
+Bottomline: people are always looking for
+options and there will almost always be blog
+posts to serve their needs.
+You just need to become one of those options.
+These links are great because not only do they
+fall right in the middle of the venn diagram, but
+they're also a great way to get
+customers through your doors.
+So to get started, just search for a query
+that's likely to bring up a list in your area.
+For example, "best italian restaurant in Toronto."
+And since I have Ahrefs' SEO toolbar enabled,
+we can see both page- and domain-level metrics
+for the search results.
+Now, when you're looking through the list,
+you'll want to pay attention to pages that
+are likely blog posts and ignore directories
+like Trip Advisor and Yelp.
+So this one from Toronto Life seems
+to make a whole lot of sense.
+From here, take a look through other restaurants
+they've mentioned and if you feel your food
+or whatever it is that you offer is comparable
+or better than the rest, then consider pitching
+yourself as a potential candidate.
+For example, you might say:
+"Hi Benjamin,
+My name is Sam and I'm the owner at
+Sam's Italian Eatery in the Danforth.
+I saw your post on Toronto's best Italian
+restaurants and was heartbroken to see
+we weren't included.
+But hey, it's not your fault :) We just opened
+up our first restaurant in Toronto and brought
+in world renowned chef, Samo Ferrari.
+If you're open, I'd love for you to come try our
+restaurant so we might be considered for
+inclusion in your list.
+No obligations at all!
+Here's a preview of our menu: [Link]
+If interested, please let me know a date
+and time that works best for you.
+We'd love to have you!
+Cheers,
+Sam"
+Now it's just a matter of rinsing and repeating and
+trying to get on every list in the top 10 if possible.
+Alright, the last tactic is to look at your
+top organic competitors' backlinks.
+The logic behind this tactic is that if your
+competitors are ranking at the top of Google,
+then they likely have backlinks that
+are moving the needle.
+So it's worth finding common backlinks between
+your competitors and then reaching out to these
+sites to try and get them for yourself.
+To get started, go to Google and search for
+something like "your niche + city."
+So I'll search for "mexican restaurant toronto."
+From here, you'll want to gather a list of your
+competitors' domains using the Map Pack
+and organic results.
+And we want to avoid sites like directories
+as well as blogs because we're looking for
+real business competitors here.
+Alright, so I've made my list of around
+eight competing restaurants.
+Now we need to find common backlinks
+between these sites.
+So I'll go to Ahrefs Link Intersect tool and in the top
+section, I'll enter all of my competitors' domains.
+And in the bottom section, I'll add my
+hypothetical Mexican restaurant's domain.
+Now, let's run the search.
+And now you can see the websites that are
+linking to your competitors, but not you.
+As a general rule of thumb, the more competitors
+that a website links to, the more relevant
+the referring domain will be to your site.
+For example, if we click on the link from Narcity
+to this competitor, you'll see the link comes from
+a post on Toronto's best taco restaurants -
+a perfectly good page to get a link from.
+Just make your way through the list and you
+should be able to find more than enough link
+building opportunities for your site.
+Now, these are just a few ways to get backlinks
+to your local business's website.
+So go and try them out and if you enjoyed
+this tutorial, then make sure to like, share
+and subscribe for more actionable SEO
+and marketing tutorials.
+I'll see you in the next one.

@@ -1,0 +1,422 @@
+Kind: captions
+Language: en
+SEO, social media marketing, email marketing,
+PPC advertising.
+Where do you start and how do you use these
+to get more traffic to your website?
+If you're a beginner to digital marketing
+and you want to cut through the noise,
+then keep watching because I'm going
+to show you how all of these work
+based on a decade of experience rather than just theory.
+Stay tuned.
+[music]
+What's up marketers, Sam Oh here with Ahrefs,
+the SEO tool that helps you grow your search traffic,
+research your competitors and dominate your niche.
+Today, I'm going to share 7 digital marketing
+strategies that I have personally used
+and gotten results with.
+And if there's only one thing that you take away
+from this video, it's to not try all of these at once.
+Instead, pick one of these strategies, experiment
+and master the channel before moving on to the next.
+Let's get to it.
+So before we dig into these strategies, you
+need to make sure that you're adopting today's
+mindset of the consumer.
+Today, we live in a "content first" world.
+People are looking for information before they buy.
+So you need to really put yourself in the
+buyer's shoes rather than allowing yourself
+to get blinded by how great you think your
+products and services are.
+The mentality you need to adopt is to help
+people rather than trying to cold sell them.
+When you help people solve problems through
+free and valuable content that is relevant
+to your business, you reach larger audiences
+and build trust.
+The best part is that you get the opportunity
+to show people how your products and services
+can help them solve their problems and fulfill
+their desires and needs.
+Alright, so the first internet marketing strategy
+is blogging with SEO in mind.
+Now, blogging isn't writing about what you
+did today or even something more noble
+like an epiphany you had.
+That's a diary.
+But don't get me wrong.
+This kind of content can work well if you
+have an existing and loyal audience.
+But for most of us that just want to get more
+traffic, leads, and sales we need to intentionally
+target problems that your target audience
+wants to solve.
+In the world of blogging, this whole process can be summed up as a technique called keyword research.
+Let me show you two clear-cut examples on
+how keyword research works.
+In the first example, let's say you sell physical
+products like computer parts and accessories.
+What do you think future customers might be
+searching for in Google?
+Probably questions like:
+Why is my computer so slow?
+How to build a computer?
+How to speed up a computer?
+These are all very real problems and people
+are looking for solutions.
+In fact, Ahrefs' Keywords Explorer tells us
+that these exact search queries get tens of
+thousands of searches each month.
+Now, the best part about these specific queries
+is that you can help people solve their problems,
+while integrating products from your store
+in the content.
+"Why is my computer so slow" could come down
+to a hard drive, CPU, or ram problem.
+So help your readers diagnose the problem
+and offer product solutions within your post.
+"How to build a computer" would be a super
+easy plug for any computer components.
+They're already showing intent to build,
+so it's unlikely that they've already purchased
+parts and peripherals.
+Alright, second example.
+Let's say you're a real estate agent and you're
+compensated when someone buys,
+sells, or rents a property.
+Now, the thing that most agents do is boast
+about how many homes they've sold
+or how they won an award that you nor I
+have never heard of.
+My point is that the average buyer or seller doesn't care.
+And to prove my point, no one is searching
+for things like:
+which realtor won the most awards in New York?
+But again, potential customers are looking
+for solutions to their problems.
+Problems like:
+How to invest in real estate?
+How to buy a house?
+What credit score is needed to buy a house?
+And again, these all have the potential to
+attract a massive audience.
+By ranking in Google for something like "how
+to invest in real estate,"
+you're now attracting potential buyers with deep pockets and they likely have intent to buy.
+Content on "how to buy a house" would likely
+require the work of an agent at some point,
+which could be you.
+"What credit score is needed to buy a house"
+is a great way to show that your knowledge
+and intentions go beyond making a sale.
+The best thing about blogging for SEO is that
+once you rank, you'll be getting free, consistent
+and passive traffic from Google.
+If you're new to SEO, I highly recommend watching
+our SEO for beginners video,
+which will give you a nice overview of what SEO is,
+how it works, and how you can get it to work for you.
+I'll also link up some additional resources
+on doing keyword research that grows traffic
+and revenue, as well as a video on how to write
+a blog post with SEO in mind.
+For now, let's move on to the second strategy,
+which is to invest in video content,
+specifically on YouTube.
+YouTube is the second most visited search
+engine in existence.
+To top that off, video carousels nearly doubled
+in 2017 in Google's search results.
+Video isn't just the future.
+It's the present.
+And the same principle of helping potential
+customers works for video too.
+When people go to video search engines like YouTube,
+they're looking to find answers to their questions.
+For example, if you bought a so-called "new"
+iPhone X on eBay, you might search for
+"iPhone X unboxing" and see if all of the contents
+are in the box.
+And according to Ahrefs' Keywords Explorer,
+108,000 searches are happening each
+month globally on YouTube alone for this keyword.
+In fact, this video that you're watching right now
+was chosen because I can see that people are
+specifically looking for digital marketing
+tutorials for beginners.
+To come up with topic ideas that people are
+searching for in your niche,
+head over to Ahrefs' Keyword Explorer, switch the search engine to YouTube
+and search for a broad keyword in your niche.
+Let's use "makeup" as an example.
+Now, "makeup" as a standalone keyword isn't a problem.
+So let's go to the Questions report,
+where you can see popular questions people are searching for on your topic.
+And right away, you'll see great topic ideas
+like "how to clean makeup brushes"
+and how to cover acne with makeup.
+Now, when you're creating these videos, try
+and keep the fluff out and pack in as much
+necessary value as possible.
+Doing this has helped us grow our YouTube
+views to over 150,000 views per month
+and best of all, since all of our videos show
+how our SEO tools can help,
+it's led to thousands of new paying leads and customers,
+specifically mentioning that they found us through YouTube.
+Most of our video growth was done through
+YouTube SEO, so I'll leave links to a tutorial
+to help you rank your videos and get more views.
+Next up is social media marketing.
+Rather than covering every social media network,
+I want to pass on a couple of important tips
+that will help you grow your social channels.
+The first is to focus on just one social media
+channel when you're just starting out.
+It takes time to build a following.
+But numbers aren't everything.
+What you want is a loyal following.
+When you dip your toes into every possible
+social media network out there,
+your attention gets divided and the results get diluted.
+So which social media marketing channel do
+you choose?
+That leads us into the second tip,
+which is to go where your target audience is
+and cater to the platform.
+If you have to choose just one social network,
+it's not about choosing the one with the
+most active users.
+It's all about understanding the audience
+that's there and if you can serve the reason
+for them being there.
+You really need to think about why someone
+is logging into the specific social media network.
+For example, people usually go to YouTube
+to learn how to do something, or to be entertained.
+But Facebook is different. Think about it.
+Have you ever logged onto Facebook, hoping
+that you would see an unboxing tutorial?
+Or better yet, have you ever opened your Facebook
+app hoping you would find a limited time offer
+that's 97% off, only for the next 37 minutes?
+Probably not.
+People don't check Facebook with credit card in hand.
+People like and share things that are helpful,
+interesting, shocking or funny.
+So if you are going to try and bring people
+into your world, present your message as
+a story, video, or something else that will
+likely stand out from the endless feed
+of vacation vanity shots.
+Pinterest on the other hand is primarily a
+social search engine
+where people can control what they want to search for.
+The primary intent of users on this platform
+is to get inspired, learn things, and plan to do things.
+So create content that caters to their intent
+for being there.
+So if this is your audience, take advantage
+of a less competitive landscape from both
+an ads and organic perspective.
+Speaking of ads, that's the next digital marketing
+strategy on the list for today.
+When it comes to paid advertising, please do not
+throw your money blind into an ad network
+because you read that it was good.
+What works for one person won't necessarily
+work for the next person.
+Instead, think about the ABCs of paid advertising.
+A is for audience, B is for budget
+and C is for commerciality.
+We've already covered the audience part.
+You want to engage on social networks where
+your target audience hangs out.
+Budget is the next one.
+Bloomberg reported that Google and Facebook
+own a combined 58% of the $111 billion dollar market.
+Now, the way ads work are usually based on auctions.
+The more advertisers there are, the more expensive
+it gets for you and I.
+So let's say you're in the ultra competitive
+industry of conference calling.
+If we search for that keyword in Keywords
+Explorer with Google set as the search engine,
+you'll see that the cost per click from Google Ads is $20!
+If you have an ad budget of let's say $1,000
+per month, then you'd only be able to get
+50 clicks before your budget was depleted.
+Instead, you can do two things:
+The first option is to look for keywords that
+have a lower cost per click.
+Just go to the Phrase match report to see
+all keywords in our keyword database that
+contain your target keyword.
+Next, set a filter to only show keywords that
+have a maximum cost per click
+of something lower like $5.
+From here, you can filter through the list
+and see if there are some more lucrative opportunities
+rather than spending $20 per click.
+This one for a "conference call app" might
+be a good one since it's a quarter of the price.
+Another benefit is that the reason behind
+the searcher's query is more clear.
+Someone searching for this is clearly looking
+for an app that does conference calls,
+whereas someone searching for just "conference
+call" could be looking for many different things.
+The second thing you can do is experiment
+with less popular ad platforms
+where your target audience might be.
+Finally is commerciality.
+Now, all major ad platforms are able to bring
+ROI for their advertisers.
+Otherwise, they wouldn't exist.
+But you have to find a way to bridge the gap
+between the intent of the platform
+and how you monetize your products.
+And the solution is going to be content.
+For example, let's say you sell boutique furniture
+and think that Pinterest will be a good platform
+to run some ads.
+In my opinion, it wouldn't be a good idea
+to advertise a bunch of links to high-end
+furniture like couches and dining tables.
+Instead, blog posts could work really well
+here since people log on to Pinterest mainly
+to get inspired, and learn new things.
+Here's what that bridge might look like.
+Pinterest ads would be the discovery tool.
+You pay them money and they'll show your pin.
+The bridge would then be a helpful blog post
+on let's say, "11 Interior Design Tips For
+Your Living Room That Won't Break the Bank."
+And within that content, you could showcase your products where it supports the tip you're speaking of.
+Nail the ABCs of paid ads, and increase your
+chances of actually converting your hard earned
+dollars into ROI.
+Next up is one of my favorites and that's podcasts.
+Now, there are two ways to look at podcasts.
+First is to create your own and the second
+is to be interviewed on someone else's podcast.
+Creating your own podcast can be great for
+brand and building an audience.
+But if you're just starting out, it can take
+quite a bit of time to get any sort of traction.
+Getting interviewed on podcasts is a different story.
+Podcasters are always looking for interesting
+people to interview.
+Even if you don't have a ton of experience
+in the online world, your offline experiences
+and expertise could be a great way to land
+yourself a position on a popular podcast.
+Now, if you don't know which podcasts you
+should approach, an easy way to find opportunities
+is to look at your favorite podcasts and find
+someone in your industry that has been interviewed.
+Looking at the podcast page for Entrepreneur
+on Fire, you'll see this episode with Jim Kwik.
+Now, if we click through to the interview,
+you'll notice two things.
+The first is that the guest's name is in the title.
+This is very common for podcast interviews.
+Second is the link on the page.
+The host will almost always link to the guest's
+home page in the show notes.
+Knowing this, we can use a tool like Ahrefs'
+Site Explorer to find all podcasts they've
+been interviewed on.
+So I'll enter in jimkwik.com and I'll also
+set the search mode to a URL search so we
+can find pages that are linking specifically
+to the homepage.
+Once the overview page loads, go to the backlinks
+report, which will show you all of the pages
+that are linking to this URL.
+Finally, let's use the Include search and
+type in Jim Kwik.
+And to keep our results super relevant, I'm
+going to set the filter to search for his
+name only in the titles of the referring pages.
+And we now have around 120 podcasts we can
+pitch to get interviewed.
+So filter through relevant podcasts, and pitch
+the host as to why they should interview you
+and the value you can give to their audience.
+Next on the list is email marketing.
+If you've ever looked into email marketing,
+then you've probably heard people claiming
+that "email is king."
+But I promise you that once you get into it,
+you'll quickly discover that it's not as turnkey
+as online gurus make it sound.
+And don't get me wrong.
+Email marketing is great.
+But first, you need traffic to get email subscribers.
+It also requires opt-in forms to turn a visitor
+into a subscriber.
+In my opinion, email is a great long play
+to build connection with your audience and
+and even sell high ticket items.
+So my tip for you on email marketing is quite simple:
+First, focus on building your email list from day one.
+It's important and you might as well collect
+emails from interested people from the start,
+even if it's not a substantial list.
+But be realistic with your goals and as you build
+your audience, put more time into your email
+list and see how it can serve your business.
+The final strategy is to use forums and
+community boards.
+Community forums like Quora, Reddit, and Facebook
+are great promotion channels.
+But before you go off and start posting links
+to your product pages,
+there are a few things you need to understand.
+And these are all based around the unspoken
+rules of spam.
+First: don't promote your products or services
+pages within these groups.
+The intent of users on these platforms is to learn.
+Not to be sold to directly.
+Instead, think of these networks as a place
+to share your expertise,
+build relationships and help others.
+Second: use links to your content sparingly.
+If you're constantly posting links to your
+blog and have justified in your head that
+that this is non-promotional, then you're most
+likely wrong.
+Links can be more appropriate based on the
+network you're posting on.
+For example, Quora generally has longer answers,
+and linking to your content where it supports your point is a good idea.
+Facebook groups on the other hand are a different
+story.
+Let's say you're a real estate agent and you
+join a "first time homebuyers" group on Facebook.
+If someone asks a question like:
+"I'm looking to buy my first home and was
+wondering if I can even get a mortgage?"
+Now, if every agent on that group posts links to their website,
+can you see how spammy that could get?
+Instead, it would make sense to post a link
+to someone else's affordability calculators
+or offer introductions to b-lenders.
+The point is that helping first will go a
+lot farther than self-promotional content
+that can taint your reputation.
+Now, I'd love to hear from you.
+Which digital marketing strategy do you think
+is most effective in online marketing?
+Let me know in the comments and if you enjoyed
+this video, then make sure to like, share
+and subscribe for more actionable SEO and
+marketing tutorials.
+So keep grinding away, focus on one marketing
+channel before trying the next,
+and I'll see you in the next tutorial.

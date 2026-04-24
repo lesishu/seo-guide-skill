@@ -1,0 +1,252 @@
+hey it's sam oh and welcome to the first
+module which is on keyword research
+in this first lesson we're going to talk
+about what keywords are
+and how to choose them using a simple
+four point checklist
+let's get started so what are keywords
+in the context of seo
+they're simply just words and phrases
+that people type into search engines
+to find what they're looking for for
+example
+if you are shopping for running shoes
+you might search for keywords like
+men's running shoes or simply just
+running shoes
+now keywords are actually super
+important in seo
+because it sets the entire foundation
+for search engine optimization
+the basic goal of seo is to rank your
+pages for keywords that your target
+audience
+or customers are searching for and if
+you're not ranking for
+keywords that actually get searched then
+your seo efforts are kind of meaningless
+for example we rank number one for the
+query seo checklist
+and this keyword is responsible for
+driving around 1500 monthly visitors
+from google
+and that's just in the us so keyword
+research
+is the process of finding keywords that
+people are inputting into search engines
+and we'll get into this process in the
+upcoming lessons
+so how do you actually choose keywords
+that are worth targeting
+let's run through a checklist that
+should help you choose keywords
+effectively
+the first thing to check is if your
+keyword has search demand
+search demand represents the volume of
+monthly searches made for a keyword
+and this is measurable with a keyword
+metric that we call search volume
+you can find the search volume for a
+keyword by using a keyword research tool
+like ahrefs keywords explorer
+for example the quarry kilometers to
+miles gets searched around 478
+000 times per month in the us alone
+but as you can see here in hfs keywords
+explorer 80
+of searches go without a click to a page
+and that's because google has a handy
+calculator right here
+that'll solve the searcher's problem so
+search volume alone can actually be a
+bit misleading
+which is why it's worth looking at the
+second checkpoint which is to check the
+traffic potential of the topic
+traffic potential represents the total
+search traffic you could get
+if you were to rank at the top of google
+for your keyword
+let's look at the stats for our seo
+checklist page in hf site explorer
+so again we rank number one for the
+quarry seo checklist
+and it sends us approximately 1500
+monthly search visits from the us
+but if we look at the total global
+organic traffic to the page
+you'll see that we get approximately 3
+000 monthly visits from google
+every single month and that's because
+this page ranks for over 200 keywords
+and this page isn't an outlier
+in our study of three million keywords
+we found that on average
+the top ranking page ranks for nearly a
+thousand other keywords in the top ten
+so while you may be optimizing your
+pages for a main keyword
+your page will likely rank for hundreds
+or even thousands of other relevant
+keywords
+and because of that the monthly search
+seo checklist is actually higher than
+its monthly search volume
+this is what makes traffic potential a
+much more reliable metric than search
+volume
+and the way you determine traffic
+potential is by looking at how much
+traffic the top ranking pages are
+getting
+for example if we go to ahrefs keywords
+explorer and search for
+submit website to search engines you'll
+see that it has a search volume of 1100
+monthly searches
+in the us now if i scroll to the bottom
+of the page
+you'll see a serp overview which shows
+you the top 10 ranking pages for that
+keyword
+and serp just stands for search engine
+results page
+and as you can see our page gets an
+estimated 5 300 monthly search visits
+from the us alone
+and we rank for over 1300 keywords
+making traffic potential of this keyword
+higher than its search volume
+now it doesn't always work out this way
+for example the query
+keyword cannibalization has a search
+volume of 150 monthly searches
+but the traffic potential is well under
+so it becomes more of a business
+decision whether you want to tackle the
+topic or not
+now choosing keywords based on metrics
+alone is not a good idea
+which is why the rest of the checkpoints
+are meant to ground you
+the next point on our checklist is to
+assess the business potential of the
+keyword or topic
+business potential simply represents the
+value a keyword has to your business
+and value really comes down to your
+niche as well as your business model
+so an easy way to do this is by
+assigning scores between
+one to three to keywords you're
+researching the higher the number
+the more important the topic is to your
+business so
+let's say you have a site about golf and
+the way you make money is by selling
+used golf clubs
+bringing this back to business potential
+that means topics where you can
+organically recommend products to
+visitors
+would hold the highest business value
+for example
+people searching for something like buy
+are likely ready to make a purchase here
+and now
+so in my books this would have a
+business value of three
+now a keyword like best golf clubs would
+also be relevant to your site
+people are likely ready to make a
+purchase soon but just don't know which
+clubs to buy
+but it's actually quite easy to plug
+your products because for the golf clubs
+you recommend
+you can easily link back to your product
+pages leading visitors
+closer to making a purchase so i'd give
+this a business value of two
+now a keyword like what is a handicap in
+golf would be really tough to
+organically recommend your products
+but nevertheless it's a way to attract
+relevant traffic to your site
+so i'd give this a business value of one
+so these would hold the lowest priority
+and anything that has a score of zero is
+probably worth ignoring because it's not
+going to impact your bottom line
+so something like happy gilmore review
+would have a business value of
+zero because it has nothing to do with
+your business other than the fact that
+it's a fantastic movie about golf
+alright the next point on this checklist
+is to see if you can match search or
+intent
+this is a concept that we covered in the
+first lesson of this course
+but it's something that i'm going to
+keep talking about because it's super
+important
+so again search intent represents the
+reason behind the searches query
+and the way we determine that is by
+looking at the top ranking pages
+for the keyword we want to rank for for
+let's say you have a recipes blog and
+you want to rank for toaster oven
+looking at the top ranking pages you'll
+see that almost
+all of the pages are ecommerce category
+pages this tells us that the intent of
+the searcher
+is likely to buy or at least to shop
+around for different toaster ovens
+so unless you can actually satisfy the
+intent of the searcher
+it's unlikely that you'll be able to
+rank high for this query and we'll dig
+deeper into search intent in the next
+lesson
+the final point on this checklist is to
+determine whether you can rank for your
+search volume traffic potential and
+business potential mean
+absolutely nothing if you can't rank for
+your keyword
+in the not so distant future and
+understanding the level of difficulty to
+rank for a given keyword
+takes a bit of analysis and practice
+this is why i've created an
+entire lesson on assessing ranking
+difficulty because mastering this
+process will help you get predictable
+results in seo
+so i'll save that for a later lesson now
+actually choosing keywords comes down to
+finding a balance in this checklist
+you have to ask yourself does the topic
+drive enough traffic
+and have business value to make it worth
+the effort
+and this is the question you should ask
+yourself before you create pages
+with the intent to rank in search and
+these five points in the checklist are
+exactly what we're going to dive deeper
+into
+throughout the rest of this module
+tomorrow we'll be publishing the next
+video in this course
+on searcher intent so make sure to
+subscribe so you don't miss that
+and if you're watching this video at a
+later date then check the description
+because we'll have a link to the entire
+course there
+see you in the next lesson

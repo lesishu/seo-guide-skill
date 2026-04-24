@@ -1,0 +1,491 @@
+Kind: captions
+Language: en
+﻿In this video, I'm going to show you how
+to do YouTube SEO to rank your videos
+#1 in YouTube search.
+And we've used this exact process
+to rank #1 for all of the most coveted
+keywords in our niche like… "SEO,"
+"search engine optimization,"
+"keyword research," "link building," "technical
+SEO," "content marketing," "internet marketing,"
+"online marketing," and the list goes on.
+And beyond warm and fuzzy feelings,
+our YouTube search rankings resulted
+in&nbsp;nearly 1.3 million views last year.
+Now, you might be thinking, "why is YouTube
+SEO important when the most views come
+from suggested and browse features?"
+Well, there are 3 absolutely critical reasons
+why I think you should have a YouTube SEO
+strategy especially if you're trying to
+get that initial traction to your videos.
+#1. Suggested and browse views usually
+require you to have an existing subscriber
+base and an existing library of relevant videos.
+#2. Search views are super consistent.
+And consistent views lead to consistent
+subscribers, assuming you're delivering
+on the title of your video – more on this later.
+And #3. Search views have high average
+view&nbsp;durations – at least how-tos, tutorials,
+and tips videos.
+In fact, in 2021, we had over&nbsp;101,000
+hours of watch time to our tutorials
+from YouTube search.
+To put that into perspective, that means
+in&nbsp;2021, our videos got over 11 years of
+continuous watch time from YouTube search.
+Bananas!
+Alright, enough of the flexing.
+Let's get straight into the YouTube SEO tips
+and processes that are&nbsp;going to help you rank
+your videos #1.
+The first step is to do
+YouTube keyword research.
+To get started, you'll need&nbsp;to
+generate a list of keyword ideas.
+And there are a few&nbsp;places you can look.
+The first is YouTube autosuggest.
+Just start typing in your keyword and
+you'll see a list of queries that other
+YouTube users are searching for.
+Jot down some that interest you because
+at&nbsp; this stage, we're just brainstorming.
+Now, because YouTube doesn't show you any
+search volume data, you can throw them into
+Google Trends, make sure you have
+the search mode&nbsp;set to YouTube search,
+and you'll get a general idea of
+search popularity on YouTube.
+And just so you know, Google Trends
+doesn't show you absolute search volumes.&nbsp;
+They&nbsp;show relative popularity instead.
+So in this case, over the past year or so,
+"makeup&nbsp;tutorial for beginners" was more
+popular than "makeup transformation," and
+both of these keywords&nbsp;were more popular
+than "makeup routines."
+Another way you can find keyword ideas
+is to use a tool like TubeBuddy, vidIQ,&nbsp;or
+Ahrefs' Keywords Explorer.
+Here's how&nbsp;they work starting with TubeBuddy.
+After you've installed their Chrome
+Extension, just click on this icon,
+and then go to Keyword Explorer.
+Next, search&nbsp;for a seed keyword, which is
+just a broad keyword&nbsp;related to your niche,
+like "makeup."
+And right away, they'll give you some
+scoring metrics, the number of videos
+in the search results and the estimated
+monthly search volume.
+Hit the Video Topics tab to
+see more keyword ideas.
+Now, personally, I don't trust their search
+volume estimations because I've compared
+a bunch of keywords that our&nbsp;channel's
+videos have consistently ranked for, and
+TubeBuddy's estimations were quite&nbsp;a bit off.
+More on this in a bit.
+Now, if you're going to use this tool,&nbsp;then
+I'd focus just on the video topics tab
+to come up with some keyword ideas.
+The second YouTube keyword
+research tool is vidIQ.
+To get started, login to your vidIQ
+account and hit Keywords in the menu.
+Then just like last time, type in a
+seed keyword and run the search.
+And you'll see significantly more keyword
+ideas&nbsp;than the other two tools I mentioned.
+Again, I don't trust their search volume&nbsp;estimations
+for the same reason as TubeBuddy, but you should
+be able to find some interesting
+topics worth creating videos on,
+if topic generation is your goal.
+Finally, is Ahrefs Keywords Explorer.
+Just select YouTube as the search engine,
+enter your seed keyword, and run the search.
+And right away, you'll see the search volume
+for your target country, the estimated number
+of clicks to videos, and the global search
+volume broken down by country.
+And as far as I know, Ahrefs is the only
+tool that shows you country specific
+YouTube search data.
+Now, to see keyword ideas, just go to the
+matching terms report and in this case,
+you'll see well over 300,000 unique keyword
+ideas with plenty of filters to play around with
+seeing as this keyword list is exponentially.
+larger than all other tools combined.
+Alright, so we need to address the elephant
+in the&nbsp;room because I've made some pretty
+bold claims on these tool's
+search volume estimations.
+I actually pulled our view data from YouTube
+studio for 14 random keywords we had
+consistently ranked #1 for in January.
+Then I pulled search volume estimations from
+each tool and compared them to actual views
+to calculate a rough CTR for each tool.
+And here are the results.
+Now, conventional wisdom tells me that
+the&nbsp;true clickthrough rate for a top-ranking
+video would generally be around 15-18%,
+so it's clear&nbsp;right off the bat that TubeBuddy
+almost always drastically
+overestimates search volumes.
+In fact, their search volume figures suggest that
+on average, a top-ranking video only gets 0.2%
+of clicks with a median of 0.05% clickthrough
+rate – and no, this is not a computing error.
+VidIQ was slightly better but still,&nbsp;their
+volumes are drastically overestimated too.
+On average, their search volumes suggest
+a 0.63% average CTR to top-ranking videos
+for our keywords.
+And the median was at 0.53%.
+And it's worth noting that the spread
+between their average and median
+CTRs was the closest of the 3 tools.
+As for Ahrefs' Keywords Explorer, our search
+volumes suggest that the keywords had
+an average&nbsp;CTR of 37.09% and
+a median CTR of 12.42%.
+And the reason for the huge spread
+is because of an outlier in a small
+dataset where we had an estimated CTR
+of 346% which is obviously not true.
+Bottomline: no keyword research tool is perfect,
+so it's important you use the search volumes for
+what they are – estimations.
+And I won't go deeper into YouTube keyword
+research because we have a full tutorial on
+that&nbsp;which I'll link up in the description.
+Alright, next up, you need to&nbsp;choose
+a topic you want to go&nbsp;after.
+And you should have a brainstormed
+keyword list from the last step.
+Now, what you'll want to do is search
+for the keyword in YouTube search
+while you're in private browsing mode.
+Then look for two things in the top 3 videos.
+#1. Try and identify the format of the video –
+in this case, we have 3 step-by-step tutorials,
+so you'll want to create a video
+with the same format.
+And #2. Scope out your competitors.
+Now generally speaking, you'll want to look at
+the size of the channel and their topical authority.
+So for the query, "makeup tutorial for
+beginners," you'll see that the top 3
+channels all have over a million subscribers.
+Now, this doesn't mean you can't compete,
+but if your&nbsp;channel has 100 subscribers,
+it'll be a David&nbsp;and Goliath story
+if you can outrank them.
+As for topical authority, just dig through
+their channels to see if most of their content
+is on the same topic.
+In this case, all 3&nbsp;channels are mostly
+about makeup or a mix of makeup,
+beauty and fashion.
+So again, if you're a small channel,
+I wouldn't try and compete for this
+keyword at this point.
+Instead, I'd just rinse and repeat
+these steps until you find a topic
+that's more realistic to rank for.
+Alright, so after you've chosen a topic to
+create a video around, it's time&nbsp;to move
+on to the next step which is
+to create a high-performing video.
+And by high-performing, I'm referring
+to a video that will have high retention,
+high&nbsp;average view duration, and high CTR.
+A big ask but let me show you how to do that.
+For educational type content, which is kind
+of the bread and butter of YouTube SEO,
+you'll want to script your content.
+Reason being, people's attention
+spans are&nbsp;short.
+And if you're going off on tangents, you're
+going to lose the high retention&nbsp;and high
+average view durations.
+Now, as for the structure of your script,
+let's keep things simple and talk about
+them as they come – the intro,
+the&nbsp;body, and then the outro.
+For the intro, you'll want to keep it short and
+sweet and grab the attention of your viewers.
+You want to give them a reason
+to keep watching.
+For example, in this video's intro, I showed
+you that we rank #1 for the most coveted
+keywords in our niche and
+showed you proof&nbsp;of our traffic.
+That's probably something&nbsp;that a
+viewer searching for a YouTube SEO
+tutorial would want to learn too.
+As for the actual body of your content,
+this is where you need to deliver on your
+title and intro.
+And there are&nbsp;two things you should master:
+the technical aspects and the engagement factors.
+Let's talk about the technical stuff first.
+Throughout your video, you'll want to say
+your target keyword and related entities
+to your topic.
+In fact, Google has officially said that
+they extract audio from the video file
+to understand what words are being spoken.
+And that's probably why all of your videos, at
+least in English, are automatically transcribed
+when you upload a video.
+Now, much of this should come naturally
+because they'll need to be mentioned in
+a comprehensive tutorial.
+So, there's no need to stuff in a bunch
+of related keywords just for the sake of it.
+Now, in that same statement from Google,
+they said&nbsp;they extract visual information
+such as objects, animations or motions.
+And this means that you should&nbsp;show
+matching visuals on your screen to your
+spoken words if applicable.
+For example, if you're making a video on
+making a perfect cup of coffee and you
+might say: "Heat your kettle to 185 degrees&nbsp;
+Fahrenheit," and show a matching visual.
+Now, if you're in a niche like ours where
+it's harder to show visuals that match
+the words being spoken, then use text
+screens like this, or screencasts.
+As for the engagement aspects, this is quite
+easy because you'll be scripting your content.
+This allows you to add hooks throughout
+your&nbsp;video to keep your audience engaged.
+For example, you might say "Check this out"
+or briefly mention an interesting point and
+follow it up with "More on this later."
+It helps retain people's attention if they're
+truly interested in what you have to say.
+Another thing you can do is ask for engagement
+metrics like likes, comments, and shares.
+For&nbsp;example, I might ask you: "If you want to
+see a video on getting more suggested views,
+then let me know in the comments."
+And for people who genuinely want
+to know how to do this, they might
+actually leave a comment.
+Alright, the final part of
+your script is the outro.
+Just like the intro, you want to keep it
+short because people will click away
+if&nbsp;they know the video is coming to an end.
+Another thing worth doing is recommending
+other related videos towards the end of
+your content.
+And if people click and watch&nbsp;these
+videos, then your videos are creating
+longer session watch times which is what
+YouTube wants at the end of the day.
+Alright, after you've finished scripting
+your content, you'll record your video,
+edit it and then we're on to the next step
+which&nbsp;is to optimize your video for YouTube.
+So there are 7 things you'll need
+to do to&nbsp;optimize your videos.
+And these include your video file name,
+your video title,&nbsp;tags, description, thumbnail,
+closed captions, and cards and end screens.
+It sounds like a lot, but some of these
+take no longer than five seconds.
+So, first, you'll want to change your
+video filename to your target keyword.
+So this video's&nbsp;file is called youtube-seo.mp4.
+Easy.
+Second, is the title.
+And there are a&nbsp;few things
+you'll want to do here.
+#1. include your target keyword in it, which
+you can see we've done in our video's title;
+#2. Try and keep your title under
+60 characters to avoid truncation;
+and #3. Create a title that'll
+complement&nbsp;your thumbnail.
+And we'll get to the thumbnail in a bit.
+The third thing is to fill in your tags.
+Now, personally, I don't really think tags
+do that much for YouTube SEO, but it
+only takes a few minutes to do
+so here's how we do it at Ahrefs.
+Our first tag is almost always
+our target keyword.
+Then we add a few more
+related&nbsp;keywords.
+Then we'll continue to go broader.
+Both Tubebuddy and VidIQ are
+great for generating&nbsp;tags.
+They show you suggestions in YouTube studio
+and you can also research your competitors
+tags by visiting one of their videos.
+The fourth thing is the description.
+Here, you'll want to write a brief summary
+on what you'll talk about in the video.
+And&nbsp;while I doubt this is a big ranking factor,
+we include some of the tagged keywords&nbsp;if
+it makes sense in context.
+Another thing worth doing is to add
+timecodes to different parts of your video.
+And this helps with video SEO so you can
+capture key moment in Google search.
+We have full video on doing video SEO,
+so&nbsp;I'll link that up in the description.
+The fifth optimization tip
+is for the thumbnail.
+Now, because this video isn't about how
+to make a good thumbnail for YouTube,
+I'm going to leave with two high-level
+tips to create great thumbnails.
+Tip #1. Your thumbnail should
+complement your&nbsp;title.
+And these two things alone will play the
+greatest role in your click through rate,
+which is insanely important to get views
+from any organic YouTube traffic source.
+For example, this video is titled "How
+to speed up your WordPress website."
+And our thumbnail in my opinion, perfectly
+complements the title with a before and
+after&nbsp;picture of our website's speed and a
+little fun with me at my night job as the Flash.
+The second tip is to try and draw curiosity
+with a few words in your thumbnail.
+For example, we created a video on how accurate
+Google Keyword Planner is and the thumbnail&nbsp;text
+text says: "Is keyword planner accurate?"
+For those that are interested,
+they'll have to click it to find out.
+The sixth optimization you should
+make is to add closed captions.
+These are files that you can upload to
+YouTube to caption the audio in your video.
+And we do this for all of our videos because as
+I already mentioned, YouTube uses the words
+we speak to understand the video's content.
+Plus, for non-native speakers, it's helpful&nbsp;to
+better understand the content as reading is
+sometimes easier than listening.
+This can help to&nbsp;improve your
+average view duration metric too.
+YouTube has a built in tool for adding
+closed captions, and because you've
+scripted your content, it's super-easy to do.
+And the last YouTube SEO tip for optimizing
+your video is to add relevant cards&nbsp;and&nbsp;end
+screens to your videos.
+YouTube wants people to stay on their
+platform for as long as possible.
+And if your content is responsible for
+fulfilling&nbsp;their objective, then they're
+going to promote your video to more people.
+For example, I didn't want to expand on&nbsp;video
+SEO when I was talking about key moments.
+So I added a card for those that
+want to watch and learn more.
+As for end screens, it's almost always
+worth adding relevant videos at the end
+of your video.
+This creates a better user experience
+for the engaged viewers that make&nbsp;it
+to the end and want more from you.
+By successfully executing on these 7 YouTube
+SEO&nbsp;tips, you've covered all of the essentials to
+optimize your videos for YouTube search.
+Here's a quick checklist of the tips we just
+went through, take a screenshot and let's
+move on to the last step of our tutorial
+and that's to promote your video.
+Now, the strategy you use will
+depend on your circumstances.
+And you'll likely&nbsp;fall into
+one of two categories.
+Category #1. You have an existing audience
+outside&nbsp;of YouTube like blog readers, social
+followers, email subscribers, and customers.
+And if you have all of these things,
+then promotion is pretty easy.
+Start by&nbsp;embedding your video in relevant
+blog posts, send an email to your subscribers,
+and share&nbsp;your video on
+other social platforms.
+We'll touch on a few more tactics in
+a second because they apply to you
+and those that are in category 2.
+And these are people who don't
+have an audience on any platform.
+The truth is, it's going to be a grind to
+rank your videos on YouTube simply
+because&nbsp;of the way YouTube's algorithm works.
+But all hope is not lost.
+There are three promotion&nbsp;tactics you
+can use to drive views to your video
+and grow your channel's authority which
+will&nbsp; help you in your YouTube SEO efforts.
+#1. Share your videos on sites
+like Reddit and Quora.
+Now, rather than just spamming video
+links, it's best if you provide some value,
+seeing as your video will likely be
+educational to a certain extent.
+And again, you'll want to make sure that
+they're added in relevant subreddits and
+answers because the people who
+click&nbsp;it, actually need to watch it.
+#2. Consider running YouTube
+search&nbsp;ads for your target query.
+Basically, you just need to set up an ad
+campaign and bid on your target query.
+And with a budget of $5 to $15 per day,
+you can actually get quite a&nbsp;significant
+number of views for the money.
+And even though we're over 300,000
+subscribers today, the views are so
+cheap that we continue to do it.
+On average, we pay around $0.01 per
+minute watched through search ads.
+And there is no other marketing medium
+that compares&nbsp;from a paid ads perspective.
+If you're interested in using this strategy,
+then I highly recommend watching our full
+tutorial on using this
+YouTube ads technique.
+I'll link it up in the description.
+And the third tactic is to pay
+for sponsored newsletters.
+Now, we've only done this a couple of
+times, but we had some decent spikes
+in subscribers for a pretty low cost.
+The key is finding relevant sponsored newsletters
+that have your target audience and promoting
+a video that will appeal to the majority.
+For example, if you have a YouTube channel
+on toddler&nbsp;parenting, then you might consider
+reaching out to sites like
+Baby Center or The Bump.
+And the video you promote, might be one on how to
+deal with tantrums because it's a common struggle
+that parents with toddlers go through.
+There are no hidden secrets to YouTube SEO.
+You&nbsp;just need to do keyword research,
+pick a topic,&nbsp;create a high retention video,
+do the&nbsp;basics of video optimization using
+the YouTube SEO tips I showed you earlier,
+and&nbsp;then promote it to relevant audiences.
+That's it!
+Do these things better than the top ranking
+videos, and I hope you'll be able to dominate
+YouTube search for your niche.

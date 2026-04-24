@@ -1,0 +1,170 @@
+# Module 2.1: How to Find Your Seed Prospects
+
+Hey, it's Sam Oh and welcome to the second
+module which is all about link prospecting.
+Now, I've structured this module in three
+lessons where each lesson represents
+a step in creating personalized and
+scalable link building campaigns.
+Step 1 is to find your seed prospects,
+which&nbsp;is what this lesson is all about.
+Step 2 is to find lookalike prospects based
+on your seeds, which will broaden the scope
+of your link building campaign.
+And step 3 is to segment your prospects
+which will help you scale your&nbsp;campaigns
+in a personalized way.
+So let's get started with&nbsp;finding seed prospects.
+Seed prospects are simply people who
+link to&nbsp;a page for a specific reason.
+For example, did they link because of a specific&nbsp;
+point that was made in the content, is it because
+they like the brand,&nbsp;or was it something else?
+Now, finding seed prospects is important
+because it'll do two things for you.
+#1. You'll understand why
+people are linking to a&nbsp;page,
+and #2. Because you know why, you'll know
+how to approach them in your outreach pitch.
+And&nbsp;we'll get into some examples in a bit.
+Now, the most important skill for a prospector
+to have when it comes to finding seed prospects
+is the ability to identify patterns.
+And by pattern, I'm referring to common
+reasons for linking or a commonality
+among linking pages.
+Now, we've already gone through a couple
+of examples in the previous module,
+but I want to talk about how you can
+find opportunities for your own site.
+And it's really just about looking for patterns
+in three places when analyzing a competing
+page's link profile.
+And these places are:
+The context of the backlinks, which help&nbsp;you
+understand why people are linking to a&nbsp;page.
+And we'll specifically be looking
+at anchors and surrounding text.
+The referring pages' titles which tells you
+where their links are coming from and/or
+the types of pages they're coming from.
+And the actual content, which tells you
+what your email pitch will be based on.
+So let's start off by looking at the&nbsp;context
+of links to a competing page.
+Just as I showed you in lesson 1.2., studying
+the anchors of a competing page's backlinks
+can help you understand why
+people&nbsp;linked to a page.
+And these "whys" can often be
+considered as "linkable points."
+For example, when we created our SEO stats
+page, we looked at the anchors profile for top
+ranking pages.
+And we immediately noticed that the majority
+of links were attributable&nbsp;to specific stats
+that were mentioned.
+This is a pattern.
+Now, if we click on the 93%&nbsp;anchor, it'll open
+up the backlinks report with&nbsp;that anchor set
+in the filters.
+And as you can see, the context of the
+link is "93% of online&nbsp;experiences begin
+with a search engine."
+Now, this stat alone doesn't
+help with a&nbsp;pitch angle.
+You have to look for a pitch&nbsp;angle
+that's related to the stat.
+And it was&nbsp;pretty easy for us to come up
+with one because if you click through to
+that page, you'll&nbsp;see that 93%
+isn't even mentioned on it.
+Plus, the stat was around a decade old,
+meaning it's completely irrelevant today
+because the way we use
+the&nbsp;internet has changed a lot.
+So as a pitch angle, we could say something&nbsp;
+like, "hey, you mentioned this stat,&nbsp;but where
+did you get it from?
+The page&nbsp;you're linking to doesn't say that.
+Plus, recent stats show that&nbsp;68% of online
+experiences begin&nbsp;with a search engine."
+Blah blah blah.
+Alright, let's move on to the second place
+to look&nbsp;and that's the referring page titles
+of a competing page's backlinks.
+In the previous module, we discovered some
+pages that are linking to a link building guide.
+And the reason for them linking is because
+that guide used to have an ebook.
+So as you can see from the anchors,
+the linking pages are saying to go and
+download an ebook.
+Now, seeing as&nbsp;there's really only a few
+good linking pages,&nbsp;it wouldn't be worth
+creating an&nbsp;ebook to maybe get a few links.
+We need to look for a commonality that can
+potentially expand our pool of prospects.
+And that commonality is in
+the titles of&nbsp;referring pages.
+As you can see, all of the titles
+are listicles on free SEO ebooks.
+So our&nbsp;seed prospects are
+listicles on SEO ebooks.
+As for the pitch angle, we can simply pitch
+a free ebook without any kind of opt-in,
+which many of their recommendations&nbsp;use.
+Not a great benefit packed pitch,
+but it's a good starting point.
+Alright, the third place to look for
+patterns is the actual content itself.
+And the&nbsp;easiest thing you can look for is incorrect,
+dangerous, or outdated recommendations.
+Now, this one is quite situational but
+nevertheless, it's something worth
+paying&nbsp;attention to because it works pretty well.
+I'll&nbsp;give you an example in the SEO industry.
+So this page on LSI keywords
+has over 500 referring domains.
+But there's no such thing as LSI keywords.
+LSI stands for latent semantic&nbsp;indexing and
+in short, it's an indexing method&nbsp;and has
+nothing to do with keywords.
+Now, today, this page explains that
+LSI keywords aren't really a thing.
+But when it was first published, it was
+a full blown guide on how to use these
+quote unquote "LSI keywords."
+Meaning, everyone&nbsp;who linked to the page prior
+to the update was&nbsp;linking to inaccurate information.
+So our seed prospects are anyone who's
+linking to this guide, prior to it being&nbsp;updated.
+Or anyone who's recommending
+their readers to use "LSI Keywords."
+As for the pitch, we could just tell them&nbsp;that
+there's no such thing as LSI keywords and
+recommend our content which explains what LSI
+is,&nbsp;how it actually works, and also mention that
+we talk about whether using related words,
+phrases, and entities actually helps to rank
+higher in Google – meaning, we address the
+reason why they recommended using these
+so-called, "LSI keywords" in the first place.
+Now, these are just a few places to
+look that can help surface some unique
+prospecting opportunities.
+But you don't&nbsp;need to limit yourself to these
+because&nbsp;then you're stuck in the box of Sam.
+The point of this lesson is to show you
+how finding a pattern or footprint that
+has a pitch angle baked into it can be the
+foundation for link outreach campaigns.
+This is a skill that I highly recommend
+working on because it's what you'll need
+to find seed prospects.
+From there, it's just about following that footprint
+to&nbsp;find more prospects like your seeds.
+And in the next lesson, we're going to talk about
+using your seeds to expand your list of prospects
+as well as the tools you can use.
+I'll see you there.

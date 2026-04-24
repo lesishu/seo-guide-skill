@@ -1,0 +1,172 @@
+# Module 3.1: How to Vet and Validate Link Prospects
+
+Hey, it's Sam Oh and welcome to&nbsp;the third
+module which is all about vetting and validating
+link prospects.
+Now,&nbsp;straightup, this stage is kind of boring.
+You're basically taking your huge list of
+unfiltered prospects and checking them
+for a couple of things.
+In short, you want to make&nbsp;sure that
+a) they're actually links you want;
+and b) that your link pitches will be relevant.
+Now, before we can get into tips on doing it fast,
+let's get on the same page of how&nbsp;you do it slowly,
+step by step.
+So, when you're vetting prospects using
+the&nbsp;methods I taught in the last module,
+there are 3 steps you can do.
+I like to look at them in levels&nbsp;depending
+on the size of the prospect list.
+Level 1 is to narrow down your list
+of prospects by SEO metrics.
+Two common metrics people often use are
+Domain&nbsp;Rating and domain-level website traffic.
+Domain Rating basically tells us whether a
+site has followed links across their domain.
+And this is important to some people
+because if a website has low authority,
+then chances are, you won't get much PageRank
+by&nbsp;getting a link from a page on their site.
+Now, DR is far from perfect because
+a) it's a third-party metric;
+and b) PR flows at the page level, so I personally
+don't put too much weight on this metric.
+As for total website traffic, it&nbsp;gives us a hint
+whether the site&nbsp;is likely in good standing
+with Google.
+For example, it's unlikely that you'll see
+a DR 90 site with 0 website traffic unless
+they've been hit by Google.
+In my opinion, it makes sense to use filter
+when you're working with hundreds or potentially
+thousands of link prospects.
+And while you may&nbsp;filter out a handful of
+decent prospects, you'll&nbsp;likely remove more
+low quality prospects than good ones.
+So the time savings is worth it.
+Now, trusting these metrics
+alone would be a mistake.
+This leads us nicely into level 2, which
+is to ensure that prospects' pages are
+relevant to the page you'll be pitching.
+Now, in this stage, you can just scan the titles
+of your prospects pages which should give us
+hints into what the page is about.
+For example, if we were building&nbsp;links to
+our SEO stats page based on the people
+linking this competing&nbsp;URL, you'll see from
+the titles of referring pages that they're all
+pretty relevant.
+This one's on SEO interview questions and answers.
+This one's on the best digital marketing&nbsp;channels.
+Then there's this one on ranking on
+the first page of Google and so on.
+But as you continue to go down the list,
+you might question whether this one on
+the&nbsp;"best online shopping sites in
+Singapore"&nbsp;is worth reaching out to.
+The page itself doesn't seem super relevant to
+me,&nbsp;but the domain is mediaonemarketing.com.
+So it sounds like a marketing agency to me&nbsp;which
+is relevant to SEO and our page on SEO stats.
+So I'd personally keep it in our list&nbsp;at this
+point, but it wouldn't exactly be a high
+priority prospect in my opinion.
+As for a page like this which is on lead&nbsp;gen
+competitive advantages for pest control,
+I'd just exclude it.
+I'd also exclude pages in other languages
+because my content would be in English
+and so would my outreach pitch.
+Alright, onto level 3, which is to validate
+that your pitch angle is relevant.
+Now, because our prospecting method
+revolves around finding seed prospects
+based on a linkable point, that means we
+need to check each prospect's page to make
+sure they're still mentioning that point.
+For example, in our SEO stats campaign, I exported
+all backlinks that mention "93" in the anchor and
+surrounding text.
+And I did this because the&nbsp;organic
+competitor's page doesn't mention
+the stat, meaning all links pointing to the page
+because of the 93% stat are now irrelevant.
+This also means, we need to validate that the
+prospects still mention this stat on the page,
+because if they're not, then our personalized
+email saying, "hey you're mentioning this
+93% stat" just wouldn't make sense.
+So in this case, vetting the page would&nbsp;
+actually require us to visit these URLs
+and do a find on the page for "93."
+Now, while it only takes around 30 seconds
+to verify that a page still mentions the stat,
+if you have 1,000 pages to inspect, then
+that's&nbsp;500 minutes or over 8 hours of work.
+Plus, it's a super monotonous task
+that's prone&nbsp;to human error.
+But the good news is that you can&nbsp;do it
+more accurately in under 5 minutes by
+using Screaming Frog's custom search feature.
+To set it up, click on Configuration, then
+hover over Custom, and choose Search.
+Now, I'll name our custom search to "93%,"
+make sure the condition is "Contains" and
+then type "93" in the search box.
+Now I'll choose Page Text from
+the&nbsp;dropdown and we're all set to go.
+Now, all I have to do is run the 875
+URLs&nbsp;in list mode and run the crawl.
+From here, you can go to the custom search
+tab, choose your filter in the dropdown,
+and you'll see a list of all URLs
+that match your custom search.
+So in our case, 779 URLs&nbsp;of the 875 that
+we crawled,&nbsp;mention our linkable point.
+Meaning, 96 pages&nbsp;either didn't match the
+footprint or returned&nbsp;a non-200 response code.
+So that saved us around 48 minutes
+of precious vetting time.
+Now, it's not always possible
+to vet at&nbsp;scale like this.
+And that usually depends on
+the complexity of your linkable point.
+For example, we found some lookalike
+prospects in Content Explorer by searching
+for "use lsi keywords" as our query.
+And our hope was to find pages that recommend
+using so-called "LSI&nbsp;keywords" because again,
+they don't exist.
+Now, as for our pitch, we might try to gently
+educate prospects on so-called "LSI keywords"
+and offer suggestions to update their content
+with more accurate information – where our
+guide could potentially be an additional resource.
+Now, just because a page says "use LSI
+keywords," it doesn't mean they're all
+recommending to use them.
+In fact, this page has the phrase,&nbsp;"use LSI
+keywords" on it, but the context of the mention
+is "Does Google use them?"
+And in this section, they quote John
+Mueller saying that they're not a thing.
+Unfortunately for complex linkable points like
+this, where footprints can have various contexts,
+the only way to vet these prospects is manually.
+And I'll talk about hiring good vetters
+in our last module on team building.
+Now, after you've finished your page vetting
+process, you'll need to start finding the right
+people to send your email pitches to.
+And personally, I consider this
+a part of the vetting process
+because there's research involved to validate
+whether the prospect is a good one or not.
+So in the next lesson, I'll share my experiences
+on contacting people with different titles – i.e.
+author, editor, generic emails etc, and I'll share
+some stats on who the best person to contact
+with your link pitch is.
+I'll see you there.

@@ -1,0 +1,152 @@
+# Module 2.3: How to Segment Link Prospects for Scale
+
+Hey, it's Sam Oh and welcome to the third
+lesson in the link prospecting module.
+In this lesson, we're going to talk about
+segmenting your link prospects so you
+can send personalized emails at scale.
+And we'll basically be putting together
+the pieces from lesson 2.1 on finding
+seed prospects, and lesson 2.2
+on finding lookalike prospects.
+So if you haven't watched those yet, then I highly
+recommend doing that before you continue.
+Now, I want to clarify what I
+mean by "personalized emails."
+In my opinion, good personalized emails
+are ones where the context of your pitch
+is relevant to something specific they've done
+or&nbsp;said, or something that's important to them.
+For example, if you wanted to get a link from a
+page on budgeting, saying something like this
+wouldn't be personalized in my books.
+"Hey Mitch, I read your post on budgeting methods.
+I have a page on credit cards&nbsp;and
+how it can help people budget.
+Link to me."
+All this shows is that you've&nbsp;extracted
+the main topic from the title.
+On the other hand, if you were
+to say something like…
+"Hey Mitch, I saw that you're recommending
+the&nbsp;50/30/20 rule in your budgeting guide.
+Not sure if you're actually using this method for
+budgeting,&nbsp;but I tried it and it absolutely sucked.
+I found it to be flawed because of [this].
+So I created a new budgeting method
+called the 90/5/5 rule which does [that].
+My personal&nbsp;savings have gone up by 47%
+in the last year and should only compound
+going forward.
+Would love to get your feedback and
+perhaps a mention in your post if you dig it?"
+The context of the pitch, "feedback and a
+mention" aka. a link, is relevant to something
+that they've said – and that's recommending
+the 50/30/20 budget rule.
+Now, this lesson is not about outreach pitches
+– we'll get into that in a later module.
+The key takeaway from these examples
+is that linkable points a.k.a the things that
+reveal your seed prospects, naturally
+make your outreach emails personalized.
+And because lookalike prospects are basically
+mirrors of your seeds, you can send almost
+the exact same email while maintaining
+the personalization factor, enabling you
+to scale your outreach campaigns.
+Now, to do it efficiently, all you need to
+do&nbsp;is group your prospects by segment.
+And each segment will get its own unique email.
+This, in my opinion, is a much better way to
+segment your link prospects compared to more
+common techniques based on metric groupings.
+Let's run through an example of how
+we&nbsp;did this for our SEO stats page.
+As I mentioned in previous lessons, when
+we were creating our SEO statistics page,
+we looked at the anchors report of competing
+pages and noticed that the majority of links
+were attributable to a specific stat.
+For example, you'll see that the stat, 93%,
+which is&nbsp;in the context of online experiences,
+has led to hundreds of referring domains.
+But when we went to the page, there
+wasn't even a mention of that stat on it.
+So we did some research and found a more recent
+stat and added that to our content – 68% of online
+experiences begin with a search engine.
+Now, by including this stat in our post,
+we could&nbsp;send a relevant pitch like:
+"Hey, you're mentioning this 93% stat
+but it's not on the page you're linking to.
+Plus, that's super outdated anyway.
+More recent research shows that 68% of online
+experiences begin with a search engine."
+So with that solidified, we just needed to find
+lookalike prospects that mention the old stat,
+"93% of online experiences
+begin with a search engine."
+To do that, we went to the Backlinks report
+and&nbsp;set the include filter to show backlinks
+that mention "93" in the anchor or
+surrounding text of&nbsp;backlinks.
+And just like that, we had a segment of over 800
+prospects we could send virtually the same email
+to while keeping it personalized.
+Then we did the same thing for the next stat.
+And&nbsp;if we added that stat to our page, we would
+create another segment for our outreach campaign.
+And within an hour or so, our segments
+looked like this, where the stat column
+represents the&nbsp;segment, and the number
+of referring domains represents the size
+of the opportunity.
+Now, let's say that the number of links you
+got wasn't enough to take pole position.
+How would&nbsp;you continue to find
+new lookalike prospects?
+Well, you could look for more seeds
+and lookalikes, or you can automate
+prospecting with your existing seeds with&nbsp;
+Ahrefs' mentions or Backlinks Alerts.
+You can set up a backlinks alert&nbsp;with
+a competing URL and get notified&nbsp;&nbsp;
+when that page gets new links.
+But for link prospecting, I find mentions
+alerts to be much more effective.
+Ahrefs' Mentions alerts actually uses
+the&nbsp;same database as Content Explorer.
+So all you&nbsp;would need to do is set your
+search query to a footprint like "93% of
+online experiences" and set some
+base-level metrics filters.
+Now, anytime someone mentions that on a page
+and&nbsp;our crawler discovers it, you'll get notified
+via. email at your set interval and you
+can quickly reach out and ask for a link.
+This, my friends, is the power of segmentation.
+And I may sound like that monkey who won't
+stop banging on the cymbals, but I really want
+to bring emphasis on the importance
+of these 3 steps in link prospecting.
+Finding good seed prospects helps you to
+carefully craft your content and define your
+pitch angles.
+Finding lookalike prospects helps you to
+create a sizable and relevant list of prospects.
+And segmentation helps you
+to scale personalized emails.
+Everything is connected.
+Now, when we had a list of well over
+a thousand&nbsp;link prospects, we didn't
+just blindly email everyone who
+said a specific stat.
+There's&nbsp;a process to choose who you should
+contact and that happens in the vetting stage.
+And that's what the next module is all about.
+You'll learn our process to vet and validate
+link prospects, decide who you should contact,
+and tools and systems that will
+help you&nbsp;work more efficiently.
+I'll see you there.

@@ -1,0 +1,295 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links)
+
+[9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success)
+
+[10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## Tracking SEO Performance
+
+### Set yourself up for success
+
+They say if you can measure something, you can improve it.
+
+In SEO, it’s no different. Professional SEOs track everything from rankings and conversions to lost links and more to help prove the value of SEO. Measuring the impact of your work and ongoing refinement is critical to your SEO success, client retention, and perceived value.
+
+It also helps you pivot your priorities when something isn’t working.
+
+### What's that word mean?
+
+Speaking of industry marketing jargon, make sure you're on top of it with the SEO glossary for this chapter!
+
+[ See Chapter 7 definitions  ](/beginners-guide-to-seo/seo-glossary#chapter7)
+
+## Start with the end in mind
+
+While it’s common to have multiple goals (both macro and micro), establishing one specific primary end goal is essential.
+
+The only way to know what a website’s primary end goal should be is to have a strong understanding of the website’s goals and/or client needs. Good client questions are not only helpful in strategically directing your efforts, but they also show that you care.
+
+**Client question examples:**
+
+  1. Can you give us a brief history of your company?
+  2. What is the monetary value of a newly qualified lead?
+  3. What are your most profitable services/products (in order)?
+
+Keep the following tips in mind while establishing a website’s primary goal, additional goals, and benchmarks:
+
+### Goal setting tips
+
+  * **Measurable:** If you can’t track it, you can’t improve it.
+  * **Be specific:** Don’t let vague industry marketing jargon water down your goals.
+  * **Share your goals:**[Studies have shown](https://www.huffingtonpost.com/marymorrissey/the-power-of-writing-down_b_12002348.html) that writing down and sharing your goals with others boosts your chances of achieving them.
+
+### Know your client
+
+Asking your client the right questions is key to understanding their website goals. We've prepared a list of questions you can use to start getting to know your clients below!
+
+[ Download the list  ](https://hsinfo.moz.com/hubfs/Whitepapers,%20eBooks,%20Reports/Getting%20to%20Know%20Your%20SEO%20Clients.pdf)
+
+## Measuring
+
+Now that you’ve set your primary goal, evaluate which additional metrics could help support your site in reaching its end goal. Measuring additional (applicable) benchmarks can help you keep a better pulse on current site health and progress.
+
+### Engagement metrics
+
+How are people behaving once they reach your site? That’s the question that engagement metrics seek to answer. Some of the most popular metrics for measuring how people engage with your content include:
+
+#### Conversion rate
+
+The number of conversions (for a single desired action/goal) divided by the number of unique visits. A conversion rate can be applied to anything, from an email signup to a purchase to account creation. Knowing your conversion rate can help you gauge the return on investment (ROI) your website traffic might deliver.
+
+#### Time on page
+
+How long did people spend on your page? If you have a 2,000-word blog post that visitors are only spending an average of 10 seconds on, the chances are slim that this content is being consumed (unless they’re a mega-speed reader). However, if a URL has a low time on page, that’s not necessarily bad either. Consider the intent of the page. For example, it’s normal for “Contact Us” pages to have a low average time on page.
+
+#### Pages per visit
+
+Was the goal of your page to keep readers engaged and take them to a next step? If so, then pages per visit can be a valuable engagement metric. If the goal of your page is independent of other pages on your site (ex: visitor came, got what they needed, then left), then low pages per visit are okay.
+
+#### Bounce rate
+
+"Bounced" sessions indicate that a searcher visited the page and left without browsing your site any further. Many people try to lower this metric because they believe it’s tied to website quality, but it actually tells us very little about a user’s experience. We’ve seen cases of bounce rate spiking for redesigned restaurant websites that are doing better than ever. Further investigation discovered that people were simply coming to find business hours, menus, or an address, then bouncing with the intention of visiting the restaurant in person. A better metric to gauge page/site quality is scroll depth.
+
+####
+
+In Google Analytics, you can [set up goals](https://support.google.com/analytics/answer/1012040?hl=en) to measure how well your site accomplishes its objectives. If your objective for a page is a form fill, you can set that up as a goal. When site visitors accomplish the task, you’ll be able to see it in your reports.
+
+#### Scroll depth
+
+This measures how far visitors scroll down individual webpages. Are visitors reaching your important content? If not, test different ways of providing the most important content higher up on your page, such as multimedia, contact forms, and so on. Also consider the quality of your content. Are you omitting needless words? Is it enticing for the visitor to continue down the page? Scroll depth tracking can be set up in your Google Analytics.
+
+### Search traffic
+
+Ranking is a valuable SEO metric, but measuring your site’s organic performance can’t stop there. The goal of showing up in search is to be chosen by searchers as the answer to their query. If you’re ranking but not getting any traffic, you have a problem.
+
+But how do you even determine how much traffic your site is getting from search? One of the most precise ways to do this is with Google Analytics.
+
+#### Using Google Analytics to uncover traffic insights
+
+Google Analytics (GA) is bursting at the seams with data — so much so that it can be overwhelming if you don’t know where to look. This is not an exhaustive list, but rather a general guide to some of the traffic data you can glean from this free tool.
+
+**Isolate organic traffic**
+
+GA allows you to view traffic to your site by channel. This will mitigate any scares caused by changes to another channel (ex: total traffic dropped because a paid campaign was halted, but organic traffic remained steady).
+
+**Traffic to your site over time**
+
+GA allows you to view total sessions/users/pageviews to your site over a specified date range, as well as compare two separate ranges.
+
+**How many visits a particular page has received**
+
+Site Content reports in GA are great for evaluating the performance of a particular page — for example, how many unique visitors it received within a given date range.
+
+**Traffic from a specified campaign**
+
+You can use UTM (urchin tracking module) codes for better attribution. [Designate the source, medium, and campaign](https://ga-dev-tools.appspot.com/campaign-url-builder/), then append the codes to the end of your URLs. When people start clicking on your UTM-code links, that data will start to populate in GA’s "campaigns" report.
+
+**Click-through rate (CTR)**
+
+Your CTR from search results to a particular page (meaning the percent of people that clicked your page from search results) can provide insights on how well you’ve optimized your page title and meta description. You can find this data in Google Search Console, a free Google tool.
+
+In addition, Google Tag Manager is a free tool that allows you to manage and deploy tracking pixels to your website without having to modify the code. This makes it much easier to track specific triggers or activity on a website.
+
+## Keep track of your SEO success with Moz Pro
+
+From page optimization to link building, rankings, technical site health, and more, Moz Pro tracks your site's progress and helps you level up your search visibility — and your bottom line. See what you can achieve with a free trial.
+
+[ Start my free trial ](/checkout/freetrial)
+
+## Additional common SEO metrics
+
+### Domain Authority & Page Authority (DA/PA)
+
+Moz’s proprietary authority metrics provide powerful insights at a glance and are best used as benchmarks relative to your competitors’ [Domain Authority](/learn/seo/domain-authority) and [Page Authority](/learn/seo/page-authority).
+
+### Keyword rankings
+
+A website’s ranking position for desired keywords. This should also include SERP feature data, like featured snippets and People Also Ask boxes that you’re ranking for. Try to avoid vanity metrics, such as rankings for competitive keywords that are desirable but often too vague and don’t convert as well as longer-tail keywords.
+
+### Number of backlinks
+
+Total number of links pointing to your website or the number of unique linking root domains (meaning one per unique website, as websites often link out to other websites multiple times). While these are both common link metrics, we encourage you to look more closely at the quality of backlinks and linking root domains your site has.
+
+### How to track these metrics
+
+There are lots of different tools available for keeping track of your site’s position in SERPs, site crawl health, SERP features, and link metrics, such as Moz Pro and STAT.
+
+The Moz and STAT APIs (among other tools) can also be pulled into Google Sheets or other customizable dashboard platforms for clients and quick at-a-glance SEO check-ins. This also allows you to provide more refined views of only the metrics you care about.
+
+Dashboard tools like Data Studio, Tableau, and PowerBI can also help to create interactive data visualizations.
+
+## Evaluating a site’s health with an SEO website audit
+
+By having an understanding of certain aspects of your website — its current position in search, how searchers are interacting with it, how it’s performing, the quality of its content, its overall structure, and so on — you’ll be able to better uncover SEO opportunities. Leveraging the search engines’ own tools can help surface those opportunities, as well as potential issues:
+
+  * **[Google Search Console](https://search.google.com/search-console/about) -** If you haven’t already, [sign up](https://www.google.com/webmasters/tools/home) for a free Google Search Console (GSC) account and verify your website(s). GSC is full of actionable reports you can use to detect website errors, opportunities, and user engagement.
+  * **[Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) \- **Bing Webmaster Tools has similar functionality to GSC. Among other things, it shows you how your site is performing in Bing and opportunities for improvement.
+  * **[Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) \- **Google’s automated tool for measuring a website’s performance, accessibility, progressive web apps, and more. This data improves your understanding of how a website is performing. Gain specific speed and accessibility insights for a website here.
+  * **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) \- **Provides website performance insights using Lighthouse and Chrome User Experience Report data from real user measurement (RUM) when available.
+  * **[Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/) \- **Validates that a website is using [schema markup](https://schema.org/) (structured data) properly.
+  * **[Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) -** Evaluates how easily a user can navigate your website on a mobile device.
+  * **[Web.dev](https://web.dev/) \- **Surfaces website improvement insights using Lighthouse and provides the ability to track progress over time.
+  * **[Tools for web devs and SEOs](https://developers.google.com/web/tools/) -** Google often provides new tools for web developers and SEOs alike, so keep an eye on any new releases here.
+
+### How to Rank on Google
+
+If you want to know how to rank a website start-to-finish, look no further than our How to Rank on Google checklist. Just 25 steps to ranking success — read our guide and see how!
+
+[ Read the checklist  ](/how-to-rank)
+
+While we don’t have room to cover every SEO audit check you should perform in this guide, we do cover tons of helpful topics in our in-depth [Technical SEO Certification Series](https://academy.moz.com/path/technical-seo-certification-series). When auditing your site, keep the following in mind:
+
+### Crawlability
+
+Are your primary web pages crawlable by search engines, or are you accidentally blocking Googlebot or Bingbot via your robots.txt file? Does the website have an accurate sitemap.xml file in place to help direct crawlers to your primary pages?
+
+### Indexed pages
+
+Can your primary pages be found using Google? Doing a site:yoursite.com OR site:yoursite.com/specific-page check in Google can help answer this question. If you notice some are missing, check to make sure a meta robots=noindex tag isn’t excluding pages that should be indexed and found in search results.
+
+### Page titles & meta descriptions
+
+Do your titles and meta descriptions do a good job of summarizing the content of each page? How are their CTRs in search results, according to Google Search Console? Are they written in a way that entices searchers to click your result over the other ranking URLs? Which pages could be improved? [Site-wide crawls](/products/pro/site-crawl) are essential for discovering on-page and technical SEO opportunities.
+
+### Page speed
+
+How does your website perform on mobile devices and in Lighthouse? Which images could be compressed to improve load time?
+
+### Content quality
+
+How well does the current content of the website meet the target market’s needs? Is the content 10X better than other ranking websites’ content? If not, what could you do better? Think about things like richer content, multimedia, PDFs, guides, audio content, and more.
+
+### Website pruning can improve overall quality
+
+Removing thin, old, low-quality, or rarely visited pages from your site can help improve your website’s perceived quality. Performing a [content audit](/blog/content-audit) will help you discover these pruning opportunities.
+
+[ Learn more about website pruning  ](/blog/clean-site-cruft-before-it-causes-ranking-problems-whiteboard-friday)
+
+Keyword research and competitive website analysis (performing audits on your competitors’ websites) can also provide rich insights on opportunities for your own website.
+
+For example:
+
+  * Which keywords are competitors ranking on page 1 for, but your website isn’t?
+  * Which keywords is your website ranking on page 1 for that also have a featured snippet? You might be able to provide better content and take over that snippet.
+  * Which websites link to more than one of your competitors, but not to your website?
+
+Discovering website content and performance opportunities will help devise a more data-driven SEO plan of attack! Keep an ongoing list in order to prioritize your tasks effectively.
+
+## Prioritizing your SEO fixes
+
+In order to prioritize SEO fixes effectively, it’s essential to first have specific, agreed-upon goals established between you and your client.
+
+While there are a million different ways you could [prioritize SEO](/blog/prioritize-seo-tasks), we suggest you rank them in terms of importance and urgency. Which fixes could provide the most ROI for a website and help support your agreed-upon goals?
+
+Stephen Covey, author of _[The 7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits.html),_ developed a handy time management grid that can ease the burden of prioritization:
+
+| Urgent| Not Urgent
+---|---|---
+Important| Quadrant I: Urgent & Important| Quadrant II: Not Urgent & Important
+Not Important| Quadrant III: Urgent & Not Important| Quadrant IV: Not Urgent & Not Important
+
+Putting out small, urgent SEO fires might feel most effective in the short term, but this often leads to neglecting non-urgent important fixes. The Not Urgent & Important items are ultimately what will move the needle for a website’s SEO. Don’t put these off.
+
+| Urgent| Not Urgent
+---|---|---
+Important| Primary page issues, high-volume issues| Non-primary page issues, mid-volume issues
+Not Important| Client reports (unrelated to goals), vanity keywords| Video sitemaps, meta keywords tag
+
+## SEO planning & execution
+
+Much of your success depends on effectively mapping out and scheduling your SEO tasks. Free tools like Google Sheets can help plan out your SEO execution (we have a [free template here](https://docs.google.com/spreadsheets/d/1cWb1KgGDEqgx0thBRz_2k3usOzLYjGcbajKhyL4fNvE/copy)), but you can use whatever method works best for you. Some people prefer to schedule out their SEO tasks in their Google Calendar, in a kanban or scrum board, or in a daily planner.
+
+Use what works for you and _stick to it._
+
+"Without strategy, execution is aimless. Without execution, strategy is useless." - Morris Chang
+
+Measuring your progress along the way via the metrics mentioned above will help you monitor your effectiveness and allow you to pivot your SEO efforts when something isn’t working. Say, for example, you changed a primary page’s title and meta description, only to notice that the CTR for that page decreased. Perhaps you changed it to something too vague or strayed too far from the on-page topic — it might be good to try a different approach. Keeping an eye on drops in rankings, CTRs, organic traffic, and conversions can help you manage hiccups like this early, before they become a bigger problem.
+
+### Communication is essential for SEO client longevity
+
+Many SEO fixes are implemented without being noticeable to a client (or user). This is why it’s essential to employ good communication skills around your SEO plan, the time frame in which you’re working, and your benchmark metrics, as well as frequent check-ins and reports.
+
+### Free SEO planning worksheet
+
+Get started on your SEO planning with the worksheet template we've provided below. Make a copy and edit it to match your needs!
+
+[ Download the template  ](https://docs.google.com/spreadsheets/d/1cWb1KgGDEqgx0thBRz_2k3usOzLYjGcbajKhyL4fNvE/copy)
+
+* * *
+
+Congratulations on making it through the entire Beginner’s Guide to SEO! Now it’s time for the fun part — _applying_ it. As a next step, we recommend taking the initiative to start an SEO project of your own. Read on for our suggestions!
+
+## Practice, practice, practice
+
+The best thing you can do to build your confidence, skills, and abilities is to dive in and get your hands dirty. If you’re serious about SEO and hope to serve clients someday, there’s no better place to start than with your own website, whether there’s a hobby you’d like to blog about or you need to set up a personal freelancing page.
+
+We've put together a quick to-do list you can use to guide your next steps in the wide, wonderful world of SEO:
+
+  1. Figure out your site's information architecture, design, UX, and other necessary considerations before starting a new project. We recommend reading [Strategic SEO Decisions to Make Before Website Design and Build](/blog/strategic-seo-decisions-before-website-design-build) and watching our Whiteboard Friday on the topic, [Launching a New Website: Your SEO Checklist](/blog/launching-new-website-seo-checklist-whiteboard-friday).
+  2. Follow the steps of the Beginner's Guide to SEO as you go along:
+    1. Understand your goals and the basic rules of SEO
+    2. Make sure your site is crawlable and indexable in search
+    3. Conduct thorough keyword research
+    4. Make sure your on-site optimizations are up to snuff
+    5. Perform necessary technical SEO optimizations or audits
+    6. Earn links and establish your site's authority
+    7. Prioritize effectively and measure the right metrics
+  3. Test, iterate, and test again! Many SEOs have test sites where they challenge SEO norms or experiment with new types of optimization tactics. Implement this today by [setting up a website](https://websitesetup.org/) and make up a gibberish word (one that likely has zero search volume and no competition), then see how quickly you can get it to rank in search results. From there, you can [experiment with all sorts of other SEO tests.](/blog/how-do-i-successfully-run-seo-tests-on-my-website-whiteboard-friday)
+  4. Take on harder tasks, test refurbishing content for other platforms, set stretch goals, and compete with stronger competitors.
+  5. Consider going the extra mile and [challenging yourself to learn technical SEO](/blog/junior-seo-task-list).
+  6. Find a community where you can safely learn, discuss, share experiences, and ask for help. [Moz’s Q&A Forum](/community/q/ask), [TrafficThinkTank](https://trafficthinktank.com/), [Search Engine Journal's SEO Experts to Follow](https://www.searchenginejournal.com/seo-101/seo-experts/), and finding [SEO meetups near you](https://www.meetup.com/topics/seo-search-engine-optimization/) are all great options to start.
+  7. Take the time to evaluate what worked and what didn’t after an SEO project. How might you do things a bit differently in the future to improve your performance?
+
+When it comes to tracking your SEO progress, data is your best friend. You can use Moz Pro's suite of SEO analytics and research tools to keep a close eye on rankings, link building, technical site health, and more. Put your new SEO skills into action with a [free 30-day trial of Moz Pro](/moz-pro-free-trial)!
+
+### What's next?
+
+Now that you've built a solid SEO foundation, learn how to rank your website from start to finish.
+
+[ Read the short guide now  ](https://moz.com/how-to-rank)
+
+##### Contributors
+
+The overhaul to the original Beginner's Guide to SEO was a mighty effort accomplished by a small yet powerful team. With all our hearts, we'd like to thank [Britney Muller](https://twitter.com/BritneyMuller), [Kameron Jenkins](https://soapboxly.com/), [Trevor Klein](https://twitter.com/trevoroklein), [Skye Stewart](http://www.skyekatrin.com/), [Casey Coates](/about/team/caseycoates), and [Felicia Crawford](https://www.linkedin.com/in/frjcrawford/) for all the love, sweat, and tears they poured into the creation of this guide. Many thanks as well to [Shelly Matsudaira](/about/team/shelly-matsudaira), [Aaron Kitney](https://twitter.com/aaronkitney), [Jeff Crump](/about/team/jeffcrump), and [Cyrus Shepard](https://zyppy.com/) for their help in getting the guide to its final iteration, and to all the amazing folks in our community who spent valuable time commenting and sharing suggestions, constructive criticisms, and humbling praise for the early drafts of each chapter. And of course, endless thanks to [Rand Fishkin](https://twitter.com/randfish) for the creation and curation of the original version of the Beginner's Guide to SEO all those many years ago!
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz Staff.
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

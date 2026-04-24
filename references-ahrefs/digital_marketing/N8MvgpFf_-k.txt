@@ -1,0 +1,196 @@
+Kind: captions
+Language: en
+Today, I'm going to share some of the most
+important things that digital marketers often
+ignore but really shouldn't be ignoring.
+So let's kick things off with the first thing that
+often gets overlooked and that's platform intent.
+Now, chances are, you haven't
+heard of platform intent.
+That's because I just made it up.
+But nevertheless, I think it's one of the most
+common and important things that digital
+marketers ignore whether they're in
+the beginner or advanced categories.
+So, what is platform intent?
+Platform intent refers to a user's subconscious
+intent when they go to a specific platform.
+For example, when you login to Pinterest, you're
+probably looking for visual ideas or inspiration.
+On Google search, you're looking for
+straight-up answers to problems.
+And on YouTube,  you probably want
+to be entertained or learn something.
+We go to different websites
+with different intentions.
+That means when you create marketing
+campaigns, you should match your format
+and messaging to the primary platform intent
+so you can connect with people in that moment
+where they are.
+For example, Rebecca who manages our
+Twitter account repurposed this blog post
+into a tweet thread.
+And rather than copying and pasting everything
+from the post, she gets that many Twitter users
+login for snackable advice.
+And that's exactly what she's done.
+She summarized each point with
+only the most important information.
+So the next time you want to take 1 piece
+of content and turn it into 47 different ones,
+remember that "repurposing"
+is not "republishing."
+Alright, the second thing that digital marketers
+ignore are competitors in different niches.
+Now, it totally makes sense to keep an eye
+on your direct competitors and to learn from
+the good and ditch the bad.
+But it's also important to keep an eye on
+what marketers in other niches are doing,
+otherwise, you'll miss out on some super-
+smart strategies that can be applied straight
+to your business.
+For example, you might have heard of Canva,
+a popular design tool made for non-designers.
+Now, if you're anything like me, you may have
+stopped using their tool and completely forgot
+about them.
+But did you know that they've grown organic traffic
+to nearly 100 million monthly organic visits?
+I know, right?
+I was in complete shock and
+knew I had to dig deeper.
+So I went over to the Site Structure report
+in Ahrefs' Site Explorer and after about 10
+minutes of research, I came up with content
+ideas for a completely unrelated niche and
+product – a dating app.
+Here's what I mean.
+Canva has done a really good job at scaling
+based on a verb related to design – create.
+You can create logos, resumes,
+posters, you name it.
+They have landing pages for them all.
+Now, for a dating site, you can apply the same
+principle with verbs like "date" and "marry."
+Let's take common phrases using those words
+and variations of those words and run them
+through a search in Keywords Explorer.
+Now, if we head over to the matching terms
+report, you'll see a ton of keyword ideas that
+cumulatively get millions of searches
+every single month in the US alone.
+Create content for these pages that matches
+searcher intent and can help with conversions,
+and you're now on your way to
+replicating Canva's create subfolder.
+Alright, the next thing digital marketers tend
+to ignore is omnichannel user experience.
+Now, when people think of UX, they often
+think of apps, onboarding, sign up forms,
+or landing pages.
+But today user experience needs
+to be looked at more holistically.
+Let me explain.
+Around a decade ago, marketers would look
+through Google Analytics and put all of their
+efforts to improve metrics like time on page
+and bounce rate because they felt like these
+were indicative of a visitor's experience.
+And it kind of made sense because if people
+stay on a website for a long time and navigate
+to other pages within the site, then they
+may be having a good user experience.
+Well, today, marketing is more focused around
+customer journeys and experiences rather than
+one off pageviews or GA metrics
+that lack context.
+We want people to have a positive experience
+every time they have an interaction with our
+brand, whether it's with our product, content,
+through social media or direct on live chat
+with customer service.
+Now, in my opinion, the best way to "optimize"
+for so-called omnichannel UX is to just use
+some common sense.
+For example, we add chapters to nearly all
+of our videos because we live in a world of
+power skimming.
+We do the same for blog posts by using
+a table of contents that actually floats
+with you so you can jump up and
+down to the places you want to go.
+We avoid pop-ups because marketers really don't
+like them and that's who we're marketing to.
+We have live chat 24/5 because we understand
+people want to get help with our product as
+soon as possible.
+These experiences accumulate to how
+people see Ahrefs as a brand and for many,
+it determines whether they
+want to do business with us.
+Now, because common sense isn't always
+so common, I recommend finding ways to
+validate your ideas.
+You can do this by collecting user testing data,
+heatmap data, or user generated feedback.
+For example, we have this rating system
+at the end of our blog posts which gives
+us an idea if people liked or disliked our content.
+And we do the same through live chat.
+Speaking of feedback, one of the most
+important things that I see marketers
+neglect is talking to customers.
+And the reason why this is such a huge
+mistake is because you can't do good
+marketing if you don't know
+exactly who you're marketing to.
+By having conversations with customers, you
+get to know the problems they face, the needs
+they have, and you can even ask selfish questions
+like how they found you or what made them choose
+you over another company.
+This is exactly why at Ahrefs, all of our content
+marketers spend their first 2 months in support
+helping our customers.
+And it really doesn't stop after 2 months.
+Personally, I still read through support chats
+and monitor our company's Twitter mentions.
+And occasionally I'll jump on an Enterprise
+call to get a better understanding of bigger
+companies' needs.
+Overall, I think it's important to learn how you
+can best serve different types of customers
+through your marketing and it
+should be an ongoing process.
+So if customer conversations are something
+you've put on the backburner, I highly recommend
+sending an email or two to schedule some calls.
+Alright, the next thing that I see marketers
+ignore time and time again is their product.
+Oftentimes, digital marketers
+get stuck in the metrics.
+We obsess over traffic, views, likes, comments,
+subscribers and basically anything else that
+looks cute and clickbaity in a title.
+And that often comes at the cost of forgetting
+that there's a product we should be marketing.
+When your product is no longer at the center
+of your marketing, things start to get fuzzy
+and you start chasing vanity metrics that
+won't drive any real value to your business.
+That's why at Ahrefs, we don't just create
+content just for the sake of traffic.
+Nearly all content we create is product-led,
+which ensures that our marketing efforts are
+meaningful because they're centered around
+the thing that matters most in our company:
+our product.
+Now, if you want a blueprint to create product-led
+content so you and your team can maintain that
+100% laser focus in your marketing, then you
+need to watch our video on product-led content
+where I break down exactly how
+we use it to grow our revenue.
+I'll see you in the next tutorial.

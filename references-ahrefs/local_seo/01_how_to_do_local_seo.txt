@@ -1,0 +1,567 @@
+# How to Do Local SEO: Complete A-Z Tutorial
+
+Fact:
+46% of all Google searches are local, yet
+56% of local retailers haven' t even claimed
+their Google My Business listing.
+If you' re not gaining visibility and customers
+from local search, then you and I, we are
+gonna solve that problem right now with
+a jam-packed local SEO tutorial.
+Stay tuned.
+[music]
+Sam Oh here with Ahrefs, the SEO tool that
+helps you grow your search traffic, research
+your competitors and dominate your niche.
+So, I've got quite a complete tutorial for
+you on how to do local SEO, so even if you're
+just starting out, this video should simplify
+the process for you quite nicely and help you
+gain visibility in local search.
+Let's dive right in.
+So first, what is local SEO?
+It's the process of optimizing your online
+presence to attract more business from relevant
+local searches.
+For example, if I type in best Mexican restaurant
+Toronto, you'll see that the top of the search
+results are dominated by a box of local listings
+on Google Maps, which is called the "Snack Pack".
+And below that are your typical organic search
+results.
+It's super important that you can gain position
+in the "Snack Pack" because they generate
+33% of clicks on the search results page.
+But it's equally important to rank in the
+organic search results since they attract
+40% of clicks.
+So bottom line?
+It pays to rank in both spots, which is where
+local SEO comes in.
+Now, Google has an estimated 87% market share,
+in the US, which means that most people are
+using Google to search for local businesses.
+So in this tutorial, we'll be focusing on
+local SEO in Google only.
+Now, let's get on the same page and draw out
+an example scenario.
+Let's say that I'm opening up a new coffee
+shop in downtown Toronto for cool, hard-working
+people like SEOs and entrepreneurs.
+We'll be open 24/7 because our target audience
+tends to work around the clock.
+And of course, there will be fiber internet
+because there's nothing more frustrating than
+slow public WiFi.
+To differentiate ourselves from other coffee
+shops and build some nice recurring revenue,
+we'll be offering virtual office services
+for a set monthly fee, which includes bottomless
+coffee, your own private cubicle, and incoming
+mail service.
+I've invested in this concept, I've dropped
+a lot of coin, but no one knows about my business
+because they're finding other coffee shops
+like this in Google search.
+Alright, so we're going to start with step
+zero, and it's something all local businesses
+need to do.
+And that's to ensure your website is optimized
+for mobile.
+According to Bright Local's study, 61% of
+mobile users are more likely to contact a
+local business if they have a mobile site.
+You can use Google's Mobile-Friendly Test
+tool.
+Just enter in your domain or URL and shortly
+after, Google will tell you whether your page
+is mobile friendly, or if it's not.
+On to step one, and that's to claim and optimize
+your Google my business listing.
+This is arguably the most important part of
+local SEO.
+And it's actually quite easy to do.
+Just go to google.com/business, sign into
+your Google account, and the first thing you'll
+need to do is enter in your NAP, which stands
+for name, address, and phone number.
+If you have a business with multiple locations
+or you purchased a franchise, then you can
+start typing in the business name, and you'll
+see a list of businesses that are already
+registered in Google's database.
+My coffee shop is called High Speed Coffee,
+so that's all I'll write and click next.
+It's important to note that your business
+name is not meant for keyword stuffing.
+So I wouldn't write something like "Coffee
+Shop Downtown Toronto 24/7 - High Speed Coffee".
+It's not going to help you rank, so don't
+bother.
+Next, we'll enter in our address.
+Now, since we' re a coffee shop, we'll obviously
+have a physical location, but if you're an
+independent service provider like a photographer
+or a work-from-home consultant then your typical
+client meetings might happen in their office,
+or in a coffee shop like High Speed Coffee.
+If that's the case, then you can enter in
+your home address, select the "I deliver goods
+and services to my customers," then choose
+to hide your address since it's not a store.
+Now, when your business shows up in Google
+search, it'll just show the city and province/state
+where you work from.
+Since that doesn't apply to our business,
+let's move on to the next step, which is to
+pin the marker on the map.
+Google's pretty good with this, but you'll
+want to examine the map and make sure it's
+in the exact position where your store is
+located.
+Just drag and drop it and click next when you're
+done.
+As Google recommends, don't add multiple
+categories to list all of your products and
+services.
+Instead, you should focus on this statement:
+"My business is a blank."
+Rather than "My business has blank."
+So in the case of High Speed Coffee, our business
+is a coffee shop, even though it has virtual
+office space.
+Just start typing in a description and select
+the most appropriate one from the drop-down.
+Let's go to the next step, which is to enter
+in your phone number and website, which is
+pretty straightforward.
+This step is optional, but I recommend including
+both.
+Now, we'll need to finish off the process
+and verify the website, which can be done
+by phone or mail.
+You just need to follow the instructions
+from Google and your My Business listing should
+be active in no time.
+Before you continue, you should add a few
+more optimizations to your listing.
+You can click on the info menu in the sidebar.
+Then you can click on the pen icon to edit
+different parts of your listing.
+So you can add more relevant categories, for example.
+Other things you should do is to set your
+hours of operation, add specific URLs to important
+pages, add a description of your business,
+and photos of your actual location.
+Now that we have the foundation set up for
+local SEO, let's move onto step 2, which is
+to do some keyword research.
+There are some obvious terms you'd want to
+rank for like "coffee shop near me", "high speed
+coffee", "what time does high speed coffee open
+or close", and "high speed coffee phone number".
+With these kinds of local search queries,
+Google pulls the information from the Google My
+Business listing.
+For example, if I type in "what time does Starbucks
+close", Google will pull up the Starbucks in
+my vicinity and show the hours of operations for all locations on the map.
+And if I specify a location or use a single
+location business, then you'll see a quick answer
+box like this, which is pulled directly
+from Google My Business.
+So rather than going deeper into the "Snack
+Pack," or Google Maps listings we'll be talking about
+keyword research for the organic search
+results.
+First, we need to brainstorm your SiLs, which
+stands for "service in locations".
+As a coffee shop, I'd want to rank for queries
+like these:
+"Coffee shops in Toronto"
+"24/7 coffee shops in Toronto"
+"24 hour coffee shops in Toronto"
+"Virtual office in Toronto"
+And we'd want to rank for synonymous variations
+like "cafe in Toronto".
+A photographer, on the other hand, might want to rank for
+"photographer
+in Toronto" or "photographer in a nearby city."
+Here are a few ways you can generate solid
+keyword ideas.
+First is to use Google's autocomplete.
+Just type in the main query you want to rank
+for, and you'll see a few good suggestions
+here like "open late", "financial district", and
+"Toronto Canada", which may likely come from
+tourists or travelers.
+If you're in the services industry, then you
+can look at local classified sites like Craigslist.
+So I can search in their services category
+and use a seed keyword like "photographer",
+and you'll see some cool ideas here like "experienced",
+"freelance", "engagement shoot" and more.
+But in my opinion, the absolute best place
+is to find the keywords that your competitors
+are already ranking for.
+And the reason why this is so effective is
+because this is basically telling you which
+keywords that you can also rank for.
+You can use a tool like Ahrefs' Site Explorer,
+and enter in the domain of one of your search
+competitors.
+Next, go to the organic keywords report.
+And this report will show you all of the search
+queries that the domain is ranking for.
+You'll see that they're ranking for a lot
+of branded queries, so you can use the exclude
+box, and type in the brand name, which will
+give you a nice list of relevant keywords
+to target.
+And just from a quick scan of this list, there
+are a couple of keywords that I would have
+never thought of like "coffee places near me"
+and "coffee shop near Eaton Centre", which is
+a large mall in downtown Toronto.
+You should have a solid list of keyword ideas
+now, so it's time to move onto some on-page
+SEO.
+If you're familiar with SEO, then you'll find
+that a lot of the typical on-page SEO best practices
+apply here.
+For example, it can be advantageous to include
+your keyword in your H1 tag, add your target
+keyword in the title tag, set the URL slug
+to your keyword, and use short URLs.
+But there are a few other things you should
+specifically do for local SEO.
+Now, these optimizations will vary depending
+on if you have a single location versus multiple
+locations.
+So I'll cover both.
+The first thing you'll want to do is optimize
+your homepage.
+In general, most single location businesses
+should optimize their homepage around their
+primary location.
+So as a Toronto based coffee shop, I would
+probably target keywords like "coffee shop
+Toronto," rather than just coffee shop.
+Here's why:
+If you look at the organic keywords report
+for that Toronto coffee shop we were looking
+at before, you'll see that nearly all of their
+keyword rankings revolve around their homepage
+And you can see that they rank in the "Snack
+Pack" for that keyword phrase.
+But if I do a search just 30 miles away from
+downtown Toronto, you'll see completely different
+results for the same keyword phrase.
+So here are a few on-page optimization tips
+for your homepage.
+First, show NAP information, which again is name, address and phone number on the
+homepage.
+In fact, you can add this to the footer of
+your entire website if you operate from a
+single location as you can see in this example
+here.
+And it's absolutely critical that your name,
+address, and phone number match exactly or
+as close as possible to what you've submitted
+to Google My Business.
+You can also add testimonials or reviews of
+your business here and use Schema markup,
+which we're going to attack right now.
+Schema markup is code that you add to your
+website to improve the way search engines
+read and represent your page in the search
+engine results.
+You can use Google's structured data markup
+helper to eliminate a whole mess of complicated
+coding.
+Just select a data type, so in this case,
+we'd choose local businesses, then enter in
+the URL of the page you want to markup and
+click the "start tagging" button.
+Next, just click on the elements that you
+want to tag.
+So if I click on the logo here, I can set
+it to the name.
+Then I'll scroll down to the footer of the
+page and add a few more markup elements.
+So here, you can see that they have two phone
+numbers, so you'd want to choose the one that's
+submitted in their My Business Listing.
+And the last thing I'll add is the address.
+You would need to select all of the different
+parts of the address and choose the correct field.
+Also, you'll see that they include their address
+here, but left their postal code out, so in
+this case, if I were this business, I would
+include that in the footer too.
+Once you're done, you can click on this button,
+and a piece of code will come up which you
+can add to your website.
+Now, if you're a business that has multiple
+locations, then you're exempt from the rule
+of optimizing your homepage around your primary
+location.
+And by multiple locations, I'm not referring
+to a couple brick and mortar shops 10 miles
+from each other, but bigger companies like
+hotels or car rentals where they might have
+hundreds or even thousands of locations.
+Instead of the home page, you would want to
+optimize local landing pages by including
+key elements like the location's NAP, operating
+hours and sprinkle in related keywords targeted
+at that location.
+Let me show you how Enterprise Car Rental
+does it
+and pay attention to the URLs too as we go through
+this process.
+If you want to rent a car in the US, then
+you'll start at their location directory where
+you need to select a state where you want
+to rent a car.
+Next, you'll need to pick a city within that
+state.
+Then you'll be brought down to the branch
+level.
+Finally, you'll see the local NAP information
+that's actually designed to convert visitors
+into customers.
+Scrolling down, you'll see the operating hours
+for this specific location.
+And if we look at the organic traffic for
+these 4 pages, you'll see that they all get
+a good amount of targeted search traffic on
+landing pages, which I'm sure is quite profitable.
+The next step is to build local citations.
+And citations are online mentions of your
+business.
+There are two main types of citations.
+They are structured
+and unstructured.
+Structured citations are mentions that include
+your NAP information and it's usually presented
+in a visually-structured manner.
+So this would include places like business
+directories and social profiles.
+Unstructured citations are mentions of your
+business that don't follow a structure.
+So this might be in blog posts, preferred
+vendors pages or on other websites.
+And building local citations is super important.
+According to a 2017 study done by Moz, citation
+signals were one of the top local ranking
+factors, which was true for both Google's
+"Snack Pack" results and regular organic search
+results.
+And this is likely due to having consistent
+NAP information from all over the web, which
+verifies that the data Google has in their
+My Business listing is accurate.
+On the other hand, inconsistent NAP information
+can confuse or mislead both Google and potential
+customers.
+So your job is two fold:
+First, you need to make sure that your
+existing citations are correct and consistent.
+And second, you need to build more relevant citations.
+So to handle the first part, you need to perform
+a citation audit.
+More often than not, some of your citations
+will be incorrect and/or incomplete.
+And you can run a quick search using Moz's local
+search tool.
+Just enter in the name of your business, and
+choose one from the auto select options from
+the best results.
+From here, you can see a breakdown of the
+complete, incomplete, inconsistent, and duplicate
+citations, which you can then manually fix.
+You can also do a manual audit using Google
+search operators, which I won't get into now,
+but you can check out our local SEO blog post.
+The link's in the description.
+After you've completed your audit, you'll
+want to build more citations.
+Now, if you're a new business, I would start
+with a list of core structured citations.
+Whitespark.ca has a great resource on places
+to build these structured citations, which
+I'll leave a link to in the description.
+Just choose a country, and you'll see a list
+of places to add your mark.
+You can then branch out to other relevant
+local directories like your local chamber
+of commerce, other local business associations
+and then expand to niche specific websites
+like TripAdvisor, HomeAdvisor, Findlaw and
+more.
+Another great places to find citation opportunities
+is to let your competitors do the work for you.
+So using Ahrefs' Site Explorer, look up the homepage
+URL of one of your competitors since most
+citations will lead to the homepage.
+Next, go to the anchors report.
+In here, you can use the search box to look for
+any of these keywords:
+These are common anchor texts that you'll
+find in directories, which make them easy
+citation opportunities.
+So if I search for "website," then I'm gonna click on
+"details" and "referring domains," then you'll
+see a bunch of places where we can build both
+structured and unstructured citations.
+Another hyper-effective tactic you can do
+is to use the Link Intersect tool.
+In the top section, enter in the name of a
+few of your organic search competitors.
+So I've already entered in a few domains of top-ranking
+Toronto coffee shops.
+Then, I'll set the top dropdown to show websites
+that link to any of these sites.
+And you can enter in your domain in the bottom
+box, which will exclude links that are already
+linking to your website.
+But since we don't have a real website, I'll
+leave the bottom section empty and run the
+search.
+Now, when you're looking through the results,
+just scan these 3 columns and look for referring
+domains that link to at least a couple of
+your target websites.
+In general, the more sites a domain links
+to, the better the chances of it being a legit
+place to create your own citation.
+So dinehere.ca would be a solid one that we
+can add our coffee shop to.
+With these citation hunting methods, it should
+be enough to keep you busy for a while.
+But we can't stop here because we still need
+to build quality editorial links.
+According to Moz's 2017 survey, link signals
+were the most important ranking factor for
+local organic results.
+For the local "Snack Pack," links were the
+second most important factor.
+Rather than focusing on a full-out link building
+tutorial, I want to leave you with two tried
+and true tactics that work.
+The first is to create and promote a useful
+resource.
+In this case, a local resource related to
+your niche would be ideal.
+I know I say it all the time, but people are
+more willing to link to helpful articles over
+salesy content like product and services pages.
+So a couple ideas would be to create local
+"best of" guides or content that would appeal
+to your target audience.
+So for example, we could create content on how
+to make the best cup of coffee, where we can
+plug our own products.
+We could also create content targeted at coffee
+drinking solopreneurs on the best and affordable
+local places for office space, since we offer
+virtual office services.
+The second tactic would be to guest blog.
+Even though guest posts normally come with
+a link back to your site, I want you to look
+at this as an opportunity to build yourself
+up as an industry expert.
+This is particularly important for people
+in the services industry.
+People want to hire professionals they can
+trust and know will do a good job.
+And often times, they're willing to pay a
+premium to have the peace of mind that the
+job's gonna get done right the first time.
+And you can look for local blogs that accept guest
+posts by googling any of these queries.
+So looking at the search results for "Toronto "write for us",
+you'll see some very relevant local websites
+that are seeking writers.
+You can also do this in Content Explorer to
+expand your list of potential guest posting
+prospects.
+Just type in a topic related to your niche.
+So I'll type in "coffee beans" and I'll also
+set the search to a title search for more
+relevant results.
+Next, click on the "one article per domain,"
+filter, since we don't need to contact the
+same website multiple times.
+Scrolling down a bit, you'll see this post
+on The 12 Best Coffee Beans to Buy.
+From here, you could easily pitch yourself
+as a pro barista that runs a cafe in Toronto
+and share some actionable or interesting insights
+on something like roasting beans.
+The last and final step is to take care of
+ongoing activities.
+Even though you've set up your Google My Business
+and built a bunch of citations, these are
+all things that you want to have well-documented.
+In business, things change.
+That might be you moving to a new location,
+changing your phone number, or even changing
+your business name,
+in which case, you would need to update all
+of your citations.
+So the first thing you need to do is ensure
+that you keep your Google My Business account
+active.
+There are 3 important regular tasks that you need to
+take care of.
+First is to consistently respond to customers
+and client reviews.
+This includes both positive and negative comments.
+Next is to be on the lookout for inaccurate
+edits to your Google My Business listing.
+Anyone can click on "suggest an edit" on your
+My Business listing and sometimes Google will
+accept these suggestions without notice to
+you or the business owner.
+In fact, scammers have even swapped phone
+numbers with legit businesses for a quick
+payday.
+So it's your job to ensure that your listings
+are up to date and correct at all times.
+Finally, is to use Google Posts to keep your
+customers informed and engaged.
+Google Posts is a micro-blogging platform
+within Google My Business.
+And all of these updates are visible in the
+Knowledge Panel and accessible with the click
+of a mouse.
+This provides an opportunity to attract more
+attention to your listing, connect with your
+audience and ultimately boost conversions.
+You can create a Google Post from within Google
+My Business by going on the posts menu, click
+"Write your post" and then add an image and
+up to 300 words of text.
+This is a great way to share your promotional
+offers or teasers for your blog posts.
+You can also choose a call-to-action button
+from a list of preset options to bump click-throughs.
+I recommend all local businesses play around
+with this feature and stay active with Google
+Posts.
+It doesn't take any more time than a tweet
+and there's a ton of potential to garner attention
+from Google searchers.
+Now we've covered a lot here, so what I recommend
+doing right now is putting these techniques
+into action, and watching some of the video
+suggestions in the cards, which will dig deeper
+into some of the topics we've talked about like
+link building, SEO for blogs, and on-page
+SEO techniques.
+So hit the subscribe button for more actionable
+SEO and marketing tutorials, go and get your
+local website ranked, and I'll see you in
+the next tutorial.

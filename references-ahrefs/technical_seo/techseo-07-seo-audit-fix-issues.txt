@@ -1,0 +1,642 @@
+in<c> this</c><c> video</c><c> I'm</c><c> gonna</c><c> show</c><c> you</c><c> how</c><c> to</c>
+in this video I'm gonna show you how to
+do<c> a</c><c> basic</c><c> SEO</c><c> audit</c><c> step</c><c> by</c><c> step</c><c> stay</c>
+do a basic SEO audit step by step stay
+tuned
+[Music]
+what's<c> up</c><c> everyone</c>
+what's up everyone
+Sam<c> oh</c><c> here</c><c> with</c><c> eight</c><c> reps</c><c> and</c><c> I'm</c>
+Sam oh here with eight reps and I'm
+super<c> excited</c><c> because</c><c> today's</c><c> video</c><c> is</c>
+super excited because today's video is
+gonna<c> apply</c><c> to</c><c> anyone</c><c> who</c><c> runs</c><c> a</c><c> website</c>
+gonna apply to anyone who runs a website
+and<c> wants</c><c> to</c><c> make</c><c> sure</c><c> that</c><c> their</c>
+and wants to make sure that their
+visitors<c> have</c><c> a</c><c> great</c><c> user</c><c> experience</c><c> so</c>
+visitors have a great user experience so
+everyone<c> since</c><c> your</c><c> website</c><c> and</c><c> my</c>
+everyone since your website and my
+website<c> will</c><c> likely</c><c> have</c><c> completely</c>
+website will likely have completely
+different<c> issues</c><c> I'm</c><c> gonna</c><c> help</c><c> you</c><c> find</c>
+different issues I'm gonna help you find
+technical<c> SEO</c><c> issues</c><c> on</c><c> any</c><c> website</c><c> and</c>
+technical SEO issues on any website and
+so<c> we're</c><c> gonna</c><c> focus</c><c> on</c><c> a</c><c> workflow</c><c> using</c>
+so we're gonna focus on a workflow using
+hrf<c> site</c><c> audit</c><c> tool</c><c> if</c><c> you're</c><c> already</c><c> an</c>
+hrf site audit tool if you're already an
+HR<c> F's</c><c> user</c><c> you</c><c> can</c><c> follow</c><c> along</c><c> step</c><c> by</c>
+HR F's user you can follow along step by
+step<c> pause</c><c> and</c><c> resume</c><c> you</c><c> know</c><c> the</c>
+step pause and resume you know the
+routine<c> so</c><c> first</c><c> you'll</c><c> need</c><c> to</c><c> go</c><c> to</c><c> HR</c>
+routine so first you'll need to go to HR
+F<c> site</c><c> audit</c><c> tool</c><c> if</c><c> this</c><c> is</c><c> your</c><c> first</c>
+F site audit tool if this is your first
+project<c> then</c><c> you'll</c><c> see</c><c> an</c><c> option</c><c> to</c>
+project then you'll see an option to
+create<c> a</c><c> new</c><c> project</c><c> right</c><c> in</c><c> the</c><c> middle</c>
+create a new project right in the middle
+of<c> the</c><c> screen</c><c> and</c><c> turn</c><c> your</c><c> domain</c><c> for</c>
+of the screen and turn your domain for
+now<c> I'll</c><c> be</c><c> doing</c><c> an</c><c> SEO</c><c> audit</c><c> on</c>
+now I'll be doing an SEO audit on
+problogger<c> com</c><c> for</c><c> our</c><c> example</c><c> here</c>
+problogger com for our example here
+you'll<c> need</c><c> to</c><c> set</c><c> your</c><c> seeds</c><c> and</c><c> scope</c>
+you'll need to set your seeds and scope
+so<c> first</c><c> is</c><c> scope</c><c> which</c><c> is</c><c> basically</c><c> the</c>
+so first is scope which is basically the
+boundaries<c> of</c><c> which</c><c> you</c><c> want</c><c> 8</c><c> reps</c><c> to</c>
+boundaries of which you want 8 reps to
+crawl<c> your</c><c> site</c><c> since</c><c> we'll</c><c> be</c><c> focusing</c>
+crawl your site since we'll be focusing
+on<c> a</c><c> basic</c><c> audit</c><c> and</c><c> we'll</c><c> set</c><c> our</c><c> scope</c>
+on a basic audit and we'll set our scope
+as<c> pro</c><c> bloggers</c><c> entire</c><c> domain</c><c> which</c>
+as pro bloggers entire domain which
+includes<c> their</c><c> subdomains</c><c> too</c><c> but</c><c> you</c>
+includes their subdomains too but you
+can<c> do</c><c> an</c><c> audit</c><c> on</c><c> just</c><c> subdomains</c>
+can do an audit on just subdomains
+subfolders<c> or</c><c> even</c><c> an</c><c> exact</c><c> URL</c><c> if</c><c> you</c>
+subfolders or even an exact URL if you
+wanted<c> to</c><c> you'll</c><c> see</c><c> at</c><c> the</c><c> bottom</c><c> of</c>
+wanted to you'll see at the bottom of
+the<c> screen</c><c> that</c><c> a</c><c> trust</c><c> validates</c><c> the</c>
+the screen that a trust validates the
+URL<c> so</c><c> you</c><c> want</c><c> to</c><c> make</c><c> sure</c><c> that</c><c> you</c>
+URL so you want to make sure that you
+get<c> a</c><c> 200</c><c> response</c><c> code</c><c> before</c><c> moving</c><c> on</c>
+get a 200 response code before moving on
+to<c> the</c><c> next</c><c> step</c><c> this</c><c> section</c><c> down</c><c> here</c>
+to the next step this section down here
+are<c> where</c><c> seeds</c><c> are</c><c> the</c><c> seeds</c><c> are</c><c> the</c>
+are where seeds are the seeds are the
+URLs<c> or</c><c> the</c><c> URL</c><c> where</c><c> HS</c><c> will</c><c> begin</c><c> its</c>
+URLs or the URL where HS will begin its
+crawl<c> there</c><c> are</c><c> a</c><c> few</c><c> options</c><c> you</c><c> can</c>
+crawl there are a few options you can
+choose<c> from</c><c> here</c><c> like</c><c> the</c><c> specified</c><c> URL</c>
+choose from here like the specified URL
+so<c> in</c><c> this</c><c> case</c><c> pro</c><c> bloggers</c><c> home</c><c> page</c>
+so in this case pro bloggers home page
+you<c> can</c><c> also</c><c> choose</c><c> to</c><c> have</c><c> your</c><c> crawl</c>
+you can also choose to have your crawl
+start<c> from</c><c> URLs</c><c> that</c><c> have</c><c> backlinks</c><c> from</c>
+start from URLs that have backlinks from
+sitemaps<c> or</c><c> from</c><c> your</c><c> own</c><c> custom</c><c> list</c><c> of</c>
+sitemaps or from your own custom list of
+URLs<c> and</c><c> since</c><c> we're</c><c> keeping</c><c> things</c>
+URLs and since we're keeping things
+simple<c> we'll</c><c> start</c><c> from</c><c> their</c><c> home</c><c> page</c>
+simple we'll start from their home page
+it's<c> important</c><c> to</c><c> note</c><c> that</c><c> your</c><c> seeds</c>
+it's important to note that your seeds
+must<c> be</c><c> within</c><c> your</c><c> scope</c><c> so</c><c> a</c><c> common</c>
+must be within your scope so a common
+example<c> might</c><c> be</c><c> if</c><c> you</c><c> have</c><c> a</c><c> blog</c><c> on</c>
+example might be if you have a blog on
+your<c> main</c><c> domain</c><c> and</c><c> you</c><c> run</c><c> a</c><c> Shopify</c>
+your main domain and you run a Shopify
+store<c> on</c><c> a</c><c> sub</c><c> domain</c><c> like</c><c> store</c><c> domain</c>
+store on a sub domain like store domain
+com<c> now</c><c> if</c><c> you</c><c> wanted</c><c> to</c><c> isolate</c><c> your</c>
+com now if you wanted to isolate your
+audit<c> to</c><c> your</c><c> store</c><c> only</c><c> and</c><c> you</c><c> set</c>
+audit to your store only and you set
+your<c> scope</c><c> as</c><c> store</c><c> domain</c><c> comm</c><c> and</c><c> then</c>
+your scope as store domain comm and then
+you<c> set</c><c> your</c><c> sieved</c><c> to</c><c> have</c><c> a</c><c> custom</c><c> URL</c>
+you set your sieved to have a custom URL
+of<c> the</c><c> home</c><c> page</c><c> or</c><c> sitemaps</c><c> of</c><c> your</c>
+of the home page or sitemaps of your
+domain<c> then</c><c> your</c><c> seeds</c><c> will</c><c> be</c><c> out</c><c> of</c>
+domain then your seeds will be out of
+scope<c> and</c><c> the</c><c> crawl</c>
+scope and the crawl
+would<c> actually</c><c> never</c><c> start</c><c> alright</c><c> so</c>
+would actually never start alright so
+click<c> the</c><c> next</c><c> button</c>
+click the next button
+and<c> you'll</c><c> have</c><c> the</c><c> option</c><c> to</c><c> verify</c>
+and you'll have the option to verify
+your<c> website</c><c> verifying</c><c> your</c><c> website</c><c> is</c>
+your website verifying your website is
+similar<c> to</c><c> how</c><c> you</c><c> would</c><c> do</c><c> it</c><c> with</c>
+similar to how you would do it with
+Google<c> search</c><c> console</c><c> so</c><c> in</c><c> short</c><c> the</c>
+Google search console so in short the
+benefit<c> is</c><c> that</c><c> you</c><c> have</c><c> your</c><c> website</c>
+benefit is that you have your website
+crawl<c> faster</c><c> and</c><c> you</c><c> get</c><c> access</c><c> to</c><c> some</c>
+crawl faster and you get access to some
+advanced<c> features</c><c> but</c><c> you</c><c> don't</c><c> have</c><c> to</c>
+advanced features but you don't have to
+do<c> this</c><c> to</c><c> run</c><c> a</c><c> site</c><c> on</c><c> it</c><c> so</c><c> for</c><c> now</c>
+do this to run a site on it so for now
+we're<c> just</c><c> gonna</c><c> click</c><c> Next</c>
+we're just gonna click Next
+which<c> will</c><c> take</c><c> us</c><c> to</c><c> the</c><c> crawl</c><c> settings</c>
+which will take us to the crawl settings
+now<c> a</c><c> lot</c><c> of</c><c> these</c><c> settings</c><c> are</c>
+now a lot of these settings are
+self-explanatory<c> the</c><c> one</c><c> that</c><c> I</c><c> do</c><c> want</c>
+self-explanatory the one that I do want
+to<c> recommend</c><c> in</c><c> touch</c><c> on</c><c> is</c><c> the</c><c> execute</c>
+to recommend in touch on is the execute
+JavaScript<c> option</c><c> by</c><c> setting</c><c> this</c><c> on</c><c> it</c>
+JavaScript option by setting this on it
+allows<c> site</c><c> audit</c><c> to</c><c> analyze</c><c> pages</c><c> and</c>
+allows site audit to analyze pages and
+links<c> that</c><c> depend</c><c> on</c><c> JavaScript</c><c> which</c>
+links that depend on JavaScript which
+will<c> result</c><c> in</c><c> the</c><c> most</c><c> accurate</c><c> website</c>
+will result in the most accurate website
+audit<c> so</c><c> if</c><c> you</c><c> use</c><c> JavaScript</c>
+audit so if you use JavaScript
+frameworks<c> like</c><c> like</c><c> angular</c><c> or</c><c> react</c>
+frameworks like like angular or react
+then<c> you</c><c> would</c><c> definitely</c><c> want</c><c> to</c><c> set</c>
+then you would definitely want to set
+this<c> to</c><c> on</c><c> the</c><c> last</c><c> two</c><c> things</c><c> you</c><c> want</c>
+this to on the last two things you want
+to<c> set</c><c> are</c><c> the</c><c> maximum</c><c> number</c><c> of</c>
+to set are the maximum number of
+internal<c> pages</c><c> in</c><c> the</c><c> maximum</c><c> crawl</c>
+internal pages in the maximum crawl
+duration<c> so</c><c> if</c><c> you</c><c> know</c><c> you</c><c> have</c><c> a</c><c> small</c>
+duration so if you know you have a small
+website<c> then</c><c> you</c><c> can</c><c> leave</c><c> these</c><c> on</c><c> the</c>
+website then you can leave these on the
+default<c> settings</c><c> at</c><c> 10,000</c><c> pages</c><c> in</c><c> a</c>
+default settings at 10,000 pages in a
+max<c> crawl</c><c> duration</c><c> of</c><c> 48</c><c> hours</c><c> which</c>
+max crawl duration of 48 hours which
+should<c> be</c><c> sufficient</c><c> but</c><c> if</c><c> you've</c><c> been</c>
+should be sufficient but if you've been
+blogging<c> every</c><c> day</c><c> for</c><c> the</c><c> past</c><c> 10</c><c> years</c>
+blogging every day for the past 10 years
+or<c> you</c><c> have</c><c> some</c><c> kind</c><c> of</c><c> user-generated</c>
+or you have some kind of user-generated
+platform<c> like</c><c> a</c><c> forum</c><c> then</c><c> you'll</c><c> want</c>
+platform like a forum then you'll want
+to<c> set</c><c> these</c><c> to</c><c> a</c><c> higher</c><c> number</c><c> so</c><c> since</c>
+to set these to a higher number so since
+problogger<c> has</c><c> been</c><c> around</c><c> for</c><c> a</c><c> while</c>
+problogger has been around for a while
+I'm<c> gonna</c><c> set</c><c> the</c><c> maximum</c><c> number</c><c> of</c>
+I'm gonna set the maximum number of
+pages<c> to</c><c> 50,000</c><c> and</c><c> I'll</c><c> set</c><c> it</c><c> to</c><c> the</c>
+pages to 50,000 and I'll set it to the
+maximum<c> allowed</c><c> duration</c><c> to</c><c> make</c><c> sure</c><c> we</c>
+maximum allowed duration to make sure we
+catch<c> everything</c><c> then</c><c> there's</c><c> some</c>
+catch everything then there's some
+advanced<c> features</c><c> here</c><c> if</c><c> you</c><c> really</c>
+advanced features here if you really
+want<c> to</c><c> laser</c><c> in</c><c> on</c><c> subsections</c><c> if</c><c> your</c>
+want to laser in on subsections if your
+audit<c> but</c><c> I</c><c> won't</c><c> cover</c><c> that</c><c> in</c><c> this</c>
+audit but I won't cover that in this
+video<c> if</c><c> you</c><c> guys</c><c> want</c><c> to</c><c> see</c><c> more</c>
+video if you guys want to see more
+advanced<c> tutorials</c><c> on</c><c> using</c><c> HRF</c><c> site</c>
+advanced tutorials on using HRF site
+audit<c> tool</c><c> then</c><c> just</c><c> let</c><c> me</c><c> know</c><c> in</c><c> the</c>
+audit tool then just let me know in the
+comments<c> or</c><c> you</c><c> can</c><c> just</c><c> answer</c><c> the</c><c> poll</c>
+comments or you can just answer the poll
+in<c> the</c><c> top</c><c> right</c><c> corner</c><c> of</c><c> your</c><c> screen</c>
+in the top right corner of your screen
+that's<c> about</c><c> to</c><c> trigger</c><c> now</c><c> alright</c><c> so</c>
+that's about to trigger now alright so
+last<c> step</c><c> click</c><c> Next</c><c> and</c><c> you'll</c><c> have</c><c> the</c>
+last step click Next and you'll have the
+option<c> to</c><c> run</c><c> a</c><c> scheduled</c><c> crawl</c><c> on</c><c> a</c>
+option to run a scheduled crawl on a
+daily<c> weekly</c><c> or</c><c> monthly</c><c> basis</c><c> and</c><c> this</c>
+daily weekly or monthly basis and this
+is<c> super</c><c> cool</c><c> because</c><c> as</c><c> you</c><c> continue</c>
+is super cool because as you continue
+adding<c> pages</c><c> you</c><c> start</c><c> deleting</c><c> them</c><c> and</c>
+adding pages you start deleting them and
+you're<c> restructuring</c><c> things</c><c> on</c><c> your</c>
+you're restructuring things on your
+website<c> site</c><c> audit</c><c> will</c><c> continue</c><c> to</c><c> find</c>
+website site audit will continue to find
+them<c> on</c><c> complete</c><c> auto-pilot</c><c> and</c><c> if</c><c> you</c>
+them on complete auto-pilot and if you
+want<c> to</c><c> run</c><c> just</c><c> a</c><c> one-off</c><c> audit</c><c> then</c>
+want to run just a one-off audit then
+you<c> can</c><c> turn</c><c> the</c><c> scheduled</c><c> crawl</c><c> to</c><c> off</c>
+you can turn the scheduled crawl to off
+finally<c> if</c><c> you</c><c> want</c><c> the</c><c> audit</c><c> to</c><c> run</c>
+finally if you want the audit to run
+immediately<c> leave</c><c> this</c><c> switch</c><c> in</c><c> the</c><c> on</c>
+immediately leave this switch in the on
+position<c> and</c><c> click</c><c> create</c><c> project</c><c> right</c>
+position and click create project right
+away<c> you'll</c><c> be</c><c> able</c><c> to</c><c> see</c><c> the</c><c> live</c>
+away you'll be able to see the live
+crawl<c> happening</c><c> on</c><c> your</c><c> website</c><c> and</c><c> get</c>
+crawl happening on your website and get
+real
+data<c> in</c><c> the</c><c> overview</c><c> page</c><c> which</c><c> will</c><c> be</c>
+data in the overview page which will be
+moving<c> on</c><c> to</c><c> next</c>
+moving on to next
+so<c> I</c><c> already</c><c> ran</c><c> the</c><c> full</c><c> audit</c><c> on</c>
+so I already ran the full audit on
+problogger<c> and</c><c> you</c><c> can</c><c> see</c><c> this</c><c> fancy</c>
+problogger and you can see this fancy
+dance<c> dashboard</c><c> here</c><c> with</c><c> an</c><c> overview</c><c> of</c>
+dance dashboard here with an overview of
+pro<c> bloggers</c><c> technical</c><c> SEO</c><c> issues</c><c> the</c>
+pro bloggers technical SEO issues the
+first<c> thing</c><c> that</c><c> you</c><c> probably</c><c> noticed</c><c> is</c>
+first thing that you probably noticed is
+the<c> health</c><c> score</c><c> health</c><c> score</c><c> represents</c>
+the health score health score represents
+the<c> proportion</c><c> of</c><c> URLs</c><c> on</c><c> a</c><c> crawled</c><c> site</c>
+the proportion of URLs on a crawled site
+that<c> have</c><c> critical</c><c> issues</c><c> and</c><c> since</c><c> many</c>
+that have critical issues and since many
+websites<c> will</c><c> have</c><c> thousands</c><c> of</c><c> pages</c><c> we</c>
+websites will have thousands of pages we
+assign<c> a</c><c> grade</c><c> so</c><c> to</c><c> simplify</c><c> this</c>
+assign a grade so to simplify this
+concept<c> if</c><c> we</c><c> crawl</c><c> 100</c><c> pages</c><c> and</c><c> 30</c><c> of</c>
+concept if we crawl 100 pages and 30 of
+them<c> each</c><c> have</c><c> at</c><c> least</c><c> one</c><c> critical</c>
+them each have at least one critical
+issue<c> then</c><c> your</c><c> health</c><c> score</c><c> will</c><c> be</c><c> 70</c>
+issue then your health score will be 70
+on<c> the</c><c> overview</c><c> page</c><c> you'll</c><c> see</c><c> a</c><c> few</c>
+on the overview page you'll see a few
+graphs<c> that</c><c> cover</c><c> the</c><c> basics</c><c> like</c>
+graphs that cover the basics like
+content<c> types</c><c> of</c><c> internal</c><c> URLs</c><c> and</c><c> HTTP</c>
+content types of internal URLs and HTTP
+status<c> codes</c><c> and</c><c> it's</c><c> worth</c><c> noting</c><c> that</c>
+status codes and it's worth noting that
+everything<c> that</c><c> you</c><c> see</c><c> on</c><c> this</c><c> page</c><c> has</c>
+everything that you see on this page has
+clickable<c> links</c><c> which</c><c> will</c><c> give</c><c> you</c>
+clickable links which will give you
+deeper<c> insights</c><c> in</c><c> data</c><c> Explorer</c><c> here</c>
+deeper insights in data Explorer here
+you<c> can</c><c> see</c><c> that</c><c> there</c><c> are</c><c> 1,000</c><c> 184</c><c> 400</c>
+you can see that there are 1,000 184 400
+series<c> errors</c><c> that's</c><c> 4.6</c><c> 3%</c><c> of</c><c> their</c>
+series errors that's 4.6 3% of their
+internal<c> URLs</c><c> and</c><c> these</c><c> are</c><c> most</c><c> likely</c>
+internal URLs and these are most likely
+broken<c> 404</c><c> pages</c><c> on</c><c> their</c><c> website</c><c> and</c><c> if</c>
+broken 404 pages on their website and if
+we<c> click</c><c> the</c><c> link</c><c> on</c><c> this</c><c> graph</c><c> it</c><c> will</c>
+we click the link on this graph it will
+open<c> up</c><c> data</c><c> Explorer</c><c> where</c><c> we</c><c> can</c><c> see</c>
+open up data Explorer where we can see
+all<c> of</c><c> the</c><c> affected</c><c> pages</c><c> with</c><c> this</c>
+all of the affected pages with this
+error<c> data</c><c> Explorer</c><c> is</c><c> basically</c><c> the</c>
+error data Explorer is basically the
+heart<c> of</c><c> HRF</c><c> site</c><c> audit</c><c> tool</c><c> and</c><c> this</c><c> is</c>
+heart of HRF site audit tool and this is
+where<c> you</c><c> can</c><c> gain</c><c> access</c><c> to</c><c> literally</c>
+where you can gain access to literally
+all<c> of</c><c> the</c><c> raw</c><c> data</c><c> and</c><c> customize</c><c> it</c>
+all of the raw data and customize it
+however<c> you</c><c> want</c><c> and</c><c> you'll</c><c> notice</c><c> that</c>
+however you want and you'll notice that
+by<c> clicking</c><c> on</c><c> one</c><c> of</c><c> the</c><c> links</c><c> from</c><c> the</c>
+by clicking on one of the links from the
+overview<c> page</c><c> that</c><c> we</c><c> set</c><c> up</c><c> preset</c>
+overview page that we set up preset
+filters<c> for</c><c> you</c><c> which</c><c> you</c><c> can</c><c> expand</c><c> by</c>
+filters for you which you can expand by
+clicking<c> here</c><c> if</c><c> you're</c><c> an</c><c> absolute</c>
+clicking here if you're an absolute
+beginner<c> to</c><c> technical</c><c> SEO</c><c> then</c><c> I'd</c>
+beginner to technical SEO then I'd
+recommend<c> sticking</c><c> with</c><c> some</c><c> of</c><c> the</c>
+recommend sticking with some of the
+preset<c> filters</c><c> that</c><c> we</c><c> provide</c><c> in</c><c> the</c>
+preset filters that we provide in the
+overview<c> page</c><c> like</c><c> the</c><c> broken</c><c> 400</c><c> series</c>
+overview page like the broken 400 series
+errors<c> that</c><c> we're</c><c> looking</c><c> at</c><c> right</c><c> now</c>
+errors that we're looking at right now
+and<c> then</c><c> start</c><c> moving</c><c> on</c><c> to</c><c> your</c><c> own</c>
+and then start moving on to your own
+custom<c> configurations</c><c> later</c>
+custom configurations later
+now<c> obviously</c><c> fixing</c><c> over</c><c> 1100</c><c> broken</c>
+now obviously fixing over 1100 broken
+pages<c> isn't</c><c> gonna</c><c> be</c><c> at</c><c> the</c><c> top</c><c> of</c><c> your</c>
+pages isn't gonna be at the top of your
+priority<c> list</c><c> right</c><c> so</c><c> what</c><c> I</c><c> would</c>
+priority list right so what I would
+recommend<c> doing</c><c> is</c><c> prioritizing</c><c> this</c>
+recommend doing is prioritizing this
+workflow<c> by</c><c> adding</c><c> one</c><c> custom</c><c> column</c>
+workflow by adding one custom column
+here<c> click</c><c> on</c><c> manage</c><c> columns</c><c> and</c><c> then</c><c> in</c>
+here click on manage columns and then in
+the<c> search</c><c> bar</c><c> here</c><c> just</c><c> type</c><c> in</c><c> do</c>
+the search bar here just type in do
+follow<c> and</c><c> choose</c><c> the</c><c> number</c><c> of</c><c> do</c>
+follow and choose the number of do
+follow<c> backlinks</c><c> under</c><c> the</c><c> HFS</c><c> metrics</c>
+follow backlinks under the HFS metrics
+category<c> click</c><c> the</c><c> apply</c><c> button</c><c> and</c>
+category click the apply button and
+right<c> away</c><c> you'll</c><c> see</c><c> the</c><c> new</c><c> column</c>
+right away you'll see the new column
+here<c> which</c><c> you</c><c> can</c><c> then</c><c> sort</c><c> in</c>
+here which you can then sort in
+descending<c> order</c><c> to</c><c> see</c><c> which</c><c> 404</c><c> pages</c>
+descending order to see which 404 pages
+are<c> wasting</c><c> the</c><c> most</c><c> link</c><c> equity</c><c> this</c><c> is</c>
+are wasting the most link equity this is
+one<c> of</c><c> the</c><c> awesome</c><c> features</c><c> with</c><c> insight</c>
+one of the awesome features with insight
+on<c> it</c><c> you'll</c><c> get</c><c> access</c><c> to</c><c> a</c><c> ton</c><c> of</c><c> HS</c>
+on it you'll get access to a ton of HS
+metrics<c> which</c><c> you</c><c> can</c><c> include</c><c> in</c>
+metrics which you can include in
+virtually<c> any</c><c> audit</c><c> report</c><c> so</c><c> you</c><c> can</c>
+virtually any audit report so you can
+then<c> export</c><c> the</c><c> list</c><c> to</c><c> CSV</c><c> and</c><c> start</c>
+then export the list to CSV and start
+picking<c> away</c><c> at</c><c> each</c><c> 404</c><c> error</c><c> or</c><c> with</c><c> a</c>
+picking away at each 404 error or with a
+massive<c> list</c><c> like</c><c> this</c><c> you</c><c> can</c><c> outsource</c>
+massive list like this you can outsource
+it<c> to</c><c> a</c><c> freelancer</c><c> and</c><c> have</c><c> them</c><c> tackle</c>
+it to a freelancer and have them tackle
+each<c> issue</c><c> in</c><c> the</c><c> priority</c><c> that</c><c> you</c><c> want</c>
+each issue in the priority that you want
+them<c> to</c><c> be</c><c> fixed</c><c> okay</c><c> so</c><c> back</c><c> to</c><c> the</c>
+them to be fixed okay so back to the
+overview<c> page</c><c> if</c><c> we</c><c> scroll</c><c> down</c><c> a</c><c> bit</c>
+overview page if we scroll down a bit
+you'll<c> see</c><c> this</c><c> graph</c><c> of</c><c> HTML</c><c> tags</c><c> in</c>
+you'll see this graph of HTML tags in
+content<c> where</c><c> we</c><c> can</c><c> get</c><c> some</c><c> quick</c><c> wins</c>
+content where we can get some quick wins
+the<c> two</c><c> things</c><c> you</c><c> should</c><c> focus</c><c> on</c><c> are</c>
+the two things you should focus on are
+the<c> bad</c><c> duplicates</c><c> and</c><c> the</c><c> ones</c><c> that</c><c> are</c>
+the bad duplicates and the ones that are
+not<c> set</c><c> as</c><c> indicated</c><c> in</c><c> red</c><c> and</c><c> yellow</c>
+not set as indicated in red and yellow
+so<c> the</c><c> one</c><c> that</c><c> stands</c><c> out</c><c> here</c><c> is</c>
+so the one that stands out here is
+obviously<c> the</c><c> meta</c><c> descriptions</c><c> a</c><c> good</c>
+obviously the meta descriptions a good
+Meta<c> Description</c><c> is</c><c> crucial</c><c> for</c>
+Meta Description is crucial for
+attracting<c> clicks</c><c> to</c><c> your</c><c> website</c><c> and</c>
+attracting clicks to your website and
+more<c> clicks</c><c> is</c><c> equal</c><c> to</c><c> more</c><c> visitors</c>
+more clicks is equal to more visitors
+right<c> so</c><c> are</c><c> these</c><c> worth</c><c> fixing</c>
+right so are these worth fixing
+most<c> likely</c><c> again</c><c> all</c><c> of</c><c> these</c><c> sections</c>
+most likely again all of these sections
+are<c> clickable</c><c> this</c><c> particular</c><c> site</c><c> has</c>
+are clickable this particular site has
+165<c> bad</c><c> duplicates</c><c> on</c><c> the</c><c> content</c><c> itself</c>
+165 bad duplicates on the content itself
+so<c> basically</c><c> duplicate</c><c> content</c><c> issues</c><c> so</c>
+so basically duplicate content issues so
+we'll<c> click</c><c> here</c><c> to</c><c> see</c><c> the</c><c> effective</c>
+we'll click here to see the effective
+pages<c> in</c><c> the</c><c> table</c><c> the</c><c> first</c><c> result</c><c> that</c>
+pages in the table the first result that
+comes<c> up</c><c> is</c><c> this</c><c> page</c><c> on</c><c> creating</c>
+comes up is this page on creating
+content<c> and</c><c> you</c><c> might</c><c> have</c><c> noticed</c><c> that</c>
+content and you might have noticed that
+the<c> columns</c><c> changed</c><c> from</c><c> the</c><c> last</c><c> time</c>
+the columns changed from the last time
+we<c> were</c><c> in</c><c> here</c><c> assessing</c><c> 404</c><c> errors</c><c> and</c>
+we were in here assessing 404 errors and
+this<c> is</c><c> because</c><c> each</c><c> report</c><c> in</c><c> data</c>
+this is because each report in data
+explorer<c> is</c><c> set</c><c> up</c><c> to</c><c> provide</c><c> you</c><c> with</c>
+explorer is set up to provide you with
+the<c> resources</c><c> you</c><c> need</c><c> to</c><c> actually</c>
+the resources you need to actually
+analyze<c> and</c><c> fix</c><c> these</c><c> issues</c><c> so</c><c> under</c>
+analyze and fix these issues so under
+the<c> number</c><c> of</c><c> URLs</c><c> having</c><c> the</c><c> same</c>
+the number of URLs having the same
+content<c> we</c><c> can</c><c> see</c><c> that</c><c> this</c><c> one</c><c> has</c><c> two</c>
+content we can see that this one has two
+different<c> pages</c><c> so</c><c> if</c><c> we</c><c> click</c><c> on</c><c> this</c>
+different pages so if we click on this
+then<c> you</c><c> can</c><c> see</c><c> that</c><c> there</c><c> are</c><c> two</c>
+then you can see that there are two
+pages<c> here</c><c> one</c><c> has</c><c> the</c><c> slash</c><c> at</c><c> the</c><c> end</c>
+pages here one has the slash at the end
+and<c> the</c><c> other</c><c> doesn't</c><c> I'll</c><c> open</c><c> up</c><c> both</c>
+and the other doesn't I'll open up both
+of<c> these</c><c> pages</c><c> in</c><c> a</c><c> new</c><c> window</c><c> and</c><c> sure</c>
+of these pages in a new window and sure
+enough<c> both</c><c> are</c><c> the</c><c> exact</c><c> same</c><c> page</c>
+enough both are the exact same page
+without<c> a</c><c> proper</c><c> redirect</c><c> and</c><c> I'll</c><c> open</c>
+without a proper redirect and I'll open
+up<c> the</c><c> source</c><c> code</c><c> for</c><c> each</c><c> of</c><c> these</c>
+up the source code for each of these
+pages<c> and</c><c> if</c><c> I</c><c> do</c><c> a</c><c> quick</c><c> search</c><c> for</c><c> the</c>
+pages and if I do a quick search for the
+word<c> canonical</c><c> you'll</c><c> see</c><c> that</c><c> neither</c>
+word canonical you'll see that neither
+have<c> these</c><c> set</c><c> so</c><c> it</c><c> is</c><c> indeed</c><c> a</c><c> bad</c>
+have these set so it is indeed a bad
+duplicate<c> so</c><c> jumping</c><c> back</c><c> to</c><c> the</c>
+duplicate so jumping back to the
+previous<c> page</c><c> you'll</c><c> see</c><c> that</c><c> the</c><c> reason</c>
+previous page you'll see that the reason
+we<c> found</c><c> this</c><c> page</c><c> in</c><c> the</c><c> first</c><c> place</c><c> is</c>
+we found this page in the first place is
+because<c> of</c><c> this</c><c> column</c><c> here</c><c> number</c><c> of</c><c> in</c>
+because of this column here number of in
+links<c> the</c><c> correct</c><c> URL</c><c> has</c><c> nearly</c><c> 12,000</c>
+links the correct URL has nearly 12,000
+internal<c> links</c><c> pointing</c><c> to</c><c> it</c><c> and</c><c> the</c>
+internal links pointing to it and the
+one<c> without</c><c> the</c><c> slash</c><c> has</c><c> one</c><c> internal</c>
+one without the slash has one internal
+link<c> pointing</c><c> to</c><c> it</c>
+link pointing to it
+so<c> if</c><c> we</c><c> click</c><c> on</c><c> the</c><c> one</c><c> under</c><c> the</c>
+so if we click on the one under the
+number<c> of</c><c> end</c><c> links</c><c> we</c><c> can</c><c> see</c><c> that</c><c> the</c>
+number of end links we can see that the
+page<c> that</c><c> has</c><c> the</c><c> improper</c>
+page that has the improper
+/<c> link</c><c> is</c><c> from</c><c> their</c><c> start</c><c> here</c><c> page</c><c> so</c>
+/ link is from their start here page so
+to<c> correct</c><c> this</c><c> issue</c><c> there</c><c> are</c>
+to correct this issue there are
+potentially<c> two</c><c> things</c><c> that</c><c> you</c><c> could</c><c> do</c>
+potentially two things that you could do
+here<c> the</c><c> first</c><c> is</c><c> to</c><c> set</c><c> the</c><c> rel</c><c> equals</c>
+here the first is to set the rel equals
+canonical<c> tag</c><c> inside</c><c> the</c><c> head</c><c> section</c><c> of</c>
+canonical tag inside the head section of
+the<c> page</c><c> and</c><c> the</c><c> second</c><c> thing</c><c> that</c><c> you</c>
+the page and the second thing that you
+could<c> do</c><c> is</c><c> you</c><c> could</c><c> just</c><c> change</c><c> the</c>
+could do is you could just change the
+URL<c> in</c><c> the</c><c> start</c><c> here</c><c> page</c><c> to</c><c> the</c>
+URL in the start here page to the
+correct<c> one</c><c> or</c><c> you</c><c> could</c><c> just</c><c> do</c><c> both</c>
+correct one or you could just do both
+since<c> they're</c><c> pretty</c><c> quick</c><c> and</c><c> easy</c><c> to</c>
+since they're pretty quick and easy to
+do<c> clearly</c><c> you</c><c> can</c><c> see</c><c> that</c><c> this</c><c> page</c><c> is</c>
+do clearly you can see that this page is
+an<c> important</c><c> one</c><c> considering</c><c> nearly</c><c> half</c>
+an important one considering nearly half
+of<c> the</c><c> pages</c><c> on</c><c> the</c><c> entire</c><c> domain</c><c> are</c>
+of the pages on the entire domain are
+linking<c> to</c><c> it</c>
+linking to it
+okay<c> so</c><c> let's</c><c> jump</c><c> back</c><c> to</c><c> the</c><c> overview</c>
+okay so let's jump back to the overview
+page<c> and</c><c> give</c><c> you</c><c> a</c><c> bit</c><c> more</c><c> of</c><c> a</c>
+page and give you a bit more of a
+structured<c> workflow</c><c> if</c><c> you</c><c> continue</c>
+structured workflow if you continue
+scrolling<c> down</c><c> the</c><c> page</c><c> you'll</c><c> see</c><c> this</c>
+scrolling down the page you'll see this
+table<c> here</c><c> and</c><c> this</c><c> table</c><c> shows</c><c> all</c><c> of</c>
+table here and this table shows all of
+the<c> actual</c><c> issues</c><c> that</c><c> we</c><c> found</c><c> during</c>
+the actual issues that we found during
+our<c> crawl</c><c> and</c><c> there</c><c> are</c><c> three</c><c> types</c><c> of</c>
+our crawl and there are three types of
+issues<c> we</c><c> call</c><c> them</c><c> errors</c><c> warnings</c><c> and</c>
+issues we call them errors warnings and
+notices<c> and</c><c> you</c><c> can</c><c> choose</c><c> a</c><c> value</c><c> in</c>
+notices and you can choose a value in
+this<c> drop-down</c><c> to</c><c> see</c><c> each</c><c> category</c><c> so</c>
+this drop-down to see each category so
+in<c> terms</c><c> of</c><c> a</c><c> workflow</c><c> what</c><c> I</c><c> would</c>
+in terms of a workflow what I would
+recommend<c> doing</c><c> is</c><c> to</c><c> filter</c><c> for</c><c> errors</c>
+recommend doing is to filter for errors
+and<c> then</c><c> tackle</c><c> those</c><c> issues</c><c> first</c><c> since</c>
+and then tackle those issues first since
+they're<c> likely</c><c> the</c><c> most</c><c> pressing</c><c> the</c>
+they're likely the most pressing the
+cool<c> thing</c><c> about</c><c> this</c><c> table</c><c> is</c><c> that</c><c> we</c>
+cool thing about this table is that we
+don't<c> just</c><c> tell</c><c> you</c><c> that</c><c> your</c><c> website</c>
+don't just tell you that your website
+has<c> errors</c><c> but</c><c> we</c><c> give</c><c> you</c><c> actionable</c>
+has errors but we give you actionable
+advice<c> on</c><c> how</c><c> to</c><c> fix</c><c> them</c><c> too</c><c> so</c><c> you</c>
+advice on how to fix them too so you
+might<c> look</c><c> here</c><c> and</c><c> see</c><c> that</c><c> your</c>
+might look here and see that your
+website<c> has</c><c> 219</c><c> redirect</c><c> chains</c><c> we</c><c> have</c>
+website has 219 redirect chains we have
+no<c> idea</c><c> what</c><c> they</c><c> are</c><c> no</c><c> problem</c><c> just</c>
+no idea what they are no problem just
+click<c> on</c><c> the</c><c> info</c><c> icon</c><c> and</c><c> it'll</c><c> bring</c>
+click on the info icon and it'll bring
+down<c> the</c><c> issue</c><c> details</c><c> as</c><c> well</c><c> as</c><c> SEO</c>
+down the issue details as well as SEO
+best<c> practices</c><c> advice</c><c> on</c><c> how</c><c> you</c><c> can</c><c> fix</c>
+best practices advice on how you can fix
+it<c> next</c><c> you</c><c> can</c><c> click</c><c> on</c><c> the</c><c> number</c>
+it next you can click on the number
+under<c> total</c><c> URLs</c><c> to</c><c> see</c><c> the</c><c> effective</c>
+under total URLs to see the effective
+pages<c> if</c><c> you're</c><c> a</c><c> pen</c><c> and</c><c> paper</c><c> kind</c><c> of</c>
+pages if you're a pen and paper kind of
+person<c> then</c><c> you</c><c> can</c><c> just</c><c> export</c><c> this</c>
+person then you can just export this
+list<c> here</c><c> print</c><c> it</c><c> out</c><c> and</c><c> pick</c><c> away</c><c> at</c>
+list here print it out and pick away at
+each<c> issue</c><c> finishing</c><c> off</c><c> by</c><c> adding</c><c> a</c>
+each issue finishing off by adding a
+satisfying<c> checkmark</c><c> to</c><c> your</c><c> list</c><c> or</c><c> if</c>
+satisfying checkmark to your list or if
+you<c> have</c><c> a</c><c> team</c><c> of</c><c> SEO</c><c> zon</c><c> your</c><c> side</c>
+you have a team of SEO zon your side
+then<c> you</c><c> can</c><c> export</c><c> each</c><c> issue</c><c> send</c><c> the</c>
+then you can export each issue send the
+CSV<c> file</c><c> and</c><c> assign</c><c> it</c><c> to</c><c> the</c>
+CSV file and assign it to the
+appropriate<c> person</c><c> then</c><c> you</c><c> can</c><c> go</c><c> back</c>
+appropriate person then you can go back
+to<c> the</c><c> overview</c><c> page</c><c> and</c><c> continue</c>
+to the overview page and continue
+working<c> on</c><c> the</c><c> different</c><c> issues</c><c> and</c><c> move</c>
+working on the different issues and move
+on<c> to</c><c> the</c><c> warnings</c><c> as</c><c> well</c><c> as</c><c> the</c>
+on to the warnings as well as the
+notices<c> and</c><c> as</c><c> your</c><c> scheduled</c><c> crawl</c>
+notices and as your scheduled crawl
+continues<c> to</c><c> run</c><c> at</c><c> your</c><c> set</c><c> interval</c>
+continues to run at your set interval
+you<c> should</c><c> see</c><c> your</c><c> health</c><c> score</c><c> go</c><c> up</c>
+you should see your health score go up
+and<c> hopefully</c><c> that</c><c> will</c><c> result</c><c> in</c><c> more</c>
+and hopefully that will result in more
+organic<c> traffic</c><c> for</c><c> your</c><c> website</c><c> so</c>
+organic traffic for your website so
+that's<c> it</c><c> for</c><c> this</c><c> SEO</c><c> tutorial</c><c> SEO</c>
+that's it for this SEO tutorial SEO
+audits<c> are</c><c> one</c><c> of</c><c> those</c><c> rare</c><c> things</c><c> that</c>
+audits are one of those rare things that
+you<c> have</c><c> complete</c><c> control</c><c> over</c><c> with</c>
+you have complete control over with
+search<c> engine</c><c> optimization</c><c> so</c><c> I</c><c> highly</c>
+search engine optimization so I highly
+highly<c> highly</c><c> recommend</c><c> going</c><c> in</c>
+highly highly recommend going in
+fixing<c> these</c><c> issues</c><c> or</c><c> at</c><c> least</c><c> running</c>
+fixing these issues or at least running
+an<c> audit</c><c> to</c><c> get</c><c> a</c><c> top</c><c> level</c><c> view</c><c> of</c><c> your</c>
+an audit to get a top level view of your
+websites<c> SEO</c><c> health</c><c> and</c><c> plus</c><c> you're</c>
+websites SEO health and plus you're
+gonna<c> be</c><c> improving</c><c> user</c><c> experience</c><c> for</c>
+gonna be improving user experience for
+all<c> of</c><c> your</c><c> wonderful</c><c> visitors</c><c> make</c><c> sure</c>
+all of your wonderful visitors make sure
+to<c> hit</c><c> the</c><c> thumbs</c><c> up</c><c> button</c><c> and</c>
+to hit the thumbs up button and
+subscribe<c> for</c><c> more</c><c> actionable</c><c> SEO</c><c> tips</c>
+subscribe for more actionable SEO tips
+and<c> tutorials</c><c> we</c><c> have</c><c> a</c><c> bunch</c><c> of</c><c> cool</c>
+and tutorials we have a bunch of cool
+stuff<c> on</c><c> the</c><c> way</c><c> and</c><c> I</c><c> don't</c><c> want</c><c> you</c><c> to</c>
+stuff on the way and I don't want you to
+miss<c> them</c><c> so</c><c> until</c><c> then</c><c> I</c><c> hope</c><c> to</c><c> hear</c>
+miss them so until then I hope to hear
+some<c> awesome</c><c> stories</c><c> of</c><c> you</c><c> guys</c>
+some awesome stories of you guys
+improving<c> your</c><c> websites</c><c> SEO</c><c> health</c><c> and</c>
+improving your websites SEO health and
+squeezing<c> every</c><c> ounce</c><c> of</c><c> organic</c><c> traffic</c>
+squeezing every ounce of organic traffic
+to<c> your</c><c> site</c><c> I'll</c><c> talk</c><c> to</c><c> you</c><c> soon</c><c> my</c>
+to your site I'll talk to you soon my
+fellow<c> technical</c><c> SEO</c><c> geeks</c>
+fellow technical SEO geeks
+samo<c> here</c><c> signing</c><c> out</c><c> peace</c>
+samo here signing out peace
+[Music]

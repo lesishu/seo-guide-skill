@@ -1,0 +1,353 @@
+are you struggling to get traffic from
+Google maybe it's because all of those
+juicy keywords are dominated by Mega
+Publications and authorities in your
+Niche well I've got two and A2 words for
+you that's going to help you solve this
+problem longtail keywords and in this
+video I'm going to show you how to find
+choose and rank for longtail keywords to
+get a crazy amount of search traffic
+stay
+[Music]
+tuned what's up seos Sam here with HS
+the SEO tool that helps you grow your
+search traffic research your competitors
+and dominate your Niche now today we're
+going to dig deep into the growing your
+search traffic part with longtail
+keywords and the byproduct will be
+dominating earich now I'm excited and I
+hope you are too so let's get to it so
+what are longtail keywords longtail
+keywords are search queries with low
+individual search volume but can have an
+enormous total search demand as a group
+the name comes from the long taale of
+the so-called search demand curve which
+is a graph that plots all keywords by
+their search volumes for example if you
+look at the topic of cute cats and a few
+longtail variations in hre's keywords
+explore the first keyword would be at
+the head of the curve because of its
+popularity the cutest cat in the world
+will be a longtail keyword somewhere
+further down and the other two phrases
+would be at the end of the tale since
+they're unpopular ways to search for the
+topic but there are numerous variations
+that would likely add up to a massive
+cumulative search volume so longtail
+keywords are defined by search volume
+and not because the actual keywords are
+long or have X number of words in them
+but naturally in most cases longtail
+keywords are going to be lengthier since
+more words often communicate a more
+specific query right but let me quickly
+bust the myth on keyword length versus
+search volume because longer words don't
+always mean lower search volume if you
+look at these three keyword phrases in
+H's keywords Explorer you'll see that
+the four and five-word phrases have
+significantly more search volume then
+the two-word phrase lose weight and I'm
+not just picking a topic that I know
+fits the bill in fact we studied 1.4
+billion keywords and found that 99.3% of
+keywords with over 1 million monthly
+searches have three or more words and if
+you look to the other side of the graph
+you'll see that there are still a good
+number of unpopular one-word keywords
+that have less than 50 searches per
+month as indicated in purple so ha myth
+busted now every single topic has a
+search demand curve and they fall into
+two distinct buckets so topics that fall
+into bucket number one are usually Broad
+and have a very long tail with a ton of
+relevant phrases looking at the top 10
+ranking pages in keywords explore for
+the query hairstyles you'll see that
+most of these Pages rank for thousands
+or tens of thousands of different
+relevant keywords and bucket number two
+are usually topics that are much more
+focused and will have much fewer
+longtail keywords so for example if you
+look at the Ser for squeeze page you'll
+see that the number of keyword rankings
+is significantly less because the topic
+is so focused now these two types of
+longtail keywords are clearly quite
+different and it's important that you
+treat them differently too so let's
+explore these buckets and I'll show you
+how to choose and find longtail keyword
+phrases for each one bucket one is
+called the longtail of broad topics and
+these tend to have a few high volume
+Search terms and a ton of longtail
+variations so the search query how to
+lose weight is the perfect example if
+you look at the keyword ranking for
+health lines weight loss article you'll
+see that they have around 9500 keyword
+rankings in the US that rank in a top 10
+position in Google people are
+essentially looking for the same thing
+but they're typing in all sorts of
+different variations with the same or
+similar search intent so the head term
+here is clearly weight loss which has
+109,000 searches per month meaning that
+any queries with let's say 500 searches
+per month are 100% longtails right so
+let's filter for these keywords that
+still rank in in the top 10 and you'll
+see that there are still over 99,100
+keywords these are the longtail keywords
+for the topic on weight loss and they
+count for 96% of this Page's keyword
+rankings but this is much more than just
+another fun fact there are two very
+actionable tips to take away from this
+number one by ranking high for this head
+term you'll almost always rank for the
+thousands of other longtail searches so
+when you pick your topics always look to
+the ones that have the largest total
+search SE Arch traffic potential and
+number two is equally important if
+Google merges a longtail keyword into a
+bigger topic then there's no point in
+targeting it right think about it we
+already know that Google will rank one
+broad article for thousands of search
+queries so by trying to publish
+dedicated articles that Target a single
+longtail keyword within the broad topic
+you'll achieve nothing but wasted time
+here's some proof this article from
+Healthline generates around 490,000
+search visitors globally each month
+month and they rank for a ton of
+keywords but here's the thing not all
+topics with a ton of longtail keywords
+have super high search volumes for
+example if you look at these search
+volume metrics then you'll see that SEO
+tips has more than double the search
+volume of submit your website to search
+engines so at first glance it seems like
+a better topic to Target right well not
+necessarily if we look at the sech for
+SEO tips then you'll see that the top
+ranking Pages get significantly less
+traffic than the search volume for the
+main keyword and they don't rank for
+that many different keywords either now
+let's look at the surf for the query
+submit website to search engines you'll
+see quite the opposite effect the
+traffic numbers are more than triple the
+search volume of the top keyword and
+of keywords so again always analyze the
+Sur to see the total traffic these Pages
+generate and look at the number of
+keywords these Pages rank for an easy
+way to find these longtail topics is to
+look up a popular website in site
+Explorer so I'll search for
+healthline.com
+next I'll go to the top pages report
+which will show us their pages that get
+the most search traffic and since we're
+talking about topics with tons of
+longtail keywords let's sort the results
+in descending order by the number of
+keywords each page ranks for in order to
+identify these longtail topic
+opportunities you want to look at these
+columns traffic keywords top keyword its
+volume and position so let's analyze
+their top pages and set a checklist to
+identify the most obvious longtail topic
+opport unities first the page must rank
+in the top five for their top keyword
+next they should rank for lots of
+keywords and get a good amount of search
+traffic so far so good the final point
+is that the page should get
+significantly more traffic than you'd
+expect based on their ranking position
+compared to the search volume of their
+top keyword and in healthline's case
+that only excludes a couple of these
+pages so now we have a ton of longtail
+topics that we could create for our own
+website if we were in the health Niche
+and I actually have to point out this
+one with a top keyword bumps on skin
+that has a search volume of 8,400 but
+the page gets over 100,000 search
+visitors each month that's bananas now
+it's important to note that you should
+also look at the number of referring
+domains that the page has and this
+should be a good indication of how many
+links you'll need in order to get
+similar rankings and be competitive in
+search now why should you care as an SEO
+because by picking topics with more
+longtail keywords you'll generate a lot
+more organic traffic than the search
+volume of just the main keyword since
+you'll be ranking for so many other
+longtail variations these longtail
+topics are ideal for established
+websites that can or have a history of
+ranking for head terms and by ranking
+for your head term there's an element of
+predictability to know that your pages
+will rank for tons of other longtail
+variations with relative ease all right
+so we've covered the longtail of broad
+topics but there's a completely
+different type of longtail keyword which
+has its own bucket and that's topical
+longtail keywords these keywords
+represent individual topics of their own
+rather than being part of a bigger topic
+so for example if we look up keyword
+cannibalization and keywords Explorer
+you'll see that this query has a monthly
+search volume of 150 in the United
+States scrolling down to the top 10 serp
+you'll see that the top ranking Pages
+get significantly less traffic than the
+suggested search volume and none of the
+pages rank for a particularly large
+number of keywords the topic of keyword
+cannibalization doesn't fit into a
+larger topic it's a topic in itself and
+the longtail keywords within it happen
+to be much smaller than broader topics
+like weight loss so why should you care
+about these longtail keywords the
+obvious answer is that since search
+volumes are much lower than the fathead
+keywords the competition is usually
+going to be much weaker so you'll have a
+better chance at ranking for them and
+you'll likely see results much faster
+than going after competitive terms like
+how to lose weight the not so obvious
+reason is that you can still generate
+tons of perfectly relevant traffic if
+you rank for 20 to 50 longtail topics
+for example if you look at the Ser
+overview for the keyword how to help my
+husband lose weight which is a good
+example of our so-called topical
+longtail keyword you'll see that the top
+keyword has a search volume of 60 and
+the page gets 76 search visitors per
+month and to put the cherry on the top
+the top ranking page has zero referring
+domains pointing at it so it's likely a
+low competition keyword now if you were
+to create 20 pages around different long
+tail topics that individually generate
+70 search visitors per month then you're
+looking at 1,400 monthly search visitors
+that my friend is cumulative value so
+how can you find a whole bunch of these
+topics with ease I have three super
+simple strategies for you the first one
+is to look for modifier keywords within
+a larger topic so if we look at the
+phrase match report for the keyword
+black shoes then you can use the include
+feature and type in a modifier keyword
+like with and you can see right away
+that there are almost 2800 awesome
+keywords and by looking at the keyword
+difficulty scores they all seem like
+pretty easy topics to rank for if we
+look at the Ser overview for the keyword
+black shoes with navy suit which has 600
+searches per month you'll see that all
+of the ranking Pages get a decent amount
+of traffic and almost all of the pages
+have little to no backlinks clicking
+through to this page you'll see that the
+content is rather thin with a few images
+so you won't need to worry about
+creating monstrous guides to outrank
+them you can then click on the number of
+keywords and investigate further for
+longtail variations and subtopics within
+the organic keywords report these would
+be much easier to rank for than a
+Fathead term like shoes the next
+strategy is to append locations to your
+product or service keywords for example
+if we look at the phras match report for
+rent a truck in you'll see hundreds of
+results that are all very low
+competition now this might seem
+underwhelming since the search volume is
+really low but take roughly 300 keywords
+multiply by 10 and you have 3,000
+searches per month now in this example I
+would guess they hold commercial value
+too keep in mind that even though H's
+keyword database is absolutely monstrous
+it doesn't contain all possible search
+queries that people might search for so
+there's a lot of lwh hanging traffic
+here up for grabs the third strategy is
+to look at questions on a topic and the
+best part about this is that you can
+actually do it in very competitive
+niches so let's type in weight loss in
+keywords Explorer next go to the
+question questions report since it's a
+very competitive niche as you can see
+from the keyword difficulty score let's
+set the max KD to something low like
+five and I bet you would have never
+thought about targeting these longtail
+keyword topics on your own with these
+questions you can create your own FAQ
+section on your website and start
+getting a ton of longtail traffic from
+these phrases these so-called topical
+longtail keywords are great for new
+websites or those that haven't quite
+built an authoritative backlink profile
+yet you should be able to get traction
+quicker than targeting the longtail of
+broad topics since you'll essentially be
+going for low competition keywords and
+as your site builds a solid backlink
+profile you can start branching off to
+the broader topics so I want you to take
+this key point away from this tutorial
+96.4% of all search queries in the US
+have less than 50 searches per month so
+by neglecting these longtail keyword
+phrases you're missing out on the
+majority of searches that happen every
+day but now you have a perfect
+understanding of the two types of
+longtail keywords those that belong to a
+broader topic and those that form a
+topic of their own so keep grinding away
+use these tactics and strategies to get
+ahead of other seos and I'll see you in
+the next tutorial

@@ -1,0 +1,330 @@
+google tries to show the most relevant
+results for any given query but what
+happens if people want different things
+i mean if someone searches for apple do
+they want this
+this
+or
+this hi
+i'm apple
+this is called fractured or mixed intent
+or according to google's quality rater
+guidelines quarries with multiple
+meanings and they actually show an
+example of how they would handle this
+query and that's through dominant common
+and minor interpretations
+but it's not always this easy and seeing
+as search intent is one of the most
+important things in seo to get right
+you need to know how to handle mixed or
+fractured serps because if you can't
+match one of the intents then you're not
+going to rank so in this tutorial i'm
+going to show you how to interpret
+intent for serps even when it might seem
+completely random stay tuned
+[Music]
+so if you're not familiar with search
+intent it represents the reason behind a
+searcher's query and finding search
+intent is usually done by looking at the
+top ranking pages for a target query for
+example when someone searches for crock
+pot recipes it's quite clear that they
+want to see pages that include lists of
+slow cooker recipes and we know this
+because all the top ranking pages for
+this query are doing that
+search intent is clear so if we want it
+to compete it's just a matter of
+following suit now if we search for just
+crockpot you'll see that intent is mixed
+i mean do people want to go to the
+manufacturer's website buy a crockpot
+online go and visit a store nearby or
+get a list of slow cooker recipes more
+importantly can you rank for this query
+and if so what type of page should you
+create now in order to come to an
+educated decision we need to talk about
+the types of search intent that seos
+generally look for and these are usually
+categorized in four buckets
+informational navigational commercial
+investigation and transactional
+so informational queries are ones where
+people are looking for information they
+want to learn so crockpot recipes what
+is seo etc would generally be considered
+informational and pretty much any site
+can rank for these through articles as
+for navigational queries these are ones
+where someone is looking for a specific
+website or place to go for example
+google analytics login amazon garden
+hose or mexican restaurant near me
+now for the most part you probably won't
+go after navigational queries that
+aren't about your brand because even if
+you do rank for that keyword you
+probably won't get much traffic from it
+for example the query bank of america
+login gets around 1.6 million monthly
+searches in the us
+and if we go to the traffic share by
+pages report in ahrefs keywords explorer
+you'll see that the first page gets the
+majority of traffic the second to their
+mobile app gets a tiny fraction of it
+and then the result in position three
+gets virtually no search traffic from
+this query and that's because no one
+else can serve this intent other than
+the bank of america
+now if we look at the traffic share by
+pages report for another navigational
+query like bank of america routing
+number you'll see that wise.com gets a
+decent amount of traffic from this
+keyword and that's likely because intent
+doesn't need to be served from the bank
+in fact wise has created tons of pages
+around bank routing numbers which leads
+to hundreds of thousands of monthly
+search visits now commercial
+investigation queries are ones where the
+searcher is likely in the market for a
+product or service but has yet to make a
+final decision so think of your typical
+best of affiliate posts reviews and
+comparisons
+searchers are basically weighing out
+their options but have yet to make a
+more specific decision
+and these queries are fair game if you
+have products or services to sell or if
+you run an affiliate site and finally
+are transactional queries which are
+queries that show that a searcher is
+looking to purchase something specific
+for example buy optimum nutrition
+protein powder and these queries are
+usually reserved for websites that sell
+that product or service
+now these intent buckets are far from
+perfect and one of many problems is that
+serps often can't be categorized in one
+bucket meaning there are multiple
+intents just as google had said
+in reality a single serp can have pages
+that serve all four intents
+so to get a better idea of dominant
+intent you need to get the full scope of
+the serp and there are three main things
+you need to include in your analysis the
+first and probably most important are
+the organic blue link search results
+plain and simple you want to look at the
+top ranking pages for your target query
+and ideally you'll want to analyze the
+serp from a location where you hope to
+rank in addition you'll want to sign out
+of your google account and use private
+or incognito mode to remove any
+personalization factors you can do this
+using a vpn with ahrefs seo toolbar
+or if you're doing local seo and need to
+start from a specific city town or even
+zip code you can search for a keyword
+from a target location using ahrefs rank
+tracker now once you have the search
+results in front of you you'll want to
+look at the top pages and look for the
+intent they're trying to serve so are
+they trying to teach you something is a
+common brand showing up do they want to
+sell you something or do they want to
+give you education on a product now
+while you can infer much of this from
+the titles and descriptions you should
+actually visit the pages and look at the
+so-called content intent of each ranking
+page and by content intent i'm referring
+to the intent the page is trying to
+serve not the serp for example if we
+look at the serp for car loan you'd
+probably think from the titles and urls
+that all of these pages are lead gen
+landing pages
+and if you click on the first result
+you'll see that that's true but if you
+click on the result from bank rate their
+content is actually less transactional
+and looks more commercial and
+informational as you can see from the
+pricing table and their table of
+contents
+all right so let's put this into action
+and look at the serp for the query
+keyword research where intent is
+fractured and i just want to note that
+i'll only be looking at the organic blue
+link results for this assessment
+so we have some blog posts that are
+showing informational intent like these
+how-to guides
+then we have these landing pages that
+are free keyword research tools so in my
+opinion the intent for this serp is
+informational and commercial the former
+being dominant all right let's move on
+to the second thing you should look at
+and that's serp features
+serve features are anything that appear
+in google search results other than the
+organic blue link pages so that includes
+local packs knowledge panels people also
+ask ads and i'll stop listing them out
+because there are a ton of them and this
+list is far from exhaustive
+now serve features actually help to
+paint a clear picture of how google sees
+user intent for example if you look at
+the search results for the query raleigh
+seo you'd probably think that it's a
+commercial and transactional query
+because nearly all of the top ranking
+pages are home pages and landing pages
+from seo agencies who sell seo services
+now if we look at the full serp you'll
+see that there are a ton of ads that are
+trying to do the same thing as the
+organic results further confirming
+transactional intent but there's also a
+knowledge panel for the company rally
+seo company meaning this could also be a
+partial navigational query because while
+the majority of people are likely
+looking for an seo company in raleigh
+north carolina to work with some might
+actually be looking for the entity
+rally seo company and as you can see
+they rank in pole position for the
+quarry too
+so let's look back at our list of serp
+features and categorize how they give us
+clues about intent and the key word here
+is clues because again you need to take
+multiple things into account also serve
+features can fit into multiple buckets
+for example featured snippets can appear
+for both informational and commercial
+investigation queries like what are
+primary colors and best golf clubs
+so here's a list of how i think start
+features map to intent take a screenshot
+and let's move on to the third thing to
+analyze and that's serp stability versus
+volatility stability or volatility
+within the serp can tell us a bit about
+search intent for example if the top
+ranking pages are jumping in and out of
+the top 100 then search intent may not
+be clear
+now on the other hand if the top ranking
+pages have been consistently ranking on
+page one for an extended period of time
+then it tells us that intent is likely
+clear
+for example if we look at the last 12
+months of position data for the quarry
+how to make chicken soup you'll see that
+the top six pages have consistently held
+their top ranking position and the
+little bits of movements are just signs
+of healthy competition now if we look at
+the position history graph for the
+quarry play you'll see that different
+pages have been popping in and out of
+the top ten the serp is volatile and
+just look at the variants and pages that
+are ranking there's google's play store
+their support page and twitter account a
+few definitions of the word play
+a stock ticker called play and
+playstation's home page
+based on just the urls alone intent is
+dominantly navigational and it's
+commonly informational
+now it's not to say that you should only
+target stable serps because they both
+come with their pros and cons generally
+speaking stable serps will be harder to
+get a top ranking position at least for
+competitive quarries but there's also a
+level of predictability when trying to
+rank for these queries it's basically
+just a matter of content and links
+whereas volatile serps can be faster to
+rank in but there can be a lot of
+uncertainty in terms of if you can rank
+now it'd be all rainbows and butterflies
+if we could accurately define strict
+criteria and categorize them into one or
+more intent buckets then we know exactly
+how to approach page creation but the
+truth about these intent buckets is that
+the methodology is broken because a
+they're like a million in one it depends
+kind of serps
+b syrups change meaning intent can
+change too
+c
+serps are often different based on one's
+location
+and d which is probably the most
+important is that people's
+interpretation of intent will vary
+to prove my point i asked josh head of
+content at ahrefs and patrick our
+resident technical seo to give me their
+opinions on search intent for these
+keywords
+we all jotted down our answers
+without peaking and here are the results
+from this exercise
+as you can see our interpretation of
+intent on the whole was quite different
+in fact the only keyword we had
+identical answers for was ama a
+navigational query
+but one thing that stood out is that we
+actually all chose the same dominant
+intent for the queries
+so i want to leave you with one key
+takeaway instead of stressing out for
+hours about overall intent or worse
+wasting several man hours arguing with
+your colleagues focus on creating
+top-notch pages that match the dominant
+intent of users and if you can't serve
+that intent but really want to rank for
+that topic then consider going after the
+common intent or just let it go bottom
+line don't over complicate things at
+ahrefs we simplify this by using what we
+call the three c's of search intent and
+while it doesn't give us a bucket to
+throw a query in it keeps us laser
+focused on serving prospects our
+existing customer base and we actually
+rank our pages for meaningful topics we
+have a full tutorial that goes into how
+you can use this method in our free seo
+course so i'll link that up in the
+description now if you enjoyed this
+tutorial then make sure to like share
+and subscribe for more actionable seo
+and marketing tutorials i'll see you in
+the next one

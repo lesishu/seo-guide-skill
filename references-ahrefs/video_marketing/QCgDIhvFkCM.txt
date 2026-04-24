@@ -1,0 +1,436 @@
+Kind: captions
+Language: en
+In 2017, 63% of businesses were using video
+as a marketing tool.
+In 2018 that number rose to 81%.
+And in 2019, 87%.
+This is part of the reason why we jumped on
+the bandwagon in 2018 and started publishing
+videos consistently.
+And it's led to over 100,000 YouTube subscribers,
+millions of views, and thousands of new
+paying customers.
+So today, I'm going to show you how to use
+video marketing to grow your business, even if
+you're in a so-called "boring" industry like SEO.
+Stay tuned.
+[music]
+Video marketing is powerful no doubt.
+And a lot of it has to do with accessibility.
+We watch videos on our computers,
+mobile devices, and TVs.
+In fact, go to a metropolitan area like New
+York, Las Vegas, Hong Kong, or wherever,
+and you'll likely see videos playing on billboards.
+And the numbers speak for themselves.
+In a 2018 study, it was reported that 85%
+of US internet users watched online video
+content every month.
+So with such high demand for video content,
+how do we use it as business owners and
+marketers to actually drive revenue?
+To answer that, let's first define video marketing.
+Video marketing is using videos to promote
+and educate your target audience.
+It's also used to increase brand awareness
+and social engagement, allowing you to reach
+new and bigger audiences.
+Now, video marketing doesn't mean you have
+to create shows or be a personality that people
+fall head over heels for.
+A report from Hubspot Research shows that 54%
+of consumers want to see videos from brands,
+which was higher than any other content type.
+Video is powerful for a few reasons.
+First, it allows you to demonstrate concepts
+faster and more clearly.
+For example, as you're watching this video, you're
+using your sense of hearing and your sense of sight
+together, creating a rich learning experience.
+Whereas text-based content limits you to just sight.
+For example, if you wanted to learn how to
+do the reverse overlap putting grip, you might
+read this blog post.
+There's an image showing the grip and it says...
+"Apply your left hand to the putter grip and then,
+just beneath, rest your hand around the putter grip.
+Link both your hands by lifting the index
+finger of your left hand and wrapping it over
+the fingers of your right hand."
+Good luck doing that and getting it right.
+But watch this video for 30-seconds and you'll
+master the technique in no time.
+Second, video allows you to create
+a personal connection with viewers,
+which shouldn't be undermined.
+For example, I was creating videos for Ahrefs'
+YouTube channel for around 6 months and then
+went to visit head office in Singapore for the first time.
+And when I walked into the office, the first
+thing someone said to me was...
+"I feel like I already know you."
+A few of the other people around us laughed
+and agreed.
+Now, creating that effect through a blog post
+is much more challenging.
+Third, you can reach audiences in places like YouTube,
+where video is the only way to play the game.
+Now, as powerful as video can be you'll
+need to create them so they
+a) resonate with your target audience;
+and b) ideally feature your products and services.
+So unless you're making money through ad
+revenues, views alone won't pay the bills.
+So let's go through four steps to create great
+video marketing campaigns.
+Step one is to define your audience.
+And to do that, start by thinking of who your
+product or services serve.
+Knowing who your audience is in terms of gender,
+age, profession, interests, or whatever information
+you can dig up, can help you shape
+the format and content of your videos.
+So if you have an existing list of customers, start there.
+Define who they are, what kind of problems they
+face, how they found you, and why they chose you.
+You can do simple customer surveys or one-to-one
+calls and ask them those specific questions.
+Get to know their business and the problems they face.
+If you don't have any customers yet, you can use
+audience research tools like Facebook
+Audience Insights.
+You'll need a Facebook Ads account for this,
+but this tool is completely free.
+Just fill out the information in the sidebar
+of who you think your audience is.
+For example, let's say I'm starting a new
+tabletop games reviews channel.
+I'll set the Country to United States
+assuming that's my target audience,
+and I'll set the Interests to tabletop games.
+And now you can see some insightful things
+like the majority of people being between 25-44.
+And if we go to the Page Likes tab,
+you'll see some interests like electronics,
+collectibles and video games.
+Below that are specific pages they like, which can
+give you a good place to start for reviews to create.
+The next step is to define a primary objective.
+And there are three main categories for objectives.
+These are brand awareness, education, and
+entertainment, aka. BEE.
+Brand awareness videos are usually short,
+and the purpose is to just make
+people aware that you exist.
+Think of commercials you see on TV.
+It can be anything from McDonalds promoting
+$2 Big Mac week
+or something like Slack's Animals commercial,
+where they show a team using their
+software to create a flying umbrella.
+The main point is that the viewer should know the
+brand name and have an idea of what they provide.
+Educational videos are like the ones we create
+on YouTube.
+Most of our videos are tutorials on SEO and
+marketing strategies.
+And as a software company, we show how our tools
+make these processes easier and more effective.
+And entertainment is self-explanatory.
+Think of shows or series.
+They're often created as stories.
+For example, Red Bull does a really good job of this.
+They create series and videos around extreme
+sports, which draws in their target customers.
+Now, just because you want to entertain, it
+doesn't mean you can't educate or vice versa.
+But in my opinion, you should choose a primary
+objective based on what you want to achieve.
+After you've defined your objective, it's
+time to create the content.
+While I can't tell you exactly what to create
+or how to create it, we can talk about a few
+sub-categories under the umbrella of video creation.
+So let's talk about optimal lengths, formats,
+breaking through common struggles, and how
+you'll get these videos in front of the right people.
+So let's talk about how long your videos should be first.
+Content length will usually be determined
+by your primary objective.
+For example, a brand awareness campaign can
+be as short as 15 seconds, and usually won't
+exceed a couple of minutes.
+Again, think of commercials or those ads that
+play before you watch certain YouTube videos.
+Educational content will be anywhere from
+5 to 120 minutes.
+Our videos are usually 7 to 20 minutes, while
+something like a webinar can easily go over an hour.
+As for entertainment, this will also vary
+in duration.
+But I like to think of these kinds of videos as shows.
+This can range from 10 to 180 minutes depending
+on the format.
+Speaking of format, this is where you'll see
+quite a bit of variance as it depends on your
+audience, objective, industry, and
+the message you want to get across.
+Meaning, there are no set rules.
+But there is one format that I've seen work for
+all audiences, all objectives, and all industries.
+And it looks something like this.
+Problem, teaser, and solution or story.
+Whether it's a commercial, tutorial, or blockbuster
+film, there's always a problem.
+Problems make content interesting and it's
+something I recommend leading with.
+Next is the teaser.
+The point of this is to show that there's a solution
+to the problem, without giving it away.
+Finally is story or solution.
+And this will often depend on your objective again.
+For example, educational videos will usually
+have a clear-cut solution.
+Whereas videos that go the entertainment
+route will likely have stories that lead to
+the solution or conclusion.
+Let's go through some examples.
+In the 2019 Super Bowl, Bud Light aired this
+famous commercial.
+The problem starts when a giant barrel
+of corn syrup is delivered to their factory.
+But since Bud Light doesn't use corn syrup
+in their beer, they tease the answer that it
+must be one of their competitors' shipments,
+like Miller Lite.
+The story goes on to show the journey of
+delivering corn syrup to their competitor.
+Once they arrive at the castle, Miller Lite
+says they already received their corn syrup,
+and suggests to deliver the barrel
+to another competitor, Coors light.
+Bud Light gang heads over to the Coors' castle,
+and they gladly accept the corn syrup.
+As for educational videos, it's easiest if
+I use our tutorials as an example.
+With this video I started off by sharing how
+important video marketing is.
+I then go onto tease the solution by showing how
+we've used video to get over 100,000 subscribers,
+millions of views, and thousands of
+new paying customers.
+Right now, we're in the solution stage where
+I'm sharing what we've done and a step-by-step
+way to use video marketing for your company.
+Finally is the entertainment route.
+Just think of your favorite sitcom.
+There's always a problem, they often tease
+what could be if the problem were solved,
+it leads into the story which is the bulk of the show,
+and ends with some kind of solution or conclusion.
+Now, I'm not saying that this formula is what
+all successful videos follow.
+But if you're struggling to find your own
+unique format, try it because it works.
+Alright, let's talk about some very real struggles
+that come with the territory of being a video creator.
+Even though some of these roadblocks might
+seem like huge problems in the moment,
+I promise that you can overcome them.
+So let's break down the problems and solutions.
+Struggle #1: I'm not good in front of the camera.
+This was and still is one of my greatest struggles.
+I don't feel natural standing here talking to
+a lens, knowing that thousands of people
+are going to watch it.
+But the beauty of video is in editing.
+As you've seen from this video as well as
+others, we use B-roll like screencasts, animations
+and text screens to take the attention off me
+while creating better educational material.
+Another way to combat the jitters is to use
+a teleprompter.
+This is what I use because it helps me deliver
+as much information as possible in a short
+period of time rather than going off on tangents.
+Struggle #2: I don't have equipment or
+the budget to buy it.
+Listen...video production quality is overrated.
+Yea, we spend a lot of time trying to produce
+quality stuff, but at the same time, it's not
+a necessity to create impactful videos.
+You probably have a camera in your pocket
+everywhere you go.
+It's called a smartphone.
+In fact, when Tim started Ahrefs' YouTube
+channel in 2015, he created all his tutorials
+on a GoPro which is far from Hollywood equipment.
+But those videos took our channel from 0 to
+2,600 subscribers in 5 months.
+No fancy cameras, microphones or backdrops.
+This brings us to the last common struggle.
+Struggle #3 is that English is not my first language.
+Tim is originally from Ukraine.
+And if you've watched any of his videos, you might
+have noticed that English isn't his first language.
+Being a child of immigrant parents myself,
+I know there are personal struggles in terms of
+how you think others might perceive you.
+So I thought it'd be best to have Tim share
+his experiences on how he was able to power
+through and overcome this challenge.
+Hey guys! So Sam asked me to share
+my experience of creating video content
+while not being a native English speaker.
+Should I also say, not being even a fluent
+English speaker?
+So yeah, I did have my hesitations to
+start recording videos or audio content
+because of my strong Ukrainian accent.
+So much so that I even recorded a video-question
+to Gary Vee Show asking him if my heavy accent
+would be a problem and if it would make people
+jump to conclusions and not listening to my content.
+Well, what Gary said was that it is true
+that some people would hate my accent
+and choose not to watch my content because of it.
+But on the other hand, there are tons and tons of smart,
+intelligent people all around the globe for whom English
+is not their first language
+So my accent is absolutely of no problem
+for them as long as the content is good.
+So here's my advice for you.
+If you want to start creating video content
+but you have an accent, don't bother about it,
+just start doing it.
+If your content is good, you'll find your audience
+and there will be many people who will appreciate
+what you're doing despite your accent.
+And one last thing.
+Please, tell Sam that this t-shirt looks
+much better on me than on him.
+Type it in the comments, please. Thanks!
+The final part to this video marketing puzzle
+is likely the most important.
+And that's how you're going to get views
+to your videos.
+And I'm not going to talk about things like TV, but
+I will focus on three online marketing strategies
+that I've used to get more views.
+First is through organic reach.
+And this means ranking your videos on YouTube
+and Google as well as being recommended through
+other YouTube features like suggested
+views and browse features.
+To prove that we've done this, here's a graph
+of our YouTube organic search traffic.
+We've invested a lot of effort into YouTube SEO,
+which has given us free and consistent
+growth over time.
+And here's the fruit of our labor from our
+video SEO efforts.
+This graph shows free and consistent views
+that we get from Google search.
+YouTube SEO works particularly well if your
+main objective is education.
+Naturally, people are and will always be searching
+for helpful tutorials on various topics.
+Rather than going deep into how to do YouTube SEO,
+we have an actionable tutorial on how
+you can rank your videos in YouTube,
+which I'll link up in the description.
+Another way to get views is to embed videos
+on your blog or landing pages.
+If you have a website where you're already
+getting consistent traffic, it's worth embedding
+your videos in relevant places.
+This is something we do regularly at Ahrefs
+and it's probably one of the lowest-hanging
+tactics you can do.
+From what I've seen, embedding our videos on
+relevant posts have helped us rank these videos
+in Google's video carousels, suggested clips,
+and video search tab.
+Next is through other social media platforms.
+If you already have a following on Facebook,
+Twitter, or LinkedIn, I'm sure you're already
+posting videos there.
+Now, if your goal is simply to get people
+to consume your content,
+you can try uploading the entire video to
+the social platform and see how they perform.
+But if your goal is to get people to your
+YouTube channel, then I recommend creating
+short teaser clips and uploading them to
+the social platform.
+And within the description, add a link to
+your YouTube video.
+Every industry is different and every audience
+is different too.
+Try both of these tactics and don't be afraid
+to throw a bit of money into social ads.
+A little can go a long way.
+Speaking of ads, that's the final strategy I recommend.
+With video ads, I've only tried them on Facebook
+and YouTube.
+And from what I've seen, Facebook tends to work well
+for brand awareness and lead generation videos.
+Lead generation videos are ones where you
+ask people to opt-in for a webinar or something
+else that's free.
+From there, you nurture the lead and then
+try to sell your product.
+Facebook has arguably the best
+audience-targeting features.
+So if you know your audience really well,
+it can help you get engaged views fast.
+As for YouTube, we regularly use discovery
+ads for full-length tutorials.
+These are ads that appear at the top of YouTube's
+search results as well as in the suggested sidebar.
+You can target audiences or topics much like
+Facebook's interest targeting
+and layer in demographic profiles.
+You can also do keyword targeting, where your
+ads will appear when a user searches for specific
+words or phrases.
+Since our videos are mostly created to solve specific
+problems, I've found keyword targeting to work
+really well to get engaged views, meaning long ones.
+Finally are in-stream ads, which are those
+videos that play before a video.
+These work well if brand awareness is your objective.
+It's important to take note of the format of these ads.
+For example, people aren't able to skip the
+first five seconds of the video.
+So two things you'll want to do in the first
+five seconds are
+a) grab their attention enough so they'll
+continue to watch;
+and b) make the focus on your brand.
+The second thing to note is that YouTube only
+considers it a "view" if the user watches
+at least 30 seconds of your ad.
+Or the full video if it's shorter than 30
+seconds.
+This means, if your video is 31 seconds, and
+someone watches 29 seconds of that video,
+you won't be charged.
+So take that into account, too.
+At the end of the day, successful advertising
+will come down to your targeting, the quality
+of the video, and how relevant it is to your
+business and audience.
+I highly recommend trying out video ads.
+Even if you spend just $10 per day, you can get
+hundreds of views.
+So by now, I'm hoping you feel an urgency
+to start marketing with video.
+It's insanely powerful and the fact that you're
+still here is a testament to its effectiveness.
+Now, if you enjoyed this video, make sure
+to like, share and subscribe for more
+actionable marketing tutorials.
+And we've got a bunch of helpful tutorials on video
+marketing so be sure to check out that playlist.
+I'll see you in the next tutorial.

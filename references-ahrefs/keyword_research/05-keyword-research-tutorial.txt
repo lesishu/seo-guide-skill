@@ -1,0 +1,300 @@
+keyword research isn't about search
+volume I'll even argue that it's not
+entirely about traffic either it's about
+choosing topics that potential customers
+are searching for serving their needs
+and eventually converting them into
+customers so in this keyword research
+tutorial I'm going to show you how to do
+keyword research that will help you
+increase traffic and revenue stay
+[Music]
+tuned what's up seos Sam here with HRS
+the SEO tool that helps you grow your
+search traffic research your competitors
+and dominate your nich now this keyword
+research tutorial is going to be a bit
+different than what you might be used to
+seeing rather than focusing on things
+like low competition topics I want to
+show you how to find and map keywords
+that will actually drive revenue for
+your business so whether you're creating
+a new website or you want to revamp your
+current keyword targeting the processes
+I'll outline today will help all right
+so let's say that I'm starting a new
+e-commerce store selling computers Parts
+software and accessories I'll obviously
+need product and category pag
+but I'll also want to use a Blog to fuel
+my traffic the first step is to generate
+keyword ideas and I'll be using H's
+keywords Explorer for this so I'll start
+by typing in a few broad keywords
+related to my online store like computer
+computers laptop laptops and PC next
+I'll go to the having same terms report
+which shows us all keyword ideas that
+contain the target keywords as a broad
+match and there are well over 17 million
+keyword ideas now the point of this
+exercise isn't defined as many random
+keywords as possible is to filter them
+down and group them by search intent
+search intent just means the reason
+behind the searches query now these can
+generally be categorized into four
+groups first are informational keywords
+and these are queries where a Searcher
+is looking to gain general knowledge on
+a topic for example what is ddr4 RAM
+next are navigational keywords for these
+the Searcher usually knows the
+destination they want to reach for
+example something like Newegg ddr4 Ram
+third are commercial investigation
+queries these generally show that
+someone is looking to get information on
+something that they want to eventually
+buy so these will often be comparisons
+and include keyword modifiers like best
+ddr4 Ram finally are transactional
+keywords which show that someone is
+ready to make a purchase like by ddr4
+RAM and if you're familiar with the
+sales conversion cycle you'll see that
+each of these groups fit into one of the
+four stages now you might be wondering
+why not just go after transactional
+keywords since these are the ones that
+are going to drive Direct Revenue two
+things first you'll limit your reach
+generally speaking search demand will be
+the lowest for transactional keywords so
+if you're ignoring things like
+informational queries you'll be missing
+out on opportunities to squeeze yourself
+into your target audience's conversion
+Journey informational content can also
+help you build trust and Authority so
+that when someone actually comes to a
+point of commercial investigation they
+may recognize your name or when they get
+to the transactional stage having
+previous exposure can be the difference
+between choosing you over a competitor
+the second distinct Advantage you have
+is that you can accelerate people's
+buying journey through internal linking
+retargeting or whatever method to get
+your content in front of them for
+example if my store had a blog post on
+what to do with an old laptop and the
+post mentioned a buyback program we do
+it could lead to a conversion quickly
+now how can you determine search intent
+for a keyword phrase with some of them
+you can't from the keyword alone but a
+good chunk of them can be found using
+keyword modifiers a modifier is an
+add-on to a base keyword for for example
+that could be best top or the current
+year here's a short list to get you
+started take a screenshot and let's keep
+going now I'm back in our keyword ideas
+report and I want to filter for keywords
+by search intent category so I'll grab
+our list of informational keywords and
+paste them into the include box here
+make sure to set the tab to any which
+will show us all keyword ideas that
+contain any of these keywords all right
+so the filtered results still show over
+3 million keywords so let's set another
+filter if you're looking for low
+competition keyword targets then you can
+set a maximum keyword difficulty score
+of something low like 10 personally I
+prefer to focus on search Demand by
+setting the volume in tiar so we'll set
+a filter to show only keywords that have
+a minimum search volume of a th000
+monthly searches and we've narrowed our
+17 Million results down to around a
+th000 now you'll need to manually filter
+through these since we're focusing on
+keyword research that drives Revenue
+you'll have to focus on the business
+potential of a keyword at h TRS we
+assign a score between 1 to three the
+larger the number the greater value the
+keyword has to our business an easy way
+to determine the business value is to
+ask yourself this question can I plug my
+products or Services into these posts
+naturally or ask yourself would someone
+searching for this query be interested
+in purchasing my products or Services if
+the answer is no then you should
+probably move on a quick way to sort
+through this list is to sort the table
+by parent topic since a single page can
+rank for hundreds or thousands of
+keywords you can use the parent topic to
+see if you can rank for your Target
+keyword while targeting a more General
+topic on your page instead for example
+you'll see high volume keywords that all
+have the same parent topic of Xbox One
+Controller driver rather than creating
+numerous dedicated articles on these
+queries about connecting an Xbox
+controller to a PC just choose the one
+with the most search volume as long as
+it provides value to your business for
+example this keyword on what is a
+computer worm could be a good one for a
+computer shop since we provide antivirus
+software so while it is an informational
+topic we could easily link to the
+different software products in our store
+so I'll add a check mark to it then
+select the rest of the keywords in your
+filter list by scanning the parent topic
+groups now before we switch to the next
+page scroll to the top and click on add
+to and create a list with the keyword
+category as the name so these would be
+informational keywords if you find that
+your keyword list is too short then just
+change the volume filter since we've
+already gone through searches with
+greater than a, monthly searches I'll
+set the next one to searches that have
+500 to 9999 monthly searches and do the
+exact same thing until I have a large
+enough pool now do the same thing for
+your other keyword categories and you
+should have a nice list of topics to
+Target in every stage of their buying
+Journey but there's still some work to
+do the next step is to analyze Google's
+top 10 search results now this is a
+super important step to keyword research
+the top 10 ranking pages are going to
+give you information on things like
+content format and it'll help you
+understand how hard it's going to be to
+rank on Google for your Target keyword
+for example if we click on the Ser drop
+down beside this keyword you'll see the
+top 10 ranking Pages now the first thing
+you want to analyze are the titles of
+the ranking Pages you can immediately
+tell that all of the pages are blog
+posts you'll also see that the titles
+talk about what computer worms are and
+how they work rather than completely
+Reinventing the wheel and trying to rank
+this with a product page you'll want to
+stick with the content format so for my
+site I might create a post called what
+is a computer worm how to fix it when
+you've been infected now just to show
+you how serps can differ if we look at
+the Top 10 rankings for 4K monitors
+you'll see that the serp is dominated by
+product and category Pages which to me
+shows more transactional intent you can
+also do this step by running a search in
+Google for a keyword you want to rank
+for the next part is to assess how hard
+it'll be to rank on Google for this
+keyword now there are a few things that
+I'll look at here first will be the
+number of unique websites linking to
+these pages we call that referring
+domains in this example it doesn't look
+like the top ranking Pages have that
+many unique links outside of Wikipedia
+in fact some of the pages in the bottom
+half of the serup have zero unique links
+pointing at them now as I'm looking
+through the referring domains I'll also
+look at the Domain rating which
+represents the overall strength of a
+website's backlink profile in this case
+you can see that the ranking Pages all
+come from pretty powerful domains so if
+your website has a Dr of let's say 15
+you have to account for the fact that
+you'll be competing against pretty
+powerful sites in general you want to
+play in the same domain rating ballpark
+region or be prepared to build more
+links than the top ranking Pages the
+final step that I'll look at is topical
+relevance since a computer worm is in
+the antivirus category you'll see that a
+lot of the top pages are antivirus
+companies so this may also tell us that
+it'll be a bit harder to penetrate but
+not impossible so with all of these
+things considered I would put an
+estimated number of unique links I think
+we'll need to rank for this topic from
+there I'll decide whether it's worth
+putting my time and resources into
+ranking now it's just a matter of doing
+this for all keywords that you're
+interested in targeting and I highly
+recommend creating a spreadsh sheeet of
+some sort so that you can track your
+keyword targeting plan all right so by
+this point we've gone through most of
+the cookie cutter keywords where search
+intent is easy to identify using keyword
+modifiers but not all of the keywords
+are going to include our seed keywords
+like computer laptop or PC a great way
+you can get more keyword ideas is to
+reverse engineer the topics that are
+driving track traffic to your competitor
+websites you can do this by going to hre
+site Explorer just enter a competitor's
+domain and then go to the top pages
+report now if I were looking for product
+pages that I want to rank I would search
+for a site like newegg.com that has a
+lot of product page rankings or if I
+were looking for blog posts I could look
+at the top pages report for a site like
+Tom's Hardware now it's just a matter of
+skimming the traffic and top keyword
+columns and if you want to find lower
+competition topics then just look at the
+referring domains column to get a B
+basic understanding of ranking
+difficulty once you find a topic that
+you want to Target then go through the
+same process of categorizing by search
+intent assigning a business value and
+analyzing ranking difficulty getting
+traffic from keyword research is great
+and all but as you go through this
+process you want to make sure that the
+keywords you're targeting are serving
+your potential customers and that's why
+it's so important to map keywords to
+problems they face you have the
+opportunity to showcase how your
+products and services will make their
+life easier and guide them towards your
+end goal a conversion now if you enjoyed
+this video then make sure to like share
+and subscribe and if you have any
+questions on keyword research leave a
+comment below and I'd be happy to help
+so keep grinding away and I'll see you
+in the next tutorial

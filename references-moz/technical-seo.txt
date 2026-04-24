@@ -1,0 +1,327 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo)
+
+[7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo)
+
+[8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## Technical SEO
+
+### Basic technical knowledge will help you optimize your site for search engines and establish credibility with developers
+
+Now that you’ve crafted valuable content on the foundation of solid keyword research, it’s important to make sure it’s not only readable by humans, but by search engines too!
+
+### What's that word mean?
+
+Make sure you're ready to tackle all the new ideas in this chapter by having the SEO glossary handy!
+
+[ See Chapter 5 definitions  ](/beginners-guide-to-seo/seo-glossary#chapter5)
+
+You don’t need to have a deep technical understanding of these concepts, but it is important to grasp what these technical assets do so that you can speak intelligently about them with developers. Speaking your developers’ language is important because you'll probably need them to carry out some of your optimizations. They're unlikely to prioritize your asks if they can’t understand your request or see its importance. When you establish credibility and trust with your devs, you can begin to tear away the red tape that often blocks crucial work from getting done.
+
+### SEOs need cross-team support to be effective
+
+It’s vital to have a healthy relationship with your developers so that you can successfully tackle SEO challenges from both sides. Don’t wait until a technical issue causes negative SEO ramifications to involve a developer. Instead, join forces for the planning stage with the goal of avoiding the issues altogether. If you don’t, it can cost you time and money later.
+
+Beyond cross-team support, understanding technical optimization for SEO is essential if you want to ensure that your web pages are structured for both humans and crawlers. To that end, we’ve divided this chapter into three sections:
+
+  1. How websites work
+  2. How search engines understand websites
+  3. How users interact with websites
+
+Since the technical structure of a site can have a massive impact on its performance, it’s crucial for everyone to understand these principles. It might also be a good idea to share this part of the guide with your programmers, content writers, and designers so that all parties involved in a site's construction are on the same page.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch2-06-1.svg?dm=1553716931)
+
+## Identify and fix critical crawler issues
+
+**with Moz Pro Site Crawl**
+
+[ Fix crawler issues ](/checkout/freetrial/signup/pro_medium/monthly)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/SEO-Reporting.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855263&s=a79a729a1bbf38219b4d52f37c956ca3)
+
+## How websites work
+
+If search engine optimization is the process of optimizing a website for search, SEOs need at least a basic understanding of the thing they're optimizing!
+
+Below, we outline the website’s journey from domain name purchase all the way to its fully rendered state in a browser. An important component of the website’s journey is the critical rendering path, which is the process of a browser turning a website’s code into a viewable page.
+
+Knowing this about websites is important for SEOs to understand for a few reasons:
+
+  * The steps in this webpage assembly process can affect page load times, and speed is not only important for keeping users on your site, but it’s also one of Google’s ranking factors.
+  * Google renders certain resources, like JavaScript, on a "[second pass](http://www.thesempost.com/google-indexes-ranks-javascript-pages-two-waves-days-apart/)." Google will look at the page without JavaScript first, then a few days to a few weeks later, it will render JavaScript, meaning SEO-critical elements that are added to the page using JavaScript might not get indexed.
+
+Imagine that the website loading process is your commute to work. You get ready at home, gather your things to bring to the office, and then take the fastest route from your home to your work. It would be silly to put on just one of your shoes, take a longer route to work, drop your things off at the office, then immediately return home to get your other shoe, right? That’s sort of what inefficient websites do. This chapter will teach you how to diagnose where your website might be inefficient, what you can do to streamline, and the positive ramifications on your rankings and user experience that can result from that streamlining.
+
+### Before a website can be accessed, it needs to be set up!
+
+  1. **Domain name is purchased.** Domain names like moz.com are purchased from a domain name registrar such as GoDaddy or HostGator. These registrars are just organizations that manage the reservations of domain names.
+  2. **Domain name is linked to IP address.** The Internet doesn’t understand names like “moz.com” as website addresses without the help of domain name servers (DNS). The Internet uses a series of numbers called an Internet protocol (IP) address (ex: 127.0.0.1), but we want to use names like moz.com because they’re easier for humans to remember. We need to use a DNS to link those human-readable names with machine-readable numbers.
+
+### How a website gets from server to browser
+
+  1. **User requests domain.** Now that the name is linked to an IP address via DNS, people can request a website by typing the domain name directly into their browser or by clicking on a link to the website.
+  2. **Browser makes requests.** That request for a web page prompts the browser to make a DNS lookup request to convert the domain name to its IP address. The browser then makes a request to the server for the code your web page is constructed with, such as HTML, CSS, and JavaScript.
+  3. **Server sends resources.** Once the server receives the request for the website, it sends the website files to be assembled in the searcher’s browser.
+  4. **Browser assembles the web page.** The browser has now received the resources from the server, but it still needs to put it all together and render the web page so that the user can see it in their browser. As the browser parses and organizes all the web page’s resources, it’s creating a Document Object Model (DOM). The DOM is what you can see when you right click and “inspect element” on a web page in your Chrome browser (learn how to [inspect elements in other browsers](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)).
+  5. **Browser makes final requests.** The browser will only show a web page after all the page’s necessary code is downloaded, parsed, and executed, so at this point, if the browser needs any additional code in order to show your website, it will make an additional request from your server.
+  6. **Website appears in browser.** Whew! After all that, your website has now been transformed (rendered) from code to what you see in your browser.
+
+### Talk to your developers about async!
+
+Something you can bring up with your developers is shortening the critical rendering path by setting scripts to "[async](https://css-tricks.com/thinking-async/)" when they’re not needed to render content above the fold, which can make your web pages load faster. Async tells the DOM that it can continue to be assembled while the browser is fetching the scripts needed to display your web page. If the DOM has to pause assembly every time the browser fetches a script (called “render-blocking scripts”), it can substantially slow down your page load. It would be like going out to eat with your friends and having to pause the conversation every time one of you went up to the counter to order, only resuming once they got back. With async, you and your friends can continue to chat even when one of you is ordering. You might also want to bring up other optimizations that devs can implement to shorten the critical rendering path, such as removing unnecessary scripts entirely, like old tracking scripts.
+
+Now that you know how a website appears in a browser, we’re going to focus on _what_ a website is made of — in other words, the code (programming languages) used to construct those web pages.
+
+The three most common are:
+
+  * **HTML** – What a website says (titles, body content, etc.)
+  * **CSS** – How a website looks (color, fonts, etc.)
+  * **JavaScript** – How it behaves (interactive, dynamic, etc.)
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch5-01-V3_V3.svg?dm=1554097306)
+
+This image was inspired by [Alexis Sanders](https://twitter.com/AlexisKSanders)' fantastic example in [_JavaScript & SEO: Making Your Bot Experience As Good As Your User Experience_](/blog/javascript-seo)
+
+### HTML: What a website says
+
+HTML stands for hypertext markup language, and it serves as the backbone of a website. Elements like headings, paragraphs, lists, and content are all defined in the HTML.
+
+Here’s an example of a webpage and what its corresponding HTML looks like:
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-41.png?auto=compress%2Cformat&fit=crop&dm=1554097417&s=30e7f7f5a2a0a4e89e96698773d36855)
+
+This is a screenshot from [W3schools.com](https://www.w3schools.com/), our favorite place to learn and practice HTML, CSS, and JavaScript.
+
+HTML is important for SEOs to know because it’s what lives “under the hood” of any page they create or work on. While your CMS likely doesn’t require you to write your pages in HTML (ex: selecting “hyperlink” will allow you to create a link without you having to type in “a href=”), it is what you’re modifying every time you do something to a web page such as adding content, changing the anchor text of internal links, and so on. Google crawls these HTML elements to determine how relevant your document is to a particular query. In other words, what’s in your HTML plays a huge role in how your web page ranks in Google organic search!
+
+### CSS: How a website looks
+
+CSS stands for "cascading style sheets," and this is what causes your web pages to take on certain fonts, colors, and layouts. HTML was created to describe content, rather than to style it, so when CSS entered the scene, it was a game-changer. With CSS, web pages could be “beautified” without requiring manual coding of styles into the HTML of every page — a cumbersome process, especially for large sites.
+
+[It wasn’t until 2014](https://webmasters.googleblog.com/2014/10/updating-our-technical-webmaster.html) that Google’s indexing system began to render web pages more like an actual browser, as opposed to a text-only browser. A black-hat SEO practice that tried to capitalize on Google’s older indexing system was hiding text and links via CSS for the purpose of manipulating search engine rankings. This “[hidden text and links](https://support.google.com/webmasters/answer/66353?hl=en&ref_topic=6001971)” practice is a violation of Google’s quality guidelines.
+
+Components of CSS that SEOs, in particular, should care about:
+
+  * Since style directives can live in external stylesheet files (CSS files) instead of your page’s HTML, it makes your page less code-heavy, reducing file transfer size and making load times faster.
+  * Browsers still have to download resources like your CSS file, so [compressing them](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/optimize-encoding-and-transfer) can make your webpages load faster, and page speed is a ranking factor.
+  * Having your pages be more content-heavy than code-heavy can lead to better indexing of your site’s content.
+  * Using CSS to hide links and content can get your website manually penalized and removed from Google’s index.
+
+### JavaScript: How a website behaves
+
+In the earlier days of the Internet, webpages were built with HTML. When CSS came along, webpage content had the ability to take on some style. When the programming language JavaScript entered the scene, websites could now not only have structure and style, but they could be [dynamic](/blog/javascript-seo).
+
+JavaScript has opened up a lot of opportunities for non-static web page creation. When someone attempts to access a page enhanced with this programming language, that user’s browser will execute the JavaScript against the static HTML that the server returned, resulting in a webpage that comes to life with some sort of interactivity.
+
+You’ve definitely seen JavaScript in action — you just may not have known it! That’s because JavaScript can do almost anything to a page. It could create a pop-up, for example, or it could request third-party resources like ads to display on your page.
+
+#### Client-side rendering versus server-side rendering
+
+JavaScript can pose some problems for SEO, though, since search engines don’t view JavaScript the same way human visitors do. That’s because of client-side versus server-side rendering. Most JavaScript is executed in a client’s browser. With server-side rendering, on the other hand, the files are executed at the server and the server sends them to the browser in their fully rendered state.
+
+SEO-critical page elements such as text, links, and tags that are loaded on the client’s side with JavaScript, rather than represented in your HTML, are invisible from your page’s code until they are rendered. This means that search engine crawlers won’t see what’s in your JavaScript — at least not initially.
+
+[Google says](https://webmasters.googleblog.com/2015/10/deprecating-our-ajax-crawling-scheme.html) that, as long as you’re not blocking Googlebot from crawling your JavaScript files, they’re generally able to render and understand your web pages just like a browser can, which means that Googlebot should see the same things as a user viewing a site in their browser. However, due to this “[second wave of indexing](http://www.thesempost.com/google-indexes-ranks-javascript-pages-two-waves-days-apart/)” for client-side JavaScript, Google can miss certain elements that are only available once JavaScript is executed.
+
+There are also some other things that could go wrong during Googlebot’s process of rendering your web pages, which can prevent Google from understanding what’s contained in your JavaScript:
+
+  * You’ve blocked Googlebot from JavaScript resources (ex: with robots.txt, like we learned about in [Chapter 2](/beginners-guide-to-seo/how-search-engines-operate))
+  * Your server can’t handle all the requests to crawl your content
+  * The JavaScript is too complex or outdated for Googlebot to understand
+  * JavaScript doesn’t "lazy load" content into the page until after the crawler has finished with the page and moved on.
+
+Needless to say, while JavaScript does open a lot of possibilities for web page creation, it can also have some serious ramifications for your SEO if you’re not careful.
+
+Thankfully, there's a way to check whether Google sees the same thing as your visitors. To see a page how Googlebot views your page, use Google Search Console's "URL Inspection" tool. Simply paste your page's URL into the GSC search bar:
+
+![A screenshot of where to enter a page's URL in Google Search Console.](https://moz.com/images/learn/guides/Inspect-URL-in-GSC-v2.png?auto=compress%2Cformat&fit=crop&dm=1578438883&s=1a2804371e23d12d19863fd272564cd5)
+
+From here, click "Test Live URL".
+
+![Where to test the live URL version in Google Search Console.](https://moz.com/images/learn/guides/test-live-url-in-google-search-console-v2.png?auto=compress%2Cformat&fit=crop&dm=1578438913&s=60b7eb0794f272812cd1d4c18cf98055)
+
+After Googlebot has recrawled your URL, click "View Tested Page" to see how your page is being crawled and rendered.
+
+![View Googlebot's live view of your page.](https://moz.com/images/learn/guides/view-googlebot-crawled-page-v2.png?auto=compress%2Cformat&fit=crop&dm=1578438944&s=7afc40c20ad101c31d278288fc93a343)
+
+Clicking the "Screenshot" tab adjacent to "HTML" shows how Googlebot smartphone renders your page.
+
+![](https://moz.com/images/learn/guides/Screenshot-v2.png?auto=compress%2Cformat&fit=crop&dm=1578438991&s=ad61ef37f4be51370a70b0740faf1d18)
+
+In return, you’ll see how Googlebot sees your page versus how a visitor (or you) may see the page. In the "More Info" tab, Google will also show you a list of any resources they may not have been able to get for the URL you entered.
+
+Understanding the way websites work lays a great foundation for what we’ll talk about next: technical optimizations to help Google understand the pages on your website better.
+
+## How search engines understand websites
+
+Imagine being a search engine crawler scanning down a 10,000-word article about how to bake a cake. How do you identify the author, recipe, ingredients, or steps required to bake a cake? This is where [schema markup](https://schema.org/) comes in. It allows you to spoon-feed search engines more specific classifications for what type of information is on your page.
+
+Schema is a way to label or organize your content so that search engines have a better understanding of what certain elements on your web pages are. This code provides structure to your data, which is why schema is often referred to as “structured data.” The process of structuring your data is often referred to as “markup” because you are marking up your content with organizational code.
+
+[JSON-LD](https://www.portent.com/blog/seo/json-ld-implementation-guide.htm) is Google’s preferred schema markup (announced in May ‘16), which Bing also supports. To view a full list of the thousands of available schema markups, visit [Schema.org](http://schema.org/) or view the [Google Developers Introduction to Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data) for additional information on how to implement structured data. After you implement the structured data that best suits your web pages, you can test your markup with Google’s [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool).
+
+In addition to helping bots like Google understand what a particular piece of content is about, schema markup can also enable special features to accompany your pages in the SERPs. These special features are referred to as "rich snippets," and you’ve probably seen them in action. They’re [things like](https://developers.google.com/search/docs/guides/mark-up-content):
+
+  * Top Stories carousels
+  * Review stars
+  * Sitelinks search boxes
+  * Recipes
+
+Remember, using structured data can help enable a rich snippet to be present, but does not guarantee it. Other types of rich snippets will likely be added in the future as the use of schema markup increases.
+
+Some last words of advice for schema success:
+
+  * **You can use multiple types of schema markup on a page.** However, if you mark up one element, like a product for example, and there are other products listed on the page, you must also mark up those products.
+  * **Don’t mark up content that is not visible to visitors** and follow [Google’s Quality Guidelines](https://support.google.com/webmasters/answer/35769?hl=en). For example, if you add review structured markup to a page, make sure those reviews are actually visible on that page.
+  * If you have duplicate pages, Google asks that you **mark up each duplicate page with your structured markup** , not just the canonical version.
+  * **Provide original and updated (if applicable) conten****t** on your structured data pages.
+  * **Structured markup should be an accurate reflection of your page.**
+  * Try to use the **most specific type of schema markup** for your content.
+  * **Marked-up reviews should not be written by the business.** They should be genuine unpaid business reviews from actual customers.
+
+### Tell search engines about your preferred pages with canonicalization
+
+When Google crawls the same content on different web pages, it sometimes doesn’t know which page to index in search results. This is why the rel="canonical" tag was invented: to help search engines better index the preferred version of content and not all its duplicates.
+
+The rel="canonical" tag allows you to tell search engines where the original, master version of a piece of content is located. You’re essentially saying, "Hey search engine! Don’t index this; index _this source page_ instead." So, if you want to republish a piece of content, whether exactly or slightly modified, but don’t want to risk creating duplicate content, the canonical tag is here to save the day.
+
+![Where to find rel=canonical in the page's source code.](https://moz.com/images/learn/guides/BGSEOAsset-40.png?auto=compress%2Cformat&fit=crop&dm=1554097644&s=cdcc5ff9191467acae226dcf070d6253)
+
+Proper canonicalization ensures that every unique piece of content on your website has only one URL. To prevent search engines from indexing multiple versions of a single page, Google recommends having a self-referencing canonical tag on every page on your site. Without a canonical tag telling Google which version of your web page is the preferred one, [https://www.example.com](http://www.example.com) could get indexed separately from https://example.com, creating duplicates.
+
+"Avoid duplicate content" is an Internet truism, and for good reason! Google wants to reward sites with unique, valuable content — not content that’s taken from other sources and repeated across multiple pages. Because engines want to provide the best searcher experience, they will rarely show multiple versions of the same content, opting instead to show only the canonicalized version, or if a canonical tag does not exist, whichever version they deem most likely to be the original.
+
+### Distinguishing between content filtering & content penalties
+
+**There is no such thing as a duplicate content penalty.** However, you should try to keep duplicate content from causing indexing issues by using the rel="canonical" tag when possible. When duplicates of a page exist, Google will choose a canonical and filter the others out of search results. That doesn’t mean you’ve been penalized. It just means that Google only wants to show one version of your content.
+
+[ Learn more about canonicalization  ](/learn/seo/canonicalization)
+
+It’s also very common for websites to have multiple duplicate pages due to sort and filter options. For example, on an e-commerce site, you might have what’s called a [faceted navigation](/blog/large-site-seo-basics-faceted-navigation) that allows visitors to narrow down products to find exactly what they’re looking for, such as a “sort by” feature that reorders results on the product category page from lowest to highest price. This could create a URL that looks something like this: example.com/mens-shirts?sort=price_ascending. Add in more sort/filter options like color, size, material, brand, etc. and just think about all the variations of your main product category page this would create!
+
+To learn more about different types of duplicate content, [this post by Dr. Pete](/blog/duplicate-content-in-a-post-panda-world) helps distill the different nuances.
+
+## Identify and fix critical status code errors
+
+**with Moz Pro Site Crawl**
+
+[ Fix HTTP errors ](/checkout/freetrial/signup/pro_medium/monthly)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/SEO-Reporting.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855263&s=a79a729a1bbf38219b4d52f37c956ca3)
+
+## How users interact with websites
+
+In Chapter 1, we said that despite SEO standing for search engine optimization, SEO is as much about people as it is about search engines themselves. That’s because search engines exist to serve searchers. This goal helps explain why Google’s algorithm rewards websites that provide the best possible experiences for searchers, and why some websites, despite having qualities like robust backlink profiles, might not perform well in search.
+
+When we understand what makes their web browsing experience optimal, we can create those experiences for maximum search performance.
+
+### Ensuring a positive experience for your mobile visitors
+
+Being that well over half of all web traffic today comes from mobile, it’s safe to say that your website should be accessible and easy to navigate for mobile visitors. In April 2015, Google rolled out an update to its algorithm that would promote mobile-friendly pages over non-mobile-friendly pages. So how can you ensure that your website is mobile-friendly? Although there are three main ways to configure your website for mobile, [Google recommends responsive web design](https://developers.google.com/search/mobile-sites/mobile-seo/).
+
+#### Responsive design
+
+Responsive websites are designed to fit the screen of whatever type of device your visitors are using. You can use CSS to make the web page "respond" to the device size. This is ideal because it prevents visitors from having to double-tap or pinch-and-zoom in order to view the content on your pages. Not sure if your web pages are mobile friendly? You can use Google’s [mobile-friendly test](https://search.google.com/test/mobile-friendly) to check!
+
+![A depiction of how responsive design can change the formatting on a screen, with text either beside or below an image.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch5-02-v2.svg?dm=1553885763)
+
+#### AMP
+
+AMP stands for Accelerated Mobile Pages, and it's used to deliver content to mobile visitors at speeds much greater than with non-AMP delivery. AMP is able to deliver content so fast because it delivers content from its cache servers (not the original site) and uses a special AMP version of HTML and JavaScript.
+
+[Learn more about AMP](https://www.ampproject.org/learn/overview/).
+
+#### Mobile-first indexing
+
+As of 2018, Google started switching websites over to mobile-first indexing. That change sparked some confusion between mobile-friendliness and mobile-first, so it’s helpful to disambiguate. With mobile-first indexing, Google crawls and indexes the mobile version of your web pages. Making your website compatible to mobile screens is good for users and your performance in search, but mobile-first indexing happens independently of mobile-friendliness.
+
+This has raised some concerns for websites that lack parity between mobile and desktop versions, such as showing different content, navigation, links, etc. on their mobile view. A mobile site with different links, for example, will alter the way in which Googlebot (mobile) crawls your site and sends link equity to your other pages.
+
+### Improving page speed to mitigate visitor frustration
+
+Google wants to serve content that loads lightning-fast for searchers. We’ve come to expect fast-loading results, and when we don’t get them, we’ll quickly bounce back to the SERP in search of a better, faster page. This is why page speed is a crucial aspect of on-site SEO. We can improve the speed of our web pages by taking advantage of tools like the ones we’ve mentioned below. Click on the links to learn more about each.
+
+  * [Google's PageSpeed Insights tool](https://developers.google.com/speed/pagespeed/insights/) & [best practices documentation](https://developers.google.com/speed/docs/insights/rules)
+  * [ How to Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools/)
+  * [GTMetrix](https://gtmetrix.com/)
+  * [Google's Mobile Website Speed & Performance Tester](https://testmysite.withgoogle.com/intl/en-gb)
+  * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+  * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) & [Tutorial](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
+
+### Images are one of the main culprits of slow pages!
+
+As discussed in Chapter 4, images are one of the number one reasons for slow-loading web pages! In addition to image compression, optimizing image alt text, choosing the right image format, and submitting image sitemaps, there are other technical ways to optimize the speed and way in which images are shown to your users. Some primary ways to improve image delivery are as follows:
+
+### There are more than just three image size versions!
+
+It’s a common misconception that you just need a desktop, tablet, and mobile-sized version of your image. There are a huge variety of screen sizes and resolutions.
+
+[ There are more than just three image size versions!  ](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images#enhance_imgs_with_srcset_for_high_dpi_devices)
+
+#### 1\. SRCSET: How to deliver the best image size for each device
+
+The SRCSET attribute allows you to have multiple versions of your image and then specify which version should be used in different situations. This piece of code is added to the <img> tag (where your image is located in the HTML) to provide unique images for specific-sized devices.
+
+This is like the concept of responsive design that we discussed earlier, except for images!
+
+This doesn’t just speed up your image load time, it’s also a unique way to enhance your on-page user experience by providing different and optimal images to different device types.
+
+![An image depicting a desktop screen, tablet screen, and phone screen, all with different formatting of text and images.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch5-04.svg?dm=1553116504)
+
+#### 2\. Show visitors image loading is in progress with lazy loading
+
+Lazy loading occurs when you go to a webpage and, instead of seeing a blank white space for where an image will be, a blurry lightweight version of the image or a colored box in its place appears while the surrounding text loads. After a few seconds, the image clearly loads in full resolution. The popular blogging platform Medium does this really well.
+
+The [low resolution version](https://cdn-images-1.medium.com/freeze/fit/t/30/9/1*aCN3ORUa6s4LsJ2fdcPVtw.jpeg?q=20) is initially loaded, and then the [full high resolution version](https://cdn-images-1.medium.com/fit/t/800/240/1*aCN3ORUa6s4LsJ2fdcPVtw.jpeg). This also helps to optimize your critical rendering path! So while all of your other page resources are being downloaded, you’re showing a low-resolution teaser image that helps tell users that things are happening/being loaded. For more information on how you should lazy load your images, check out [Google’s Lazy Loading Guidance](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/).
+
+### Grow your career with Moz Academy
+
+Put your technical SEO knowledge to the test with Moz Academy Technical SEO Certification, and display your badge on linkedin.
+
+[ Get certified  ](https://academy.moz.com/path/technical-seo-certification-series)
+
+### Improve speed by condensing and bundling your files
+
+Page speed audits will often make recommendations such as “minify resource,” but what does that actually mean? Minification condenses a code file by removing things like line breaks and spaces, as well as abbreviating code variable names wherever possible.
+
+“Bundling” is another common term you’ll hear in reference to improving page speed. The process of bundling combines a bunch of the same coding language files into one single file. For example, a bunch of JavaScript files could be put into one larger file to reduce the amount of JavaScript files for a browser.
+
+By both minifying and bundling the files needed to construct your web page, you’ll speed up your website and reduce the number of your HTTP (file) requests.
+
+### Improving the experience for international audiences
+
+Websites that target audiences from multiple countries should familiarize themselves with [international SEO](/learn/seo/international-seo) best practices in order to serve up the most relevant experiences. Without these optimizations, international visitors might have difficulty finding the version of your site that caters to them.
+
+There are two main ways a website can be internationalized:
+
+  * **Language**
+Sites that target speakers of multiple languages are considered multilingual websites. These sites should add something called an hreflang tag to show Google that your page has copy for another language. [Learn more about hreflang](/learn/seo/hreflang-tag).
+  * **Country**
+Sites that target audiences in multiple countries are called multi-regional websites and they should choose a URL structure that makes it easy to target their domain or pages to specific countries. This can include the use of a country code top level domain (ccTLD) such as “.ca” for Canada, or a generic top-level domain (gTLD) with a country-specific subfolder such as “example.com/ca” for Canada. [Learn more about locale-specific URLs](https://support.google.com/webmasters/answer/182192?hl=en).
+
+#####
+
+You’ve researched, you’ve written, and you’ve optimized your website for search engines and user experience. The next piece of the SEO puzzle is a big one: establishing authority so that your pages will rank highly in search results. Onward, to [Chapter 6 (Link Building & Establishing Authority)](/beginners-guide-to-seo/growing-popularity-and-links)!
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz Staff.
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

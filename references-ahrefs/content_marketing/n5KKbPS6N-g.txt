@@ -1,0 +1,427 @@
+Kind: captions
+Language: en
+Everyone says to create "better" content
+than your competitors.
+And it's sound advice.
+Great content can lead to more backlinks,
+higher Google rankings, more social shares,
+and audience growth.
+But what does "better" even mean?
+It's a subjective word and in the digital
+marketing world, "better content" has just
+become a cliche.
+Now, while there's no way to objectively measure
+content quality, there are four things you can
+look at to assess your competitors' content
+with a clearer lens.
+And in this tutorial, we'll talk about these four
+attributes that make content great and go
+through some examples of good and bad pages
+to really drill in on the creative aspects of creating
+content that's "better" than your competitors'.
+Stay tuned.
+[music]
+So first, let's talk about the word "better."
+The word implies that a comparison
+needs to be made.
+For example, apples are better than bananas.
+Michael Jordan was better than Lebron James.
+But these are just opinions that really
+hold no weight.
+And you see the same thing when people
+create content.
+They look at their competitors' content and decide
+whether it's good or bad based on personal opinion.
+So to solve this, we need to create some kind
+of framework that'll allow us to compare content
+more objectively.
+Something that allows us to judge pages in
+a similar way and remove personal biases.
+Not only will this help us create "better"
+content, but also achieve a desired outcome.
+For example, if you're sending emails to ask
+for backlinks or social shares, you need to
+justify why someone should share or
+link to your page.
+Saying that your page is "just better" isn't
+going to cut it.
+You need to explain how your page objectively
+trumps your competitors' and why they should care.
+So without further ado, let's talk about the four
+criteria we'll be using to assess content quality.
+The first category is content clarity.
+Clarity is about getting your points through
+in a clear and succinct way.
+And in my opinion, this is one of the most
+underrated attributes that makes content great.
+It encompasses the format of your content,
+readability, and your ability to explain sometimes
+complex concepts in easy to digest ways.
+The next category is content depth.
+While you want to create content that's clear
+and concise, you want to make sure that you
+go deep into your topic.
+And by deep, I'm referring to answering
+the questions a visitor might have.
+For example, if you were to create a post on how
+to get your driver's license, you could simply say:
+"Register online for a driving test and pass."
+But people would probably want to know things
+like age requirements, the types of different
+licenses, the differences between them, how
+to apply for them, what to expect when you
+get to the driving center, documents you'll
+have to bring, and so on and so forth.
+Now, while it's important to create deep content,
+I wouldn't recommend going so deep that it
+compromises clarity.
+After all, if people don't understand what you're
+talking about or if you're just rambling on about
+things that only 1% of your audience might
+care about, then it's better to exclude them.
+Alright, the next category is usefulness.
+Useful content is when you solve the user's
+reason for visiting your page.
+And the best way to understand what visitors
+want is to look at the top 3 to 5 pages in
+Google for your topic and follow suit.
+For example, the query "best garden hose"
+clearly shows that people want to see a list
+of garden hoses.
+So in order to make it useful, your aim should be to
+help visitors make an informed purchasing decision.
+Now, just because you create a list,
+it doesn't mean it's useful.
+The actual content itself is what will make
+it truly useful or useless.
+This is where your expertise and creativity
+really need to shine.
+Finally, is the presentation of the content.
+Now, people say not to judge a book by its cover.
+But when it comes to websites, we immediately
+make assumptions based on first impressions.
+Too many ads?
+Probably spammy.
+Wall of text?
+Probably boring.
+Typical affiliate table with stock photos?
+Probably not trustworthy.
+This is why it's important to present your
+content in a way that's visually appealing
+and user friendly.
+A few basic presentation tips would be to
+add a table of contents, ensure your fonts
+are readable, use skimmable headlines, and
+use media that enhances your content like
+screenshots, custom illustrations and videos.
+Now, one commonality between all of these
+categories is that they're centered around
+user experience rather than benefiting
+one's bottomline.
+And while there's nothing wrong with mentioning
+your products, if you want to create content
+that's better than your competitors' then you're
+going to have to keep the user's best interests
+at the forefront of your content
+creation efforts.
+Alright, so at this point, we know what we're
+looking for when we look at a competitor's page.
+Now we can use that criteria to judge competing
+pages and brainstorm ideas and angles to create
+content that's better.
+And the more things you can do to enhance
+the user's experience, the higher your chances
+of creating something that's significantly better.
+Now, because this will vary case by case, let's
+go through some examples of top-ranking
+content and talk about how we might
+create a competing page.
+The first example is for a typical affiliate
+"best of" post.
+This post currently ranks in position 2
+for the query "best golf gloves."
+And according to Ahrefs' Site Explorer, the page
+gets an estimated 1,400 monthly search visits.
+Based on my overall feelings, it looks like
+a typical affiliate site that's just churning
+out content.
+On top of that, they're using personas with stock
+photos which to me kills any kind of credibility.
+But that's why we have the criteria -
+to eliminate personal biases.
+So personas aside, let's look into the strengths
+and weaknesses of this post.
+The first thing I noticed is that the post is
+completely about conversion rather than
+user experience.
+It's nice that they provide a quick summary
+for people who don't want to actually read
+the post and immediately try to earn their
+trust with the effort that was put into it.
+But then they try to sell you again
+on the same gloves.
+Scroll down further, and you'll see affiliate
+links to all the gloves in their post.
+Then the meat of their content includes a stock
+photo of the glove, which shows that they didn't
+actually purchase and test them
+as they suggested.
+Then there's a few bullet points which were
+taken and reworded from Amazon product pages.
+So in terms of our four categories, clarity is
+fine, content depth is lacking, usefulness is
+weak, and the presentation looks haphazard.
+Now again, in order to create great content,
+you need to put yourself in the driver's seat.
+Just like with any clothing or sporting
+equipment, fit and feel are personal.
+So what I'd want to see are sections on what
+a well-fitted golf glove should feel like, how
+sizes are different from brand to brand, and
+a comparison of what these gloves actually
+look like on someone's hand.
+Also, if they're claiming they've spent 57 hours
+reviewing golf gloves, I'd at least want to see
+them back that up with real-world testing.
+And that leads to another content enhancement.
+Include a video that shows how they tested
+these golf gloves.
+This proves that they've actually held and
+tested the product which builds trust with
+the user and also helps them come to a more
+informed decision without having to visit a store.
+Not only that, but creating a video on a popular
+topic like this would help you attract new
+audiences from YouTube and Google
+video search.
+To help you visualize what a good post would
+look like, the team at Mygolfspy creates excellent
+affiliate posts.
+They've used a featured video instead of
+a featured image because they understand
+the value of this in the golf niche.
+They provide a summary of the gloves they
+reviewed, which includes what they liked as
+well as the pros and cons of each glove.
+They show you the time and effort they've
+spent on research for this post which is a lot
+more believable.
+They support that research with nice image
+galleries of their people actually wearing
+and testing the gloves.
+They get into the different things you should
+look for when buying a glove like comfort,
+fit, and grip.
+Then they show you a sizing and color
+chart of the gloves they reviewed.
+They give more tips on sizing and state an
+important point: sizing can vary significantly
+between manufacturers.
+And then finish it off with a full comparison
+table of all 27 gloves they reviewed.
+And the thing I love most about this is that
+they've based their rankings based on what's
+important to users - fit, comfort, feel, and grip.
+And to put the icing on the cake, the table
+is followed by an image of the gloves that
+were reviewed in the table.
+This is the kind of content that people want
+to share and link to despite the fact that
+there's commercial value for the creator.
+Alright, let's look at our next example which
+is on protein shake recipes.
+This page from Bodybuilding.com has well
+over 300 referring domains and ranks for
+over 5,500 keywords.
+Now, if you look at the actual content itself,
+it's underwhelming to say the least.
+They have a short intro which is good, but
+then the recipes have boring names, boring
+stock photos, and the recipe itself
+isn't even on that page.
+Depth, usefulness and presentation
+are all severely lacking.
+Now, if you put yourself in the shoes of someone
+who wants to learn about protein shake recipes,
+there's a clear desire that they want
+to make a smoothie.
+But if you think about why they want to consume
+protein shakes, then you'll quickly realize that
+writing a great post on "best protein
+shakes" isn't all that easy.
+For example, someone who wants to build
+mass might use a different type of protein
+than someone who wants to slim down.
+Some people would care more about taste while
+others would care more about accomplishing
+their health and fitness goals.
+So a few things I'd do to create content that's
+better than this page would be to take great
+photos of the shakes, talk about the different
+types of protein and who each one is for, and
+also include a section on the types of ingredients
+you should use to achieve your unique goals.
+And because this topic is about health and
+fitness, I'd also include a nutrition facts table
+that shows things like calories, the number
+of grams of protein, sugar, and so on for
+each recipe.
+And if the list of recipes was super long,
+I'd even consider creating a filterable list
+so visitors can see the shakes that will
+actually help them get the results they want.
+This page from FitFoodieFinds does
+a decent job of this.
+They understand that some people just want
+to cut to the chase and see the recipes.
+So they include a "Jump to Recipe" button at
+the top of the page -- something all recipe
+pages should do.
+The images make me want to actually make
+the shakes because they look delicious.
+Scrolling down further, they talk about
+the Types of Protein.
+And they even provide groups of ingredients
+where they outline the grams of protein for
+each type.
+Now, the fact that there are hundreds of
+websites linking Bodybuilding.com's page,
+this to me looks like an opportunity to create
+significantly better content and do outreach
+to get backlinks - more commonly known
+as the Skyscraper technique.
+We have a full video on how to use this link
+building tactic so I'll link that up in the description.
+Alright, the final example is for the query
+"how to make money online."
+According to Ahrefs Site Explorer, the top-
+ranking page for this query gets around
+120,000 monthly search visits and continues
+to get a steady stream of backlinks to the page.
+Now let's take a look at the content.
+This is a typical listicle post where they
+list 28 ways to earn money online.
+They've done a good job with the intro and
+it's very skimmable with headings and images.
+Now, while it looks like it might be tough
+to significantly outdo this page based on
+the four categories we discussed, this is
+where putting yourself in the driver's seat
+will help you come up with new
+and better angles.
+Let me explain.
+The topic of "how to make money online" has
+historically been somewhat of a slimy topic.
+Now, it's not because of the topic itself because
+making money online is fine and completely legit.
+But it's the way a lot of furus have preyed
+on people's desire for wealth.
+And since money can be an emotional topic,
+they're able to sell people these "get rich
+quick schemes."
+Even worse - people are buying
+Now, this tells me two things.
+#1. A visitor is likely skeptical before they
+even land on your page, so it's critical that
+you do everything you can to legitimately
+build trust with your readers and/or viewers.
+And #2. Someone who's consuming content on
+the topic, probably has no clue where to begin.
+Otherwise they would have searched for "how
+to start an Amazon FBA business," "how to sell
+SEO consulting services," or whatever.
+So if you want to outdo this page and many
+similar pages that are getting thousands of
+visitors every single month, you need to:
+a) build trust with your visitors fast,
+and b) provide deep and clear guidance
+for a beginner level audience.
+So let's look at this article again from
+the lens of trust and depth.
+The first way they recommend making
+money online is to start dropshipping.
+If you've ever tried to start and grow an ecommerce
+business, it's not as easy as people make it seem.
+They spend some time explaining the potential
+of a dropshipping business, and they finish off
+this point with a link to their free course
+which should help you get started.
+This is pretty good in my opinion since the course
+should help you actually put this into action.
+But this is the only additional resource that
+I think would be actionable to a visitor.
+Pretty much all of their other points just
+talk about stats rather than guiding visitors
+to a resource to actually get started.
+I mean, point 5 is to become an influencer.
+Do you really think that someone will
+read this and be like… "That's it!
+I'm going to become an influencer then somehow
+start making tons of money through sponsorships."?
+And as the list goes on, it becomes less
+and less actionable and relevant.
+For example, point 26 is to get a part time job
+which has nothing to do with making money online.
+So here's what I think a better piece
+of content would look like.
+Yes, it would be important to create a listicle
+post because that's what users want to see.
+But instead of talking about tons of ways
+to make money online, I'd focus on just
+the methods that I've actually had
+some kind of success with.
+For example, in 2014, I became a Platinum
+Powerseller on Ebay by selling all sorts of
+consumer electronics.
+And in 9 months, I did over $300,000
+in sales with a budget of $20,000.
+So one of my points might be to buy
+products by the pallet and sell them on eBay.
+I could briefly share about my experience,
+the basic steps that I took to get there,
+and then link to a full case study
+on how to do it.
+Trust and guidance are both there.
+Then I'd talk about ecommerce stores, affiliate
+blogs, adsense sites, being a freelancer,
+running a marketing agency, etc.
+And I'd show proof of my results - good or
+bad - and link to detailed case studies that
+people can read and/or watch.
+And it wouldn't have to stop here.
+For new and interesting online money making
+methods, I'd try them out for 3 to 12 months,
+and then just update my content with the new
+case studies - whether I was successful or not.
+This in my eyes brings honesty and transparency
+to a traditionally slimy topic which helps build
+trust and authority.
+And the fact that no one else has done, or
+is willing to put this much effort into it
+tells me that there's an opportunity here.
+Now, creating the best content you can is
+about the single greatest advantage you can
+give yourself in competitive niches,
+especially if you're a small creator.
+Because when you do, you're not afraid to
+promote it because you actually have something
+unique to offer.
+So sending an outreach pitch for a link
+actually becomes kind of fun.
+Pitching it to social influencers who you
+might even look up to is exciting because
+if you have truly delivered on the content side,
+you'll start a conversation with someone who
+might have valuable feedback and
+may be happy to amplify your work.
+So don't settle for the status quo
+because you can.
+Go and create content that's better than your
+competitors and be proud to share it with
+others in your industry.
+Now, if you enjoyed this video, make sure to like,
+share and subscribe for more actionable SEO
+and marketing tutorials.
+And I'd love to hear from you if you agreed
+or disagreed with anything I've shared.
+I'll see you in the next tutorial.

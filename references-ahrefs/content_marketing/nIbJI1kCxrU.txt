@@ -1,0 +1,199 @@
+Kind: captions
+Language: en
+This is a content hub.
+It might just look like a normal page at first glance,
+but it was built strategically leveraging the best
+of both worlds from SEO and content marketing.
+And the result?
+A ton of links to their pages, rapid growth
+in organic traffic,
+and becoming an authority on the topic.
+And today, I'm going to show you how to create
+your own content hub and maximize search traffic
+to your pages.
+Stay tuned.
+[music]
+If you're new to content hubs, the reason
+why they work well is because they help build
+semantic relationships between content.
+For example, if you had a page on keto dieting,
+you might talk about what it is, what to eat,
+the benefits of keto, and provide some recipes
+or dietary guidelines.
+Now, if you were to go into great depth about
+all of these topics, then it'd be more like
+reading a book rather than a page or post.
+Instead, you can create other relevant guides
+and internally link between pages.
+This tells search engines that all the content
+is related to the broader topic of keto.
+Plus, having a logical structure to your content
+provides a better user experience for visitors.
+Now, there are 3 parts to content hubs and
+the best way to explain it is with a diagram
+from Hubspot.
+First you have your hub, which they refer
+to as pillar content.
+This page will usually be either an in-depth
+guide or a resource on a broad topic.
+And we've already talked about the example
+of a page on keto dieting.
+The second part is your sub pages - or going
+by Hubspot's name, cluster content.
+These are separate pages that go in-depth
+on a more specific part of your topic.
+So an example might be "the side effects of keto."
+And the third part is hyperlinks.
+These are used to connect the hub to its subpages
+and the subpages should also link back to the hub.
+Now, the reason why this is so powerful from
+an SEO standpoint is twofold.
+First, you're building topical authority on
+your site and building relationships between
+the pages using internal links.
+And second, when you get backlinks to any
+page within the group of content, all pages
+can benefit since they're strategically linked together.
+So in theory, your pages should rank higher
+together, helping you maximize search traffic
+on a given topic.
+Now, should everyone be using content hubs?
+The answer is no.
+Sometimes, you won't have enough topics
+that fit into a broader topic.
+This is especially true for micro-niche sites
+like one about chicken coops.
+But for a site about farming, you could probably
+create multiple content hubs.
+With that said, content hubs come in all shapes
+and forms.
+Kane Jamison from Content Harmony
+put together a great post on this,
+so I'll link that up in the description.
+So for this tutorial, I'll be focusing on
+using a big guide as your hub rather than
+resource or category pages.
+Alright, before we continue further, let's break down
+a basic overview of an awesome content hub
+created by Drift on the topic of chatbots.
+If you look at the table of contents on the left,
+you'll see they link to their subpages on this topic.
+And scrolling through their ultimate guide,
+you'll see they cover subtopics like
+"How do chatbots work?"
+Then they have a brief description and at
+the bottom of that section, you'll see a link
+that leads to a page that goes deeper on that topic.
+And the same goes for the remaining sections
+like "What are the benefits of chatbots?"
+"Why are chatbots important?"
+"How to create a chatbot," and so on.
+Now, if you look at these subpages, you'll
+see that they all link back to the hub page,
+creating a nicely organized group of content.
+And within around 7 months, they've gotten over
+500 links from unique websites and rapid growth
+to around 6,000 monthly search visits on
+a topic directly related to their product.
+So how can you start creating hubs for your site?
+The first step is to start brainstorming ideas
+for your hub pages.
+And there are a few questions you should ask yourself
+to determine whether it would be a good page or not.
+First, you need to ask yourself how many
+subtopics can fit under the main page?
+You don't want your topic to be too narrow,
+otherwise you won't have enough subtopics
+to write about.
+But at the same time, you don't want your
+topic to be so broad that you have too many
+posts that would go under it.
+Aim to have somewhere in the ballpark range
+of 5-20 pages that fit under the topic.
+The second thing you should ask yourself is
+does the topic have enough search volume?
+And enough search volume is a subjective number
+because it'll depend on your industry and niche.
+But hub pages should be targeting popular
+queries rather than long-tail queries.
+For example, if you have a site on social
+media marketing, you might want to create
+a content hub around the query "facebook ads,"
+which gets around 61,000 monthly searches in the US.
+And there are a ton of topics that fit under
+it like "how to use facebook ads manager,"
+"how much do facebook ads cost," and
+"facebook audience insights" to name a few.
+You wouldn't want to create a hub around
+something like "facebook ads coupons,"
+which barely gets searched and is too narrow of a topic.
+Finally, you should ask yourself, can I match
+search intent by targeting the pillar topic?
+Search intent means the reason behind
+a searcher's query.
+And you can find this out by looking at the
+top 10 results for your target keyword.
+For example, if we look at the top-ranking pages for
+"facebook ads," you'll see it's a navigational query,
+meaning most people who search this want
+to actually reach the Facebook website.
+But the search results also have informational
+posts like these ones from Hootsuite, Buffer,
+and Social Media Examiner, which are big guides
+on Facebook ads.
+Now, when it comes to choosing subpages,
+you'll want to make sure that they're
+highly relevant to your topic.
+For example, "how to delete a facebook page" would
+be too far off from the topic of "facebook ads."
+Good subpages are those that give more information
+about a related topic.
+Oftentimes, that might be a subsection on
+your pillar page, similar to the way that Drift
+did it in their chatbots hub.
+So let's build a content hub of our own and
+we'll use yoga as our example niche since
+it's a broad and popular topic.
+So, step one would be to find topics that could
+act as your hub or pillar page.
+To start, I'll go to Ahrefs' Keywords Explorer
+and search for a broad word like "yoga."
+Next, I'll go to the Phrase match report.
+And all I'm going to do here is look for queries that
+a) have informational intent seeing as we're
+creating a content hub;
+and b) they're broad enough topics to house
+many subtopics.
+So I would ignore queries like "yoga near me,"
+which is clearly a local query, and "yoga pants,"
+which is a transactional query as you can tell
+from the ecommerce pages in the SERP.
+Now, something like "yoga poses" could be
+a great top-level page since I know there are
+a lot of pages that could fall under it.
+Now, we need to find subtopics.
+Since I don't know much about yoga, I'll go
+to Google and search for "list of yoga poses."
+Then I'll click on this result.
+And there's a nice table here with the list of yoga poses.
+So I've already copied the list, so I'll go ahead
+and paste them into Keywords Explorer.
+And now we have keyword metrics on all of these
+which we can pick and choose for our subpages.
+One final way to look for subpage ideas is
+to look for your main topic in Wikipedia.
+With the sheer volume of content Wikipedia has,
+they have to organize it well for both
+search engines and users.
+In this case, you'll see a list of asanas,
+which are basically yoga postures,
+and then a table below showing you a ton
+of different poses you could research
+and potentially use in your content hub.
+Now, I'd love to know if you're using content hubs
+or plan to use them in your SEO and
+content marketing strategy.
+Let me know in the comments, and if you enjoyed
+this video, make sure to like, share and subscribe
+for more actionable SEO and marketing tutorials.
+I'll see you in the next one.

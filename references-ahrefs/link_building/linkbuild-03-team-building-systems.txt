@@ -1,0 +1,535 @@
+today<c> I'm</c><c> going</c><c> to</c><c> share</c><c> some</c><c> new</c><c> link</c>
+today I'm going to share some new link
+building<c> tactics</c><c> that</c><c> I</c><c> haven't</c><c> heard</c>
+building tactics that I haven't heard
+anyone<c> talk</c><c> about</c><c> and</c><c> because</c><c> no</c><c> one's</c>
+anyone talk about and because no one's
+talking<c> about</c><c> them</c><c> some</c><c> of</c><c> these</c><c> are</c>
+talking about them some of these are
+untapped<c> tactics</c><c> right</c><c> for</c><c> the</c><c> taking</c><c> so</c>
+untapped tactics right for the taking so
+let's<c> get</c><c> started</c><c> with</c><c> the</c><c> first</c><c> link</c>
+let's get started with the first link
+building<c> tactic</c><c> and</c><c> that's</c><c> guest</c><c> post</c>
+building tactic and that's guest post
+updates
+now<c> with</c><c> typical</c><c> guest</c><c> posts</c><c> you</c><c> pitch</c>
+now with typical guest posts you pitch
+editors<c> and</c><c> owners</c><c> of</c><c> websites</c><c> to</c><c> create</c>
+editors and owners of websites to create
+new<c> content</c><c> for</c><c> them</c><c> and</c><c> this</c><c> usually</c>
+new content for them and this usually
+comes<c> with</c><c> a</c><c> link</c>
+comes with a link
+but<c> the</c><c> downside</c><c> is</c><c> that</c><c> your</c><c> content</c>
+but the downside is that your content
+will<c> be</c><c> on</c><c> a</c><c> new</c><c> URL</c><c> that</c><c> has</c><c> no</c>
+will be on a new URL that has no
+backlinks<c> and</c><c> therefore</c><c> little</c><c> to</c><c> no</c>
+backlinks and therefore little to no
+Authority<c> now</c><c> guest</c><c> post</c><c> updates</c>
+Authority now guest post updates
+actually<c> solve</c><c> this</c><c> problem</c><c> because</c><c> the</c>
+actually solve this problem because the
+idea<c> in</c><c> a</c><c> nutshell</c><c> is</c><c> to</c><c> ask</c><c> editors</c><c> and</c>
+idea in a nutshell is to ask editors and
+owners<c> of</c><c> websites</c><c> if</c><c> you</c><c> can</c><c> update</c><c> one</c>
+owners of websites if you can update one
+of<c> their</c><c> Pages</c><c> this</c><c> means</c><c> that</c><c> you</c><c> can</c>
+of their Pages this means that you can
+cherry<c> pick</c><c> a</c><c> page</c><c> that</c><c> already</c><c> has</c>
+cherry pick a page that already has
+quality<c> backlinks</c><c> pointing</c><c> at</c><c> it</c><c> meaning</c>
+quality backlinks pointing at it meaning
+a<c> link</c><c> from</c><c> that</c><c> page</c><c> will</c><c> be</c><c> more</c>
+a link from that page will be more
+impactful<c> because</c><c> it</c><c> has</c><c> more</c><c> page</c><c> rank</c>
+impactful because it has more page rank
+to<c> pass</c>
+to pass
+to<c> find</c><c> guest</c><c> update</c><c> prospects</c><c> you</c><c> can</c>
+to find guest update prospects you can
+use<c> a</c><c> tool</c><c> like</c><c> content</c><c> Explorer</c><c> which</c>
+use a tool like content Explorer which
+is<c> a</c><c> searchable</c><c> database</c><c> with</c><c> billions</c>
+is a searchable database with billions
+of<c> pages</c><c> of</c><c> content</c><c> and</c><c> SEO</c><c> metrics</c><c> for</c>
+of pages of content and SEO metrics for
+them<c> for</c><c> example</c><c> if</c><c> I</c><c> wanted</c><c> to</c><c> build</c>
+them for example if I wanted to build
+links<c> to</c><c> our</c><c> post</c><c> on</c><c> keyword</c><c> research</c>
+links to our post on keyword research
+I'll<c> search</c><c> for</c><c> keyword</c><c> research</c><c> and</c>
+I'll search for keyword research and
+quotations<c> to</c><c> find</c><c> pages</c><c> that</c><c> mention</c>
+quotations to find pages that mention
+this<c> phrase</c><c> and</c><c> then</c><c> I'll</c><c> add</c><c> minus</c>
+this phrase and then I'll add minus
+title<c> colon</c><c> keyword</c><c> research</c><c> to</c><c> avoid</c>
+title colon keyword research to avoid
+competing<c> Pages</c><c> I'll</c><c> also</c><c> add</c><c> a</c><c> series</c>
+competing Pages I'll also add a series
+of<c> site</c><c> operators</c><c> to</c><c> exclude</c><c> websites</c>
+of site operators to exclude websites
+that<c> we</c><c> don't</c><c> want</c><c> to</c><c> guest</c><c> post</c><c> on</c><c> next</c>
+that we don't want to guest post on next
+I'll<c> set</c><c> a</c><c> referring</c><c> domains</c><c> filter</c><c> to</c>
+I'll set a referring domains filter to
+show<c> pages</c><c> that</c><c> have</c><c> at</c><c> least</c><c> 50</c>
+show pages that have at least 50
+referring<c> domains</c><c> finally</c><c> I'll</c><c> set</c><c> a</c>
+referring domains finally I'll set a
+domain<c> rating</c><c> filter</c><c> to</c><c> a</c><c> minimum</c><c> value</c>
+domain rating filter to a minimum value
+of<c> 40.</c><c> now</c><c> you</c><c> can't</c><c> just</c><c> find</c><c> any</c><c> page</c>
+of 40. now you can't just find any page
+with<c> a</c><c> lot</c><c> of</c><c> backlinks</c><c> and</c><c> ask</c><c> if</c><c> you</c>
+with a lot of backlinks and ask if you
+can<c> update</c><c> it</c><c> like</c><c> with</c><c> all</c><c> link</c>
+can update it like with all link
+Outreach<c> emails</c><c> you</c><c> want</c><c> to</c><c> come</c><c> to</c><c> the</c>
+Outreach emails you want to come to the
+table<c> with</c><c> a</c><c> mutually</c><c> beneficial</c><c> pitch</c>
+table with a mutually beneficial pitch
+the<c> obvious</c><c> benefit</c><c> for</c><c> you</c><c> is</c><c> a</c><c> link</c>
+the obvious benefit for you is a link
+back<c> to</c><c> your</c><c> site</c><c> from</c><c> an</c><c> already</c>
+back to your site from an already
+authoritative<c> page</c><c> and</c><c> the</c><c> benefits</c><c> for</c>
+authoritative page and the benefits for
+them<c> is</c><c> that</c><c> a</c><c> they'll</c><c> get</c><c> great</c>
+them is that a they'll get great
+contents<c> and</c><c> B</c><c> the</c><c> post-organic</c><c> traffic</c>
+contents and B the post-organic traffic
+and<c> rankings</c><c> may</c><c> be</c><c> able</c><c> to</c><c> be</c><c> revived</c>
+and rankings may be able to be revived
+if<c> they</c><c> were</c><c> previously</c><c> ranking</c><c> for</c>
+if they were previously ranking for
+freshness<c> depending</c><c> queries</c><c> so</c><c> there</c><c> are</c>
+freshness depending queries so there are
+two<c> ways</c><c> we</c><c> can</c><c> narrow</c><c> in</c><c> on</c><c> these</c><c> types</c>
+two ways we can narrow in on these types
+of<c> pages</c><c> the</c><c> first</c><c> is</c><c> to</c><c> make</c><c> a</c><c> small</c>
+of pages the first is to make a small
+change<c> to</c><c> our</c><c> search</c><c> query</c><c> I'll</c><c> add</c>
+change to our search query I'll add
+within<c> parentheses</c><c> title</c><c> colon</c><c> 2020</c><c> or</c>
+within parentheses title colon 2020 or
+title<c> colon</c><c> 2019</c><c> or</c><c> title</c><c> colon</c><c> 2018</c><c> or</c>
+title colon 2019 or title colon 2018 or
+title<c> colon</c><c> 2017</c><c> and</c><c> you</c><c> can</c><c> add</c><c> more</c><c> if</c>
+title colon 2017 and you can add more if
+you<c> want</c><c> now</c><c> with</c><c> the</c><c> trends</c><c> filter</c><c> set</c>
+you want now with the trends filter set
+to<c> all</c><c> time</c><c> you</c><c> can</c><c> simply</c><c> skim</c><c> through</c>
+to all time you can simply skim through
+the<c> list</c><c> and</c><c> look</c><c> for</c><c> pages</c><c> that</c><c> used</c><c> to</c>
+the list and look for pages that used to
+get<c> a</c><c> lot</c><c> of</c><c> traffic</c><c> but</c><c> then</c><c> gradually</c>
+get a lot of traffic but then gradually
+decreased<c> over</c><c> time</c>
+decreased over time
+for<c> example</c><c> this</c><c> page</c><c> from</c><c> buffer</c><c> was</c>
+for example this page from buffer was
+likely<c> updated</c><c> last</c><c> in</c><c> 2019</c><c> and</c><c> if</c><c> we</c>
+likely updated last in 2019 and if we
+look<c> at</c><c> their</c><c> traffic</c><c> Trend</c><c> they</c><c> had</c>
+look at their traffic Trend they had
+quite<c> a</c><c> bit</c><c> of</c><c> traffic</c><c> which</c><c> died</c><c> off</c><c> in</c>
+quite a bit of traffic which died off in
+2020.
+and<c> because</c><c> they</c><c> were</c><c> getting</c><c> traffic</c><c> it</c>
+and because they were getting traffic it
+likely<c> means</c><c> the</c><c> referring</c><c> domains</c><c> are</c>
+likely means the referring domains are
+good<c> and</c><c> from</c><c> a</c><c> quick</c><c> spot</c><c> check</c><c> we</c><c> can</c>
+good and from a quick spot check we can
+confirm<c> that's</c><c> generally</c><c> true</c>
+confirm that's generally true
+all<c> right</c><c> so</c><c> now</c><c> that</c><c> we</c><c> have</c><c> a</c><c> page</c><c> we</c>
+all right so now that we have a page we
+want<c> to</c><c> update</c><c> you</c><c> need</c><c> to</c><c> send</c><c> a</c><c> pitch</c>
+want to update you need to send a pitch
+to<c> the</c><c> person</c><c> who's</c><c> in</c><c> charge</c><c> of</c><c> their</c>
+to the person who's in charge of their
+blog<c> to</c><c> find</c><c> this</c><c> contact</c><c> you</c><c> can</c><c> go</c><c> to</c>
+blog to find this contact you can go to
+their<c> team</c><c> page</c><c> or</c><c> LinkedIn</c><c> employees</c>
+their team page or LinkedIn employees
+page<c> and</c><c> look</c><c> for</c><c> a</c><c> Content</c><c> marketing</c>
+page and look for a Content marketing
+manager<c> head</c><c> of</c><c> content</c><c> or</c><c> whoever</c><c> will</c>
+manager head of content or whoever will
+be<c> in</c><c> charge</c><c> with</c><c> the</c><c> blog</c>
+be in charge with the blog
+after<c> you've</c><c> found</c><c> that</c><c> person</c><c> you</c><c> just</c>
+after you've found that person you just
+need<c> to</c><c> send</c><c> them</c><c> a</c><c> pitch</c><c> for</c><c> example</c><c> I</c>
+need to send them a pitch for example I
+might<c> say</c><c> hey</c><c> name</c><c> Sam</c><c> here</c><c> fellow</c>
+might say hey name Sam here fellow
+content<c> writer</c><c> from</c><c> ahrefs</c><c> LinkedIn</c>
+content writer from ahrefs LinkedIn
+tells<c> me</c><c> you're</c><c> the</c><c> person</c><c> in</c><c> charge</c><c> of</c>
+tells me you're the person in charge of
+the<c> buffer</c><c> blog</c><c> thought</c><c> I'd</c><c> reach</c><c> out</c>
+the buffer blog thought I'd reach out
+because<c> I</c><c> saw</c><c> that</c><c> your</c><c> team</c><c> is</c><c> updating</c>
+because I saw that your team is updating
+older<c> content</c><c> like</c><c> this</c><c> one</c><c> and</c><c> this</c><c> one</c>
+older content like this one and this one
+but<c> I</c><c> noticed</c><c> you</c><c> didn't</c><c> get</c><c> around</c><c> to</c>
+but I noticed you didn't get around to
+updating<c> this</c><c> one</c><c> on</c><c> free</c><c> SEO</c><c> tools</c><c> it</c>
+updating this one on free SEO tools it
+looks<c> like</c><c> it</c><c> used</c><c> to</c><c> get</c><c> some</c><c> pretty</c>
+looks like it used to get some pretty
+decent<c> traffic</c><c> which</c><c> could</c><c> probably</c><c> be</c>
+decent traffic which could probably be
+revived<c> with</c><c> a</c><c> refresh</c><c> would</c><c> you</c><c> be</c><c> open</c>
+revived with a refresh would you be open
+to<c> me</c><c> updating</c><c> it</c><c> for</c><c> you</c><c> I've</c><c> been</c><c> in</c>
+to me updating it for you I've been in
+the<c> SEO</c><c> game</c><c> for</c><c> 10</c><c> plus</c><c> years</c><c> and</c><c> have</c>
+the SEO game for 10 plus years and have
+used<c> dozens</c><c> of</c><c> SEO</c><c> Tools</c><c> in</c><c> my</c><c> time</c><c> so</c><c> I</c>
+used dozens of SEO Tools in my time so I
+think<c> I</c><c> could</c><c> give</c><c> it</c><c> a</c><c> pretty</c><c> nice</c>
+think I could give it a pretty nice
+revamp<c> can</c><c> we</c><c> work</c><c> together</c><c> on</c><c> this</c>
+revamp can we work together on this
+cheers<c> Sam</c>
+cheers Sam
+all<c> right</c><c> the</c><c> next</c><c> link</c><c> building</c><c> tactic</c>
+all right the next link building tactic
+is<c> redirect</c><c> link</c><c> building</c>
+is redirect link building
+redirect<c> link</c><c> building</c><c> follows</c><c> similar</c>
+redirect link building follows similar
+principles<c> to</c><c> Broken</c><c> link</c><c> building</c><c> but</c>
+principles to Broken link building but
+instead<c> of</c><c> 404</c><c> Pages</c><c> you're</c><c> looking</c><c> for</c>
+instead of 404 Pages you're looking for
+301s<c> here's</c><c> how</c><c> it</c><c> works</c><c> you</c><c> find</c><c> a</c><c> page</c>
+301s here's how it works you find a page
+with<c> backlinks</c><c> that</c><c> redirects</c><c> to</c><c> an</c>
+with backlinks that redirects to an
+irrelevant<c> page</c><c> reach</c><c> out</c><c> to</c><c> the</c><c> people</c>
+irrelevant page reach out to the people
+linking<c> to</c><c> that</c><c> redirect</c><c> and</c><c> ask</c><c> them</c><c> to</c>
+linking to that redirect and ask them to
+link<c> to</c><c> you</c><c> instead</c>
+link to you instead
+and<c> this</c><c> link</c><c> building</c><c> tactic</c><c> is</c><c> good</c>
+and this link building tactic is good
+for<c> two</c><c> reasons</c><c> number</c><c> one</c><c> when</c><c> a</c><c> page</c>
+for two reasons number one when a page
+redirects<c> to</c><c> an</c><c> irrelevant</c><c> page</c><c> then</c><c> the</c>
+redirects to an irrelevant page then the
+context<c> of</c><c> backlinks</c><c> pointing</c><c> to</c><c> the</c>
+context of backlinks pointing to the
+redirected<c> page</c><c> often</c><c> won't</c><c> make</c><c> sense</c>
+redirected page often won't make sense
+and<c> this</c><c> can</c><c> help</c><c> with</c><c> your</c><c> pitch</c><c> angles</c>
+and this can help with your pitch angles
+and<c> number</c><c> two</c><c> because</c><c> many</c><c> people</c><c> quote</c>
+and number two because many people quote
+unquote<c> fix</c><c> broken</c><c> Pages</c><c> by</c><c> redirecting</c>
+unquote fix broken Pages by redirecting
+them<c> to</c><c> irrelevant</c><c> Pages</c><c> this</c><c> means</c><c> that</c>
+them to irrelevant Pages this means that
+the<c> opportunities</c><c> are</c><c> plentiful</c><c> and</c>
+the opportunities are plentiful and
+they're<c> flying</c><c> under</c><c> the</c><c> radar</c><c> now</c><c> to</c>
+they're flying under the radar now to
+find<c> Opportunities</c><c> to</c><c> search</c><c> for</c><c> a</c>
+find Opportunities to search for a
+competing<c> domain</c><c> in</c><c> ahrefs</c><c> site</c><c> Explorer</c>
+competing domain in ahrefs site Explorer
+and<c> I'll</c><c> set</c><c> the</c><c> protocol</c><c> to</c><c> just</c><c> https</c>
+and I'll set the protocol to just https
+next<c> go</c><c> to</c><c> the</c><c> Best</c><c> Buy</c><c> links</c><c> report</c><c> now</c>
+next go to the Best Buy links report now
+to<c> filter</c><c> for</c><c> redirects</c><c> just</c><c> change</c><c> the</c>
+to filter for redirects just change the
+HTTP<c> code</c><c> filter</c><c> to</c><c> 301</c><c> moved</c>
+HTTP code filter to 301 moved
+permanently<c> now</c><c> it's</c><c> just</c><c> a</c><c> matter</c><c> of</c>
+permanently now it's just a matter of
+comparing<c> URL</c><c> slugs</c><c> of</c><c> the</c><c> redirected</c>
+comparing URL slugs of the redirected
+page<c> and</c><c> destination</c><c> URL</c><c> for</c><c> example</c>
+page and destination URL for example
+this<c> one</c><c> on</c><c> the</c><c> do's</c><c> and</c><c> don'ts</c><c> of</c>
+this one on the do's and don'ts of
+marriage<c> proposals</c><c> has</c><c> over</c><c> 300</c>
+marriage proposals has over 300
+referring<c> domains</c><c> and</c><c> it</c><c> redirects</c><c> to</c><c> a</c>
+referring domains and it redirects to a
+page<c> on</c><c> wedding</c><c> planning</c><c> these</c><c> are</c><c> two</c>
+page on wedding planning these are two
+completely<c> different</c><c> topics</c><c> now</c><c> to</c><c> see</c>
+completely different topics now to see
+the<c> previous</c><c> version</c><c> of</c><c> the</c><c> redirected</c>
+the previous version of the redirected
+page<c> you</c><c> can</c><c> click</c><c> on</c><c> the</c><c> carrot</c><c> and</c>
+page you can click on the carrot and
+view<c> the</c><c> latest</c><c> version</c><c> on</c><c> archive.org</c>
+view the latest version on archive.org
+and<c> indeed</c><c> they</c><c> are</c><c> on</c><c> completely</c>
+and indeed they are on completely
+different<c> topics</c>
+different topics
+as<c> a</c><c> final</c><c> measure</c><c> look</c><c> at</c><c> the</c><c> backlink</c>
+as a final measure look at the backlink
+profile<c> of</c><c> the</c><c> redirected</c><c> page</c><c> and</c><c> scan</c>
+profile of the redirected page and scan
+the<c> anchor</c><c> and</c><c> surrounding</c><c> text</c><c> of</c>
+the anchor and surrounding text of
+backlinks<c> and</c><c> in</c><c> this</c><c> case</c><c> you'll</c><c> see</c>
+backlinks and in this case you'll see
+that<c> the</c><c> context</c><c> of</c><c> these</c><c> links</c><c> are</c><c> all</c>
+that the context of these links are all
+about<c> proposals</c><c> not</c><c> planning</c>
+about proposals not planning
+so<c> if</c><c> you</c><c> happen</c><c> to</c><c> have</c><c> a</c><c> page</c><c> on</c>
+so if you happen to have a page on
+wedding<c> proposals</c><c> then</c><c> a</c><c> ton</c><c> of</c><c> these</c>
+wedding proposals then a ton of these
+links<c> could</c><c> be</c><c> good</c><c> prospects</c><c> for</c><c> you</c>
+links could be good prospects for you
+all<c> right</c><c> the</c><c> next</c><c> link</c><c> building</c><c> tactic</c>
+all right the next link building tactic
+is<c> the</c><c> product</c><c> feedback</c><c> technique</c><c> now</c>
+is the product feedback technique now
+this<c> link</c><c> building</c><c> tactic</c><c> is</c><c> kind</c><c> of</c>
+this link building tactic is kind of
+neat<c> because</c><c> Outreach</c><c> emails</c><c> won't</c><c> come</c>
+neat because Outreach emails won't come
+off<c> as</c><c> spammy</c><c> in</c><c> fact</c><c> they're</c><c> more</c>
+off as spammy in fact they're more
+likely<c> to</c><c> be</c><c> welcomed</c><c> here's</c><c> a</c><c> high</c>
+likely to be welcomed here's a high
+level<c> view</c><c> of</c><c> how</c><c> the</c><c> product</c><c> feedback</c>
+level view of how the product feedback
+technique<c> Works</c><c> in</c><c> action</c><c> you</c><c> find</c><c> blog</c>
+technique Works in action you find blog
+posts<c> that</c><c> are</c><c> ranking</c><c> for</c><c> queries</c><c> like</c>
+posts that are ranking for queries like
+best<c> product</c><c> name</c><c> where</c><c> your</c><c> product</c>
+best product name where your product
+isn't<c> featured</c><c> then</c><c> you</c><c> reach</c><c> out</c><c> to</c><c> the</c>
+isn't featured then you reach out to the
+authors<c> and</c><c> offer</c><c> them</c><c> your</c><c> product</c><c> in</c>
+authors and offer them your product in
+exchange<c> for</c><c> feedback</c><c> and</c><c> if</c><c> they</c><c> like</c>
+exchange for feedback and if they like
+your<c> product</c><c> you</c><c> can</c><c> ask</c><c> them</c><c> for</c>
+your product you can ask them for
+consideration<c> to</c><c> be</c><c> included</c><c> in</c><c> their</c>
+consideration to be included in their
+article<c> now</c><c> this</c><c> tactic</c><c> isn't</c><c> for</c>
+article now this tactic isn't for
+everyone<c> because</c><c> a</c><c> you'll</c><c> need</c><c> to</c><c> have</c><c> a</c>
+everyone because a you'll need to have a
+product<c> whether</c><c> that's</c><c> physical</c><c> or</c>
+product whether that's physical or
+digital
+and<c> big</c><c> end</c><c> here</c><c> you'll</c><c> need</c><c> to</c><c> be</c>
+and big end here you'll need to be
+confident<c> that</c><c> your</c><c> product</c><c> is</c><c> better</c>
+confident that your product is better
+than<c> your</c><c> competitors</c><c> so</c><c> to</c><c> find</c>
+than your competitors so to find
+prospects<c> it's</c><c> easiest</c><c> to</c><c> start</c><c> by</c>
+prospects it's easiest to start by
+brainstorming<c> a</c><c> list</c><c> of</c><c> queries</c><c> where</c>
+brainstorming a list of queries where
+listicles<c> mentioning</c><c> your</c><c> products</c><c> will</c>
+listicles mentioning your products will
+surface<c> for</c><c> ahrefs</c><c> that</c><c> would</c><c> be</c>
+surface for ahrefs that would be
+keywords<c> like</c><c> best</c><c> SEO</c><c> tool</c><c> best</c><c> keyword</c>
+keywords like best SEO tool best keyword
+research<c> tool</c><c> best</c><c> backlink</c><c> Checker</c><c> and</c>
+research tool best backlink Checker and
+so<c> on</c><c> now</c><c> all</c><c> you</c><c> need</c><c> to</c><c> do</c><c> is</c><c> search</c>
+so on now all you need to do is search
+for<c> these</c><c> keywords</c><c> in</c><c> Google</c><c> and</c><c> visit</c>
+for these keywords in Google and visit
+some<c> of</c><c> the</c><c> pages</c>
+some of the pages
+and<c> if</c><c> your</c><c> product</c><c> isn't</c><c> mentioned</c><c> on</c>
+and if your product isn't mentioned on
+that<c> page</c><c> and</c><c> you</c><c> truly</c><c> believe</c><c> that</c>
+that page and you truly believe that
+it's<c> better</c><c> than</c><c> others</c><c> then</c><c> the</c>
+it's better than others then the
+prospect<c> is</c><c> qualified</c><c> now</c><c> as</c><c> for</c><c> the</c>
+prospect is qualified now as for the
+pitch<c> it's</c><c> technically</c><c> against</c><c> Google's</c>
+pitch it's technically against Google's
+terms<c> of</c><c> service</c><c> to</c><c> exchange</c><c> anything</c><c> of</c>
+terms of service to exchange anything of
+monetary<c> value</c><c> for</c><c> a</c><c> backlink</c><c> but</c>
+monetary value for a backlink but
+something<c> that's</c><c> perfectly</c><c> ethical</c><c> in</c><c> my</c>
+something that's perfectly ethical in my
+opinion<c> is</c><c> to</c><c> offer</c><c> these</c><c> authors</c><c> a</c>
+opinion is to offer these authors a
+sample<c> of</c><c> your</c><c> product</c><c> for</c><c> example</c><c> if</c>
+sample of your product for example if
+one<c> of</c><c> these</c><c> Pages</c><c> didn't</c><c> mention</c><c> ahrefs</c>
+one of these Pages didn't mention ahrefs
+I<c> might</c><c> contact</c><c> them</c><c> and</c><c> say</c><c> hey</c><c> Sam</c>
+I might contact them and say hey Sam
+here<c> from</c><c> ahrefs</c><c> I</c><c> noticed</c><c> you</c><c> didn't</c>
+here from ahrefs I noticed you didn't
+mention<c> ahrefs</c><c> keywords</c><c> Explorer</c><c> in</c><c> your</c>
+mention ahrefs keywords Explorer in your
+post<c> on</c><c> the</c><c> best</c><c> keyword</c><c> research</c><c> tools</c>
+post on the best keyword research tools
+I'm<c> wondering</c><c> if</c><c> it's</c><c> because</c><c> you</c><c> think</c>
+I'm wondering if it's because you think
+the<c> other</c><c> tools</c><c> you</c><c> mentioned</c><c> are</c><c> better</c>
+the other tools you mentioned are better
+or<c> if</c><c> it's</c><c> because</c><c> you</c><c> haven't</c><c> tried</c><c> our</c>
+or if it's because you haven't tried our
+tool<c> yet</c><c> if</c><c> it's</c><c> the</c><c> former</c><c> I'd</c><c> love</c><c> to</c>
+tool yet if it's the former I'd love to
+get<c> your</c><c> feedback</c><c> on</c><c> what</c><c> you</c><c> think</c><c> we</c>
+get your feedback on what you think we
+can<c> do</c><c> to</c><c> improve</c><c> our</c><c> tool</c><c> or</c><c> if</c><c> it's</c>
+can do to improve our tool or if it's
+the<c> latter</c><c> I'm</c><c> happy</c><c> to</c><c> give</c><c> you</c><c> 30</c><c> day</c>
+the latter I'm happy to give you 30 day
+access<c> to</c><c> our</c><c> standard</c><c> plan</c><c> 199</c><c> value</c><c> to</c>
+access to our standard plan 199 value to
+give<c> it</c><c> a</c><c> spin</c><c> cheers</c><c> Sam</c><c> now</c><c> if</c><c> the</c>
+give it a spin cheers Sam now if the
+person<c> responds</c><c> with</c><c> feedback</c><c> as</c><c> to</c><c> why</c>
+person responds with feedback as to why
+you<c> didn't</c><c> make</c><c> the</c><c> list</c><c> then</c><c> that</c><c> can</c>
+you didn't make the list then that can
+be<c> quality</c><c> information</c><c> for</c><c> your</c><c> company</c>
+be quality information for your company
+but<c> more</c><c> likely</c><c> than</c><c> not</c><c> they'll</c><c> have</c><c> a</c>
+but more likely than not they'll have a
+reason<c> like</c><c> my</c><c> company</c><c> didn't</c><c> give</c><c> me</c>
+reason like my company didn't give me
+the<c> budget</c><c> to</c><c> try</c><c> out</c><c> new</c><c> tools</c><c> so</c><c> I</c>
+the budget to try out new tools so I
+went<c> based</c><c> on</c><c> my</c><c> own</c><c> personal</c><c> experience</c>
+went based on my own personal experience
+yes<c> I'd</c><c> love</c><c> to</c><c> try</c><c> ahrefs</c><c> in</c><c> which</c><c> case</c>
+yes I'd love to try ahrefs in which case
+you<c> give</c><c> them</c><c> what</c><c> you</c><c> promised</c><c> and</c>
+you give them what you promised and
+offer<c> as</c><c> much</c><c> support</c><c> as</c><c> they</c><c> need</c><c> now</c>
+offer as much support as they need now
+at<c> this</c><c> point</c><c> it's</c><c> perfectly</c><c> reasonable</c>
+at this point it's perfectly reasonable
+to<c> follow</c><c> up</c><c> for</c><c> feedback</c><c> and</c><c> if</c><c> they</c>
+to follow up for feedback and if they
+love<c> your</c><c> product</c><c> it's</c><c> natural</c><c> to</c><c> ask</c>
+love your product it's natural to ask
+them<c> if</c><c> they'll</c><c> consider</c><c> adding</c><c> you</c><c> to</c>
+them if they'll consider adding you to
+the<c> Roundup</c><c> and</c><c> if</c><c> they</c><c> didn't</c><c> like</c><c> it</c>
+the Roundup and if they didn't like it
+feedback<c> is</c><c> valuable</c><c> too</c><c> Alright</c><c> the</c>
+feedback is valuable too Alright the
+next<c> link</c><c> building</c><c> tactic</c><c> is</c><c> to</c><c> use</c>
+next link building tactic is to use
+Google<c> ads</c><c> to</c><c> earn</c><c> links</c><c> to</c><c> link</c><c> bait</c>
+Google ads to earn links to link bait
+pages
+now<c> this</c><c> tactic</c><c> is</c><c> based</c><c> on</c><c> the</c><c> theory</c>
+now this tactic is based on the theory
+of<c> the</c><c> Vicious</c><c> Cycle</c><c> of</c><c> SEO</c><c> this</c><c> is</c><c> when</c>
+of the Vicious Cycle of SEO this is when
+people<c> search</c><c> for</c><c> a</c><c> query</c><c> in</c><c> Google</c><c> and</c>
+people search for a query in Google and
+read<c> the</c><c> number</c><c> one</c><c> result</c><c> and</c><c> because</c>
+read the number one result and because
+that<c> first</c><c> result</c><c> is</c><c> getting</c><c> the</c><c> most</c>
+that first result is getting the most
+exposure<c> because</c><c> of</c><c> the</c><c> ranking</c><c> position</c>
+exposure because of the ranking position
+they'll<c> naturally</c><c> earn</c><c> some</c><c> links</c><c> to</c>
+they'll naturally earn some links to
+that<c> page</c><c> and</c><c> because</c><c> that</c><c> page</c><c> is</c>
+that page and because that page is
+consistently<c> earning</c><c> new</c><c> links</c><c> that</c>
+consistently earning new links that
+number<c> one</c><c> page</c><c> maintains</c><c> their</c><c> top</c>
+number one page maintains their top
+ranking<c> position</c><c> creating</c><c> this</c><c> vicious</c>
+ranking position creating this vicious
+cycle<c> now</c><c> the</c><c> good</c><c> thing</c><c> with</c><c> Google</c>
+cycle now the good thing with Google
+search<c> ads</c><c> is</c><c> that</c><c> you</c><c> can</c><c> buy</c><c> your</c><c> way</c>
+search ads is that you can buy your way
+to<c> the</c><c> top</c><c> of</c><c> the</c><c> serp</c><c> to</c><c> become</c><c> a</c><c> part</c>
+to the top of the serp to become a part
+of<c> this</c><c> vicious</c><c> cycle</c><c> but</c><c> in</c><c> order</c><c> for</c>
+of this vicious cycle but in order for
+this<c> to</c><c> work</c><c> you</c><c> need</c><c> to</c><c> have</c><c> content</c><c> on</c>
+this to work you need to have content on
+a<c> topic</c><c> that</c><c> naturally</c><c> generates</c><c> links</c>
+a topic that naturally generates links
+and<c> has</c><c> some</c><c> search</c><c> demand</c><c> stats</c><c> pages</c>
+and has some search demand stats pages
+are<c> a</c><c> great</c><c> example</c><c> which</c><c> has</c><c> worked</c><c> for</c>
+are a great example which has worked for
+us<c> and</c><c> many</c><c> others</c><c> so</c><c> to</c><c> find</c><c> these</c>
+us and many others so to find these
+topics<c> I'll</c><c> go</c><c> to</c><c> ahrefs</c><c> keywords</c>
+topics I'll go to ahrefs keywords
+Explorer<c> and</c><c> search</c><c> for</c><c> seeds</c><c> that</c><c> are</c>
+Explorer and search for seeds that are
+relevant<c> to</c><c> my</c><c> Niche</c><c> like</c><c> SEO</c><c> keyword</c>
+relevant to my Niche like SEO keyword
+research<c> link</c><c> building</c><c> content</c><c> marketing</c>
+research link building content marketing
+and<c> blogging</c><c> next</c><c> I'll</c><c> go</c><c> to</c><c> the</c>
+and blogging next I'll go to the
+matching<c> terms</c><c> report</c><c> finally</c><c> I'll</c><c> add</c>
+matching terms report finally I'll add
+some<c> modifiers</c><c> in</c><c> the</c><c> include</c><c> box</c><c> like</c>
+some modifiers in the include box like
+stats<c> statistics</c><c> fact</c><c> and</c><c> facts</c><c> I'll</c>
+stats statistics fact and facts I'll
+also<c> hit</c><c> the</c><c> any</c><c> word</c><c> Tab</c><c> and</c><c> then</c><c> hit</c>
+also hit the any word Tab and then hit
+apply
+now<c> from</c><c> here</c><c> choose</c><c> a</c><c> query</c><c> and</c><c> hit</c><c> the</c>
+now from here choose a query and hit the
+start<c> button</c><c> to</c><c> see</c><c> the</c><c> top</c><c> ranking</c>
+start button to see the top ranking
+pages
+there's<c> a</c><c> lot</c><c> more</c><c> you</c><c> can</c><c> do</c><c> to</c>
+there's a lot more you can do to
+optimize<c> stats</c><c> pages</c><c> to</c><c> earn</c><c> links</c><c> but</c><c> I</c>
+optimize stats pages to earn links but I
+won't<c> get</c><c> into</c><c> that</c><c> here</c><c> because</c><c> we</c><c> have</c>
+won't get into that here because we have
+a<c> three-part</c><c> case</c><c> study</c><c> where</c><c> we</c><c> use</c>
+a three-part case study where we use
+this<c> exact</c><c> tactic</c><c> for</c><c> our</c><c> SEO</c><c> stats</c><c> page</c>
+this exact tactic for our SEO stats page
+which<c> helped</c><c> us</c><c> rank</c><c> number</c><c> one</c><c> for</c><c> our</c>
+which helped us rank number one for our
+Target<c> query</c><c> also</c><c> I</c><c> recommend</c><c> watching</c>
+Target query also I recommend watching
+our<c> Advanced</c><c> course</c><c> on</c><c> link</c><c> building</c><c> if</c>
+our Advanced course on link building if
+you<c> want</c><c> to</c><c> consistently</c><c> find</c><c> unique</c>
+you want to consistently find unique
+link<c> building</c><c> opportunities</c><c> and</c><c> optimize</c>
+link building opportunities and optimize
+your<c> team's</c><c> processes</c><c> I'll</c><c> leave</c><c> links</c>
+your team's processes I'll leave links
+in<c> the</c><c> description</c><c> and</c><c> I'll</c><c> see</c><c> you</c><c> in</c>
+in the description and I'll see you in
+the<c> next</c><c> tutorial</c>

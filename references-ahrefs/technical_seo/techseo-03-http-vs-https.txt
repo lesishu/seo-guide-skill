@@ -1,0 +1,378 @@
+today<c> you're</c><c> going</c><c> to</c><c> learn</c><c> everything</c>
+today you're going to learn everything
+you<c> need</c><c> to</c><c> know</c><c> about</c><c> HTTP</c><c> versus</c>
+you need to know about HTTP versus
+https<c> we'll</c><c> talk</c><c> about</c><c> the</c><c> difference</c>
+https we'll talk about the difference
+between<c> these</c><c> two</c><c> protocols</c><c> how</c><c> SSL</c><c> and</c>
+between these two protocols how SSL and
+TLS<c> encryption</c><c> work</c><c> where</c><c> you</c><c> can</c><c> get</c><c> a</c>
+TLS encryption work where you can get a
+free<c> SSL</c><c> certificate</c><c> and</c><c> why</c><c> you</c><c> might</c>
+free SSL certificate and why you might
+not<c> want</c><c> to</c><c> do</c><c> that</c><c> and</c><c> we'll</c><c> finish</c>
+not want to do that and we'll finish
+things<c> off</c><c> with</c><c> finding</c><c> and</c><c> fixing</c><c> https</c>
+things off with finding and fixing https
+related<c> issues</c><c> on</c><c> your</c><c> website</c><c> let's</c><c> get</c>
+related issues on your website let's get
+started<c> by</c><c> defining</c><c> HTTP</c><c> HTTP</c><c> stands</c><c> for</c>
+started by defining HTTP HTTP stands for
+hypertext<c> transfer</c><c> protocol</c><c> which</c><c> is</c>
+hypertext transfer protocol which is
+basically<c> a</c><c> method</c><c> to</c><c> fetch</c><c> resources</c>
+basically a method to fetch resources
+such<c> as</c><c> HTML</c><c> documents</c><c> and</c><c> images</c><c> for</c>
+such as HTML documents and images for
+example<c> when</c><c> you</c><c> submit</c><c> a</c><c> request</c><c> by</c>
+example when you submit a request by
+entering<c> a</c><c> URL</c><c> in</c><c> your</c><c> browser's</c><c> address</c>
+entering a URL in your browser's address
+bar<c> or</c><c> by</c><c> submitting</c><c> a</c><c> form</c><c> on</c><c> a</c><c> page</c><c> a</c>
+bar or by submitting a form on a page a
+request<c> is</c><c> sent</c><c> from</c><c> your</c><c> computer</c><c> to</c>
+request is sent from your computer to
+the<c> website</c><c> server</c><c> and</c><c> that</c><c> data</c><c> will</c>
+the website server and that data will
+travel<c> through</c><c> the</c><c> internet</c><c> as</c><c> plain</c>
+travel through the internet as plain
+text<c> until</c><c> it</c><c> reaches</c><c> the</c><c> server</c><c> where</c>
+text until it reaches the server where
+the<c> website</c><c> is</c><c> hosted</c><c> the</c><c> server</c><c> will</c>
+the website is hosted the server will
+then<c> send</c><c> back</c><c> a</c><c> response</c><c> to</c><c> that</c>
+then send back a response to that
+request<c> and</c><c> your</c><c> browser</c><c> will</c><c> render</c><c> or</c>
+request and your browser will render or
+show<c> that</c><c> data</c><c> the</c><c> way</c><c> it's</c><c> intended</c><c> now</c>
+show that data the way it's intended now
+everything<c> seems</c><c> well</c><c> and</c><c> good</c><c> but</c><c> the</c>
+everything seems well and good but the
+problem<c> happens</c><c> when</c><c> we</c><c> add</c><c> hackers</c><c> to</c>
+problem happens when we add hackers to
+the<c> equation</c><c> because</c><c> the</c><c> information</c><c> is</c>
+the equation because the information is
+sent<c> as</c><c> text</c><c> attackers</c><c> are</c><c> able</c><c> to</c>
+sent as text attackers are able to
+intercept<c> and</c><c> extract</c><c> potentially</c>
+intercept and extract potentially
+sensitive<c> information</c><c> while</c><c> it</c><c> travels</c>
+sensitive information while it travels
+to<c> and</c><c> from</c><c> web</c><c> servers</c><c> so</c><c> that</c><c> might</c><c> be</c>
+to and from web servers so that might be
+things<c> like</c><c> your</c><c> name</c><c> usernames</c><c> address</c>
+things like your name usernames address
+credit<c> card</c><c> number</c><c> and</c><c> passwords</c><c> that's</c>
+credit card number and passwords that's
+where<c> https</c><c> helps</c><c> https</c><c> is</c><c> basically</c>
+where https helps https is basically
+HTTP<c> but</c><c> with</c><c> security</c><c> features</c>
+HTTP but with security features
+and<c> you</c><c> can</c><c> tell</c><c> whether</c><c> a</c><c> website</c><c> is</c>
+and you can tell whether a website is
+using<c> https</c><c> by</c><c> looking</c><c> for</c><c> a</c><c> lock</c><c> icon</c>
+using https by looking for a lock icon
+in<c> the</c><c> address</c><c> bar</c><c> now</c><c> when</c><c> you</c><c> submit</c>
+in the address bar now when you submit
+your<c> request</c><c> via</c>
+your request via
+https<c> that</c><c> information</c><c> is</c><c> encrypted</c>
+https that information is encrypted
+before<c> it</c><c> travels</c><c> across</c><c> the</c><c> internet</c><c> to</c>
+before it travels across the internet to
+the<c> web</c><c> server</c><c> so</c><c> when</c><c> an</c><c> attacker</c>
+the web server so when an attacker
+intercepts<c> that</c><c> data</c><c> they</c><c> won't</c><c> know</c><c> the</c>
+intercepts that data they won't know the
+details<c> of</c><c> your</c><c> request</c><c> to</c><c> the</c><c> web</c>
+details of your request to the web
+server<c> because</c><c> the</c><c> information</c><c> will</c><c> be</c>
+server because the information will be
+scrambled<c> and</c><c> they</c><c> also</c><c> won't</c><c> know</c><c> the</c>
+scrambled and they also won't know the
+response<c> that</c><c> the</c><c> web</c><c> server</c><c> sends</c><c> back</c>
+response that the web server sends back
+because<c> that</c><c> too</c><c> is</c><c> en</c><c> crypted</c><c> https</c><c> is</c>
+because that too is en crypted https is
+now<c> the</c><c> main</c><c> protocol</c><c> for</c><c> transferring</c>
+now the main protocol for transferring
+data<c> across</c><c> the</c><c> web</c><c> because</c><c> it</c><c> protects</c>
+data across the web because it protects
+people's<c> information</c><c> from</c><c> being</c>
+people's information from being
+compromised<c> in</c><c> fact</c><c> https</c><c> is</c><c> so</c>
+compromised in fact https is so
+important<c> for</c><c> keeping</c><c> web</c><c> users</c><c> safe</c>
+important for keeping web users safe
+that<c> Google</c><c> made</c><c> it</c><c> a</c><c> ranking</c><c> signal</c><c> in</c>
+that Google made it a ranking signal in
+2014<c> and</c><c> more</c><c> recently</c><c> it's</c><c> been</c>
+2014 and more recently it's been
+categorized<c> under</c><c> their</c><c> page</c><c> experience</c>
+categorized under their page experience
+signals<c> which</c><c> are</c><c> used</c><c> for</c><c> ranking</c><c> web</c>
+signals which are used for ranking web
+pages<c> now</c><c> if</c><c> this</c><c> was</c><c> tough</c><c> to</c>
+pages now if this was tough to
+understand<c> it</c><c> may</c><c> be</c><c> easier</c><c> to</c><c> Envision</c>
+understand it may be easier to Envision
+sending<c> a</c><c> package</c><c> through</c><c> the</c><c> mail</c>
+sending a package through the mail
+when<c> you</c><c> drop</c><c> off</c><c> a</c><c> package</c><c> at</c><c> the</c><c> post</c>
+when you drop off a package at the post
+office<c> technically</c><c> anyone</c><c> can</c><c> open</c><c> your</c>
+office technically anyone can open your
+package<c> steal</c><c> the</c><c> contents</c><c> or</c><c> tamper</c>
+package steal the contents or tamper
+with<c> them</c><c> this</c><c> is</c><c> like</c>
+with them this is like
+HTTP<c> now</c><c> let's</c><c> rewind</c><c> let's</c><c> say</c><c> that</c>
+HTTP now let's rewind let's say that
+your<c> package</c><c> contents</c><c> are</c><c> enclosed</c><c> in</c><c> an</c>
+your package contents are enclosed in an
+indestructible<c> safe</c><c> sure</c><c> people</c><c> can</c>
+indestructible safe sure people can
+remove<c> the</c><c> packaging</c><c> but</c><c> only</c><c> the</c><c> people</c>
+remove the packaging but only the people
+with<c> a</c><c> key</c><c> will</c><c> be</c><c> able</c><c> to</c><c> see</c><c> what's</c>
+with a key will be able to see what's
+inside<c> the</c><c> safe</c><c> that's</c><c> like</c>
+inside the safe that's like
+https<c> now</c><c> the</c><c> way</c><c> https</c><c> secures</c><c> your</c>
+https now the way https secures your
+data<c> is</c><c> by</c><c> using</c><c> one</c><c> of</c><c> two</c>
+data is by using one of two
+cryptographic<c> protocols</c><c> SSL</c><c> or</c><c> TLS</c><c> SSL</c>
+cryptographic protocols SSL or TLS SSL
+stands<c> for</c><c> secure</c><c> sockets</c><c> layer</c><c> and</c><c> it</c>
+stands for secure sockets layer and it
+helps<c> to</c><c> authenticate</c><c> the</c><c> identity</c><c> of</c><c> a</c>
+helps to authenticate the identity of a
+website<c> so</c><c> a</c><c> secure</c><c> HTTP</c><c> session</c><c> can</c>
+website so a secure HTTP session can
+happen<c> between</c><c> the</c><c> client</c><c> and</c><c> the</c><c> server</c>
+happen between the client and the server
+here's<c> how</c><c> it</c><c> works</c><c> in</c><c> a</c><c> nutshell</c><c> when</c>
+here's how it works in a nutshell when
+you<c> try</c><c> to</c><c> connect</c><c> to</c><c> a</c><c> website</c><c> that's</c>
+you try to connect to a website that's
+using<c> SSL</c><c> the</c><c> browser</c><c> asks</c><c> the</c><c> server</c><c> to</c>
+using SSL the browser asks the server to
+identify<c> itself</c><c> this</c><c> process</c><c> is</c><c> known</c><c> as</c>
+identify itself this process is known as
+Authentication
+the<c> browser</c><c> essentially</c><c> says</c><c> to</c><c> the</c>
+the browser essentially says to the
+server<c> hey</c><c> I'm</c><c> looking</c><c> for</c><c> x.com</c><c> I</c><c> think</c>
+server hey I'm looking for x.com I think
+that's<c> you</c><c> but</c><c> I</c><c> want</c><c> to</c><c> be</c><c> sure</c><c> can</c><c> you</c>
+that's you but I want to be sure can you
+send<c> me</c><c> some</c><c> proof</c><c> so</c><c> the</c><c> server</c><c> will</c><c> be</c>
+send me some proof so the server will be
+like<c> howdy</c><c> yep</c><c> that's</c><c> me</c><c> and</c><c> here's</c><c> my</c>
+like howdy yep that's me and here's my
+SSL<c> certificate</c><c> to</c><c> prove</c><c> it</c><c> and</c><c> when</c>
+SSL certificate to prove it and when
+both<c> parties</c><c> are</c><c> happy</c><c> that</c><c> everything</c>
+both parties are happy that everything
+looks<c> legit</c><c> they'll</c><c> do</c><c> a</c><c> virtual</c>
+looks legit they'll do a virtual
+handshake<c> and</c><c> agree</c><c> to</c><c> send</c><c> encrypted</c>
+handshake and agree to send encrypted
+data<c> to</c><c> one</c><c> another</c><c> now</c><c> TLS</c><c> is</c><c> the</c>
+data to one another now TLS is the
+second<c> cryptographic</c><c> protocol</c><c> TLS</c><c> stands</c>
+second cryptographic protocol TLS stands
+for<c> transport</c><c> layer</c><c> security</c><c> and</c><c> it's</c>
+for transport layer security and it's
+actually<c> the</c><c> successor</c><c> of</c><c> SSL</c><c> it</c><c> follows</c>
+actually the successor of SSL it follows
+the<c> same</c><c> principles</c><c> in</c><c> authentication</c>
+the same principles in authentication
+and<c> encryption</c><c> and</c><c> is</c><c> today's</c><c> current</c>
+and encryption and is today's current
+security<c> standard</c><c> now</c><c> if</c><c> your</c><c> website</c>
+security standard now if your website
+isn't<c> using</c><c> https</c><c> then</c><c> you'll</c><c> need</c><c> to</c>
+isn't using https then you'll need to
+get<c> an</c><c> SSL</c><c> or</c><c> TLS</c><c> certificate</c><c> and</c><c> while</c>
+get an SSL or TLS certificate and while
+basically<c> anyone</c><c> can</c><c> issue</c><c> a</c><c> certificate</c>
+basically anyone can issue a certificate
+only<c> publicly</c><c> traded</c><c> Casa</c><c> or</c><c> certificate</c>
+only publicly traded Casa or certificate
+authorities<c> are</c><c> supported</c><c> by</c>
+authorities are supported by
+browsers<c> so</c><c> let's</c><c> talk</c><c> about</c><c> how</c><c> to</c><c> get</c>
+browsers so let's talk about how to get
+a<c> free</c><c> SSL</c><c> certificate</c><c> and</c><c> also</c><c> discuss</c>
+a free SSL certificate and also discuss
+why<c> you</c><c> might</c><c> want</c><c> to</c><c> pay</c><c> for</c><c> one</c>
+why you might want to pay for one
+instead<c> so</c><c> there</c><c> are</c><c> three</c><c> different</c>
+instead so there are three different
+types<c> of</c><c> certificates</c><c> you</c><c> can</c><c> get</c><c> the</c>
+types of certificates you can get the
+first<c> is</c><c> a</c><c> domain</c><c> validation</c><c> certificate</c>
+first is a domain validation certificate
+or<c> DV</c><c> this</c><c> is</c><c> your</c><c> entry-level</c><c> TLS</c>
+or DV this is your entry-level TLS
+certificate<c> and</c><c> it</c><c> provides</c><c> the</c><c> most</c>
+certificate and it provides the most
+basic<c> level</c><c> of</c><c> security</c><c> you</c><c> can</c><c> get</c><c> one</c>
+basic level of security you can get one
+for<c> free</c><c> at</c><c> let</c><c> encrypt.me</c>
+like<c> let's</c><c> encrypt</c><c> for</c><c> example</c><c> in</c><c> site</c>
+like let's encrypt for example in site
+ground<c> site</c><c> tools</c><c> you</c><c> can</c><c> install</c><c> a</c>
+ground site tools you can install a
+let's<c> encrypt</c><c> SSL</c><c> for</c><c> your</c><c> domain</c><c> with</c>
+let's encrypt SSL for your domain with
+just<c> a</c><c> few</c><c> clicks</c><c> DV</c><c> certificates</c><c> are</c>
+just a few clicks DV certificates are
+usually<c> fine</c><c> for</c><c> most</c><c> sites</c><c> especially</c>
+usually fine for most sites especially
+if<c> you're</c><c> running</c><c> a</c><c> Blog</c><c> affiliate</c><c> site</c>
+if you're running a Blog affiliate site
+or<c> if</c><c> you're</c><c> a</c><c> local</c><c> service</c><c> provider</c>
+or if you're a local service provider
+now<c> if</c><c> you</c><c> want</c><c> to</c><c> have</c><c> more</c><c> security</c>
+now if you want to have more security
+and<c> better</c><c> identification</c><c> then</c><c> you'll</c>
+and better identification then you'll
+have<c> to</c><c> look</c><c> to</c><c> the</c><c> other</c><c> two</c><c> types</c><c> of</c>
+have to look to the other two types of
+certificates<c> which</c><c> are</c><c> organization</c>
+certificates which are organization
+validation<c> and</c><c> extended</c><c> validation</c><c> the</c>
+validation and extended validation the
+latter<c> having</c><c> a</c><c> more</c><c> rigorous</c>
+latter having a more rigorous
+verification<c> process</c><c> you</c><c> can</c><c> purchase</c>
+verification process you can purchase
+these<c> through</c><c> various</c><c> sites</c><c> so</c><c> shop</c>
+these through various sites so shop
+around<c> if</c><c> you</c><c> need</c><c> one</c><c> all</c><c> right</c><c> now</c>
+around if you need one all right now
+let's<c> talk</c><c> about</c><c> handling</c><c> https</c><c> issues</c>
+let's talk about handling https issues
+because<c> they</c><c> are</c><c> common</c><c> if</c><c> you</c><c> started</c>
+because they are common if you started
+your<c> site</c><c> on</c><c> https</c><c> then</c><c> you</c><c> shouldn't</c>
+your site on https then you shouldn't
+have<c> anything</c><c> to</c><c> worry</c><c> about</c><c> but</c><c> chances</c>
+have anything to worry about but chances
+are<c> we</c><c> didn't</c><c> all</c><c> start</c><c> there</c><c> meaning</c>
+are we didn't all start there meaning
+there<c> could</c><c> potentially</c><c> be</c><c> Pages</c><c> across</c>
+there could potentially be Pages across
+your<c> site</c><c> that</c><c> are</c><c> still</c><c> using</c><c> unsecure</c>
+your site that are still using unsecure
+HTTP<c> in</c><c> fact</c><c> even</c><c> Amazon</c><c> the</c><c> world's</c>
+HTTP in fact even Amazon the world's
+largest<c> e-commerce</c><c> site</c><c> has</c><c> an</c><c> entire</c>
+largest e-commerce site has an entire
+subdomain<c> that's</c><c> still</c><c> using</c>
+subdomain that's still using
+HTTP<c> now</c><c> there</c><c> are</c><c> numerous</c><c> ways</c><c> to</c>
+HTTP now there are numerous ways to
+check<c> for</c><c> https</c><c> issues</c><c> one</c><c> quick</c><c> thing</c>
+check for https issues one quick thing
+you<c> can</c><c> do</c><c> is</c><c> see</c><c> if</c><c> Google</c><c> knows</c><c> about</c>
+you can do is see if Google knows about
+any<c> of</c><c> your</c><c> unsecure</c><c> URLs</c><c> to</c><c> do</c><c> that</c><c> go</c>
+any of your unsecure URLs to do that go
+to<c> Google</c><c> and</c><c> search</c><c> for</c><c> sitey</c>
+to Google and search for sitey
+yourdomain.com<c> and</c><c> then</c><c> add</c><c> minus</c><c> inurl</c>
+yourdomain.com and then add minus inurl
+colon
+https<c> if</c><c> there</c><c> are</c><c> no</c><c> results</c><c> then</c>
+https if there are no results then
+you're<c> all</c><c> good</c><c> on</c><c> this</c><c> front</c><c> but</c><c> if</c>
+you're all good on this front but if
+you're<c> seeing</c><c> results</c><c> like</c><c> this</c><c> then</c>
+you're seeing results like this then
+you'll<c> have</c><c> to</c><c> visit</c><c> each</c><c> page</c><c> and</c><c> add</c>
+you'll have to visit each page and add
+redirects<c> or</c><c> canonicalize</c><c> as</c><c> needed</c><c> in</c>
+redirects or canonicalize as needed in
+the<c> case</c><c> of</c><c> Amazon's</c><c> Development</c><c> Center</c>
+the case of Amazon's Development Center
+for<c> Romania</c><c> there</c><c> is</c><c> indeed</c><c> an</c><c> issue</c><c> now</c>
+for Romania there is indeed an issue now
+if<c> we</c><c> go</c><c> back</c><c> to</c><c> the</c><c> serp</c><c> and</c><c> click</c><c> on</c>
+if we go back to the serp and click on
+another<c> result</c><c> you'll</c><c> see</c><c> that</c><c> it</c>
+another result you'll see that it
+automatically<c> redirects</c><c> to</c><c> the</c><c> secure</c>
+automatically redirects to the secure
+version<c> and</c><c> that's</c><c> because</c><c> this</c><c> query</c>
+version and that's because this query
+isn't<c> about</c><c> finding</c><c> unsecure</c><c> pages</c><c> that</c>
+isn't about finding unsecure pages that
+are<c> indexed</c><c> in</c><c> Google</c><c> it</c><c> just</c><c> means</c><c> that</c>
+are indexed in Google it just means that
+Google<c> knows</c><c> that</c><c> these</c><c> Pages</c><c> were</c><c> once</c>
+Google knows that these Pages were once
+unsecure<c> so</c><c> you</c><c> may</c><c> get</c><c> some</c><c> false</c>
+unsecure so you may get some false
+positives<c> So</c><c> to</c><c> avoid</c><c> wasting</c><c> time</c><c> the</c>
+positives So to avoid wasting time the
+best<c> way</c><c> to</c><c> find</c><c> all</c><c> https</c><c> related</c>
+best way to find all https related
+issues<c> is</c><c> to</c><c> run</c><c> a</c><c> website</c><c> audit</c><c> and</c><c> you</c>
+issues is to run a website audit and you
+can<c> do</c><c> that</c><c> in</c><c> atra</c><c> site</c><c> audit</c><c> with</c><c> a</c>
+can do that in atra site audit with a
+paid<c> or</c><c> free</c><c> webmas</c><c> tools</c><c> account</c><c> after</c>
+paid or free webmas tools account after
+you've<c> run</c><c> the</c><c> crawl</c><c> head</c><c> over</c><c> to</c><c> the</c>
+you've run the crawl head over to the
+all<c> issues</c><c> report</c><c> and</c><c> you'll</c><c> see</c><c> a</c>
+all issues report and you'll see a
+complete<c> list</c><c> of</c><c> SEO</c><c> issues</c><c> we</c><c> found</c><c> on</c>
+complete list of SEO issues we found on
+your<c> site</c><c> and</c><c> the</c><c> number</c><c> of</c><c> affected</c>
+your site and the number of affected
+Pages<c> now</c><c> if</c><c> you</c><c> do</c><c> a</c><c> search</c><c> for</c><c> HTTP</c>
+Pages now if you do a search for HTTP
+you'll<c> see</c><c> this</c><c> issue</c><c> which</c><c> shows</c><c> that</c>
+you'll see this issue which shows that
+we<c> have</c><c> seven</c><c> pages</c><c> on</c><c> our</c><c> site</c><c> where</c>
+we have seven pages on our site where
+https<c> Pages</c><c> have</c><c> internal</c><c> links</c><c> to</c><c> http</c>
+https Pages have internal links to http
+Pages<c> hit</c><c> the</c><c> carrot</c><c> and</c><c> you'll</c><c> get</c>
+Pages hit the carrot and you'll get
+details<c> on</c><c> the</c><c> issue</c><c> and</c><c> instructions</c><c> on</c>
+details on the issue and instructions on
+how<c> to</c><c> fix</c><c> them</c><c> now</c><c> to</c><c> actually</c><c> see</c>
+how to fix them now to actually see
+which<c> URLs</c><c> are</c><c> affected</c><c> just</c><c> click</c><c> on</c>
+which URLs are affected just click on
+the<c> number</c><c> beside</c><c> the</c><c> issue</c><c> name</c><c> and</c>
+the number beside the issue name and
+you'll<c> know</c><c> exactly</c><c> where</c><c> these</c><c> issues</c>
+you'll know exactly where these issues
+occurred<c> https</c><c> is</c><c> the</c><c> standard</c><c> and</c><c> as</c>
+occurred https is the standard and as
+more<c> and</c><c> more</c><c> people</c><c> become</c><c> aware</c><c> of</c>
+more and more people become aware of
+Internet<c> Security</c><c> you'll</c><c> need</c><c> to</c><c> have</c>
+Internet Security you'll need to have
+this<c> for</c><c> your</c><c> website</c><c> as</c><c> the</c><c> bare</c>
+this for your website as the bare
+minimum<c> so</c><c> go</c><c> and</c><c> do</c><c> that</c><c> and</c><c> if</c><c> you</c>
+minimum so go and do that and if you
+want<c> to</c><c> learn</c><c> more</c><c> about</c><c> search</c><c> engine</c>
+want to learn more about search engine
+optimization<c> we</c><c> have</c><c> a</c><c> full</c><c> course</c>
+optimization we have a full course
+that'll<c> teach</c><c> you</c><c> how</c><c> to</c><c> get</c><c> more</c>
+that'll teach you how to get more
+organic<c> traffic</c><c> to</c><c> your</c><c> site</c><c> and</c><c> keep</c>
+organic traffic to your site and keep
+your<c> site</c><c> in</c><c> good</c><c> technical</c><c> Health</c><c> I'll</c>
+your site in good technical Health I'll
+see<c> you</c><c> in</c><c> the</c><c> next</c><c> tutorial</c>

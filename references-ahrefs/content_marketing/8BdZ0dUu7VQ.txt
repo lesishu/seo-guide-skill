@@ -1,0 +1,335 @@
+Kind: captions
+Language: en
+Content is just information.
+And whatever you want to write about,
+chances are, you're not the first.
+Demand for content is surging.
+And with information accessible literally
+at the tip of our fingers, there's an excess
+supply, making it more challenging to get
+noticed and produce profitable results.
+So in order to do that, you need a system
+that will lead to predictable results so that
+your content can stand out from the rest.
+So if you're a blogger, freelance writer, or do
+any type of content writing, keep watching
+because I'm going to walk you through a step-
+by-step framework to engage your audience,
+satisfy search engines, and as a result, drive
+consistent traffic and hopefully revenue.
+Stay tuned.
+[music]
+Alright, so first, let's set the record straight.
+Whether you're writing for your own site or
+for a client, you should have two objectives
+for your content.
+#1. The content should drive traffic to the site.
+And #2. The content should engage those people
+so that they'll turn into customers or be pushed
+further down the sales funnel.
+So with those objectives in mind, let's go
+through a simple 4-step process to achieve
+both of these goals.
+The first step is to write about topics
+people are actually searching for.
+Most people like to write about topics
+that excite them.
+And while that's all well and good, these
+posts often have a short shelf life.
+For example, a few months ago we
+published an article on how to start
+a link building campaign fast.
+We talk about systematizing, automating, scaling
+and all sorts of exciting things… at least for us.
+And immediately after publishing, we
+promoted the post to our social media
+followers, email list, and spent a few hundred
+dollars on ads to amplify the content.
+As a result, we had a huge spike in traffic with
+thousands of visits over the first few days.
+But soon after, the traffic faded fast.
+And today, it gets next to no traffic
+compared to our other posts.
+And while this post wasn't created with search
+traffic in mind, we knew that it would create
+a textbook "spike of hope" and "flatline of nope."
+And that's what happens when you create
+content that no one's searching for.
+Now, when you create content around topics
+that people are searching for, then you get
+the opposite effect: free, passive, and consistent
+traffic that usually grows over time.
+To find topics worth creating content on,
+you'll need a keyword research tool to
+a) identify search demand, and b) understand
+traffic potential of the topic, which is the total
+amount of monthly search traffic you could
+get if you were to rank high for that query.
+So let's say we have a site on DIY
+home improvement tutorials.
+To find keywords to target, I'll go to Ahrefs'
+Keywords Explorer and search for some keywords
+broadly related to the topic, like "home
+improvement," "kitchen," and "living room."
+Next, I'll go to the Questions report.
+And as you can see, there's quite a bit of
+search demand around these topics as
+you can see from their search volumes.
+And this topic on "how to paint kitchen
+cabinets" seems like a promising topic
+for our DIY home improvement site.
+Now, to find the traffic potential of the topic, hit
+the SERP button and look at the Traffic column.
+As you can see, the top-ranking page
+gets over 37,000 monthly visits from
+Google every single month.
+So this topic checks both boxes.
+Now, it's important to note that I've skipped
+a few steps here in the topic selection process,
+the main one being assessing ranking difficulty.
+But this tutorial is on content writing, so
+instead of expanding, I'll add some links
+to our keyword research tutorials
+in the description.
+Alright, so at this point, we have a topic to
+tackle, but just because you have a topic,
+it doesn't mean you should write
+whatever you want.
+Remember, our goal is to rank at the top of
+Google so that you can get consistent traffic.
+And this leads us nicely into the second step,
+which is to assess the "type" of content Google
+wants you to create.
+Google's job is to deliver the most
+relevant results for any given query.
+And they do a pretty good job at this.
+So naturally, if you want to rank for your
+target topic, then you need to know the type
+of content Google will rank for that query.
+This is called search intent, which tells us
+about what searchers are looking for when
+they key in a query.
+The easiest way to do this is to just search
+for the query you want to rank for and look
+at the top-ranking results.
+And the three things you're looking for are:
+Сontent type, which can be blog posts, product
+pages, category pages, or landing pages.
+Content format, which can be how-to guides,
+step-by-step tutorials, list posts, opinion
+editorials, reviews, or comparisons.
+And the last one is content angle, which is
+basically the unique selling point of the top-
+ranking pages.
+So looking at the top 10 results for our query
+"how to paint kitchen cabinets," you'll see that
+all of the pages are blog posts, so that would
+be the content type you should use too.
+As for format, the top two ranking pages are
+"how-tos," which will be step-by-step tutorials.
+And for content angle, there isn't really
+a definitive one.
+From my experience, matching content type and
+format are critical to rank at the top of Google,
+but angle usually isn't as important unless there's
+a clear theme among the top-ranking pages.
+Alright, the next step is to create
+a data-driven outline.
+Content is like a puzzle.
+There are a lot of different pieces and it's tough
+to assemble without some kind of framework.
+Outlines are like the edge pieces of the puzzle.
+They help to form the base and all you
+need to do is fill in the missing pieces.
+They also help make sure you're including
+all critical points worth communicating
+on the topic.
+And from an SEO perspective, it can help
+you satisfy the algorithm and the audience.
+The way Google determines a page's placement
+in the search results is algorithmic.
+Meaning, you can't pay to rank at the top
+of Google and your friend that works there
+can't move your site to the top.
+Their technology is able to understand
+words and the context they're in.
+And the more context you give to search engines,
+the better your chances of ranking high.
+The easiest way to find critical talking points
+is to look at some of the top-ranking pages
+and see if there are similar subtopics.
+For our topic on how to paint kitchen cabinets,
+the top 2 pages both talk about choosing
+the right paint, preparation, priming the
+cabinets, painting the cabinets, and so on.
+So add these commonalities to your
+outline as subheadings.
+Another thing you can do is use Ahrefs' Content
+Gap tool to find common keyword rankings
+between the top-ranking pages.
+This can help you find more subtopics as well
+as jargon that might be relevant in adding
+context to your post.
+Just enter the top 2 or 3 relevant ranking results
+in the top section and then run the search.
+As you can see, people are looking for the
+best paint for cabinets, they want to know
+how to refinish them, some are specifically
+looking for white cabinets, and so on.
+Don't worry about stuffing these keywords
+in your post, but if you see something that
+could act as a subheading, it might be
+worth adding to your outline.
+Just focus on writing something that's
+succinct and actionable.
+This will humanize the post and help you to
+focus on what matters most: helping readers.
+Alright, the next step is to create
+a click-worthy headline.
+A headline is important because it's
+what stands between you and a visitor.
+Its main job is to convince people to
+actually click on your result.
+Then it's your content's job to
+keep them reading.
+Now, if you struggle with writing good headlines,
+here are a few simple formulas you can use.
+Take a screenshot before I start filling
+in the blanks for our home decor site.
+"How to Professionally Paint Kitchen
+Cabinets in Under an Hour"
+"7 Proven Ways to Decorate Your
+Home on a Tiny Budget"
+"10 Simple Ways to Renovate your
+Home on a Shoestring Budget"
+"10 Reasons You're Unhappy with
+Your Home Decor"
+Now, it's important to note that while clickbait
+headlines might produce more clicks, keep in
+mind that if your content can't deliver on
+the headline's promise, then it'll do more
+harm than good.
+Alright, the next step is to write a killer
+intro using the AIDA formula.
+The introduction is arguably the most
+important part of your content.
+Its job is to hook your reader, tell them
+they're in the right place, and convince
+them to keep reading.
+Fortunately, there's a tried and tested formula
+you can use called AIDA, which stands for
+attention, interest, desire, and action.
+Let's write a sample intro for our article
+on how to paint kitchen cabinets.
+The first line should be dedicated
+to grab your audience's attention.
+So something like…
+"You don't have to be a professional
+to paint beautiful kitchen cabinets."
+This breaks a common belief the reader
+might have and thus, grabs their attention.
+The next part is to pique their interest.
+You can do this with stories, interesting
+facts, or anything else that might help
+connect with your audience in a personal way.
+So let's add to our intro.
+"But the surprising thing is that 99% of
+homeowners still choose contractors,
+which can cost up to 20 times
+the price of a DIY solution."
+This line adds an interesting fact that also
+communicates that a) they'll be unique by
+doing it themselves, and b) they'll
+save a ton of money.
+Alright, next up is desire.
+This part is meant to show the reader how
+your content can solve their problem.
+And one of the best ways to do that
+is by showing them proof.
+So let's add on.
+"In fact, we spent just $100 on materials
+and we now have our dream kitchen."
+Finally is action.
+This can be done in the form of a "let's get
+started" type of line or you can enhance
+the user's experience using something
+like a table of contents.
+So if I were to add on to our
+intro, I might say:
+"Let's walk through the simple 5-step process
+to get your kitchen looking like a million bucks."
+Alright, let's move on to the next step, which
+is to make your content actionable and easy
+to digest.
+So your outline should act as a nice
+skeleton for your post.
+And to add meat to those bones,
+you need to do two things.
+#1. You want to make it as helpful as possible.
+Meaning, if someone searches for "how to
+paint kitchen cabinets," then they should be
+able successfully do that with
+the help of your content.
+This will all come down to your knowledge
+and expertise on the subject.
+And #2. You want to make it easy
+to digest and read.
+And this comes down to your
+communication and writing skills.
+The best tip to make your content digestible is
+to keep your thoughts as succinct as possible.
+For example, if you're writing a step on choosing
+the right paint for your cabinets, you might say
+something like…
+"The color you choose is up to you.
+However, there are 5 things you need to consider
+depending on the type of cabinets you have."
+Then add a list of 5 bullet points.
+Compare that to something like…
+"Color is a powerful thing.
+It can affect your emotions so choosing
+the right paint is a critical step.
+According to a 2018 study, red is
+a very emotionally intense color.
+Think about fire and blood. Intense…"
+This doesn't really help the user
+solve their problem.
+It just sounds like you're trying to convince
+them to paint their cabinets red.
+As for readability, you can do things like…
+Use headings and subheadings, avoid walls
+of text by writing in short sentences and short
+paragraphs, add images if it helps clarify
+or visualize a point, and use transitional
+sentences like "as you know," "however",
+and "also," which can help improve flow.
+Now, after you've written your content,
+I highly recommend getting someone
+to give you unfiltered feedback.
+This is something we do at Ahrefs for every
+single piece of content we publish whether
+that be a blog post, landing page, or video.
+It helps us to always put our best foot forward
+and deliver no-fluff content that we hope will
+help our readers and viewers.
+Now, the content aspect is a very important
+part when it comes to SEO.
+Meaning, if you can't get your content right,
+then you probably aren't going to rank high
+for any meaningful keywords.
+Also, there are times when you'll nail
+your content, but you still can't rank.
+This often comes down to the level of
+competition, which usually boils down
+to quality backlinks.
+Now, I won't go into assessing the ranking
+difficulty of a topic or how to build backlinks
+to your pages because we have quite a few
+tutorials that go deep into these topics.
+So I highly recommend watching those and
+if you enjoyed this tutorial, then make sure
+to like, share, and subscribe for more
+actionable marketing tutorials.
+And if you have any questions,
+leave one in the comments below.
+I'll see you in the next tutorial.

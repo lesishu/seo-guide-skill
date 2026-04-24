@@ -1,0 +1,401 @@
+Kind: captions
+Language: en
+Earlier on this year, I did a content audit
+on my website and deleted 74% of my pages.
+And the result?
+An over 80% increase in organic traffic.
+And in this video, I'm going to show you the
+exact process and give you the template I
+used to get these results.
+If you're in, then stay tuned.
+[music]
+What's up marketers?
+Sam Oh here with Ahrefs, the SEO tool that
+helps you grow your search traffic, research
+your competitors and dominate your niche.
+So today, I have a jam-packed tutorial, and
+it's actually a scary topic to talk about
+because a lot of it involves deleting content.
+So before we dig in, take note that the things
+that I'm about to share with you are from
+my own experiences.
+But also know that my experience isn't as
+unique as you'd think.
+For example, Siege Media pruned around 15%
+of a website's pages and saw a 50% increase
+in organic traffic for a much larger site.
+And Robbie Richards saw a 79% increase in
+search traffic.
+And this comes from an SEO strategy that we
+call a content audit or content pruning.
+So what is a content audit?
+In its simplest form, it's a way to get rid
+of underperforming, low-quality pages with
+the goal to improve the overall "health" of
+a website.
+Bloating your website with low-quality pages
+does more harm than good.
+In fact, John Mueller said, and I quote:
+"From my point of view, if you're aware of
+low-quality pages on your website, then that's
+something I'd try to fix and find a solution
+to, be that either removing those pages if
+you really can't change them or, in the best
+case, finding a way to make them less low-quality
+and actually making them useful, good pages
+on your site."
+So let me give you a quick background on the
+website that I performed my audit on.
+A few years ago, I bought a blog with nearly
+a thousand pages in their sitemap.
+And honestly, I had no idea what I was going
+to do with the site.
+But what I knew was that I needed to narrow
+in on a topic to start building authority
+in the industry. Translation?
+I had to purge a lot of content and create
+new content around my chosen topic.
+Now there were two main challenges.
+#1. My largest traffic source at the time was
+through a social network.
+So I had to be careful with deleting pages
+that didn't get organic traffic, but still
+got a meaningful level of traffic from other
+sources.
+And #2. The content was so widespread that if I had
+deleted everything other than the content
+within my focus category, I would have been
+left with like 12 out of 1000 pages, which
+I wasn't ok with.
+So the goal was to tighten up my site by consolidating
+content and to maintain link equity while
+growing my site in a new niche that I knew
+nothing about.
+Quick side note: you already know that I had
+a positive experience, but I can't attribute
+the organic search growth to the content audit
+alone, because I was publishing new content
+and a few of those pages gained links naturally.
+But I can say that very little link building
+was done, which to me, shows that the content
+audit had some merit.
+Alright, so when you're doing a content audit,
+you're going to have to make a lot of decisions.
+And that's because you don't want to randomly
+choose pages to delete or redirect.
+There are basically four different actions that
+you'll need to take as you manually review
+your pages.
+And these are:
+Delete your pages and return a 404 or 410
+response code.
+Use a 301 redirect and consolidate it with
+other content.
+Update the page.
+Or leave it as-is.
+And before you choose one of these actions,
+you should ask yourself all of these questions,
+which will bring clarity and result in smarter
+decisions.
+And I had to use these questions from a private
+webinar that Matthew Barby did for the Traffic
+Think Tank group because I couldn't have articulated
+it better myself.
+Here they are.
+#1. Is the page older than 6 months?
+And the important point with this is that
+if you haven't given your page a chance to
+rank, then you shouldn't make any rash decisions.
+Give your pages some time to get results,
+see how they're performing and then go from there.
+#2. Is the page about a core topic related to
+your business?
+And this is pretty self-explanatory.
+If you write about social media marketing,
+and you have a dedicated post on your trip
+to France, then your travel adventures probably
+won't be a core topic.
+#3. Is the page targeting a keyword with "meaningful"
+search volume?
+And "meaningful" is super subjective.
+For example, top of the funnel keywords will
+likely have higher search volumes and bottom
+of the funnel phrases will have lower volumes.
+Search volumes will also vary based on industry, so use your best judgment when answering this question.
+#4. Does the page have thin content?
+#5. Does it generate a "meaningful" level of organic
+traffic?
+And there's that word again.
+"Meaningful" is subjective.
+#6. Does it generate a "meaningful" level of non-organic
+traffic?
+So this would include traffic sources like
+social, referral, and direct traffic.
+And #7. Does it have any external backlinks
+pointing to it?
+Alright, so let's jump into a few scenarios.
+And I won't be able to cover every single
+one, but I'll simplify a few examples for
+you based on the most common situations I
+faced.
+First are pages that you should consider deleting.
+If a page has little to no traffic, has 0
+backlinks and isn't a core topic related to
+your business, then it's probably worth deleting. Easy.
+The second scenario is one that you'll likely
+see a lot of if you have a larger site.
+Basically, if your page has good backlinks,
+but does not have a meaningful level of traffic,
+then you should consider consolidating it
+with another relevant page.
+But you do need to take into account whether
+it's targeting a keyword with search volume.
+For example, if you are targeting a good keyword,
+but you aren't getting traffic despite having
+links, it may be worth reassessing search
+intent and/or updating the content.
+Or if you're not targeting a keyword with
+search volume, yet you have a super strong
+backlink profile, then you may want to consider
+consolidating it or using it as a hub to pass
+PageRank via internal linking.
+The third scenario is if you have a meaningful
+level of traffic that is related to a core
+topic in your business.
+And a simple answer is to leave it as-is
+or keep it up to date to continue getting
+traffic from it.
+Now the final scenario is if a page gets a
+"meaningful" level of traffic, but it's not
+related to a core topic in your business.
+And this is the one that we tend to hate the
+most.
+Because we're forced to make a decision with
+so much uncertainty.
+So I'll call it the "It depends" category.
+In some cases, you'll choose to leave it as-is,
+other times you'll find that it fits better
+if consolidated with another post, and sometimes
+you might choose to update the content.
+For example, I had one page that had thousands
+of visitors from social, but next to no traffic
+from organic search.
+It didn't have a lot of quality backlinks,
+was completely irrelevant to my niche, so
+I decided to noindex the page and continue
+to collect affiliate commissions.
+Was it the right decision?
+I can't say for certain it was, but I wasn't
+willing to let it go and I didn't see much
+value in leaving it as indexable.
+Now, if you have thousands or tens of thousands
+of pages, this can be pretty time-consuming.
+So Josh and I put together a template for
+you that's going to automate a large portion
+of the process and save you hours or days
+of work.
+Here's what you'll need to do to use our content
+audit template.
+And I've left a link for you in the description.
+First, create a copy of the template by clicking
+on "File," then "Make a Copy" and save it
+to your Google Drive.
+Once you get the template, you'll have to
+add your data in the sheets at the bottom.
+So the tools that you'll need are Google Analytics,
+Google Sheets, Ahrefs Site Explorer, and Ahrefs
+Site Audit tool.
+Now, if you don't have all of these tools,
+don't worry, I'll give you some alternatives
+as we go through the setup.
+So let's speed through this, and if you're
+trying to follow along, just pause, rewind,
+and rewatch the parts as you go so you can
+listen to my awesome voice.
+So within the spreadsheet, step one is to import
+your sitemap URLs.
+You can do this quite easily using the "Scraper"
+extension.
+Just install the "Scraper" extension for Chrome.
+Go to your sitemap and right click on one
+of your URLs.
+Next, click "Scrape similar".
+And I'll just clean this up to just have the
+URLs as one column and then click "Scrape" to
+refresh the results.
+Finally, copy them to the clipboard and paste
+them into the Sitemap sheet.
+You'll want to have the first cell as a header,
+but it doesn't matter what it's called.
+If you have other pages in different sitemaps,
+like a category or video sitemap, then you
+may want to add those too.
+Now, if you don't have a sitemap, you have
+a few options to get a list of URLs.
+#1. You can export it from the "Coverage"
+report in Google Search Console.
+#2. If you're a WordPress user, you can download
+a plugin called "Export All URLs."
+And #3. You can run a crawl using Ahrefs' Site Audit
+tool.
+After it's done, go to Data Explorer, and you
+can select these preset filters to identify
+indexable internal URLs on your site.
+Alright, step #2 is to export all of your
+Google Analytics data over the past year.
+Now, this kind of comes down to personal preference,
+but I like to see underperforming content
+over a year's time.
+If you're following along with me, then go
+to the All Pages report.
+And you can do this by typing in "all pages"
+in the search bar and choosing this option.
+Next, we need to add a segment.
+So click here, and then we'll search for "organic
+traffic."
+Select it and apply the settings.
+Now, the amount of data that we're about to
+export is likely going to be huge.
+So I highly recommend clicking on "advanced,"
+and then setting a filter to exclude pages
+that contain certain footprints. So for example, I'll use a question mark.
+And the reason for this is because if you're
+getting traffic from ads or from some social
+platforms, then they'll often add query parameters,
+which you don't really need for your export.
+Most of these will only have one or two page
+views anyway.
+After you've set your filter, set the date
+to around the past year or so.
+It doesn't have to be exact, but I want to
+get enough data so I don't potentially delete
+things like seasonal posts.
+Finally, I'll scroll to the bottom of the
+page and set the report to show the maximum
+number of rows.
+We just need to export the file as a CSV and
+we're done with Google Analytics.
+Alright, so back to your template.
+Click on the GA tab, then click on "File," "Import,"
+"Upload," and drag and drop your Analytics export here.
+Once the file is uploaded, click on Append
+to current sheet" and click "Import data."
+Next, we need to import our links data.
+To do this, you need to enter in your domain
+in Ahrefs Site Explorer tool.
+Then, go to the Best by links report.
+This report shows you the number of links
+to each of your pages.
+Next, let's set the HTTP code filter to 200.
+And we'll export this report and import the
+data to the Link sheet, just as we did for
+Google Analytics.
+Now, if you don't have Ahrefs, our template
+supports Google Search Console data too.
+So you can go to the link report, then click
+"Top linked pages."
+And you could export this report to CSV and
+import it into the Links tab instead.
+But be aware that there's a major drawback
+to using Search Console data.
+Now while it will tell you the number of links
+and referring domains, it won't tell you whether
+they're followed links or nofollow links.
+And that's pretty massive in my opinion.
+Ahrefs data, on the other hand, will show
+independent categories for these types of
+links giving you deeper insights to make smarter
+marketing decisions.
+Alrighty! So this 4-minute process just saved you hours
+or even days of work.
+Check this out.
+If we go to the "Master" sheet, then you'll
+see all of your sitemap URLs, your traffic
+stats, link stats, and suggested actions.
+Now before you take these automated suggestions as an SEO action plan, I want to make a few disclaimers.
+Disclaimer #1.
+We did not include anything with e-commerce
+or goal tracking in this template.
+If that's something that you want to add,
+feel free to.
+Disclaimer #2.
+The suggested actions are exactly that.
+Suggested actions based on predetermined criteria.
+For example, if your Contact or About page
+doesn't have any links or organic traffic,
+then it doesn't mean that you should delete
+them.
+And disclaimer #3.
+If you have newly-published content, and by
+new, I'm thinking content that you published
+within 6-12 months, then you need to give
+it a fair chance to rank and get traffic.
+So don't start deleting or redirecting them
+right away.
+The key point here is to use some common sense
+and manually audit every page before taking action.
+Alright, so you might have a different set of criteria
+for "suggested actions" than what I used.
+So let's jump over here to the "Start Here" tab, and
+you'll see a "Conditions" table as well as
+descriptions of the suggested actions.
+So based on your own tolerance levels for
+getting rid of pages, you can modify these
+numbers to be a better fit for your needs.
+So based on the "Actions Descriptions," if
+a page has zero followed backlinks, less than
+365 visits, which averages out to around one
+search visitor per day, and less than 365
+total pageviews as a whole, then delete the
+page.
+The 301/Update action is based on having one
+or more backlinks, 365 or fewer organic visitors
+and 365 or fewer pageviews as a whole.
+It's basically saying that your page doesn't
+get much traffic, but has backlinks that you
+won't want to throw away.
+So if you're targeting a meaningful keyword
+with that page, you have the links to back
+it, then you may want to update that content
+to either better match search intent or provide
+"fresh" information instead of immediately
+redirecting it.
+Next is the 200 response code or the leave as-is.
+Basically, if you have at least 365 search
+visitors and at least 365 total pageviews,
+then you'll be suggested to leave the page
+as-is.
+Finally is the "Manually review" section,
+which is that "it depends" category that I
+was talking about before.
+If your page has less than 365
+search visitors and more than 365 pageviews,
+then you'll have to evaluate how
+you want to proceed.
+And it's also important to note that if your
+page doesn't fall into one of these categories,
+"manually review" will act as a fallback.
+Once you've gone through your pages and assigned
+actions, you'll want to remove or update any
+internal links to pages you deleted or redirected.
+You can do this quite easily in Ahrefs Site
+Audit.
+After you run your crawl, go to Data explorer,
+and just choose "URL," then choose "Contains,"
+and enter in the slug here.
+Then click on the number of inlinks, and you'll
+see all pages that are internally linking
+to your filtered URL.
+From here, it's just a matter of executing
+your action and making the on-page changes
+across your domain.
+So if you haven't already done so, download
+the template and make sure to like, share
+and subscribe for more actionable SEO and
+marketing tutorials.
+And as always, if you have questions, feel
+free to leave them in the comments bellow, and I'd
+be happy to jump in.
+So keep grinding away, manually review
+your content before taking an action, and
+I'll see you in the next tutorial.

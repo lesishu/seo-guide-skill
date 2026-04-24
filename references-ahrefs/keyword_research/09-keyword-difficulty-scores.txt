@@ -1,0 +1,363 @@
+keyboard difficulty as a standalone
+metric can be misleading I mean how can
+a one two three digit number truly
+quantify how hard is going to be to rank
+in Google now despite its shortcomings
+it's actually a super insightful metric
+if you understand how it works and how
+Google chooses which pages to rank so
+today I'm gonna break down this
+mysterious metric answer some frequently
+asked questions and of course I'll show
+you how to tell the difference between a
+keyword trap and a keyword opportunity
+stay tuned if you're unfamiliar with
+keyword difficulty it's basically a
+numerical representation of how hard
+it'll be to rank in Google for a search
+query now I want you to think about this
+for a second Google uses hundreds of
+ranking signals some that have been
+confirmed some that have been verified
+through third party studies and then
+there are ones that SEO s have concluded
+based on experience observation or gut
+feelings so to expect a third party with
+zero Association to Google to somehow
+decrypt two hundred some-odd signals and
+compute a quote/unquote accurate metric
+it's unrealistic and perhaps impossible
+after all most of these so-called
+ranking factors are speculation and
+there are others that can't even be
+looked at independently and for that
+reason you'll notice that key or
+difficulty will differ depending on the
+keyword research tool you're using in
+fact I pulled up these three keywords in
+four different keyword research tools
+and you'll see how vastly different the
+difficulty scores are so does that mean
+that keyword difficulty is useless or
+that one tool is better at predicting
+ranking difficulty than another not at
+all
+now I can't speak on behalf of other
+tools because a I don't know how they
+calculate KT and B I don't really care
+how they calculate it because HFS is the
+only SEO tool with keyword difficulty
+scores that i've used consistently for
+the past five and a half years so I'll
+be talking about how we calculate
+keyword difficulty at HEV outline some
+of the shortcomings for all tools
+including ours and then we'll piece it
+all together so you can find keyword
+opportunities for your site so how does
+hrs calculate keyword difficulty
+simply put we take a weighted average of
+the number of referring domains pointing
+at the top 10 pages so this means that
+if a keyword has a high KD then the
+ranking pages likely have lots of Link's
+pointing at them
+in contrast locate a scores tell us that
+the top ranking pages don't have many
+links now since ranking for keywords
+usually relies on backlinks KD acts as a
+good proxy to ranking difficulty but
+there are other factors we have to
+consider so let's walk through these
+factors and unpack them with practical
+examples and I promise that by
+understanding these fundamental concepts
+it'll help you to utilize keyword
+difficulty scores more effectively the
+first thing to consider is search intent
+search intent means the reason behind a
+searchers quarry and generally speaking
+these can be broken down into four
+groups informational commercial
+investigation navigational and
+transactional informational queries are
+ones where a searcher is looking for
+information about a topic
+these are usually queries that contain
+words like how what and who so something
+like what is protein powder will be
+informational in nature commercial
+investigation quarries are ones that
+show that the searcher is in the market
+for a specific product or service but
+has yet to make a purchasing decision so
+they're often looking for comparisons to
+help solve their problem and these
+queries often include key word modifiers
+like best vs. and review so best protein
+powder would be an example of this
+navigational queries are when the
+searcher is looking for a specific
+website so a couple examples would be HS
+keywords Explorer or Google Analytics
+login finally our transactional queries
+which indicate that the searcher is
+looking to make a purchase so buy
+protein powder would fit in this group
+now keyword modifiers like the ones I've
+mentioned won't always be in the quarry
+so the way to identify search intent is
+to look at the SERP for example looking
+at the top 10 pages for the quarry
+roasting coffee beans you'll see that
+the top 10 pages are clearly
+informational and we'll touch on this
+again in a bit the second thing to
+consider is website Authority at
+HFS we have a metric called domain
+rating which represents the overall
+strength of a
+sites backlink profile and while the
+majority of SEO is believed that Google
+uses some kind of domain level metric in
+their ranking algorithm John Mueller has
+publicly said they's don't now since our
+keyword difficulty metric doesn't take
+website Authority into account
+interpreting KD will depend on what you
+believe but for argument's sake let's
+use some examples of Cory's with a low
+difficulty score where the ranking pages
+are from highly authoritative websites
+so there are two things we need to talk
+about here the first is brand equity
+there are certain queries where big
+brands dominate aserp and to be frank
+there's not much you can do about it
+unless you're in the same playing field
+for example a transactional quarry like
+media storage has a KD of 3 but if you
+scroll down to the SERP you'll see that
+they're dominated by household names
+like Home Depot Amazon wave fare and
+Walmart now quarries like these aren't
+necessarily about page level links it
+likely comes down to where people
+actually shop in those places are
+usually big brands so we're left with
+this chicken or the egg scenario are
+these sites ranking because of brand or
+is it because of website Authority as we
+measure using domain rating or could it
+be expertise authoritative nough sand
+trustworthiness aka eat what about CTR
+or local factors maybe it's a
+combination of many or are some of these
+things dependent on the other and we
+haven't even talked about on-page and
+technical SEO factors like facets page
+speed and more again this makes KD a
+tough metric to calculate accurately
+because manual assessment is a
+prerequisite and even then we're still
+hypothesizing now there are a lot of
+transactional queries that look similar
+to this especially for head terms so
+when you see a similar SERP
+you need to take Kady with a grain of
+salt and assess all factors manually
+case-by-case the second thing we need to
+discuss is that keyword difficulty and
+domain rating are relative metrics let's
+take a look at an informational quarry
+where brand equity may not play as big
+of a role this query has a low KD but
+looking at the SERP you'll see that all
+the ranking pages have high domain
+ratings aka high website Authority
+so is this Katy's
+core truly representative of ranking
+difficulty the answer is yes and no
+keyword difficulty is going to be
+relative to the website you're trying to
+rank so while the ranking domains mostly
+have D are values in the 70's and 80's a
+personal finance site with a dr 95 might
+think acadia 5 is actually an
+overestimation because they'd probably
+be able to rank for this quarry with
+ease
+whereas a personal finance site with a
+dr 15 would think it's too low and that
+they've been duped by the difficulty
+value now if you have a so-called weaker
+site compared to these big brands don't
+feel bad
+pages on a low authority site can still
+outperform high D our sites and that
+usually comes down to the next
+consideration which is the number of
+quality links pointing at a page while
+Katie takes into account the quantity of
+links it doesn't account for quality to
+assess quality it hasn't taken to
+account topical relevance of the linking
+domain and page the link authority from
+the referring page the number of
+external links on the referring page the
+number of internal links pointing at the
+referring page and the authority of
+those pages so we keep things simple and
+consistent by estimating the average
+number of referring domains pointing at
+the top 10 pages and we also provide an
+estimate of the number of unique linking
+domains you'll need in order to rank in
+the top 10 so for that reason it's
+always worth manually looking at the
+backlink profiles of top ranking pages
+because quantity isn't everything now
+these are some of the reasons why no
+tool can calculate KD accurately and as
+I've mentioned before ranking difficulty
+is relative based on the website you're
+trying to rank and its competitors in
+fact other things that I haven't even
+touched on include content quality
+technical factors like page speed in the
+use of HTTP and user signals like dwell
+time if that's even a ranking
+consideration
+so while keyword difficulty as a
+standalone metric is far from perfect
+there's actually a ton of utility you
+can get from it when you use it based on
+your understanding of the metric the
+first way is to find low competition
+topics based on search intent if you
+remember before I showed you the example
+of the transactional Corey media storage
+came down to mostly brand on-page and
+technical factors and while many
+transactional quarries don't seem to
+place as much weight on links
+informational and commercial
+investigation quarries often do which
+happens to be what keyword difficulty is
+built around so to find a reliable set
+of low competition topics go to keywords
+explorer and search for a broad quarry
+related to your niche so I'll search for
+makeup next I'll go to the questions
+report which are all going to be
+informational queries finally I'll set a
+KD filter with a maximum value of five
+assuming that's low in my books and now
+you can see topics like how to sanitize
+makeup and how to use a makeup sponge
+and if I click the search button you'll
+see that a it is indeed an informational
+query be a couple of top ranking pages
+don't have any links and see there's a
+low authority website ranking in the top
+ten now the questions report limits you
+to queries that are phrased as questions
+and as I've already shown not all
+informational queries include words like
+how what why where and when there are
+additional keyword modifiers like
+tutorial lists and ideas that imply a
+need for information
+so let's find more informational queries
+by going to the phrase match report now
+to narrow in on informational keywords
+I'll click the include box and add a
+list of informational keyword modifiers
+and I'll change the tab to any word next
+I'll set the KD filter again with a max
+value of 5 and now we've just expanded
+our list of queries where Katy should be
+quite reliable as for commercial
+investigation queries you can do the
+exact same thing but instead of
+informational modifiers you can use
+words like best top price review and
+more and you'll find that the keyword
+difficulty scores here are pretty good
+indicators of general ranking difficulty
+but as always you'd have to analyze the
+SERP to see who you'd be competing
+against here's a list of informational
+and commercial investigation modifiers
+you can use so feel free to take a
+screenshot and use them when you're
+doing keyword research again K V is a
+proxy to ranking difficult
+so it's most effective when you're doing
+keyword generation now two quick notes
+first if you have a website in health or
+wealth niches then you also need to
+weigh in factors like eat as many of
+these topics are in the your money or
+your life category and second you should
+always manually review the top-ranking
+pages before creating your content
+ignoring it is just lazy and can lead to
+wasted time and money one final note I
+want to make is not to shy away from
+keywords with high difficulty scores
+people often see a query with a high
+difficulty score and immediately ignore
+it
+thinking they'll never rank but since
+you know our keyword difficulty metric
+is based purely around links then you
+should look at this from a different
+angle and see these high kV queries as
+opportunities again high KD means that
+on average the top ranking pages have
+lots of links translation lots of link
+prospects for you to find these topics
+you just need to do the opposite of what
+you did before instead of setting a max
+KD value to something low set a minimum
+KD value to something high so right now
+I'm in the questions report since I'm
+looking for informational queries on
+credit cards so I'll set a minimum KD
+value to 40 and you can now see some
+great informational topics and if I
+click on the cert button you'll see that
+these pages have lots of backlinks where
+you can reach out to the linking pages
+and try to get them to link back to you
+now targeting these high KD keywords
+isn't necessarily about ranking for a
+high traffic quarry by getting links to
+your pages you can increase your overall
+website Authority and you can funnel
+PageRank through internal links to help
+boost your other pages rankings and we
+have a full tutorial on using this as an
+SEO strategy which I'll link up in the
+description now keyboard difficulty
+isn't meant to discourage you from
+ranking for a particular keyword its
+purpose is to help you estimate the
+resources required to rank for a query
+and to give skimmable guidance with
+keyword generation so if you still
+expect keyword research tools to provide
+an infallible keyword difficulty metric
+then that needs to change
+instead use what you know about your
+preferred tools metric and combine it
+with what you know about how goo
+ranks pages now if you enjoyed this
+video make sure to like share and
+subscribe for more actionable SEO and
+marketing tutorials and if you want a
+more hands-on keyword research tutorial
+then I recommend watching the ones that
+I've linked up for you I'll see you in
+the next tutorial

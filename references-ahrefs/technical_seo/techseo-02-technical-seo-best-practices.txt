@@ -1,0 +1,370 @@
+hey<c> it's</c><c> ammo</c><c> and</c><c> welcome</c><c> to</c><c> the</c><c> final</c>
+hey it's ammo and welcome to the final
+lesson<c> in</c><c> this</c><c> module</c><c> and</c><c> actually</c><c> it's</c>
+lesson in this module and actually it's
+the<c> last</c><c> lesson</c><c> in</c><c> ahrefs</c><c> seo</c><c> course</c><c> for</c>
+the last lesson in ahrefs seo course for
+beginners
+in<c> this</c><c> lesson</c><c> we're</c><c> going</c><c> to</c><c> go</c><c> through</c>
+in this lesson we're going to go through
+some<c> technical</c><c> seo</c><c> best</c><c> practices</c>
+some technical seo best practices
+so<c> you</c><c> can</c><c> keep</c><c> your</c><c> site</c><c> in</c><c> good</c><c> health</c>
+so you can keep your site in good health
+let's<c> get</c><c> started</c>
+let's get started
+so<c> the</c><c> first</c><c> thing</c><c> you</c><c> should</c><c> do</c><c> is</c>
+so the first thing you should do is
+ensure<c> that</c><c> your</c><c> site</c><c> structure</c><c> follows</c>
+ensure that your site structure follows
+a<c> logical</c><c> hierarchy</c>
+a logical hierarchy
+site<c> structure</c><c> is</c><c> simply</c><c> the</c><c> way</c><c> you</c>
+site structure is simply the way you
+organize<c> content</c><c> on</c><c> your</c><c> website</c>
+organize content on your website
+you<c> can</c><c> think</c><c> of</c><c> it</c><c> like</c><c> a</c><c> mind</c><c> map</c><c> at</c>
+you can think of it like a mind map at
+the<c> top</c><c> you'd</c><c> have</c><c> your</c><c> home</c><c> page</c>
+the top you'd have your home page
+then<c> you'd</c><c> probably</c><c> have</c><c> main</c><c> topics</c>
+then you'd probably have main topics
+that<c> branch</c><c> out</c><c> from</c><c> your</c><c> homepage</c>
+that branch out from your homepage
+like<c> your</c><c> services</c><c> page</c><c> your</c><c> blog</c><c> and</c>
+like your services page your blog and
+about<c> page</c>
+about page
+then<c> from</c><c> these</c><c> main</c><c> topics</c><c> you'd</c>
+then from these main topics you'd
+probably<c> have</c><c> even</c><c> more</c><c> branches</c><c> to</c>
+probably have even more branches to
+other<c> pages</c>
+other pages
+these<c> branches</c><c> represent</c><c> internal</c><c> links</c>
+these branches represent internal links
+which<c> are</c><c> just</c><c> links</c><c> from</c><c> one</c><c> page</c><c> on</c>
+which are just links from one page on
+your<c> site</c><c> to</c><c> another</c>
+your site to another
+and<c> they</c><c> help</c><c> search</c><c> engines</c><c> understand</c>
+and they help search engines understand
+the<c> relationship</c><c> between</c><c> these</c><c> pages</c>
+the relationship between these pages
+site<c> structure</c><c> also</c><c> helps</c><c> search</c><c> engines</c>
+site structure also helps search engines
+to<c> crawl</c><c> your</c><c> pages</c><c> more</c><c> efficiently</c>
+to crawl your pages more efficiently
+which<c> is</c><c> why</c><c> having</c><c> a</c><c> logical</c><c> hierarchy</c>
+which is why having a logical hierarchy
+is<c> important</c>
+is important
+now<c> what</c><c> we've</c><c> talked</c><c> about</c><c> is</c><c> pretty</c>
+now what we've talked about is pretty
+basic<c> stuff</c><c> and</c><c> you</c><c> may</c><c> already</c><c> be</c><c> doing</c>
+basic stuff and you may already be doing
+this
+but<c> it</c><c> can</c><c> get</c><c> more</c><c> complex</c><c> as</c><c> you</c><c> add</c>
+but it can get more complex as you add
+more<c> pages</c><c> to</c><c> your</c><c> site</c>
+more pages to your site
+like<c> blog</c><c> posts</c><c> category</c><c> pages</c><c> or</c>
+like blog posts category pages or
+product<c> pages</c><c> we</c><c> have</c><c> a</c><c> full</c><c> video</c><c> on</c>
+product pages we have a full video on
+how<c> to</c><c> use</c><c> internal</c><c> links</c><c> to</c><c> rank</c><c> higher</c>
+how to use internal links to rank higher
+on<c> google</c>
+on google
+so<c> i'll</c><c> link</c><c> that</c><c> up</c><c> for</c><c> you</c><c> in</c><c> the</c>
+so i'll link that up for you in the
+description<c> all</c><c> right</c><c> the</c><c> second</c><c> thing</c>
+description all right the second thing
+is<c> to</c><c> ensure</c><c> your</c><c> pages</c><c> don't</c><c> load</c>
+is to ensure your pages don't load
+slow<c> as</c><c> you</c><c> may</c><c> know</c><c> pagespeed</c><c> has</c><c> been</c>
+slow as you may know pagespeed has been
+a<c> confirmed</c><c> ranking</c><c> factor</c><c> for</c><c> desktop</c>
+a confirmed ranking factor for desktop
+search
+since<c> 2010</c><c> and</c><c> in</c><c> 2018</c>
+since 2010 and in 2018
+google<c> announced</c><c> that</c><c> they'd</c><c> be</c><c> using</c>
+google announced that they'd be using
+page<c> speed</c><c> in</c><c> mobile</c><c> search</c><c> rankings</c>
+page speed in mobile search rankings
+now<c> you</c><c> don't</c><c> need</c><c> to</c><c> obsess</c><c> over</c><c> every</c>
+now you don't need to obsess over every
+millisecond<c> it</c><c> takes</c><c> for</c><c> your</c><c> page</c><c> to</c>
+millisecond it takes for your page to
+load
+google<c> says</c><c> the</c><c> speed</c><c> update</c><c> as</c><c> we're</c>
+google says the speed update as we're
+calling<c> it</c>
+calling it
+will<c> only</c><c> affect</c><c> pages</c><c> that</c><c> deliver</c><c> the</c>
+will only affect pages that deliver the
+slowest<c> experience</c><c> to</c><c> users</c>
+slowest experience to users
+and<c> will</c><c> only</c><c> affect</c><c> a</c><c> small</c><c> percentage</c>
+and will only affect a small percentage
+of<c> queries</c>
+of queries
+so<c> bottom</c><c> line</c><c> you</c><c> don't</c><c> want</c><c> your</c><c> pages</c>
+so bottom line you don't want your pages
+to<c> load</c><c> slow</c>
+to load slow
+and<c> there</c><c> are</c><c> two</c><c> very</c><c> basic</c><c> things</c><c> that</c>
+and there are two very basic things that
+i<c> think</c><c> every</c><c> website</c><c> should</c><c> do</c>
+i think every website should do
+the<c> first</c><c> is</c><c> to</c><c> cache</c><c> your</c><c> website's</c>
+the first is to cache your website's
+content
+caching<c> is</c><c> basically</c><c> a</c><c> way</c><c> to</c>
+caching is basically a way to
+temporarily<c> store</c><c> copies</c><c> of</c><c> files</c>
+temporarily store copies of files
+so<c> it</c><c> can</c><c> be</c><c> delivered</c><c> to</c><c> visitors</c><c> in</c><c> a</c>
+so it can be delivered to visitors in a
+more<c> efficient</c><c> way</c>
+more efficient way
+and<c> most</c><c> web</c><c> hosting</c><c> companies</c><c> that</c><c> i've</c>
+and most web hosting companies that i've
+come<c> across</c><c> have</c><c> caching</c><c> features</c>
+come across have caching features
+and<c> the</c><c> second</c><c> thing</c><c> you</c><c> can</c><c> do</c><c> is</c>
+and the second thing you can do is
+compress<c> your</c><c> images</c>
+compress your images
+compressing<c> images</c><c> makes</c><c> your</c><c> file</c><c> sizes</c>
+compressing images makes your file sizes
+smaller<c> and</c><c> smaller</c><c> files</c>
+smaller and smaller files
+load<c> faster</c><c> you</c><c> can</c><c> use</c><c> a</c><c> tool</c><c> like</c>
+load faster you can use a tool like
+short<c> pixel</c>
+short pixel
+which<c> has</c><c> both</c><c> a</c><c> web</c><c> interface</c><c> and</c><c> a</c>
+which has both a web interface and a
+wordpress<c> plugin</c>
+wordpress plugin
+now<c> if</c><c> you</c><c> wanted</c><c> to</c><c> take</c><c> page</c><c> speed</c><c> a</c>
+now if you wanted to take page speed a
+step<c> further</c><c> then</c><c> it</c><c> can</c><c> get</c><c> quite</c>
+step further then it can get quite
+technical<c> and</c><c> complex</c>
+technical and complex
+so<c> we</c><c> actually</c><c> created</c><c> a</c><c> full</c><c> tutorial</c>
+so we actually created a full tutorial
+on<c> how</c><c> to</c><c> speed</c><c> up</c><c> a</c><c> wordpress</c><c> website</c>
+on how to speed up a wordpress website
+using<c> cloudflare</c>
+using cloudflare
+and<c> a</c><c> wordpress</c><c> plugin</c><c> so</c><c> i'll</c><c> leave</c><c> a</c>
+and a wordpress plugin so i'll leave a
+link<c> to</c><c> that</c><c> in</c><c> the</c><c> description</c>
+link to that in the description
+and<c> the</c><c> final</c><c> thing</c><c> i</c><c> want</c><c> to</c><c> talk</c><c> about</c>
+and the final thing i want to talk about
+is<c> to</c><c> do</c><c> your</c><c> best</c><c> to</c><c> stay</c><c> on</c><c> top</c><c> of</c>
+is to do your best to stay on top of
+around
+50<c> potential</c><c> seo</c><c> errors</c><c> trust</c><c> me</c>
+50 potential seo errors trust me
+it's<c> not</c><c> as</c><c> bad</c><c> as</c><c> it</c><c> sounds</c><c> there</c><c> are</c>
+it's not as bad as it sounds there are
+potentially<c> hundreds</c><c> of</c><c> technical</c><c> seo</c>
+potentially hundreds of technical seo
+issues
+that<c> can</c><c> and</c><c> some</c><c> will</c><c> definitely</c><c> happen</c>
+that can and some will definitely happen
+to<c> your</c><c> site</c>
+to your site
+some<c> of</c><c> these</c><c> things</c><c> include</c><c> pages</c>
+some of these things include pages
+becoming<c> broken</c><c> that</c><c> still</c><c> have</c><c> internal</c>
+becoming broken that still have internal
+links
+pointing<c> at</c><c> them</c><c> orphan</c><c> pages</c><c> which</c><c> are</c>
+pointing at them orphan pages which are
+pages<c> on</c><c> your</c><c> site</c><c> that</c><c> have</c><c> no</c><c> incoming</c>
+pages on your site that have no incoming
+internal<c> links</c>
+internal links
+and<c> these</c><c> are</c><c> great</c><c> because</c><c> it</c><c> can</c><c> make</c>
+and these are great because it can make
+it<c> tough</c><c> for</c><c> search</c><c> engines</c><c> to</c><c> actually</c>
+it tough for search engines to actually
+discover<c> them</c>
+discover them
+duplicate<c> content</c><c> issues</c><c> and</c><c> redirect</c>
+duplicate content issues and redirect
+chains<c> to</c><c> name</c><c> a</c><c> few</c>
+chains to name a few
+now<c> there's</c><c> no</c><c> point</c><c> in</c><c> me</c><c> going</c><c> through</c>
+now there's no point in me going through
+50<c> different</c><c> potential</c><c> issues</c>
+50 different potential issues
+because<c> it'll</c><c> only</c><c> matter</c><c> to</c><c> you</c><c> if</c><c> you</c>
+because it'll only matter to you if you
+run<c> into</c><c> them</c>
+run into them
+so<c> what</c><c> i</c><c> recommend</c><c> you</c><c> do</c><c> is</c><c> run</c>
+so what i recommend you do is run
+scheduled<c> website</c><c> audits</c><c> on</c><c> your</c><c> site</c>
+scheduled website audits on your site
+and<c> a</c><c> website</c><c> audit</c><c> will</c><c> give</c><c> you</c><c> a</c><c> full</c>
+and a website audit will give you a full
+analysis<c> of</c><c> potential</c><c> issues</c>
+analysis of potential issues
+that<c> could</c><c> be</c><c> harming</c><c> your</c><c> website's</c><c> seo</c>
+that could be harming your website's seo
+performance
+if<c> you're</c><c> an</c><c> ahrefs</c><c> user</c><c> you</c><c> can</c><c> do</c><c> that</c>
+if you're an ahrefs user you can do that
+using<c> our</c><c> site</c><c> audit</c><c> tool</c>
+using our site audit tool
+and<c> even</c><c> if</c><c> you</c><c> don't</c><c> have</c><c> an</c><c> ahrefs</c>
+and even if you don't have an ahrefs
+paid<c> plan</c><c> you</c><c> can</c><c> sign</c><c> up</c><c> for</c><c> a</c><c> free</c>
+paid plan you can sign up for a free
+ahrefs<c> webmaster</c><c> tools</c><c> account</c>
+ahrefs webmaster tools account
+which<c> will</c><c> let</c><c> you</c><c> crawl</c><c> up</c><c> to</c><c> 10</c><c> 000</c>
+which will let you crawl up to 10 000
+pages<c> on</c><c> each</c><c> website</c><c> you</c><c> own</c>
+pages on each website you own
+to<c> get</c><c> started</c><c> go</c><c> to</c><c> ahrefs.com</c><c> awt</c>
+to get started go to ahrefs.com awt
+and<c> sign</c><c> up</c><c> for</c><c> your</c><c> free</c><c> webmaster</c>
+and sign up for your free webmaster
+tools<c> account</c>
+tools account
+then<c> you'll</c><c> need</c><c> to</c><c> verify</c><c> your</c><c> website</c>
+then you'll need to verify your website
+meaning<c> prove</c><c> that</c><c> you</c><c> actually</c><c> own</c><c> it</c>
+meaning prove that you actually own it
+you<c> can</c><c> do</c><c> that</c><c> using</c><c> google</c><c> search</c>
+you can do that using google search
+console<c> which</c><c> is</c><c> the</c><c> easiest</c><c> method</c>
+console which is the easiest method
+or<c> if</c><c> you</c><c> don't</c><c> have</c><c> a</c><c> search</c><c> console</c>
+or if you don't have a search console
+account<c> you</c><c> can</c><c> do</c><c> it</c><c> manually</c>
+account you can do it manually
+just<c> enter</c><c> your</c><c> domain</c><c> and</c><c> click</c>
+just enter your domain and click
+continue
+then<c> verify</c><c> your</c><c> website</c><c> using</c><c> one</c><c> of</c>
+then verify your website using one of
+these<c> three</c><c> methods</c>
+these three methods
+and<c> i'll</c><c> actually</c><c> just</c><c> go</c><c> back</c><c> and</c><c> use</c>
+and i'll actually just go back and use
+the<c> google</c><c> search</c><c> console</c><c> method</c>
+the google search console method
+next<c> you'll</c><c> need</c><c> to</c><c> import</c><c> your</c><c> sites</c>
+next you'll need to import your sites
+and<c> i'll</c><c> choose</c><c> to</c><c> run</c><c> the</c><c> first</c><c> audit</c>
+and i'll choose to run the first audit
+now
+schedule<c> weekly</c><c> audits</c><c> and</c><c> i'll</c><c> also</c>
+schedule weekly audits and i'll also
+enable<c> the</c><c> crawl</c>
+enable the crawl
+external<c> links</c><c> option</c><c> to</c><c> ensure</c><c> that</c><c> we</c>
+external links option to ensure that we
+catch<c> any</c><c> broken</c>
+catch any broken
+or<c> redirected</c><c> outgoing</c><c> links</c><c> hit</c>
+or redirected outgoing links hit
+import<c> and</c><c> the</c><c> crawl</c><c> should</c><c> start</c>
+import and the crawl should start
+running
+now<c> after</c><c> the</c><c> crawl</c><c> has</c><c> completed</c><c> go</c><c> to</c>
+now after the crawl has completed go to
+the<c> overview</c><c> report</c><c> in</c><c> your</c><c> site</c><c> audit</c>
+the overview report in your site audit
+project
+and<c> you'll</c><c> immediately</c><c> see</c><c> things</c><c> like</c>
+and you'll immediately see things like
+your<c> health</c><c> score</c><c> which</c><c> is</c><c> a</c><c> percentage</c>
+your health score which is a percentage
+of<c> urls</c><c> on</c><c> your</c><c> site</c>
+of urls on your site
+that<c> don't</c><c> have</c><c> errors</c><c> you'll</c><c> also</c><c> see</c>
+that don't have errors you'll also see
+the<c> top</c><c> issues</c><c> we</c><c> found</c><c> on</c><c> your</c><c> site</c>
+the top issues we found on your site
+as<c> well</c><c> as</c><c> the</c><c> number</c><c> of</c><c> urls</c><c> that</c><c> had</c>
+as well as the number of urls that had
+the<c> issue</c>
+the issue
+so<c> when</c><c> you</c><c> run</c><c> into</c><c> an</c><c> issue</c><c> you</c><c> can</c>
+so when you run into an issue you can
+click<c> on</c><c> the</c><c> caret</c><c> to</c><c> see</c><c> a</c><c> description</c>
+click on the caret to see a description
+of<c> what</c><c> it</c><c> means</c>
+of what it means
+and<c> also</c><c> a</c><c> short</c><c> snippet</c><c> of</c><c> how</c><c> to</c><c> fix</c>
+and also a short snippet of how to fix
+it<c> and</c><c> once</c><c> you</c><c> have</c><c> an</c><c> idea</c><c> of</c><c> what</c><c> the</c>
+it and once you have an idea of what the
+issue<c> is</c>
+issue is
+and<c> how</c><c> to</c><c> fix</c><c> it</c><c> just</c><c> click</c><c> on</c><c> the</c>
+and how to fix it just click on the
+number<c> under</c><c> the</c><c> crawled</c><c> column</c>
+number under the crawled column
+to<c> see</c><c> the</c><c> affected</c><c> urls</c><c> then</c><c> it's</c><c> just</c>
+to see the affected urls then it's just
+a<c> matter</c><c> of</c><c> fixing</c><c> them</c><c> one</c><c> by</c><c> one</c>
+a matter of fixing them one by one
+or<c> hiring</c><c> someone</c><c> to</c><c> help</c><c> and</c><c> since</c><c> you</c>
+or hiring someone to help and since you
+set<c> up</c><c> weekly</c><c> scheduled</c><c> audits</c>
+set up weekly scheduled audits
+you<c> can</c><c> revisit</c><c> the</c><c> overview</c><c> report</c><c> to</c>
+you can revisit the overview report to
+see<c> if</c><c> there's</c><c> any</c>
+see if there's any
+seo<c> maintenance</c><c> you</c><c> can</c><c> do</c><c> and</c><c> that</c>
+seo maintenance you can do and that
+wraps<c> up</c><c> ahrefs</c><c> seo</c><c> course</c><c> for</c><c> beginners</c>
+wraps up ahrefs seo course for beginners
+everything<c> you've</c><c> learned</c><c> in</c><c> this</c><c> course</c>
+everything you've learned in this course
+should<c> be</c><c> enough</c><c> to</c><c> get</c><c> you</c><c> indexed</c>
+should be enough to get you indexed
+ranking<c> and</c><c> to</c><c> keep</c><c> your</c><c> site</c><c> in</c><c> good</c>
+ranking and to keep your site in good
+technical<c> health</c>
+technical health
+and<c> i've</c><c> linked</c><c> up</c><c> a</c><c> playlist</c><c> in</c><c> the</c>
+and i've linked up a playlist in the
+description<c> to</c><c> the</c><c> entire</c><c> course</c>
+description to the entire course
+with<c> all</c><c> 14</c><c> videos</c><c> which</c><c> will</c><c> be</c><c> free</c>
+with all 14 videos which will be free
+forever
+thank<c> you</c><c> for</c><c> joining</c><c> me</c><c> and</c><c> i</c><c> hope</c><c> you</c>
+thank you for joining me and i hope you
+were<c> able</c><c> to</c><c> get</c><c> a</c><c> ton</c><c> of</c><c> value</c><c> from</c><c> the</c>
+were able to get a ton of value from the
+course
+and<c> make</c><c> sure</c><c> to</c><c> like</c><c> share</c><c> and</c>
+and make sure to like share and
+subscribe<c> for</c><c> more</c><c> actionable</c><c> seo</c>
+subscribe for more actionable seo
+and<c> marketing</c><c> tutorials</c><c> feel</c><c> free</c><c> to</c>
+and marketing tutorials feel free to
+browse<c> around</c><c> our</c><c> channel</c>
+browse around our channel
+and<c> if</c><c> you</c><c> have</c><c> any</c><c> questions</c><c> leave</c><c> them</c>
+and if you have any questions leave them
+in<c> the</c><c> comments</c><c> and</c><c> we'll</c><c> do</c><c> our</c><c> best</c><c> to</c>
+in the comments and we'll do our best to
+get<c> to</c><c> each</c><c> one</c>
+get to each one
+i'll<c> see</c><c> you</c><c> in</c><c> the</c><c> next</c><c> tutorial</c>

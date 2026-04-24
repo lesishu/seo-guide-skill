@@ -1,0 +1,296 @@
+# Module 5.3: A Link Building Team's Workflow in Action
+
+﻿Hey, it's Sam Oh and welcome to the third
+lesson in the team building, systems and
+workflows module.
+And actually, it's the last lesson
+in this link building course.
+In this lesson, we're going to put
+everything we've learned into action
+and I'll show you what a link building campaign
+might look like from a workflow standpoint.
+So naturally, we'll revisit some concepts and
+techniques that I taught in previous modules
+and I'll also give you an over the shoulder
+view of how the system works in reality.
+Now, a lot of link building teams I've
+seen&nbsp;typically work with a linear model.
+The prospector does the prospecting,
+then the vetter does the vetting, and
+then the outreach manager sends
+the&nbsp;emails once everything is ready.
+Now, I've used this method for
+many years&nbsp;and it does work.
+But what I've found to work more efficiently
+is a triangular model,&nbsp;especially when you're
+using the techniques I've taught
+throughout this course.
+So here's&nbsp;what it looks like at a high level.
+The prospector starts by looking for
+prospects&nbsp;based on a linkable point.
+They'll segment these prospects and pass
+over their research to the outreach manager
+who will begin drafting email
+templates for each segment.
+These are all things&nbsp;we've discussed
+throughout the course.
+The prospector will create a master
+Google sheet and clean up the list,
+then generate the blitz list and then they'll
+pass over the campaign sheet to the vetter.
+Now, the prospector is out of this
+campaign so they'll actually pick
+up another campaign to work on while
+the&nbsp;rest of the team does their part.
+Let's continue on with the vetter's role.
+The vetter will review blitz list prospects in
+batches starting with valid emails found
+in the blitz list because&nbsp;it's the fastest
+way to kick off a campaign and validate
+whether your outreach angle will work.
+Again, all of these concepts were
+covered in previous lessons.
+After they're done vetting this batch,
+they'll&nbsp;contact the outreach manager
+and they'll send off the first batch of emails.
+Now, while the vetting and outreach
+were happening, the prospector likely
+finished their work on the second campaign.
+They would have assigned more email templates
+to the outreach manager and the vetter would
+also start working on this campaign too.
+And the cycle will continue where the prospector
+picks up the next campaign or brainstorms more
+opportunities and the system will continue
+to operate like a well-oiled machine.
+Now, by this point, none of these
+campaigns have been completed.
+They're all just&nbsp;being validated with blitz lists.
+But once a campaign has been validated
+from&nbsp;a blitz list, the vetter will start manually
+reviewing the remainder of
+the URLs in that&nbsp;campaign.
+And each day before they log off, they'll ping
+the outreach manager to let them know that
+a batch of prospects are ready for them.
+Now, if you're used to the linear model, then this
+might have been slightly difficult to envision.
+So let me give you an over the shoulder
+view of what this looks like in action.
+Alright, so let's assume that our link
+building team consists of one prospector,
+one vetter, and one outreach manager.
+We'll call them Sam, George, and Josh.
+Sam, the prospector starts off by having
+a meeting&nbsp;with the content lead.
+They come up with a few
+different pages that need links.
+One on content&nbsp;marketing stats, another
+on blogging statistics,&nbsp;and one for their
+link building post.
+Now, in this meeting, they establish rough pitch
+angles for each post and any assets that'll be
+needed for the content to make the pitches work.
+So a card is created for each campaign in
+their project management tool, target URLs
+are added, and some rough notes for general
+guidance are added in the description.
+Alright, so we're done brainstorming a small
+batch of campaigns, so as the prospector,
+I'll drag one of them into the prospecting stage
+and start putting my research into a sheet.
+Now, as you can see, the note that I made is
+"same as we did for the SEO stats campaign."
+In short, we checked link&nbsp;profiles of competing
+pages,&nbsp;analyzed anchors to create our segments,
+and&nbsp;then exported our prospects by segment.
+I won't go deeper into this because we have
+a 3-part case study on how we did it for SEO
+stats post, plus, I've taught the&nbsp;methodology
+in our prospecting module.
+Alright, so let's fast forward around&nbsp;30
+minutes, we end up with a spreadsheet
+like this, where we've noted the&nbsp;linkable
+points which are the segments,&nbsp;the size
+of each segment, and some more
+detailed information for reference.
+And because our SOP says to add our
+sheet as a&nbsp;file to our card, I'll do that.
+Now I'll rename it to something
+like "Segments/Initial research."
+All good!
+Time to loop in our outreach&nbsp;manager so
+they can start drafting email templates
+for each segment.
+Done.
+Alright, it's time to actually create
+our campaign spreadsheet now.
+So for this campaign, we'd need to export
+all segments from Ahrefs Site Explorer.
+And all I would have to do is go to the
+backlink profile of a competing page,
+search for our segment's footprint&nbsp;within
+the anchor and surrounding text,&nbsp;and then
+export the report.
+All of this&nbsp;research was done in the previous stage.
+Now, for this particular campaign, I&nbsp;downloaded
+14 reports in Ahrefs Site Explorer,&nbsp;one report per
+segment, and created&nbsp;a merged version
+of our master sheet&nbsp;with each URL labeled
+with their segment.
+And&nbsp;in total, we have 5,538 rows in this sheet.
+So I'll add our "sheet link" in the custom
+field in the Notion Card because the SOP
+says to do it, and we're ready to move on.
+The next thing I'd do is filter the results.
+And I'd start by removing obvious
+spam and&nbsp;irrelevant pages.
+So that might be URLs from blogspot
+or URLs on .ru and .pw domains.
+I'd also remove URLs that contain certain
+footprints like /job/, /forum/ and a bunch&nbsp;
+of&nbsp;others that should be outlined in the SOP.
+Finally, I'd deduplicate URLs by
+root domain, since we won't want
+to contact people from the same website
+multiple times on the same campaign.
+And Google Sheets has a feature to do this.
+Just select your sheet, click on "Data",
+hover over "Data cleanup", and hit
+"Remove duplicates."
+Our data has headers so I'll check that, and
+then I'll choose just the root domain column.
+Finally, hit "Remove duplicates," and we're done.
+But as you can see, we've already done
+this&nbsp;and our sheet shrunk from over
+5,500 URLs to just over 3,300.
+Now, this list is still quite large and there's
+probably a lot of URLs in here that we wouldn't
+want to get links from.
+So this is when&nbsp;I'd start filtering by metrics.
+As a hypothetical example, I'm going to
+filter&nbsp;for pages that have less than 200
+visits to their domain from organic search.
+Then I'll delete all of these rows.
+And if we remove the filter, you'll see
+that we're&nbsp;left with 1,360 prospects.
+From a quick scan, most of these pages
+look fine&nbsp;from a relevance standpoint.
+So the last thing I'm going to do is run our blitz
+list to find as many valid emails as we can fast.
+And I've already covered how to do this
+in lesson 3.3, so feel free to watch that
+for more information.
+Anyway, here's what our sheet looks like now.
+As the prospector, I'm officially done with
+this campaign, so I'll hand it off to the vetter
+by assigning him in the project management
+system&nbsp;and letting him know where I left off.
+Then I'll go and pick up my next
+project and rinse and repeat.
+Alright, let's move on to the vetter.
+Now, because we've already found some
+valid email addresses in our blitz list,
+that's where the vetter is going to start.
+So we'll filter for just "valid" email&nbsp;addresses
+and we were able to attain this information
+by using Neverbounce's API.
+Now, George is going to visit each of these
+pages and go through our vetting checklist.
+And for each URL that matches all criteria,
+he'll mark the status down as "Ready."
+And for pages that don't match the criteria,
+he'll mark them as "Disqualified."
+Now, after he's finished going through
+the&nbsp;valid blitz list prospects, he's going
+to tag the outreach manager to let them
+know that&nbsp;the blitz list has been vetted.
+And we'll get to the outreach manager a bit.
+Now, as for the vetter, they'll likely work on
+the next campaign that the prospector has
+sent&nbsp;because the point of the blitz list
+is to quickly validate how successful
+your campaign might be&nbsp;without putting
+in all the manual work of finding contacts
+and vetting URLs.
+But for illustration purposes, let's say
+we got a 9.5% conversion rate from
+blitz list prospects.
+Assuming that was good&nbsp;in our books,
+then the campaign is validated.
+So&nbsp;the vetter would simply go through all the other
+URLs that don't have a valid status and find email
+addresses for the ones that are qualified.
+Alright, let's move on to
+the outreach manager.
+Now, we need to rewind a bit here because
+the&nbsp;outreach manager's work is dependent
+on the prospector's and vetter's deliverables.
+So again, before the prospector merged and
+cleaned the prospects list, the outreach
+manager was given a sheet like this
+where the linkable points, or segments,
+were&nbsp;outlined along with additional details.
+So while the prospector and vetter are doing
+their work, the outreach manager will be busy
+writing email drafts for each segment and
+templating them, just as I had shown you
+in lesson 4.3. in the outreach module.
+Once they've done this, they'd need to set
+up the campaign in their outreach tool.
+And this&nbsp;will vary based on the tool you use.
+Now, once the vetter pings the outreach manager
+to&nbsp;let them know that the blitz list has been vetted,
+the outreach manager would go to the sheet,
+and export contacts in the "Ready" status.
+And in this case, we've built a custom
+formula&nbsp;to automatically populate this list.
+Now, to avoid accidentally sending the same
+person a duplicate email, they're going to
+update the sheet and change any status
+that's in&nbsp;the "Ready" state to the "Sent" State.
+Then they'd upload the export&nbsp;file to
+their outreach tool,&nbsp;and go through
+the outreach process.
+Now, these workflows are guided by the SOPs
+and the system makes it possible to work
+collaboratively in an organized fashion.
+But something to note is that&nbsp;people
+work at different paces and with
+different levels of experience.
+So&nbsp;you're going to have to monitor and optimize
+your systems and workflows accordingly.
+Now, from an efficiency standpoint, with a team
+of 3, you can potentially send hundreds or maybe
+even thousands of personalized emails in
+a week depending on how strict you are
+with vetting&nbsp;and the number
+of prospects you have.
+Now, while scaling can be exciting, you
+shouldn't be using these systems and
+workflows to spam people because you'll
+just be doing an overly complicated link
+building strategy without results
+to show for your effort.
+Nothing&nbsp;I've taught in this course is a magic
+formula and it does take some creativity to
+execute successfully.
+Take the extra time to vet your prospects,
+go&nbsp;the extra mile with personalization even
+if your output suffers a bit, and I'm confident&nbsp;
+that you'll find the link building process&nbsp;more
+effective, efficient, and enjoyable.
+And that's a wrap.
+Thanks so much for joining me
+in this link building course.
+And if you&nbsp;want to get updated with more
+actionable&nbsp;SEO and marketing tutorials,
+then consider&nbsp;subscribing
+to our YouTube channel.
+Or if you want to check out more marketing&nbsp;
+courses, then check out ahrefs.com/academy
+where all of our courses are free.
+And if you have any&nbsp;questions, leave
+them in the comments and we'll do
+our absolute best to get back to you.
+I'll see you in the next tutorial.

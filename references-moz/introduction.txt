@@ -1,0 +1,149 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo)
+
+[2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## Introduction
+
+### Welcome to your SEO learning journey!
+
+You'll get the most out of this guide if your desire to learn **search engine optimization** (SEO) is exceeded only by your willingness to execute and test concepts.
+
+This guide is designed to describe all major aspects of SEO, from finding the terms and phrases ([keywords](/beginners-guide-to-seo/keyword-research#index)) that can generate qualified traffic to your website, to making your site [friendly to search engines](/beginners-guide-to-seo/technical-seo#index), to [building links](/beginners-guide-to-seo/growing-popularity-and-links#index) and marketing the unique value of your site.
+
+The world of search engine optimization is complex and ever-changing, but you can easily understand the basics, and even a small amount of SEO knowledge can make a big difference. Free SEO education is also widely available on the web, including in guides like this! (Woohoo!)
+
+Combine this information with some practice and you are well on your way to becoming a savvy SEO.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Josh-Stricklin-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760464890&s=eacd99407daefbc78ebb6cec3a1c505b)](/checkout/freetrial)
+
+## The basics of search engine optimization
+
+Ever heard of Maslow's hierarchy of needs? It's a theory of psychology that prioritizes the most fundamental human needs (like air, water, and physical safety) over more advanced needs (like esteem and social belonging). The theory is that you can't achieve the needs at the top without ensuring the more fundamental needs are met first. Love doesn't matter if you don't have food.
+
+Our founder, Rand Fishkin, made a similar pyramid to explain the way folks should go about SEO, and we've affectionately dubbed it "_Moz_ low's hierarchy of SEO needs."
+
+Here's what it looks like:
+
+![Guide to SEO Basics](https://moz.com/files/learn/guides/Mozlows-01-outline.svg?dm=1554154345)
+
+As you can see, the foundation of good SEO begins with ensuring crawl accessibility, and moves up from there.
+
+Using this beginner's guide, we can follow these seven steps to successful SEO:
+
+  1. Crawl accessibility so engines can read your website
+  2. Compelling content that answers the searcher’s query
+  3. Keyword optimized to attract searchers & engines
+  4. Great user experience including a fast load speed and compelling UX
+  5. Share-worthy content that earns links, citations, and amplification
+  6. Title, URL, & description to draw high click-through-rate (CTR) in the rankings
+  7. Snippet/schema markup to stand out in SERPs
+
+We'll spend time on each of these areas throughout this guide, but we wanted to introduce it here because it offers a look at how we structured the guide as a whole.
+
+Explore the chapters:
+
+##### [Chapter 0: Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide)
+
+ _Speed up to catch up_
+
+Go from zero to hero with our step-by-step refresh on the core fundamentals for setting your site up for SEO success.
+
+#####
+
+##### [Chapter 1: SEO 101](/beginners-guide-to-seo/why-search-engine-marketing-is-necessary)
+
+_What is it, and why is it important?_
+
+For true beginners. Learn what search engine optimization is, why it matters, and all the need-to-know basics to start yourself off right. Download your free Quick Start Worksheet.
+
+#####
+
+##### [Chapter 2: How Search Engines Work – Crawling, Indexing, and Ranking](/beginners-guide-to-seo/how-search-engines-operate)
+
+_First, you need to show up._
+
+If search engines literally can't find you, none of the rest of your work matters. This chapter shows you how their robots crawl the Internet to find your site and add it to their indexes.
+
+#####
+
+##### [Chapter 3: Keyword Research](/beginners-guide-to-seo/keyword-research)
+
+_Understand what your audience wants to find._
+
+Our approach targets users first because that's what search engines reward. This chapter covers keyword research and other methods to determine what your audience is seeking.
+
+#####
+
+##### [Chapter 4: On-Page SEO](/beginners-guide-to-seo/on-page-seo)
+
+ _Use your research to craft your message._
+
+This is a hefty chapter, covering optimized design, user experience, information architecture, and all the ways you can adjust how you publish content to maximize its visibility and resonance with your audience.
+
+#####
+
+##### [Chapter 5: Technical SEO](/beginners-guide-to-seo/technical-seo)
+
+_Basic technical knowledge will help you optimize your site for search engines and establish credibility with developers._
+
+By implementing responsive design, robot directives, and other technical elements like structured data and meta tags, you can tell Google (a robot itself) what your site is all about. This helps it rank for the right things.
+
+#####
+
+##### [Chapter 6: Link Building & Establishing Authority](/beginners-guide-to-seo/growing-popularity-and-links)
+
+_Turn up the volume._
+
+Once you've got everything in place, it's time to expand your influence by earning attention and links from other sites and influencers.
+
+#####
+
+##### [Chapter 7: Measuring, Prioritizing, & Executing SEO Success](/beginners-guide-to-seo/measuring-and-tracking-success)
+
+ _Set yourself up for success._
+
+An essential part of SEO is knowing what's working (and what isn't), adjusting your approach as you go along.
+
+#####
+
+##### [Chapter 8: SEO Glossary of Terms](/beginners-guide-to-seo/seo-glossary)
+
+ _Understand key terms and phrases._
+
+Learning SEO can sometimes feel like learning another language, with all the jargon and industry terms you're expected to know. This chapter-by-chapter glossary will help you get a handle on all the new words.
+
+### Moz Academy SEO Essentials Certification
+
+Organize your learning with Moz's SEO Essentials Certification. Learn with on-demand videos and task lessons, test your knowledge with exams at the end of each section, and top it all off with shiny new credentials to share with your professional network.
+
+[ Get Certified  ](https://academy.moz.com/path/seo-essentials-moz-certification)
+
+## How much of this guide do I need to read?
+
+If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back. We've tried to make it as concise and easy to understand as possible, and learning the basics of SEO is a vital first step in achieving your online business goals.
+
+Go through at the pace that suits you best, and be sure to take note of the dozens of resources we link to throughout the chapters — they're also worthy of your attention.
+
+If you want to take a more guided approach to learning SEO or training your entire team, check out the [Moz Academy SEO Essentials Certification](https://academy.moz.com/path/seo-essentials-moz-certification). We've consolidated all the resources you need to learn SEO fundamentals alongside unique learning methods, task lessons and quizzes to test your knowledge. You can also display your knowledge with your Linkedin Moz SEO Essentials certification badge.
+
+Getting excited yet? You should be! Without further ado, let's launch into [Chapter 0: Quick Start Guide](https://moz.com/beginners-guide-to-seo/quick-start-guide).
+
+[![](https://moz.com/images/learn/Learn-CTAs/Sam-Callender-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760464903&s=d9556bcd3f33a7ab773a7577a769f469)](/checkout/freetrial)
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

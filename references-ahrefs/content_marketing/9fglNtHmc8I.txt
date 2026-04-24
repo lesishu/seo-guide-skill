@@ -1,0 +1,371 @@
+Kind: captions
+Language: en
+Content is not king!
+Your business is king.
+And your content should serve the king.
+This is exactly how we approach content marketing
+and it's helped us grow our monthly blog traffic
+to around 220,000 search visits and YouTube
+views to around 160,000 views.
+And today, I'm going to show you how to plan
+and execute a content marketing strategy
+that gets more leads and sales for the long haul.
+Stay tuned.
+[music]
+What's up content marketers?
+Sam Oh here with Ahrefs, the SEO tool that
+helps you grow your search traffic,
+research your competitors and dominate your niche.
+Now, as many of you know, we here at Ahrefs
+are huge fans of content marketing.
+And in 2018, we doubled down and the results
+speak for themselves.
+Massive growth on our main content channels and most importantly, 40 million in annual recurring revenue.
+Now, I can't say that the majority of this
+growth was because of content marketing alone.
+It's because we have an awesome product that
+our development team is always improving.
+And when you have a great product, content
+marketing is easier and more effective.
+So let me show you how our content marketing
+strategy works and you'll see exactly
+why it's so effective for any type of business.
+Let's get to it.
+First, what is content marketing?
+According to Content Marketing Institute, content
+marketing is a strategic marketing approach
+focused on creating and distributing
+valuable, relevant, and consistent content
+to attract and retain a clearly defined audience
+— and, ultimately, to drive profitable customer action.
+Now, the goal is to drive profitable customer action.
+So if your content channels aren't working
+towards that goal,
+then you may not even be doing content marketing
+despite having a blog, YouTube channel, or podcast.
+Again...content isn't king.
+Your business is king.
+And if your content isn't serving the king,
+then what's the point?
+Now, your content's job is two-fold:
+#1. Get as much relevant traffic as possible.
+and #2. Convert or prepare your visitors to become
+paying customers.
+So the first thing, and arguably the most important
+thing you need to do, is keyword research.
+Whether you're a seasoned SEO practitioner
+or not, keyword research is important.
+If you're creating content around topics that
+people aren't interested in,
+your traffic won't be sustainable.
+So let's say that you run a business in the
+personal finance space and you sell a membership
+to help aspiring middle and upper class people
+in their 30s and 40s save their first million dollars.
+Now, a couple of keywords worth researching
+might be "personal finance" and "save money."
+So I'll go to Ahrefs' Keywords Explorer and
+search for these search queries.
+Next, I'll go to the Phrase match report which
+will show us a ton of keyword ideas that contain
+any of our keywords.
+Now, the personal finance space is pretty
+competitive and since my site is rather new,
+I'd probably want to start with some lower
+competition keywords.
+So I'll set a Keyword Difficulty filter to show only keywords with a maximum difficulty score
+of something low like 15.
+I'll also set a minimum Search Volume to
+something reasonable like 400.
+And we now have a small, yet manageable list
+to filter through.
+Now, this is where your decisions will determine
+success or failure.
+At this stage, you need to ask yourself these
+three questions.
+First, will someone searching for this keyword
+be interested in my products and services?
+The best way that we've found to answer this
+is to give it a score.
+At Ahrefs, we call this "business value" and
+we rank topics on a scale of 1-3.
+A score of 3 means that our product is an
+irreplaceable solution for the problem.
+2 means that our product helps quite a bit,
+but it's not essential to solving the problem.
+And 1 means that our product can only be
+mentioned fleetingly.
+So this would mostly be used for brand awareness
+rather than anything remotely close to demonstrating our products.
+Anything that doesn't fit into these categories
+would be given a zero, meaning we won't go
+anywhere near that topic.
+The second question is, what would a searcher
+be looking for when searching for this query?
+We call this 'search intent,' which simply means
+the reason behind a searcher's query.
+And the third thing you must ask yourself is,
+"how much traffic can I get if I ranked
+in the top 3 for this keyword in Google?"
+Let's jump back to our list of keywords and
+answer these questions.
+The first keyword that stands out is,
+"reddit personal finance."
+And this phrase gets around 41,000 monthly searches
+in the US alone
+and has a low keyword difficulty score.
+But how would this impact your business if
+you ranked for it?
+If we click on the SERP button, you'll see the top 10
+ranking results in Google for this keyword.
+And as expected, the top results are all dominated
+by Reddit themselves.
+And that's because search intent shows that people want to get to the personal finance subreddit.
+Probably not your website.
+But there are ten spots on the first page
+of Google, right?
+Well, if you look at the first non-reddit.com result,
+you'll see that it barely gets any search traffic
+compared to the top results.
+And that's because it's not getting clicked.
+This shows us that even if we were able to rank, the traffic potential probably wouldn't be worth your time.
+So this would have a business score of zero.
+I won't be able to match search intent, and
+it doesn't really have much traffic potential either.
+Alright, maybe that was obvious to you, but what
+about this one on "how to save money in college?"
+It has decent search volume, the top results
+get decent traffic, and you can clearly match
+search intent by creating a guide on your blog.
+But that's where the definition of content marketing makes its way into the decision-making process.
+Our personal finance product is a membership
+to help people save a million dollars.
+And by nature of the beast, our target demographics
+are people in their 30s and 40s that are
+already making decent money.
+Someone searching for "how to save money in
+college" doesn't fit that profile,
+so I would give it a business value of zero, which
+would end our analysis for this keyword.
+Last one.
+Let's analyze this topic, "personal finance course."
+It has 500 monthly searches, a Keyword Difficulty score of 10 and seems to be super relevant to our product.
+Looking at the top 10 results, you'll see
+that we can definitely match search intent
+by creating our own list post of different
+personal finance courses.
+As for business value, I'd give it a 3 since
+we can easily plug our products here.
+And looking at the estimated traffic these
+pages are getting,
+you'll see that it's quite high considering search volume for this keyword is only 500.
+And this is important to note because a page
+doesn't rank for a single keyword,
+but can rank for hundreds of keywords.
+Now, the interesting thing about this is that
+you'll see that the top 2 results are getting
+thousands of search visitors each month.
+But look here.
+According to our Top keyword data, this
+page also ranks for "personal finance class,"
+which has double the search volume as the
+keyword we're investigating.
+Knowing this, you can create content around
+the "better" keyword and know with confidence
+that you can also rank for the original query too.
+Cool, so we have a topic to run with.
+Let's move on to the next step, which is to
+create the content.
+So let's say we decided to create content
+around "personal finance class."
+Let's look at the top 10 results for this query.
+Just by looking at the titles, we know we need
+to match search intent
+by creating a blog post on this topic.
+And if you go one step further, you'll see
+that a good chunk of the Top pages are list posts.
+Rather than reinventing the wheel, I suggest
+that you follow suit
+since Google is essentially telling you what people
+want to read when they search for this query.
+A list of free personal finance classes.
+Next, we'll want to analyze how we can make
+our post better than what's already out there.
+These all seem pretty generic or overhyped,
+so I might create a title like
+15 Free Personal Classes That Helped me Save My First
+Million Dollars.
+Of course, if you're going to write a title
+like that, it should be true.
+Next, you'll want to find additional keywords
+you can rank for
+since these pages are ranking for hundreds of other relevant keywords.
+It's as easy as clicking on the number of keywords
+in the corresponding row in Keywords Explorer,
+then analyzing your competitors' organic keyword
+rankings and picking out subtopics from there.
+But an even better way to do this is to find
+common keywords that your competitors rank for
+and then use that to build your post.
+You can do this really fast by using Ahrefs'
+Content Gap tool.
+Just enter in the top 3 relevant ranking pages
+for your target keyword,
+and leave the bottom section blank, assuming you
+don't have existing content on this topic.
+This is basically saying, find common keywords
+that any of these pages are ranking for,
+where one of the pages ranks in the top 10.
+Now if we run the search, you'll see a list
+of around 200 relevant keywords on your topic.
+If you want to keep your results hyper relevant,
+you can set the number of intersections to only show keywords where
+all of the pages rank in the top 100,
+but again, at least one of them must rank in the top 10.
+And we're down to a smaller, more relevant
+list of 138 keyword ideas.
+From here, just look for keywords that pop out.
+So for me, "money management," "for adults," and
+"financial literacy" may be interesting points to include.
+So I would sprinkle these into the title and/or
+content when it makes sense to do so to ensure
+I can cover the topic in-depth.
+We have another video on how to write a blog post
+with SEO in mind,
+so I'll link that up in the card and description
+for you to watch.
+Awesome. You now have a great piece of content.
+Now you need to promote it.
+As a content marketer, your goal is to get your content
+in front of as many relevant people as possible.
+Here are a couple strategies to do that.
+The first is direct marketing.
+Now, the goal of this is to get your content
+directly in front of the right people.
+Common ways to do that is using either keyword
+targeted or interest-based ads through platforms
+like Facebook and Google.
+But with content ads, I highly recommend trying
+other platforms where your target audience might be.
+For example, we could try to promote some ads right inside Reddit's personal finance subreddit.
+Other untapped ad networks you can try are
+Taboola or Pinterest.
+In fact, 84% of participants in a consumer study
+said that Pinterest helps them learn new things,
+which is great for content marketers.
+You need to get creative and if you're working
+with a limited budget, then it may be worth
+exploring less popular forms of paid advertising.
+Another way is through SEO.
+And we've already covered a lot of SEO techniques
+just because they're like a sister to content marketing.
+By ranking high in Google, you start reaching
+people who are showing intent to learn,
+read, and eventually buy.
+Best of all, after you've ranked, you'll be
+getting free, consistent
+and passive traffic from search engines.
+We've already covered the content creation
+aspect of SEO,
+but you'll need to get backlinks to your content.
+Now, I won't get into that here, but we have a
+super actionable playlist on link building,
+so I'll leave a link for you in the description.
+Now, the second strategy can be quite the
+shortcut to content promotion.
+And that's influencer marketing.
+When I say influencer marketing, you might be thinking of celebrities, models, and YouTubers like Gary V.
+But there is no "minimum" number of followers
+that qualifies someone as being an "influencer."
+An influencer is essentially someone who has
+influence on an audience.
+So in general, they'll have a large following
+relative to others in their industry
+and their audience will listen to what they have to say.
+Now, the great thing with this strategy is
+that if you can convince someone of influence
+to share your content with their following,
+you now reach tons of people
+just by getting one person to share it.
+Here are a few ideas to do it without spending a penny.
+The first tip is to get quotes from credible people.
+For the most part, I'm not a fan of anything
+like ego bait, but when done in an honest,
+genuine and value-packed way, it works really well.
+For example, if you were creating a post on
+free personal finance classes,
+you could reach out to course creators of courses
+you've taken with an email like:
+Hi there,
+My name is Sam and I'm a ‘graduate' of your
+[course name] program.
+I've learned a lot from you and want to recognize
+your work on my blog.
+I'm creating a post on the best personal finance
+classes and of course you're on the list.
+If you have a second, I'd love to get a quote
+on who you think would be a good fit for your course.
+Example. [course name] is perfect for people
+who make around $50,000 - $80,000 per year
+and want to start investing in the markets.
+I'll be promoting you to my email list, followers,
+and plan to run some paid ads.
+If you're too busy, then I completely understand.
+Either way, just wanted to show my appreciation
+for your work and will include your course regardless.
+Cheers, Sam
+This would be a great way to pitch someone
+with a benefit-rich offer.
+I'm basically saying that I'd love to do all the hard
+work and get more students in your course.
+Once the post goes live, I'd email them again
+and let them know about it.
+And if they found the post to be useful, they
+would likely share it with their audience.
+Another way you can leverage influencer relationships
+is through podcast interviews.
+This is something we've been doing at Ahrefs.
+We use it to build brand awareness
+and get our tools in front of more people
+that may not have heard of us.
+Pitch a story as to why you should be on their
+podcast and the value you can provide to their listeners.
+The final step is to monitor your traffic and leads.
+If you're using SEO as a strategy, then you can use rank tracking tools like Ahrefs' Rank Tracker tool.
+Just enter the keywords you want to track,
+the location you want to see the results from,
+and we'll update your keyword rankings on
+a regular schedule.
+And if you can't rank, despite getting more
+quality links than the top ranking pages,
+then you should reassess search intent,
+your actual content, and update your post
+with anything that's missing.
+Now, if you're using various advertising networks,
+then you just need two things.
+First is Google Analytics with conversion
+tracking set up.
+And second are UTM parameters.
+UTM parameters are basically tags that you add to
+a URL, which you can then track in Google Analytics.
+There's a free tool you can use to build your URLs.
+For example, if I were to set up a Facebook
+Ads campaign, I would paste in the URL here.
+Set the campaign source as Facebook.
+The medium as CPC.
+And the campaign name as "finance-class."
+Now, if you're advertising on multiple ad platforms,
+just change the campaign source with the ad network name,
+and you should be able to compare
+how each platform performs in a single table
+straight inside Google Analytics.
+Then it's just a matter of doubling down on
+what's working, throwing out what's not,
+then just rinse and repeat this entire strategy
+over and over again.
+Now, if you enjoyed this video, then make sure to like, share, and subscribe,
+and I'd love to hear from you on which content marketing channel works best for you.
+So is that blogging, videos, podcasts, infographics,
+or something else?
+So keep grinding away, use your content to serve
+your  business, and I'll see you in the next tutorial.

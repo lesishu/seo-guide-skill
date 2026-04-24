@@ -1,0 +1,452 @@
+technical<c> SEO</c><c> audits</c><c> are</c><c> very</c><c> important</c>
+technical SEO audits are very important
+but<c> for</c><c> a</c><c> beginner</c><c> to</c><c> SEO</c><c> they</c><c> can</c><c> be</c>
+but for a beginner to SEO they can be
+extremely<c> daunting</c><c> so</c><c> in</c><c> this</c><c> video</c><c> I'm</c>
+extremely daunting so in this video I'm
+gonna<c> break</c><c> down</c><c> a</c><c> super</c><c> basic</c><c> yet</c>
+gonna break down a super basic yet
+powerful<c> SEO</c><c> audit</c><c> that</c><c> you</c><c> can</c><c> use</c><c> to</c>
+powerful SEO audit that you can use to
+find<c> some</c><c> seriously</c><c> weird</c><c> technical</c><c> SEO</c>
+find some seriously weird technical SEO
+issues<c> on</c><c> your</c><c> website</c><c> stay</c><c> tuned</c>
+issues on your website stay tuned
+[Music]
+what's<c> up</c><c> SEO</c><c> Sam</c><c> oh</c><c> here</c><c> with</c><c> HFS</c><c> the</c>
+what's up SEO Sam oh here with HFS the
+SEO<c> tool</c><c> that</c><c> helps</c><c> you</c><c> grow</c><c> your</c><c> search</c>
+SEO tool that helps you grow your search
+traffic<c> research</c><c> your</c><c> competitors</c><c> and</c>
+traffic research your competitors and
+dominate<c> your</c><c> niche</c><c> now</c><c> a</c><c> few</c><c> weeks</c><c> ago</c>
+dominate your niche now a few weeks ago
+I<c> posted</c><c> a</c><c> question</c><c> on</c><c> our</c><c> YouTube</c>
+I posted a question on our YouTube
+community<c> board</c><c> asking</c><c> our</c><c> subscribers</c>
+community board asking our subscribers
+to<c> submit</c><c> their</c><c> website</c><c> if</c><c> they</c><c> wanted</c>
+to submit their website if they wanted
+us<c> to</c><c> feature</c><c> it</c><c> in</c><c> this</c><c> video</c><c> so</c><c> I</c><c> dug</c>
+us to feature it in this video so I dug
+through<c> a</c><c> bunch</c><c> of</c><c> your</c><c> submissions</c><c> and</c>
+through a bunch of your submissions and
+congratulations<c> to</c><c> s</c><c> Craig</c><c> of</c><c> Central</c>
+congratulations to s Craig of Central
+Park<c> tutors</c><c> comm</c><c> and</c><c> Jim</c><c> Miller</c><c> of</c>
+Park tutors comm and Jim Miller of
+excess<c> Cote</c><c> UK</c><c> I</c><c> found</c><c> a</c><c> bunch</c><c> of</c>
+excess Cote UK I found a bunch of
+technical<c> SEO</c><c> issues</c><c> with</c><c> your</c><c> website</c>
+technical SEO issues with your website
+don't<c> worry</c><c> guys</c><c> you're</c><c> not</c><c> alone</c>
+don't worry guys you're not alone
+a<c> lot</c><c> of</c><c> popular</c><c> websites</c><c> even</c><c> in</c><c> the</c>
+a lot of popular websites even in the
+marketing<c> niche</c><c> have</c><c> some</c><c> seriously</c>
+marketing niche have some seriously
+weird<c> technical</c><c> SEO</c><c> issues</c><c> and</c><c> the</c><c> only</c>
+weird technical SEO issues and the only
+tool<c> that</c><c> you</c><c> need</c><c> to</c><c> find</c><c> and</c><c> fix</c><c> these</c>
+tool that you need to find and fix these
+errors<c> is</c><c> Google</c><c> now</c><c> before</c><c> we</c><c> dive</c><c> into</c>
+errors is Google now before we dive into
+the<c> tutorial</c><c> I</c><c> want</c><c> to</c><c> give</c><c> a</c><c> huge</c><c> shout</c>
+the tutorial I want to give a huge shout
+out<c> to</c><c> Glen</c><c> also</c><c> up</c><c> from</c><c> detail</c><c> com</c><c> who</c>
+out to Glen also up from detail com who
+shared<c> a</c><c> bunch</c><c> of</c><c> these</c><c> tips</c><c> with</c><c> us</c><c> so</c>
+shared a bunch of these tips with us so
+make<c> sure</c><c> to</c><c> check</c><c> out</c><c> his</c><c> site</c>
+make sure to check out his site
+seriously<c> solid</c><c> stuff</c><c> alright</c><c> so</c><c> let's</c>
+seriously solid stuff alright so let's
+break<c> down</c><c> example</c><c> site</c><c> number</c><c> one</c><c> that</c>
+break down example site number one that
+we're<c> analyzing</c><c> Central</c><c> Park</c><c> tutors</c><c> is</c><c> a</c>
+we're analyzing Central Park tutors is a
+group<c> of</c><c> teachers</c><c> and</c><c> parents</c><c> who</c>
+group of teachers and parents who
+provide<c> private</c><c> tutoring</c><c> services</c><c> in</c><c> New</c>
+provide private tutoring services in New
+York<c> City</c><c> according</c><c> to</c><c> HR</c><c> site</c><c> Explorer</c>
+York City according to HR site Explorer
+the<c> website</c><c> gets</c><c> around</c><c> 500</c><c> organic</c>
+the website gets around 500 organic
+search<c> visitors</c><c> per</c><c> month</c><c> and</c><c> Google</c><c> has</c>
+search visitors per month and Google has
+indexed<c> around</c><c> 400</c><c> pages</c><c> so</c><c> the</c><c> first</c>
+indexed around 400 pages so the first
+thing<c> I'm</c><c> gonna</c><c> do</c><c> is</c><c> type</c><c> in</c><c> their</c>
+thing I'm gonna do is type in their
+domain<c> in</c><c> the</c><c> browser</c><c> and</c><c> you</c><c> can</c><c> see</c>
+domain in the browser and you can see
+that<c> they're</c><c> using</c><c> the</c><c> unsecured</c><c> non</c><c> WW</c>
+that they're using the unsecured non WW
+version<c> of</c><c> the</c><c> website</c><c> and</c><c> of</c><c> course</c><c> we</c>
+version of the website and of course we
+should<c> check</c><c> for</c><c> the</c><c> dub</c><c> dub</c><c> dub</c><c> version</c>
+should check for the dub dub dub version
+too<c> and</c><c> it</c><c> looks</c><c> like</c><c> the</c><c> redirect</c><c> is</c>
+too and it looks like the redirect is
+good<c> so</c><c> I'll</c><c> check</c><c> the</c><c> HTTPS</c><c> version</c><c> now</c>
+good so I'll check the HTTPS version now
+and<c> it</c><c> looks</c><c> like</c><c> this</c><c> one</c><c> loads</c><c> without</c>
+and it looks like this one loads without
+a<c> redirect</c><c> and</c><c> I'll</c><c> check</c><c> the</c><c> secure</c><c> dub</c>
+a redirect and I'll check the secure dub
+dub<c> dub</c><c> version</c><c> which</c><c> then</c><c> redirects</c><c> to</c>
+dub dub version which then redirects to
+the<c> secure</c><c> URL</c><c> without</c><c> the</c><c> www</c><c> so</c><c> the</c>
+the secure URL without the www so the
+first<c> thing</c><c> you're</c><c> gonna</c><c> want</c><c> to</c><c> do</c><c> is</c>
+first thing you're gonna want to do is
+create<c> the</c><c> proper</c><c> redirects</c><c> and</c><c> choose</c>
+create the proper redirects and choose
+one<c> version</c><c> so</c><c> I</c><c> would</c><c> recommend</c>
+one version so I would recommend
+consolidating<c> to</c><c> the</c><c> HTTPS</c><c> domain</c>
+consolidating to the HTTPS domain
+version<c> which</c><c> will</c><c> be</c><c> applied</c><c> to</c><c> every</c>
+version which will be applied to every
+individual<c> page</c><c> on</c><c> your</c><c> website</c><c> in</c>
+individual page on your website in
+addition<c> to</c><c> the</c><c> home</c><c> page</c><c> now</c><c> let's</c><c> get</c>
+addition to the home page now let's get
+to<c> our</c><c> search</c><c> queries</c><c> first</c><c> we'll</c><c> enter</c>
+to our search queries first we'll enter
+in<c> site</c><c> colon</c>
+in site colon
+Central<c> Park</c><c> tutors</c><c> com</c><c> which</c><c> will</c><c> look</c>
+Central Park tutors com which will look
+for<c> all</c><c> index</c><c> pages</c><c> on</c><c> this</c><c> domain</c><c> and</c>
+for all index pages on this domain and
+then<c> we'll</c><c> add</c><c> in</c><c> URL</c><c> colon</c><c> ww-will</c>
+then we'll add in URL colon ww-will
+for<c> any</c><c> index</c><c> pages</c><c> that</c><c> contain</c><c> ww-with</c>
+for any index pages that contain ww-with
+in<c> the</c><c> URL</c><c> and</c><c> everything</c><c> looks</c><c> good</c>
+in the URL and everything looks good
+here<c> now</c><c> we'll</c><c> modify</c><c> this</c><c> query</c><c> a</c><c> bit</c>
+here now we'll modify this query a bit
+and<c> change</c><c> this</c><c> last</c><c> part</c><c> to</c><c> -</c><c> in</c><c> your</c>
+and change this last part to - in your
+alcohol<c> in</c><c> HTTP</c><c> which</c><c> will</c><c> look</c><c> for</c>
+alcohol in HTTP which will look for
+unsecured<c> versions</c><c> of</c><c> the</c><c> pages</c><c> that</c><c> are</c>
+unsecured versions of the pages that are
+indexed<c> and</c><c> there</c><c> are</c><c> around</c><c> 164</c><c> results</c>
+indexed and there are around 164 results
+here<c> so</c><c> I'll</c><c> click</c><c> on</c><c> this</c><c> one</c><c> and</c>
+here so I'll click on this one and
+indeed<c> it</c><c> does</c><c> not</c><c> redirect</c><c> to</c><c> the</c>
+indeed it does not redirect to the
+secure<c> version</c><c> in</c><c> fact</c><c> this</c><c> page</c><c> looks</c><c> a</c>
+secure version in fact this page looks a
+little<c> bit</c><c> strange</c><c> because</c><c> it</c><c> has</c><c> a</c>
+little bit strange because it has a
+random<c> link</c><c> to</c><c> a</c><c> money</c><c> coach</c><c> some</c><c> kind</c>
+random link to a money coach some kind
+of<c> Swiss</c><c> website</c><c> in</c><c> a</c><c> Winnipeg</c><c> driving</c>
+of Swiss website in a Winnipeg driving
+school<c> that</c><c> doesn't</c><c> really</c><c> make</c><c> much</c>
+school that doesn't really make much
+sense<c> to</c><c> me</c><c> so</c><c> I'm</c><c> led</c><c> to</c><c> believe</c><c> that</c>
+sense to me so I'm led to believe that
+your<c> site</c><c> has</c><c> been</c><c> hacked</c>
+your site has been hacked
+alright<c> let's</c><c> go</c><c> back</c><c> to</c><c> our</c><c> search</c>
+alright let's go back to our search
+query<c> and</c><c> remove</c><c> the</c><c> minus</c><c> sign</c><c> to</c><c> look</c>
+query and remove the minus sign to look
+for<c> secure</c><c> URLs</c><c> that</c><c> are</c><c> in</c><c> Google's</c>
+for secure URLs that are in Google's
+index<c> and</c><c> testing</c><c> this</c><c> URL</c><c> there</c><c> is</c><c> no</c>
+index and testing this URL there is no
+redirect<c> either</c><c> and</c><c> a</c><c> bunch</c><c> of</c>
+redirect either and a bunch of
+interesting<c> links</c><c> here</c><c> too</c><c> now</c><c> if</c><c> you</c>
+interesting links here too now if you
+find<c> that</c><c> your</c><c> website</c><c> is</c><c> having</c><c> similar</c>
+find that your website is having similar
+issues<c> then</c><c> I</c><c> highly</c><c> recommend</c><c> fixing</c>
+issues then I highly recommend fixing
+these<c> before</c><c> continuing</c><c> on</c><c> with</c><c> this</c>
+these before continuing on with this
+tutorial<c> so</c><c> I'll</c><c> switch</c><c> gears</c><c> here</c><c> and</c>
+tutorial so I'll switch gears here and
+analyze<c> another</c><c> one</c><c> of</c><c> our</c><c> subscribers</c>
+analyze another one of our subscribers
+websites<c> called</c><c> XS</c><c> Co</c><c> UK</c><c> now</c><c> this</c><c> is</c><c> a</c>
+websites called XS Co UK now this is a
+family-run<c> business</c><c> based</c><c> in</c><c> Scotland</c>
+family-run business based in Scotland
+selling<c> discount</c><c> items</c><c> they</c><c> have</c><c> an</c>
+selling discount items they have an
+ecommerce<c> store</c><c> as</c><c> well</c><c> as</c><c> a</c><c> massive</c>
+ecommerce store as well as a massive
+25,000<c> square</c><c> foot</c><c> retail</c><c> warehouse</c><c> and</c>
+25,000 square foot retail warehouse and
+according<c> to</c><c> HR</c><c> site</c><c> Explorer</c><c> the</c>
+according to HR site Explorer the
+website<c> gets</c><c> around</c><c> 11,000</c><c> organic</c>
+website gets around 11,000 organic
+search<c> visitors</c><c> per</c><c> month</c><c> in</c><c> google</c><c> UK</c>
+search visitors per month in google UK
+has<c> indexed</c><c> around</c><c> 6700</c><c> pages</c><c> I've</c>
+has indexed around 6700 pages I've
+already<c> tested</c><c> all</c><c> redirect</c><c> versions</c><c> and</c>
+already tested all redirect versions and
+all<c> seem</c><c> good</c><c> as</c><c> well</c><c> as</c><c> the</c><c> other</c>
+all seem good as well as the other
+queries<c> we</c><c> had</c><c> done</c><c> before</c><c> so</c><c> this</c><c> time</c>
+queries we had done before so this time
+I'll<c> start</c><c> off</c><c> with</c><c> just</c><c> the</c><c> site</c><c> colon</c>
+I'll start off with just the site colon
+domain<c> Cote</c><c> UK</c><c> query</c><c> now</c><c> from</c><c> here</c><c> I'll</c>
+domain Cote UK query now from here I'll
+just<c> kind</c><c> of</c><c> skim</c><c> through</c><c> the</c><c> results</c><c> to</c>
+just kind of skim through the results to
+look<c> for</c><c> potential</c><c> issues</c><c> and</c><c> I</c><c> actually</c>
+look for potential issues and I actually
+don't<c> even</c><c> need</c><c> to</c><c> scroll</c><c> down</c><c> because</c>
+don't even need to scroll down because
+there's<c> one</c><c> thing</c><c> that</c><c> I</c><c> noticed</c>
+there's one thing that I noticed
+immediately<c> most</c><c> of</c><c> the</c><c> pages</c><c> actually</c>
+immediately most of the pages actually
+have<c> excess</c><c> dot-com</c><c> in</c><c> their</c><c> title</c><c> when</c>
+have excess dot-com in their title when
+the<c> website</c><c> actually</c><c> uses</c><c> the</c><c> code</c><c> UK</c>
+the website actually uses the code UK
+TLD<c> now</c><c> while</c><c> this</c><c> particular</c><c> issue</c><c> is</c>
+TLD now while this particular issue is
+more<c> for</c><c> branding</c><c> it</c><c> creates</c><c> in</c>
+more for branding it creates in
+congruence<c> between</c><c> the</c><c> title</c><c> and</c><c> domain</c>
+congruence between the title and domain
+which<c> may</c><c> affect</c><c> click-through</c><c> rates</c><c> and</c>
+which may affect click-through rates and
+other<c> times</c><c> you'll</c><c> see</c><c> templates</c><c> that</c>
+other times you'll see templates that
+have<c> just</c><c> gone</c><c> completely</c><c> wrong</c><c> so</c><c> a</c>
+have just gone completely wrong so a
+modifier<c> query</c><c> and</c><c> add</c><c> in</c><c> title</c><c> colon</c>
+modifier query and add in title colon
+excess<c> stop</c><c> calm</c><c> and</c><c> you'll</c><c> see</c><c> hundreds</c>
+excess stop calm and you'll see hundreds
+of<c> pages</c><c> where</c><c> the</c><c> title</c><c> tags</c><c> need</c><c> to</c><c> be</c>
+of pages where the title tags need to be
+updated<c> to</c><c> reflect</c><c> the</c><c> correct</c><c> domain</c>
+updated to reflect the correct domain
+now<c> the</c><c> thing</c><c> with</c><c> technical</c><c> SEO</c><c> is</c><c> that</c>
+now the thing with technical SEO is that
+as<c> you</c><c> discover</c><c> one</c><c> problem</c><c> you'll</c><c> start</c>
+as you discover one problem you'll start
+to<c> discover</c><c> others</c><c> so</c><c> if</c><c> we</c><c> go</c><c> to</c><c> excel</c>
+to discover others so if we go to excel
+calm<c> you'll</c><c> see</c><c> that</c><c> they've</c><c> redirected</c>
+calm you'll see that they've redirected
+the<c> homepage</c><c> to</c><c> their</c><c> co</c><c> uk</c><c> domain</c><c> great</c>
+the homepage to their co uk domain great
+but<c> let's</c><c> see</c><c> if</c><c> any</c><c> pages</c><c> from</c><c> their</c>
+but let's see if any pages from their
+dot-com<c> version</c><c> are</c><c> still</c><c> indexed</c><c> so</c>
+dot-com version are still indexed so
+I'll<c> enter</c><c> in</c><c> site</c><c> :</c><c> XS</c><c> comm</c><c> and</c><c> you'll</c>
+I'll enter in site : XS comm and you'll
+see<c> over</c><c> 100</c><c> results</c><c> clicking</c><c> through</c>
+see over 100 results clicking through
+you'll<c> notice</c><c> that</c><c> they</c><c> haven't</c>
+you'll notice that they haven't
+redirected<c> all</c><c> pages</c><c> yet</c><c> since</c><c> this</c><c> URL</c>
+redirected all pages yet since this URL
+still<c> loads</c><c> let's</c><c> go</c><c> back</c><c> to</c><c> the</c>
+still loads let's go back to the
+original<c> Google</c><c> syrup</c><c> and</c><c> as</c><c> we</c><c> start</c><c> to</c>
+original Google syrup and as we start to
+scroll<c> down</c><c> you'll</c><c> start</c><c> seeing</c><c> some</c>
+scroll down you'll start seeing some
+other<c> technical</c><c> issues</c><c> that</c><c> are</c><c> worth</c>
+other technical issues that are worth
+investigating<c> like</c><c> empty</c><c> meta</c>
+investigating like empty meta
+descriptions<c> truncated</c><c> title</c><c> tags</c><c> some</c>
+descriptions truncated title tags some
+pagination<c> issues</c><c> and</c><c> likely</c><c> faceted</c>
+pagination issues and likely faceted
+navigation<c> issues</c><c> too</c><c> for</c><c> example</c><c> we</c>
+navigation issues too for example we
+could<c> take</c><c> the</c><c> page</c><c> parameter</c><c> and</c><c> change</c>
+could take the page parameter and change
+our<c> query</c><c> a</c><c> bit</c><c> by</c><c> adding</c><c> in</c><c> URL</c><c> :</c><c> page</c>
+our query a bit by adding in URL : page
+and<c> you'll</c><c> see</c><c> about</c><c> 100</c><c> pages</c><c> that</c><c> are</c>
+and you'll see about 100 pages that are
+indexed<c> here</c><c> and</c><c> there's</c><c> another</c><c> URL</c>
+indexed here and there's another URL
+parameter<c> called</c><c> sort</c><c> which</c><c> they</c>
+parameter called sort which they
+probably<c> wouldn't</c><c> want</c><c> indexed</c><c> here</c>
+probably wouldn't want indexed here
+either<c> and</c><c> the</c><c> list</c><c> I'm</c><c> sure</c><c> will</c><c> go</c><c> on</c>
+either and the list I'm sure will go on
+particularly<c> since</c><c> it's</c><c> an</c><c> e-commerce</c>
+particularly since it's an e-commerce
+website<c> where</c><c> it's</c><c> really</c><c> easy</c><c> to</c><c> make</c>
+website where it's really easy to make
+technical<c> SEO</c><c> mistakes</c><c> now</c><c> if</c><c> you're</c>
+technical SEO mistakes now if you're
+using<c> WordPress</c><c> then</c><c> you</c><c> can</c><c> search</c><c> for</c>
+using WordPress then you can search for
+a<c> whole</c><c> bunch</c><c> of</c><c> common</c><c> footprints</c><c> like</c>
+a whole bunch of common footprints like
+site<c> colon</c><c> yourdomain.com</c><c> then</c><c> add</c><c> in</c>
+site colon yourdomain.com then add in
+URL<c> tag</c><c> or</c><c> author</c><c> or</c><c> page</c><c> which</c><c> will</c>
+URL tag or author or page which will
+help<c> find</c><c> pages</c><c> that</c><c> you</c><c> may</c><c> want</c><c> to</c>
+help find pages that you may want to
+know<c> index</c><c> or</c><c> you</c><c> can</c><c> look</c><c> for</c><c> weird</c>
+know index or you can look for weird
+ones<c> like</c><c> this</c><c> site</c><c> colon</c><c> domain.com</c><c> in</c>
+ones like this site colon domain.com in
+URL<c> welcome</c><c> to</c><c> WordPress</c><c> or</c><c> in</c><c> URL</c><c> hello</c>
+URL welcome to WordPress or in URL hello
+world<c> which</c><c> will</c><c> show</c><c> you</c><c> if</c><c> a</c><c> site</c>
+world which will show you if a site
+still<c> has</c><c> the</c><c> default</c><c> pages</c><c> from</c><c> the</c>
+still has the default pages from the
+initial<c> WordPress</c><c> install</c><c> you</c><c> can</c><c> also</c>
+initial WordPress install you can also
+do<c> something</c><c> like</c><c> site</c><c> colon</c><c> domain</c><c> comm</c>
+do something like site colon domain comm
+lorem<c> ipsum</c><c> to</c><c> find</c><c> any</c><c> pages</c><c> that</c><c> are</c>
+lorem ipsum to find any pages that are
+indexed<c> by</c><c> Google</c><c> that</c><c> are</c><c> still</c><c> using</c>
+indexed by Google that are still using
+dummy<c> text</c><c> to</c><c> be</c><c> sure</c><c> look</c><c> at</c><c> the</c><c> Meta</c>
+dummy text to be sure look at the Meta
+Description<c> to</c><c> see</c><c> if</c><c> the</c><c> whole</c><c> dummy</c>
+Description to see if the whole dummy
+text<c> is</c><c> being</c><c> used</c><c> on</c><c> the</c><c> page</c><c> one</c><c> last</c>
+text is being used on the page one last
+tip<c> I</c><c> want</c><c> to</c><c> share</c><c> with</c><c> you</c><c> is</c><c> for</c><c> the</c>
+tip I want to share with you is for the
+privacy<c> of</c><c> your</c><c> assets</c><c> employees</c><c> and</c>
+privacy of your assets employees and
+clients<c> and</c><c> that's</c><c> to</c><c> do</c><c> a</c><c> site</c><c> search</c>
+clients and that's to do a site search
+for<c> your</c><c> domain</c><c> and</c><c> then</c><c> to</c><c> add</c><c> file</c>
+for your domain and then to add file
+type<c> :</c><c> PDF</c><c> or</c><c> whatever</c><c> file</c><c> extension</c>
+type : PDF or whatever file extension
+you<c> want</c><c> to</c><c> search</c><c> now</c><c> the</c><c> PDFs</c><c> here</c><c> on</c>
+you want to search now the PDFs here on
+HFS<c> aren't</c><c> that</c><c> exciting</c><c> but</c><c> through</c><c> my</c>
+HFS aren't that exciting but through my
+research<c> I</c><c> found</c><c> organizations</c><c> that</c><c> are</c>
+research I found organizations that are
+uploading<c> employee</c><c> salaries</c><c> home</c>
+uploading employee salaries home
+addresses<c> and</c><c> other</c><c> personal</c><c> details</c>
+addresses and other personal details
+that<c> are</c><c> worth</c><c> deleting</c><c> as</c><c> you</c><c> can</c><c> see</c>
+that are worth deleting as you can see
+you<c> don't</c><c> need</c><c> any</c><c> fancy</c><c> tools</c><c> to</c><c> run</c><c> a</c>
+you don't need any fancy tools to run a
+basic<c> SEO</c><c> audit</c><c> so</c><c> I</c><c> encourage</c><c> you</c><c> to</c><c> do</c>
+basic SEO audit so I encourage you to do
+this<c> not</c><c> just</c><c> for</c><c> your</c><c> own</c><c> site</c><c> but</c><c> if</c>
+this not just for your own site but if
+you're<c> an</c><c> agency</c><c> you</c><c> can</c><c> use</c><c> these</c>
+you're an agency you can use these
+quarries<c> to</c><c> find</c><c> prospects</c><c> for</c><c> new</c>
+quarries to find prospects for new
+business<c> now</c><c> the</c><c> downside</c><c> to</c><c> using</c>
+business now the downside to using
+Google<c> alone</c><c> is</c><c> that</c><c> they</c><c> don't</c><c> always</c>
+Google alone is that they don't always
+recrawl<c> these</c><c> so</c><c> call</c>
+recrawl these so call
+meaningless<c> pages</c><c> frequently</c><c> and</c><c> the</c>
+meaningless pages frequently and the
+results<c> can</c><c> be</c><c> quite</c><c> messy</c><c> now</c><c> a</c><c> few</c>
+results can be quite messy now a few
+good<c> things</c><c> about</c><c> using</c><c> tools</c><c> like</c><c> hf</c>
+good things about using tools like hf
+site<c> audit</c><c> is</c><c> that</c><c> number</c><c> one</c><c> you</c><c> can</c>
+site audit is that number one you can
+get<c> fresh</c><c> data</c><c> since</c><c> you</c><c> would</c><c> run</c><c> the</c>
+get fresh data since you would run the
+crawl<c> on</c><c> demand</c><c> and</c><c> number</c><c> two</c><c> our</c><c> tool</c>
+crawl on demand and number two our tool
+automatically<c> search</c><c> for</c><c> over</c><c> a</c><c> hundred</c>
+automatically search for over a hundred
+common<c> technical</c><c> SEO</c><c> issues</c><c> that</c><c> you</c>
+common technical SEO issues that you
+can't<c> quite</c><c> find</c><c> using</c><c> google</c><c> alone</c><c> like</c>
+can't quite find using google alone like
+301<c> redirects</c><c> or</c><c> 404</c><c> broken</c><c> pages</c><c> unless</c>
+301 redirects or 404 broken pages unless
+you<c> want</c><c> to</c><c> click</c><c> through</c><c> to</c><c> each</c><c> page</c>
+you want to click through to each page
+so<c> from</c><c> our</c><c> site</c><c> audit</c><c> you</c><c> can</c><c> see</c><c> that</c>
+so from our site audit you can see that
+we<c> found</c><c> 276</c><c> 300</c><c> series</c><c> redirects</c><c> and</c><c> 30</c>
+we found 276 300 series redirects and 30
+404<c> pages</c><c> number</c><c> 3</c><c> you</c><c> can</c><c> automatically</c>
+404 pages number 3 you can automatically
+monitor<c> the</c><c> technical</c><c> SEO</c><c> health</c><c> of</c><c> your</c>
+monitor the technical SEO health of your
+website<c> through</c><c> scheduled</c><c> weekly</c><c> crawls</c>
+website through scheduled weekly crawls
+and<c> number</c><c> 4</c><c> you</c><c> can</c><c> use</c><c> data</c><c> Explorer</c>
+and number 4 you can use data Explorer
+to<c> create</c><c> your</c><c> own</c><c> custom</c><c> queries</c><c> to</c>
+to create your own custom queries to
+find<c> issues</c><c> that</c><c> wouldn't</c><c> apply</c><c> to</c><c> every</c>
+find issues that wouldn't apply to every
+site<c> for</c><c> example</c><c> if</c><c> I</c><c> wanted</c><c> to</c><c> look</c><c> for</c>
+site for example if I wanted to look for
+pages<c> that</c><c> include</c><c> access</c><c> calm</c><c> in</c><c> their</c>
+pages that include access calm in their
+title<c> tag</c><c> then</c><c> I</c><c> could</c><c> run</c><c> a</c><c> custom</c>
+title tag then I could run a custom
+query<c> to</c><c> look</c><c> for</c><c> internal</c><c> HTML</c><c> pages</c>
+query to look for internal HTML pages
+that<c> return</c><c> a</c><c> 200</c><c> response</c><c> code</c><c> with</c>
+that return a 200 response code with
+titles<c> that</c><c> contain</c><c> XS</c><c> dot-com</c><c> from</c><c> here</c>
+titles that contain XS dot-com from here
+I<c> can</c><c> export</c><c> all</c><c> of</c><c> the</c><c> URLs</c><c> and</c><c> have</c>
+I can export all of the URLs and have
+someone<c> else</c><c> update</c><c> the</c><c> affected</c><c> pages</c>
+someone else update the affected pages
+or<c> send</c><c> it</c><c> to</c><c> a</c><c> developer</c><c> to</c><c> fix</c><c> the</c>
+or send it to a developer to fix the
+template<c> so</c><c> while</c><c> you</c><c> might</c><c> want</c><c> to</c><c> go</c>
+template so while you might want to go
+and<c> build</c><c> links</c><c> or</c><c> create</c><c> content</c><c> make</c>
+and build links or create content make
+sure<c> that</c><c> your</c><c> website's</c><c> rankings</c><c> aren't</c>
+sure that your website's rankings aren't
+hindered<c> by</c><c> basic</c><c> technical</c><c> SEO</c><c> mistakes</c>
+hindered by basic technical SEO mistakes
+because<c> they're</c><c> super</c><c> important</c><c> and</c>
+because they're super important and
+quite<c> easy</c><c> to</c><c> fix</c><c> for</c><c> the</c><c> most</c><c> part</c><c> now</c>
+quite easy to fix for the most part now
+if<c> you</c><c> enjoyed</c><c> this</c><c> video</c><c> make</c><c> sure</c><c> to</c>
+if you enjoyed this video make sure to
+like<c> share</c><c> and</c><c> subscribe</c><c> and</c><c> if</c><c> you</c><c> want</c>
+like share and subscribe and if you want
+to<c> see</c><c> more</c><c> technical</c><c> SEO</c><c> videos</c><c> then</c>
+to see more technical SEO videos then
+let<c> us</c><c> know</c><c> in</c><c> the</c><c> comments</c><c> so</c><c> keep</c>
+let us know in the comments so keep
+grinding<c> away</c><c> don't</c><c> ignore</c><c> your</c>
+grinding away don't ignore your
+technical<c> SEO</c><c> and</c><c> I'll</c><c> see</c><c> you</c><c> in</c><c> the</c>
+technical SEO and I'll see you in the
+next<c> tutorial</c>

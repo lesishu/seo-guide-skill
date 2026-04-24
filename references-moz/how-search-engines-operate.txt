@@ -1,0 +1,529 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary)
+
+[4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+
+[5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## How Search Engines Work: Crawling, Indexing, and Ranking
+
+### First, show up.
+
+As we mentioned in [Chapter 1](/beginners-guide-to-seo/why-search-engine-marketing-is-necessary#index), search engines are answer machines. They exist to discover, understand, and organize the internet's content in order to offer the most relevant results to the questions searchers are asking.
+
+In order to show up in search results, your content needs to first be visible to search engines. It's arguably the most important piece of the SEO puzzle: If your site can't be found, there's no way you'll ever show up in the SERPs (Search Engine Results Page).
+
+### What's that word mean?
+
+Having trouble with any of the definitions in this section? Our SEO glossary has chapter-specific definitions to help you stay up-to-speed.
+
+[ See Chapter 2 definitions  ](/beginners-guide-to-seo/seo-glossary#chapter2)
+
+## How do search engines work?
+
+Search engines work through three primary functions:
+
+  1. **Crawling:** Scour the Internet for content, looking over the code/content for each URL they find.
+  2. **Indexing:** Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries.
+  3. **Ranking:** Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
+
+### What is search engine crawling?
+
+[Crawling](https://support.google.com/webmasters/answer/6065802) is the discovery process in which search engines send out a team of robots (known as crawlers or spiders) to find new and updated content. Content can vary — it could be a webpage, an image, a video, a PDF, etc. — but regardless of the format, content is discovered by links.
+
+![Search engine robots, also called spiders, crawl from page to page to find new and updated content.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch2-04-1.svg?dm=1553556194)
+
+Googlebot starts out by fetching a few web pages, and then follows the links on those webpages to find new URLs. By hopping along this path of links, the crawler is able to find new content and add it to their index called [Caffeine](https://googleblog.blogspot.com/2010/06/our-new-search-index-caffeine.html) — a massive database of discovered URLs — to later be retrieved when a searcher is seeking information that the content on that URL is a good match for.
+
+## The Fundamentals of Crawling for SEO - Whiteboard Friday
+
+![](https://fast.wistia.com/embed/medias/yz7oyinokr/swatch)
+
+Jes Scholz digs into the foundations of search engine crawling in this [Whiteboard Friday](https://moz.com/blog/fundamentals-of-crawling-whiteboard-friday) episode.
+
+### What is a search engine index?
+
+Search engines process and store information they find in an index, a huge database of all the content they’ve discovered and deem good enough to serve up to searchers.
+
+### Search engine ranking
+
+When someone performs a search, search engines scour their index for highly relevant content and then orders that content in the hopes of solving the searcher's query. This ordering of search results by relevance is known as ranking. In general, you can assume that the higher a website is ranked, the more relevant the search engine believes that site is to the query.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Ed-Kozlowski-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760466949&s=caf95fd9d47ae80f2b8fac8c339a1b75)](/checkout/freetrial)
+
+It’s possible to block search engine crawlers from part or all of your site, or instruct search engines to avoid storing certain pages in their index. While there can be reasons for doing this, if you want your content found by searchers, you have to first make sure it’s accessible to crawlers and is indexable. Otherwise, it’s as good as invisible.
+
+By the end of this chapter, you’ll have the context you need to work with the search engine, rather than against it!
+
+### In SEO, not all search engines are equal
+
+Many beginners wonder about the relative importance of particular search engines. Most people know that Google has the largest market share, but how important it is to optimize for Bing, Yahoo, and others? The truth is that despite the existence of [more than 30 major web search engines](https://en.wikipedia.org/wiki/Web_search_engine), the SEO community really only pays attention to Google. **Why?** The short answer is that Google is where the vast majority of people search the web. If we include Google Images, Google Maps, and YouTube (a Google property), [more than 90%](/blog/state-of-searcher-behavior-revealed) of web searches happen on Google — that's nearly 20 times Bing and Yahoo combined.
+
+## Crawling: Can search engines find your pages?
+
+As you've just learned, making sure your site gets crawled and indexed is a prerequisite to showing up in the SERPs. If you already have a website, it might be a good idea to start off by seeing how many of your pages are in the index. This will yield some great insights into whether Google is crawling and finding all the pages you want it to, and none that you don’t.
+
+One way to check your indexed pages is "site:yourdomain.com", an [advanced search operator](/learn/seo/search-operators). Head to Google and type "site:yourdomain.com" into the search bar. This will return results Google has in its index for the site specified:
+
+![A screenshot of a site:moz.com search in Google, showing the number of results below the search box.](https://moz.com/images/learn/guides/BGSEOAsset-11.png?auto=compress%2Cformat&fit=crop&dm=1554095519&s=f5779dda56aec9b5d69b0cc1bc3a875f)
+
+The number of results Google displays (see _“About XX results”_ above) isn't exact, but it does give you a solid idea of which pages are indexed on your site and how they are currently showing up in search results.
+
+For more accurate results, monitor and use the Index Coverage report in Google Search Console. You can sign up for a free [Google Search Console account](https://support.google.com/webmasters/answer/4559176?hl=en) if you don't currently have one. With this tool, you can submit sitemaps for your site and monitor how many submitted pages have actually been added to Google's index, among other things.
+
+If you're not showing up anywhere in the search results, there are a few possible reasons why:
+
+  * Your site is brand new and hasn't been crawled yet.
+  * Your site isn't linked to from any external websites.
+  * Your site's navigation makes it hard for a robot to crawl it effectively.
+  * Your site contains some basic code called crawler directives that is blocking search engines.
+  * Your site has been penalized by Google for spammy tactics.
+
+## Tell search engines how to crawl your site
+
+If you used Google Search Console or the “site:domain.com” advanced search operator and found that some of your important pages are missing from the index and/or some of your unimportant pages have been mistakenly indexed, there are some optimizations you can implement to better direct Googlebot how you want your web content crawled. Telling search engines how to crawl your site can give you better control of what ends up in the index.
+
+Most people think about making sure Google can find their important pages, but it’s easy to forget that there are likely pages you don’t want Googlebot to find. These might include things like old URLs that have thin content, duplicate URLs (such as sort-and-filter parameters for e-commerce), special promo code pages, staging or test pages, and so on.
+
+To direct Googlebot away from certain pages and sections of your site, use robots.txt.
+
+### Robots.txt
+
+Robots.txt files are located in the root directory of websites (ex. yourdomain.com/robots.txt) and suggest which parts of your site search engines should and shouldn't crawl, as well as the speed at which they crawl your site, via [specific robots.txt directives](/learn/seo/robotstxt).
+
+### How Googlebot treats robots.txt files
+
+  * If Googlebot can't find a robots.txt file for a site, it proceeds to crawl the site.
+  * If Googlebot finds a robots.txt file for a site, it will usually abide by the suggestions and proceed to crawl the site.
+  * If Googlebot encounters an error while trying to access a site’s robots.txt file and can't determine if one exists or not, it won't crawl the site.
+
+### Optimize for crawl budget!
+
+Crawl budget is the average number of URLs Googlebot will crawl on your site before leaving, so crawl budget optimization ensures that Googlebot isn’t wasting time crawling through your unimportant pages at risk of ignoring your important pages. Crawl budget is most important on [very large sites with tens of thousands of URLs](/blog/large-site-seo-basics-faceted-navigation), but it’s never a bad idea to block crawlers from accessing the content you definitely don’t care about. Just make sure not to block a crawler’s access to pages you’ve added other directives on, such as canonical or noindex tags. If Googlebot is blocked from a page, it won’t be able to see the instructions on that page.
+
+Not all web robots follow robots.txt. People with bad intentions (e.g., e-mail address scrapers) build bots that don't follow this protocol. In fact, some bad actors use robots.txt files to find where you’ve located your private content. Although it might seem logical to block crawlers from private pages such as login and administration pages so that they don’t show up in the index, placing the location of those URLs in a publicly accessible robots.txt file also means that people with malicious intent can more easily find them. It’s better to NoIndex these pages and gate them behind a login form rather than place them in your robots.txt file.
+
+You can read more details about this in the [robots.txt portion of our Learning Center](/learn/seo/robotstxt#index).
+
+### Defining URL parameters in GSC
+
+Some sites (most common with e-commerce) make the same content available on multiple different URLs by appending certain parameters to URLs. If you’ve ever shopped online, you’ve likely narrowed down your search via filters. For example, you may search for “shoes” on Amazon, and then refine your search by size, color, and style. Each time you refine, the URL changes slightly:
+
+    https://www.example.com/products/women/dresses/green.htmhttps://www.example.com/products/women?category=dresses&color=greenhttps://example.com/shopindex.php?product_id=32&highlight=green+dress&cat_id=1&sessionid=123$affid=43
+
+How does Google know which version of the URL to serve to searchers? Google does a pretty good job at figuring out the representative URL on its own, but you can use the URL Parameters feature in Google Search Console to tell Google exactly how you want them to treat your pages. If you use this feature to tell Googlebot “crawl no URLs with ____ parameter,” then you’re essentially asking to hide this content from Googlebot, which could result in the removal of those pages from search results. That’s what you want if those parameters create duplicate pages, but not ideal if you want those pages to be indexed.
+
+### Can crawlers find all your important content?
+
+Now that you know some tactics for ensuring search engine crawlers stay away from your unimportant content, let’s learn about the optimizations that can help Googlebot find your important pages.
+
+Sometimes a search engine will be able to find parts of your site by crawling, but other pages or sections might be obscured for one reason or another. It's important to make sure that search engines are able to discover all the content you want indexed, and not just your homepage.
+
+Ask yourself this: Can the bot crawl _through_ your website, and not just to it?
+
+![A boarded-up door, representing a site that can be crawled to but not crawled through.](https://moz.com/files/learn/guides/Closeddoor-01-v2.svg?dm=1553885975)
+
+#### Is your content hidden behind login forms?
+
+If you require users to log in, fill out forms, or answer surveys before accessing certain content, search engines won't see those protected pages. A crawler is definitely not going to log in.
+
+#### Are you relying on search forms?
+
+Robots cannot use search forms. Some individuals believe that if they place a search box on their site, search engines will be able to find everything that their visitors search for.
+
+#### Is text hidden within non-text content?
+
+Non-text media forms (images, video, GIFs, etc.) should not be used to display text that you wish to be indexed. While search engines are getting better at recognizing images, there's no guarantee they will be able to read and understand it just yet. It's always best to add text within the <HTML> markup of your webpage.
+
+#### Can search engines follow your site navigation?
+
+Just as a crawler needs to discover your site via links from other sites, it needs a path of links on your own site to guide it from page to page. If you’ve got a page you want search engines to find but it isn’t linked to from any other pages, it’s as good as invisible. Many sites make the critical mistake of structuring their navigation in ways that are inaccessible to search engines, hindering their ability to get listed in search results.
+
+![A depiction of how pages that are linked to can be found by crawlers, whereas a page not linked to in your site navigation exists as an island, undiscoverable.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch2-02-outlines-01.svg?dm=1554154659)
+
+#### **Common navigation mistakes that can keep crawlers from seeing all of your site:**
+
+  * Having a mobile navigation that shows different results than your desktop navigation
+  * Any type of navigation where the menu items are not in the HTML, such as JavaScript-enabled navigations. Google has gotten much better at crawling and understanding Javascript, but it’s [still not a perfect process](/blog/javascript-seo). The more surefire way to ensure something gets found, understood, and indexed by Google is by putting it in the HTML.
+  * Personalization, or showing unique navigation to a specific type of visitor versus others, could appear to be cloaking to a search engine crawler
+  * Forgetting to link to a primary page on your website through your navigation — remember, links are the paths crawlers follow to new pages!
+
+This is why it's essential that your website has a clear navigation and helpful URL folder structures.
+
+[![](https://moz.com/images/learn/Learn-CTAs/John-Varghese-Try-Link-Explorer.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760467213&s=bc104910782552b0f70dca8cd9fe0cf7)](/link-explorer)
+
+### Do you have clean information architecture?
+
+Information architecture is the practice of organizing and labeling content on a website to improve efficiency and findability for users. The best information architecture is intuitive, meaning that users shouldn't have to think very hard to flow through your website or to find something.
+
+### Are you utilizing sitemaps?
+
+A sitemap is just what it sounds like: a list of URLs on your site that crawlers can use to discover and index your content. One of the easiest ways to ensure Google is finding your highest priority pages is to [create a file that meets Google's standards](https://support.google.com/webmasters/answer/183668?hl=en) and submit it through Google Search Console. While submitting a sitemap doesn’t replace the need for good site navigation, it can certainly help crawlers follow a path to all of your important pages.
+
+Ensure that you’ve only included URLs that you want indexed by search engines, and be sure to give crawlers consistent directions. For example, don’t include a URL in your sitemap if you’ve blocked that URL via robots.txt or include URLs in your sitemap that are duplicates rather than the preferred, canonical version (we’ll provide more information on canonicalization in [Chapter 5](/beginners-guide-to-seo-1/technical-seo)!).
+
+[ Learn more about XML sitemaps  ](/blog/xml-sitemaps)
+
+If your site doesn't have any other sites linking to it, you still might be able to get it indexed by submitting your XML sitemap in Google Search Console. There's no guarantee they'll include a submitted URL in their index, but it's worth a try!
+
+### Are crawlers getting errors when they try to access your URLs?
+
+In the process of crawling the URLs on your site, a crawler may encounter errors. You can go to Google Search Console’s “Crawl Errors” report to detect URLs on which this might be happening - this report will show you server errors and not found errors. Server log files can also show you this, as well as a treasure trove of other information such as crawl frequency, but because accessing and dissecting server log files is a more advanced tactic, we won’t discuss it at length in the Beginner’s Guide, although you can [learn more about it here](/blog/log-file-analysis).
+
+Before you can do anything meaningful with the crawl error report, it’s important to understand server errors and "not found" errors.
+
+#### 4xx Codes: When search engine crawlers can’t access your content due to a client error
+
+4xx errors are client errors, meaning the requested URL contains bad syntax or cannot be fulfilled. One of the most common 4xx errors is the “404 – not found” error. These might occur because of a URL typo, deleted page, or broken redirect, just to name a few examples. When search engines hit a 404, they can’t access the URL. When users hit a 404, they can get frustrated and leave.
+
+### Create custom 404 pages!
+
+Customize your 404 page by adding in links to important pages on your site, a site search feature, and even contact information. This should make it less likely that visitors will bounce off your site when they hit a 404.
+
+#### 5xx Codes: When search engine crawlers can’t access your content due to a server error
+
+5xx errors are server errors, meaning the server the web page is located on failed to fulfill the searcher or search engine’s request to access the page. In Google Search Console’s “Crawl Error” report, there is a tab dedicated to these errors. These typically happen because the request for the URL timed out, so Googlebot abandoned the request. View [Google’s documentation](https://support.google.com/webmasters/answer/35120?hl=en&visit_id=636743634369653164-3372171668&rd=1) to learn more about fixing server connectivity issues.
+
+Thankfully, there is a way to tell both searchers and search engines that your page has moved — the 301 (permanent) redirect.
+
+![A depiction of redirecting one page to another.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch5-03-outlines-01.svg?dm=1554154778)
+
+Say you move a page from _example.com/young-dogs/_ to _example.com/puppies/_. Search engines and users need a bridge to cross from the old URL to the new. That bridge is a 301 redirect.
+
+| When you do implement a 301:| When you don't implement a 301:
+---|---|---
+**Link Equity**|  Transfers link equity from the page’s old location to the new URL.| Without a 301, the authority from the previous URL is not passed on to the new version of the URL.
+**Indexing**|  Helps Google find and index the new version of the page.| The presence of 404 errors on your site alone doesn't harm search performance, but letting ranking / trafficked pages 404 can result in them falling out of the index, with rankings and traffic going with them — yikes!
+**User Experience**|  Ensures users find the page they’re looking for.| Allowing your visitors to click on dead links will take them to error pages instead of the intended page, which can be frustrating.
+
+The 301 status code itself means that the page has permanently moved to a new location, so avoid redirecting URLs to irrelevant pages — URLs where the old URL’s content doesn’t actually live. If a page is ranking for a query and you 301 it to a URL with different content, it might drop in rank position because the content that made it relevant to that particular query isn't there anymore. 301s are powerful — move URLs responsibly!
+
+You also have the option of 302 redirecting a page, but this should be reserved for temporary moves and in cases where passing link equity isn’t as big of a concern. 302s are kind of like a road detour. You're temporarily siphoning traffic through a certain route, but it won't be like that forever.
+
+### Watch out for redirect chains!
+
+It can be difficult for Googlebot to reach your page if it has to go through multiple redirects. Google calls these “redirect chains” and they recommend limiting them as much as possible. If you redirect example.com/1 to example.com/2, then later decide to redirect it to example.com/3, it’s best to eliminate the middleman and simply redirect example.com/1 to example.com/3.
+
+[ Learn more about redirect chains  ](/blog/heres-how-to-keep-301-redirects-from-ruining-your-seo)
+
+Once you’ve ensured your site is optimized for crawlability, the next order of business is to make sure it can be indexed.
+
+## Indexing: How do search engines interpret and store your pages?
+
+Once you’ve ensured your site has been crawled, the next order of business is to make sure it can be indexed. That’s right — just because your site can be discovered and crawled by a search engine doesn’t necessarily mean that it will be stored in their index. In the previous section on crawling, we discussed how search engines discover your web pages. The index is where your discovered pages are stored. After a crawler finds a page, the search engine renders it just like a browser would. In the process of doing so, the search engine analyzes that page's contents. All of that information is stored in its index.
+
+![A robot storing a book in a library.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch2-05-1.svg?dm=1553556448)
+
+Read on to learn about how indexing works and how you can make sure your site makes it into this all-important database.
+
+### Can I see how a Googlebot crawler sees my pages?
+
+Yes, the cached version of your page will reflect a snapshot of the last time Googlebot crawled it.
+
+Google crawls and caches web pages at different frequencies. More established, well-known sites that post frequently like [https://www.nytimes.com](https://www.nytimes.com/) will be crawled more frequently than the much-less-famous website for Roger the Mozbot’s side hustle, [http://www.rogerlovescupcakes....](http://www.rogerlovescupcakes.com) (if only it were real…)
+
+You can view what your cached version of a page looks like by clicking the drop-down arrow next to the URL in the SERP and choosing "Cached":
+
+![A screenshot of where to see cached results in the SERPs.](https://moz.com/images/learn/guides/BGSEOAsset-10.png?auto=compress%2Cformat&fit=crop&dm=1554095574&s=6af8466ddac943cbf744bf0f9337cdba)
+
+You can also view the text-only version of your site to determine if your important content is being crawled and cached effectively.
+
+### Are pages ever removed from the index?
+
+Yes, pages can be removed from the index! Some of the main reasons why a URL might be removed include:
+
+  * The URL is returning a "not found" error (4XX) or server error (5XX) – This could be accidental (the page was moved and a 301 redirect was not set up) or intentional (the page was deleted and 404ed in order to get it removed from the index)
+  * The URL had a noindex meta tag added – This tag can be added by site owners to instruct the search engine to omit the page from its index.
+  * The URL has been manually penalized for violating the search engine’s Webmaster Guidelines and, as a result, was removed from the index.
+  * The URL has been blocked from crawling with the addition of a password required before visitors can access the page.
+
+If you believe that a page on your website that was previously in Google’s index is no longer showing up, you can use the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289) to learn the status of the page, or use [Fetch as Google](https://support.google.com/webmasters/answer/6066468?hl=en) which has a "Request Indexing" feature to submit individual URLs to the index. (Bonus: GSC’s “fetch” tool also has a “render” option that allows you to see if there are any issues with how Google is interpreting your page).
+
+## Tell search engines how to index your site
+
+### Robots meta directives
+
+Meta directives (or "meta tags") are instructions you can give to search engines regarding how you want your web page to be treated.
+
+You can tell search engine crawlers things like "do not index this page in search results" or "don’t pass any link equity to any on-page links". [These instructions](https://developers.google.com/search/reference/robots_meta_tag?csw=1) are executed via Robots Meta Tags in the <head> of your HTML pages (most commonly used) or via the X-Robots-Tag in the HTTP header.
+
+### Meta directives affect indexing, not crawling
+
+Googlebot needs to crawl your page in order to see its meta directives, so if you’re trying to prevent crawlers from accessing certain pages, meta directives are not the way to do it. Robots tags must be crawled to be respected.
+
+#### Robots meta tag
+
+The robots meta tag can be used within the <head> of the HTML of your webpage. It can exclude all or specific search engines. The following are the most common meta directives, along with what situations you might apply them in.
+
+**index/noindex** tells the engines whether the page should be crawled and kept in a search engines' index for retrieval. If you opt to use "noindex," you’re communicating to crawlers that you want the page excluded from search results. By default, search engines assume they can index all pages, so using the "index" value is unnecessary.
+
+  * **When you might use:** You might opt to mark a page as "noindex" if you’re trying to trim thin pages from Google’s index of your site (ex: user generated profile pages) but you still want them accessible to visitors.
+
+**follow/nofollow** tells search engines whether links on the page should be followed or nofollowed. “Follow” results in bots following the links on your page and passing link equity through to those URLs. Or, if you elect to employ "nofollow," the search engines will not follow or pass any link equity through to the links on the page. By default, all pages are assumed to have the "follow" attribute.
+
+  * **When you might use:** nofollow is often used together with noindex when you’re trying to prevent a page from being indexed as well as prevent the crawler from following links on the page.
+
+**noarchive** is used to restrict search engines from saving a cached copy of the page. By default, the engines will maintain visible copies of all pages they have indexed, accessible to searchers through the cached link in the search results.
+
+  * **When you might use:** If you run an e-commerce site and your prices change regularly, you might consider the noarchive tag to prevent searchers from seeing outdated pricing.
+
+Here’s an example of a meta robots noindex, nofollow tag:
+
+    <!DOCTYPE html><html><head><meta name="robots" content="noindex, nofollow" /></head><body>...</body></html>
+
+This example excludes all search engines from indexing the page and from following any on-page links. If you want to exclude multiple crawlers, like googlebot and bing for example, it’s okay to use multiple robot exclusion tags.
+
+#### X-Robots-Tag
+
+The x-robots tag is used within the HTTP header of your URL, providing more flexibility and functionality than meta tags if you want to block search engines at scale because you can use regular expressions, block non-HTML files, and apply sitewide noindex tags.
+
+For example, you could easily exclude entire folders or file types (like moz.com/no-bake/old-recipes-to-noindex):
+
+    <Files ~ “\/?no\-bake\/.*”> Header set X-Robots-Tag “noindex, nofollow”</Files>
+
+The derivatives used in a robots meta tag can also be used in an X-Robots-Tag.
+
+Or specific file types (like PDFs):
+
+    <Files ~ “\.pdf$”> Header set X-Robots-Tag “noindex, nofollow”</Files>
+
+For more information on Meta Robot Tags, explore [Google’s Robots Meta Tag Specifications](https://developers.google.com/search/reference/robots_meta_tag).
+
+### WordPress tip:
+
+In Dashboard > Settings > Reading, make sure the "Search Engine Visibility" box is _not_ checked. This blocks search engines from coming to your site via your robots.txt file!
+
+Understanding the different ways you can influence crawling and indexing will help you avoid the common pitfalls that can prevent your important pages from getting found.
+
+## Ranking: How do search engines rank URLs?
+
+How do search engines ensure that when someone types a query into the search bar, they get relevant results in return? That process is known as ranking, or the ordering of search results by most relevant to least relevant to a particular query.
+
+![An artistic interpretation of ranking, with three dogs sitting pretty on first, second, and third-place pedestals.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch3-01.svg?dm=1554098170)
+
+To determine relevance, search engines use algorithms, a process or formula by which stored information is retrieved and ordered in meaningful ways. These algorithms have gone through many changes over the years in order to improve the quality of search results. Google, for example, makes algorithm adjustments every day — some of these updates are minor quality tweaks, whereas others are core/broad algorithm updates deployed to tackle a specific issue, like Penguin to tackle link spam. Check out our [Google Algorithm Change History](/google-algorithm-change) for a list of both confirmed and unconfirmed Google updates going back to the year 2000.
+
+Why does the algorithm change so often? Is Google just trying to keep us on our toes? While Google doesn’t always reveal specifics as to why they do what they do, we do know that Google’s aim when making algorithm adjustments is to improve overall search quality. That’s why, in response to algorithm update questions, Google will answer with something along the lines of: "We’re making quality updates all the time." This indicates that, if your site suffered after an algorithm adjustment, compare it against [Google’s Quality Guidelines](https://support.google.com/webmasters/topic/6001971?hl=en&ref_topic=6001981) or [Search Quality Rater Guidelines](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf), both are very telling in terms of what search engines want.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Laura-Simis-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760464910&s=fd254189cd07c74553b5f4228a2e720e)](/checkout/freetrial)
+
+### What do search engines want?
+
+Search engines have always wanted the same thing: to provide useful answers to searcher’s questions in the most helpful formats. If that’s true, then why does it appear that SEO is different now than in years past?
+
+Think about it in terms of someone learning a new language.
+
+At first, their understanding of the language is very rudimentary — “See Spot Run.” Over time, their understanding starts to deepen, and they learn semantics — the meaning behind language and the relationship between words and phrases. Eventually, with enough practice, the student knows the language well enough to even understand nuance, and is able to provide answers to even vague or incomplete questions.
+
+When search engines were just beginning to learn our language, it was much easier to game the system by using tricks and tactics that actually go against quality guidelines. Take keyword stuffing, for example. If you wanted to rank for a particular keyword like “funny jokes,” you might add the words “funny jokes” a bunch of times onto your page, and make it bold, in hopes of boosting your ranking for that term:
+
+> Welcome to **funny jokes**! We tell the **funniest jokes** in the world. **Funny jokes** are **fun** and crazy. Your **funny joke** awaits. Sit back and read **funny jokes** because **funny jokes** can make you happy and **funnier**. Some **funny favorite funny jokes**.
+
+This tactic made for terrible user experiences, and instead of laughing at funny jokes, people were bombarded by annoying, hard-to-read text. It may have worked in the past, but this is never what search engines wanted.
+
+### The role links play in SEO
+
+When we talk about links, we could mean two things. Backlinks or "inbound links" are links from other websites that point to your website, while internal links are links on your own site that point to your other pages (on the same site).
+
+![A depiction of how inbound links and internal links work.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch2-03-outline-01.svg?dm=1554154844)
+
+Links have historically played a big role in SEO. Very early on, search engines needed help figuring out which URLs were more trustworthy than others to help them determine how to rank search results. Calculating the number of links pointing to any given site helped them do this.
+
+Backlinks work very similarly to real-life WoM (Word-of-Mouth) referrals. Let’s take a hypothetical coffee shop, Jenny’s Coffee, as an example:
+
+  * **Referrals from others = good sign of authority**
+    *  _Example:_ Many different people have all told you that Jenny’s Coffee is the best in town
+  * **Referrals from yourself = biased, so not a good sign of authority**
+    *  _Example:_ Jenny claims that Jenny’s Coffee is the best in town
+  * **Referrals from irrelevant or low-quality sources = not a good sign of authority and could even get you flagged for spam**
+    *  _Example:_ Jenny paid to have people who have never visited her coffee shop tell others how good it is.
+  * **No referrals = unclear authority**
+    *  _Example:_ Jenny’s Coffee might be good, but you’ve been unable to find anyone who has an opinion so you can’t be sure.
+
+This is why [PageRank](/learn/seo/what-is-link-equity) was created. PageRank (part of Google's core algorithm) is a link analysis algorithm named after one of Google's founders, Larry Page. PageRank estimates the importance of a web page by measuring the quality and quantity of links pointing to it. The assumption is that the more relevant, important, and trustworthy a web page is, the more links it will have earned.
+
+The more natural backlinks you have from high-authority (trusted) websites, the better your odds are to rank higher within search results.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Lily-Ray-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760469108&s=6561e9bf182f53d75a1cdeceb7c98b1c)](/checkout/freetrial)
+
+### The role content plays in SEO
+
+There would be no point to links if they didn’t direct searchers to something. That something is content! Content is more than just words; it’s anything meant to be consumed by searchers — there’s video content, image content, and of course, text. If search engines are answer machines, content is the means by which the engines deliver those answers.
+
+Any time someone performs a search, there are thousands of possible results, so how do search engines decide which pages the searcher is going to find valuable? A big part of determining where your page will rank for a given query is how well the content on your page matches the query’s intent. In other words, does this page match the words that were searched and help fulfill the task the searcher was trying to accomplish?
+
+Because of this focus on user satisfaction and task accomplishment, there’s no strict benchmarks on how long your content should be, how many times it should contain a keyword, or what you put in your header tags. All those can play a role in how well a page performs in search, but the focus should be on the users who will be reading the content.
+
+Today, with hundreds or even thousands of ranking signals, the top three have stayed fairly consistent: links to your website (which serve as a third-party credibility signals), on-page content (quality content that fulfills a searcher’s intent), and RankBrain.
+
+### What is RankBrain?
+
+RankBrain is the machine learning component of Google’s core algorithm. Machine learning is a computer program that continues to improve its predictions over time through new observations and training data. In other words, it’s always learning, and because it’s always learning, search results should be constantly improving.
+
+For example, if RankBrain notices a lower ranking URL providing a better result to users than the higher ranking URLs, you can bet that RankBrain will adjust those results, moving the more relevant result higher and demoting the lesser relevant pages as a byproduct.
+
+![An image showing how results can change and are volatile enough to show different rankings even hours later.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch2-07-v2.svg?dm=1553882486)
+
+Like most things with the search engine, we don’t know exactly what comprises RankBrain, but apparently, neither do [the folks at Google](https://www.seroundtable.com/google-dont-understand-rankbrain-21744.html).
+
+#### What does this mean for SEOs?
+
+Because Google will continue leveraging RankBrain to promote the most relevant, helpful content, we need to focus on fulfilling searcher intent more than ever before. Provide the best possible information and experience for searchers who might land on your page, and you’ve taken a big first step to performing well in a RankBrain world.
+
+### Engagement metrics: correlation, causation, or both?
+
+With Google rankings, engagement metrics are most likely part correlation and part causation.
+
+When we say engagement metrics, we mean data that represents how searchers interact with your site from search results. This includes things like:
+
+  * **Clicks** (visits from search)
+  * **Time on page** (amount of time the visitor spent on a page before leaving it)
+  * **Bounce rate** (the percentage of all website sessions where users viewed only one page)
+  * **Pogo-sticking** (clicking on an organic result and then quickly returning to the SERP to choose another result)
+
+Many tests, including [Moz’s own ranking factor survey](/search-ranking-factors/correlations), have indicated that engagement metrics correlate with higher ranking, but causation has been hotly debated. Are good engagement metrics just indicative of highly ranked sites? Or are sites ranked highly because they possess good engagement metrics?
+
+[![](https://moz.com/images/learn/Learn-CTAs/Jason-Dodge-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760469236&s=150a519e3c37d4467da290092ab9583f)](/checkout/freetrial)
+
+#### What Google has said
+
+While they’ve never used the term “direct ranking signal,” Google has been clear that they absolutely use click data to modify the SERP for particular queries.
+
+[According to Google’s former Chief of Search Quality](https://twitter.com/dannysullivan/status/580632457877331968?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.blindfiveyearold.com%2Fis-click-through-rate-a-ranking-signal), Udi Manber:
+
+> “The ranking itself is affected by the click data. If we discover that, for a particular query, 80% of people click on #2 and only 10% click on #1, after a while we figure out probably #2 is the one people want, so we’ll switch it.”
+
+[Another comment](https://www.quora.com/Did-Bing-intentionally-copy-Googles-search-results/answer/Edmond-Lau) from former Google engineer Edmond Lau corroborates this:
+
+> “It’s pretty clear that any reasonable search engine would use click data on their own results to feed back into ranking to improve the quality of search results. The actual mechanics of how click data is used is often proprietary, but Google makes it obvious that it uses click data with its patents on systems like rank-adjusted content items.”
+
+Because Google needs to maintain and improve search quality, it seems inevitable that engagement metrics are more than correlation, but it would appear that Google falls short of calling engagement metrics a “ranking signal” because those metrics are used to improve search quality, and the rank of individual URLs is just a byproduct of that.
+
+#### What tests have confirmed
+
+Various tests have confirmed that Google will adjust SERP order in response to searcher engagement:
+
+  * [Rand Fishkin’s 2014 test](https://sparktoro.com/blog/queries-clicks-influence-googles-results/) resulted in a #7 result moving up to the #1 spot after getting around 200 people to click on the URL from the SERP. Interestingly, ranking improvement seemed to be isolated to the location of the people who visited the link. The rank position spiked in the US, where many participants were located, whereas it remained lower on the page in Google Canada, Google Australia, etc.
+  * [Larry Kim’s comparison](https://www.wordstream.com/blog/ws/2017/01/25/dwell-time-seo) of top pages and their average dwell time pre- and post-RankBrain seemed to indicate that the machine-learning component of Google’s algorithm demotes the rank position of pages that people don’t spend as much time on.
+  * [Darren Shaw’s testing](https://www.slideshare.net/darrenshaw1/darren-shaw-user-behavior-and-local-search-dallas-state-of-search-2014) has shown user behavior’s impact on local search and map pack results as well.
+
+Since user engagement metrics are clearly used to adjust the SERPs for quality, and rank position changes as a byproduct, it’s safe to say that SEOs should [optimize for engagement](/blog/organic-quality-score). Engagement doesn’t change the objective quality of your web page, but rather your value to searchers relative to other results for that query. That’s why, after no changes to your page or its backlinks, it could decline in rankings if searchers’ behaviors indicates they like other pages better.
+
+In terms of ranking web pages, engagement metrics act like a fact-checker. Objective factors such as links and content first rank the page, then engagement metrics help Google adjust if they didn’t get it right.
+
+### The evolution of search results
+
+Back when search engines lacked a lot of the sophistication they have today, the term “10 blue links” was coined to describe the flat structure of the SERP. Any time a search was performed, Google would return a page with 10 organic results, each in the same format.
+
+![A screenshot of what a 10-blue-links SERP looks like.](https://moz.com/images/learn/guides/BGSEOAsset-9.png?auto=compress%2Cformat&fit=crop&dm=1554095621&s=e47d73436ec38797332ae61e49b588a8)
+
+In this search landscape, holding the #1 spot was the holy grail of SEO. But then something happened. Google began adding results in new formats on their search result pages, called [SERP features](/learn/seo/serp-features). Some of these SERP features include:
+
+  * Paid advertisements
+  * Featured snippets
+  * People Also Ask boxes
+  * Local (map) pack
+  * Knowledge panel
+  * Sitelinks
+
+And Google is adding new ones all the time. They even [experimented with “zero-result SERPs,”](/blog/zero-result-serps) a phenomenon where only one result from the Knowledge Graph was displayed on the SERP with no results below it except for an option to “view more results.”
+
+The addition of these features caused some initial panic for two main reasons. For one, many of these features caused organic results to be pushed down further on the SERP. Another byproduct is that fewer searchers are clicking on the organic results since more queries are being answered on the SERP itself.
+
+So why would Google do this? It all goes back to the search experience. User behavior indicates that some queries are better satisfied by different content formats. Notice how the different types of SERP features match the different types of query intents.
+
+Query Intent| Possible SERP Feature Triggered
+---|---
+Informational| Featured Snippet
+Informational with one answer| Knowledge Graph / instant answer
+Local| Map pack
+Transactional| Shopping
+
+We’ll talk more about intent in [Chapter 3](/beginners-guide-to-seo/keyword-research), but for now, it’s important to know that answers can be delivered to searchers in a wide array of formats, and how you structure your content can impact the format in which it appears in search.
+
+## Localized search
+
+A search engine like Google has its own proprietary index of local business listings, from which it creates local search results.
+
+If you are performing local SEO work for a business that has a physical location customers can visit (ex: dentist) or for a business that travels to visit their customers (ex: plumber), make sure that you claim, verify, and [optimize](/blog/how-to-optimize-your-google-my-business-listing) a free [Google My Business Listing](https://www.google.com/business/).
+
+When it comes to localized search results, Google uses three main factors to determine ranking:
+
+  1. Relevance
+  2. Distance
+  3. Prominence
+
+### Relevance
+
+Relevance is how well a local business matches what the searcher is looking for. To ensure that the business is doing everything it can to be relevant to searchers, make sure the business’ information is thoroughly and accurately filled out.
+
+### Distance
+
+Google uses your geo-location to better serve you local results. Local search results are extremely sensitive to proximity, which refers to the location of the searcher and/or the location specified in the query (if the searcher included one).
+
+Organic search results are sensitive to a searcher's location, though seldom as pronounced as in local pack results.
+
+### Prominence
+
+With prominence as a factor, Google is looking to reward businesses that are well-known in the real world. In addition to a business’ offline prominence, Google also looks to some online factors to determine local ranking, such as:
+
+#### Reviews
+
+The number of Google reviews a local business receives, and the sentiment of those reviews, have a notable impact on their ability to rank in local results.
+
+#### Citations
+
+A "business citation" or "business listing" is a web-based reference to a local business' "NAP" (name, address, phone number) on a localized platform (Yelp, Acxiom, YP, Infogroup, Localeze, etc.).
+
+Local rankings are influenced by the number and consistency of local business citations. Google pulls data from a wide variety of sources in continuously making up its local business index. When Google finds multiple consistent references to a business's name, location, and phone number it strengthens Google's "trust" in the validity of that data. This then leads to Google being able to show the business with a higher degree of confidence. Google also uses information from other sources on the web, such as links and articles.
+
+Curious about a certain local business' citation accuracy? Moz has a free tool that can help out, aptly named Check Listing.
+
+[ Check listing accuracy  ](https://moz.com/products/local/check-listing)
+
+#### Organic ranking
+
+SEO best practices also apply to local SEO, since Google also considers a website’s position in organic search results when determining local ranking.
+
+In the next chapter, you’ll learn on-page best practices that will help Google and users better understand your content.
+
+### [Bonus!] Local engagement
+
+Although not listed by Google as a local ranking factor, the role of engagement is only going to increase as time goes on. Google continues to enrich local results by incorporating real-world data like popular times to visit and average length of visits...
+
+![A screenshot of the "popular times to visit" result in local search.](https://moz.com/images/learn/guides/BGSEOAsset-12.png?auto=compress%2Cformat&fit=crop&dm=1554095653&s=40ef71fe17443b505bfb9abd3992c466)
+
+...and even provides searchers with the ability to ask the business questions!
+
+![A screenshot of the Questions & Answers result in local search.](https://moz.com/images/learn/guides/BGSEOAsset-13.png?auto=compress%2Cformat&fit=crop&dm=1554095678&s=9f258d7d74bb1eb8a1ab1415ca90f908)
+
+Undoubtedly now more than ever before, local results are being influenced by real-world data. This interactivity is how searchers interact with and respond to local businesses, rather than purely static (and game-able) information like links and citations.
+
+Since Google wants to deliver the best, most relevant local businesses to searchers, it makes perfect sense for them to use real time engagement metrics to determine quality and relevance.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Sam-Callender-start-free-trial.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760464903&s=d9556bcd3f33a7ab773a7577a769f469)](/checkout/freetrial)
+
+#####
+
+You don’t have to know the ins and outs of Google's algorithm (that remains a mystery!), but by now you should have a great baseline knowledge of how the search engine finds, interprets, stores, and ranks content. Armed with that knowledge, let's learn about choosing the keywords your content will target in [Chapter 3 (Keyword Research)](/beginners-guide-to-seo/keyword-research)!
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz Staff.
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

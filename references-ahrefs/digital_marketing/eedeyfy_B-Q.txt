@@ -1,0 +1,292 @@
+Kind: captions
+Language: en
+As a marketer, I'm sure you've got an endless
+list of things to do.
+Or maybe you get distracted by new marketing
+strategies you want to try.
+But with so many things to do, and so little
+time, how do you prioritize your marketing
+efforts for maximum effectiveness and efficiency?
+You're about to find out in this video.
+Stay tuned.
+[music]
+What's up marketers?
+Sam Oh here with Ahrefs, the SEO tool that
+helps you grow your search traffic,
+research your competitors and dominate your niche.
+If you're unfamiliar with our company, we're a team
+of around 50 people with just 9 in marketing.
+Now, to put this into perspective, our competitors
+have 300% to 1300% times more bodies than us.
+Yet somehow, we've still been able to make noise
+and grow our revenue in a competitive industry.
+So today, I want to share a step-by-step process
+you can use
+to prioritize your marketing efforts effectively
+and efficiently.
+Let's get to it.
+Alright, so step #1 is to remove distractions
+that hinder efficiency.
+Listen, if there's anything you do throughout
+your workday that decreases your efficiency,
+then it's best to remove them from your daily schedule.
+For example, if you check your Google Analytics
+everyday with the purpose of eyeballing traffic stats,
+then I'm almost positive you're wasting precious time.
+I can't tell you how many people I've spoken to
+who start freaking out because of one slightly
+lower day in traffic.
+If that worries you, then it'll most likely
+affect your performance in a negative way.
+Let me explain.
+Let's say you saw a couple days where your
+traffic decreased by 10%.
+This may lead you to believe you've been penalized.
+So you go and search for the latest Google
+algorithm updates
+and find out that something happened a few
+months ago.
+So you start reading about penalty recovery.
+And you spend hours trying to implement tactics
+that people are just speculating.
+And before you know it, your whole day has passed
+and you haven't touched a single thing on your to-do list.
+So stop.
+Other common activities are checking your social media networks for likes, follows, retweets, or comments.
+Yes, it's important to engage if you're using
+these channels, but your social presence isn't
+going to die if you don't respond within an hour.
+Limit these kinds of impromptu activities and
+set scheduled times to analyze your analytics.
+You'll find yourself saving time and more
+importantly, staying in the right mindset
+while working on tasks that matter more.
+Finally, don't allow yourself to get distracted
+by "Shiny tactic syndrome."
+This is when you hear about a new tactic,
+and you drop everything you're doing
+to give it a shot, only to abandon it halfway through.
+So bottomline:
+You don't need to be active on every social media network because a guru told you to.
+You don't need to check your real-time stats
+on Google Analytics every 4 hours.
+Not everyone needs a mobile app.
+And you don't need to respond to every email
+within 5-minutes flat.
+Life will go on.
+Alright, now that we've cut some distractions,
+step 2 is to figure out what's working for you.
+Rather than letting FOMO kick in and dropping
+everything you're doing, this step is all about
+identifying the marketing channels and
+strategies that are working for you right now.
+And the way you do this is by separating these
+marketing activities into three categories.
+Category one are channels and strategies that
+are already working for you.
+And by "working," I'm referring to generating
+more customers to your business
+over vanity metrics like pageviews.
+Rather than guessing, this is where you
+need to do a deep dive into your data sources.
+So that might be looking at your Google Analytics
+conversion rate or new customer sign-ups.
+If you don't have conversion tracking set
+up, another great way to dig up this information
+is to do one-on-one calls or emails with customers.
+You can ask them questions like:
+How did you learn about us?
+And what made you purchase our products or services?
+If you have a decent sample size of customers,
+I'm confident you'll start seeing patterns
+and be able to identify your core marketing channels.
+An example for us, would be our blog and YouTube
+channel, which we use to educate current
+and prospective customers on SEO-related topics.
+These are two marketing channels where we
+spend a ton of our time, resources, and focus
+simply because they work.
+The second category are things that don't work.
+And by not working, I'm referring to things
+you've actually given a fair shot.
+Write down these activities and remove them
+from your workflow.
+And the third category are channels and strategies
+you'd like to try.
+A good way to do this is to have a running list
+of brainstormed ideas.
+You can do this easily using Trello, where
+anyone can add new ideas, and casually discuss
+different opinions or approaches within the cards.
+I cannot stress how important it is that you're
+able to identify activities
+that are proven to deliver ROI.
+Because if you focus your attention on unproven
+activities, it'll eat into time and money
+you could have spent on doing something
+more profitable.
+Alright, step #3 is to delegate critical tasks
+you don't need to be involved in or share
+the workload with more capable team members.
+Let's say you did an SEO audit on your website.
+You may be the best person to identify issues
+and prioritize what needs to be fixed.
+But you don't need to be involved in fixing every
+little thing.
+For example, if you find some missing
+meta descriptions,
+you don't need to be the person to write all of these.
+You also don't need to update them on the site.
+While the tasks may be small, they add up
+and affect your mental capacity to focus on
+other tasks that require your expertise.
+The way to solve this is to break your critical tasks
+into bite-sized pieces and delegate where possible.
+For example, if you're like us and create blog content, you need to do your keyword research
+write your blog post, edit it, create a featured image,
+and then upload everything to WordPress.
+Then you probably share everything on social media
+and write up an email for your newsletter.
+If you're doing all of these activities, then
+my guess is that you're doing too much.
+And this isn't a compliment.
+It's inefficient and for the most part, ineffective.
+Let's look at this list and break it down.
+Keyword research can easily be systematized.
+In fact, we have videos on how to do keyword
+research where you can literally copy our process.
+As for editing posts, I think every writer should do it
+to a certain extent.
+But after writing for hours upon hours, you're
+eventually going to become blind to errors.
+At Ahrefs, we have Josh, who's our head of content.
+Anytime someone writes a post for our blog, he's
+the one who's going to edit and provide feedback.
+Then it goes back to the author, who's responsible
+for amending the fixes.
+Josh will then do a final edit and publish the article.
+So what about when Josh writes a post?
+How do we ensure his content is the best that it can be?
+I edit it and provide feedback.
+This editing and review process allows us to always
+put our best foot forward without burning anyone out.
+Next on the list is creating featured images.
+This one is simple.
+If you're the writer, don't create them.
+Instead, create a detailed description of
+what you'd like to see and send it to a designer.
+We have an awesome designer on our marketing
+team, but we still occasionally send these
+to a freelancer when our internal designer
+is bogged down with more critical tasks.
+Now, we need to upload everything to WordPress.
+And since we work primarily in Google Docs, we
+actually use a tool called Wordable,
+which exports Google Docs straight into WordPress.
+Since it doesn't take very much time using
+this tool, we normally have Josh, who does
+the final edits to send them to WordPress.
+Ok, so maybe you don't have a huge budget
+to pay people salary.
+But you can use networks like Upwork or Fiverr
+to work with contractors on a per-job basis.
+A simple way to know whether it's worth hiring
+is to put a monetary value on your time.
+Now, it's important to note that you need to somewhat objectively decide your monetary value.
+So if you had a gig where you spent 1 hour, and you made a thousand bucks,
+it doesn't mean you're worth $1,000/hour.
+Just be honest.
+So let's say you think your time is worth $30/hour.
+And it takes you about an hour to upload your
+document to WordPress
+and make sure there aren't any errors.
+Now, if we look on Upwork using the keyword,
+"Wordable," you'll see a couple of potential
+prospects who have mentioned it in their profile.
+And it looks like this person might be good to try
+who may be able to do your job at 4X less than your personal hourly rate.
+But you should always trial and make sure
+they can deliver the quality you're looking for.
+Let's move onto step 4, which is to document
+your micro tasks and delegate some more.
+When I first started creating videos for Ahrefs'
+YouTube channel,
+I was asked to "create awesome educational content."
+So for the first little while, I did almost everything:
+сontent ideation, scripting, recording, producing, editing,
+closed captions, writing descriptions and tags, thumbnails, uploading,
+social media scheduling, and responding to comments.
+But as time went on, I was able to start training
+and delegating tasks
+to other people on our team who are more capable.
+And even though we've lost some people throughout
+my time here, onboarding new talent has been
+a cinch because of solid documentation.
+We have detailed documentation on all of the
+effects we use in our video editing programs.
+We have a video on doing the closed captions
+for our videos.
+We have a document for doing translations
+of our closed captions.
+And another document for how we write our
+YouTube descriptions.
+These are all micro tasks that used to overwhelm me.
+But with our video team handling small tasks
+here and there, they've made my life easier,
+and our videos a lot better.
+Document your micro tasks and delegate appropriately.
+And the result should be more output and better
+focus in the areas where you're most effective.
+With your documentation in place, you should
+be able to find people who can help you complete
+more work in less time.
+So it's time to move on to step 5, which is
+to scale what you're doing.
+To illustrate my point, when I was creating
+videos for our YouTube channel, I was producing
+a maximum of one video per week.
+After our team started taking on these micro-tasks, I can put out around 2-3 videos
+in the same amount of time.
+So to scale this process even further, it's simple.
+Identify bottlenecks and breakthrough by modifying
+processes or hiring additional help.
+This is something we're doing right now and
+it's allowed me to allocate more time to other
+marketing channels and projects outside of
+weekly YouTube videos.
+For example, I've been able to speak at conferences.
+Get YouTube Ads to work for us.
+And provide some training to others in our
+group like our outreach manager,
+who's absolutely crushing it right now.
+Had I continued to try and run YouTube all
+alone, none of this would have been possible.
+Let's move on to step 6, and that's to experiment
+with new things.
+If you've been following Ahrefs for some time,
+then you know this guy: Tim Soulo.
+He joined Ahrefs four years ago as pretty much
+the only person on the marketing team.
+He handled the blog and YouTube channel, hired
+new people to the marketing team,
+trained them, and contributed to the development of
+our product.
+And it wasn't until last year when he was
+able to let go of these two channels he had
+built to people like Josh and I.
+So this year, Tim has been able to speak at
+a lot more conferences, contribute more time
+to the product, and be on over 20 podcasts
+in the last 4 months among many other things.
+And as we continue to experiment with new
+channels, we're just going to rinse and repeat
+steps 1 through 5 focusing on only the things that
+are working for us and the low-hanging fruit.
+Now, I'd love to hear from you.
+This video was clearly outside of what we
+generally publish on our YouTube channel,
+so if you want to see more content like this, let me know in the comments.
+And of course, make sure to like, share and subscribe
+for more actionable SEO and marketing tutorials.
+So keep grinding away, focus and scale what's
+working right now, and I'll see you in the next video.

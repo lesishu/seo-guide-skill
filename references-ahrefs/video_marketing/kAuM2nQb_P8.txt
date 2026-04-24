@@ -1,0 +1,315 @@
+Kind: captions
+Language: en
+Is YouTube keyword research really that important?
+Since the first day we created a keyword targeted
+video, our YouTube search traffic has grown
+tremendously and super consistently.
+And in this video, you and I, we are going to
+unpack the exact keyword tools and process
+we use, step-by-step.
+Stay tuned.
+[music]
+What's up creators?
+Sam Oh here with Ahrefs, the SEO tool that
+helps you grow your search traffic, research
+your competitors and dominate your niche.
+Now, over the past 8 months, we've grown our
+YouTube search traffic by 377%.
+And the fundamental reason for our success
+has been our YouTube keyword research process.
+Now, I'm sure you've seen other videos that
+talk about looking at the number of views
+of top-ranking videos and copying their titles.
+But this isn't the way to get more views for
+your videos.
+Looking at these numbers alone will likely
+lead to a lot of wasted time because you've
+no idea where these views came from.
+For all you know, they could have been from
+ads.
+More on this later.
+So let's cut the chitter chatter and get to
+the exact process you can use to get free,
+consistent, and passive views from YouTube
+and Google search.
+Quick sidenote: I won't be covering optimization
+for suggested views, but if you want to see
+a video on that, be sure to leave a comment and
+let me know.
+Alright, so step one is to map out a hierarchy
+of your topics.
+Structure is important.
+Create videos on topics that are too broad,
+and you start reaching irrelevant audiences
+for your business.
+But create videos on topics too small and
+your reach diminishes.
+Grab a pen and paper and let's start drawing.
+Let's say I'm creating a new channel where
+I'll unbox videos on popular tech-related products.
+So let's add unboxing to the top of the hierarchy.
+Now, what am I going to unbox?
+Let's add cell phones, game consoles, and
+camera equipment.
+Now, which brands do I buy?
+Let's add Apple and Samsung under cell phones.
+Nintendo and Xbox under game systems.
+And Canon and Nikon under camera brands.
+And we can even add models under each of these
+categories.
+You get the point.
+This exercise will help you build a framework
+of topics you can use to quickly qualify or
+disqualify whether it's a good fit for your
+desired audience.
+Step 2 is to generate keyword ideas and analyze
+keyword trends.
+There are quite a few keyword tools out there,
+but from my experience, most of them are just way
+off and some try and pass Google search volumes
+as YouTube search volumes.
+The thing is that people often search for
+completely different things on Google vs. YouTube.
+For example, if you look at the trend for
+the phrase, "html tutorial," with Google set
+as the search engine, you'll see that searches
+have been declining over time.
+Whereas YouTube searches had an upward trend
+during the same time period.
+So bottom line?
+You can't rely on Google search volumes when
+it comes to choosing keywords for YouTube.
+But what about looking at the number of views
+a video has?
+If a video has a lot of views, then it must
+be a good topic to target, right? Wrong.
+Take a look at the search results for the
+keyword, "seo audit".
+You'll see that we created a video 3 years
+ago and gained 640,000 views, which averages
+out to around 200,000 views per year.
+But let me show you our analytics.
+You'll see that 550,000 views came from YouTube
+ads in 2016 and less than 20,000 views from
+YouTube search.
+The good thing is that you can avoid wasting
+time and get good representations of true
+search volume using one of two tools.
+The first is YouTube ads.
+After you choose your keyword, let the ad
+run for a month or so to collect a good amount of data.
+Then, go to the search terms report, where
+you can see the impressions and views data for
+various keywords.
+The number of impressions a keyword gets should
+be an underestimation of search volume since
+your ad won't show for every search query.
+YouTube ads are quite cheap and a great way
+to find new keyword ideas and see search volume.
+The second tool is Ahrefs' Keywords Explorer.
+Just select YouTube as your search engine,
+and enter a keyword you want to research.
+So I'll search for "unboxing." Cool!
+So this topic has 108,000 monthly searches
+in the US and around 645,000 worldwide.
+But ranking for this keyword would kind of
+be useless.
+Think about it.
+If someone searches for the phrase, "unboxing,"
+what do you think they want to see you unbox?
+I have no idea and you probably don't either.
+I'll expand on this in the next step, which
+is absolutely critical to your video's success.
+So instead of looking at this, let's go and
+generate some solid keyword ideas.
+Just go to the Phrase match report, which
+shows you all of the keywords that contain
+your target query.
+Right away, you can see nearly 100,000 keyword
+ideas.
+But not all of these keywords are going to
+be relevant to you.
+So let's take a look at our hierarchy again.
+If we wanted to narrow our search down to
+relevant phrases, we can use the Include box
+and add our own comma-separated list.
+So I might search for nintendo, xbox, iphone,
+macbook, canon, and nikon.
+Then I'll select the "Any keyword" tab.
+And just like that, we have over 6,600 relevant
+keywords we can create videos around.
+And let's narrow down the results even more by adding a minimum volume of 500 searches per month.
+Now, this is a much more manageable list of
+videos we can create content around.
+But not all of these topics are going to be
+worth your attention.
+For example, if we click on iPhone 8 unboxing,
+you'll see that this topic shows 23,000 monthly
+searches, which seems awesome!
+But if you look at the trend graph, you'll
+see that search volumes are diminishing, which
+skews this number a little bit.
+Most keyword tools, regardless of search engine,
+use rounded annual averages.
+So while people are still searching for this
+query, it doesn't mean that 23,000 people
+in the US are searching for it this month.
+So this extra layer of data can help you make
+smarter decisions on whether a topic is worth
+targeting or not.
+Let's take a step back and look at the trend
+for "nintendo switch unboxing."
+While search volumes have decreased from its
+release date, it still holds a relatively
+strong search demand.
+So in my opinion, this one seems like a good
+one to target.
+But why stop here?
+If you create a video on a Nintendo Switch
+unboxing, you could probably create numerous
+videos around the console too.
+So let's change our keyword from "unboxing"
+to "nintendo switch."
+And then I'll go back to the Phrase match
+report for our new target keyword.
+And you'll see a whole bunch of new topics.
+You can create a dedicated review, another
+video on games, accessories, and more.
+And that, my friend, is how you take the guesswork
+out of choosing good keywords to target for
+your YouTube channel.
+But hang on a second.
+There's one more thing that you have to see.
+And that's the "Newly discovered" keywords
+report.
+This report shows you a list of keywords that
+contain your seed, which were recently added
+to our database.
+Now, why am I creating a fuss about this?
+Using this report, you can gain insights on
+new topics or products that people are searching for.
+So if you're one of the first to release content
+on it, then there's going to be less competition. And
+if the topic ends up trending, you can ride
+the wave from start to finish.
+For example, you'll see that we discovered
+"super smash bros ultimate unboxing" in November
+2018, which has a decent search volume.
+And since this was a recent release, there's
+a good chance that search demand is only going
+to build as searchers start to look for this.
+Let's check the YouTube search results.
+These two videos have gained over 600,000
+views in the last month or two and their high
+engagement stats tell me that these views aren't
+from ads.
+And sure.
+You could argue that they have millions of
+subscribers.
+But look at this video, which got over 3,500
+views in one month.
+They only have around 40 subscribers, which
+is huge for a new channel.
+So if you want to get more views fast, then
+keep an eye on the newly discovered report
+for trending topics.
+If you're following along, then you should
+have a ton of great keyword ideas for your
+channel that have search demand.
+But a critical component to rank on YouTube
+is all in step 3.
+Which is to analyze search intent.
+Matching search or keyword intent should always
+be your number one goal.
+And it's a huge, yet simple part of the keyword
+research process.
+First, start by asking yourself:
+What would someone want to find when searching
+for your target keyword?
+For something like "nintendo switch unboxing,"
+it's pretty clear.
+They want you to take that thing out of the
+box and show them everything that's inside.
+But something like "nintendo switch games"
+is more open to interpretation.
+To figure this out, go to YouTube in private
+or incognito mode, and search for the keyword
+you want to rank for.
+And it's pretty clear.
+People want to watch a video about a bunch
+of games.
+Also, take note of the length of the videos.
+In this case, they're all around the 9 - 14-minute
+mark.
+So I'd probably create something of similar
+length, but pack it with helpful information,
+rather than just trying to fill in a time quota.
+Ok, step 4 is to optimize your videos to be
+found in Google search.
+And I'm sure you've seen video pop ups in the
+Google search results.
+Some show up in video carousels, others as
+dedicated results, some as featured videos,
+and some have multiple formats.
+If you're not optimizing for these video SERP
+results, then you could potentially be missing
+out on huge traffic potential.
+For example, according to Ahrefs' Site Explorer,
+this video on deleting your Facebook account
+gets nearly 50,000 visitors from Google each
+month.
+Now, there are two ways to find topics that
+have potential to "double-dip" from YouTube
+and Google searchers.
+First is obviously to Google one of your keywords
+that you want to rank for.
+And if you see videos being dominant in search
+results, then there's a good chance you can
+rank there if you're able to create a high
+engagement video.
+The second way is to use Ahrefs' Content Explorer,
+where you can search through over a billion
+pages and get useful SEO and social metrics.
+And the best part about this is you can
+use advanced search operators.
+To find YouTube videos that are getting search
+traffic in Google right now, you can type
+site:youtube.com inurl:watch, which will narrow
+our results down to YouTube videos only.
+Then type title: and a phrase you want to
+search for.
+Next, I'll sort the results by pages that
+get the most Google search traffic.
+And this one looks super promising.
+It was published only a few months ago and
+gets around 18,000 views per month from Google
+search alone, which I'm sure contributes to
+their over 2 million views.
+You can see the exact keywords this video
+ranks for in Google by clicking on the details button,
+and then the organic keywords tab.
+Last but certainly not least, I recommend
+searching for one of the keywords in Google
+to get a better understanding of the video
+SERP type and on-page factors like video
+titles and lengths.
+So in this case, the results show a video
+carousel, which gives you a better chance
+of ranking since there are three visible results.
+Also, you'll notice that these were all published
+somewhat recently, and they all use the keywords
+"nintendo switch" and "review" in their titles.
+Keyword research is a huge component to ranking
+on YouTube, Google, and getting views to your
+videos consistently.
+But there's obviously more to YouTube SEO
+than this.
+So if you'd like to see more on ranking videos
+on YouTube or anything video marketing related,
+leave a comment below and let me know what
+you'd like to see.
+Also, make sure to like, share, and subscribe
+because we have new videos that we publish
+each week jam-packed with value.
+So until then, keep grinding away, and I'll
+see you in the next tutorial.

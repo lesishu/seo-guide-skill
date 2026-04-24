@@ -1,0 +1,218 @@
+# Module 5.2: How to Create a Link Building System
+
+Hey, it's Sam Oh and welcome to the second lesson
+in the team building, systems and workflows module.
+In this lesson, we're going to go over
+how&nbsp;to create a link building system
+to maximize your team's
+effectiveness and efficiency.
+Now, systems are key to scaling.
+They help your team stay organized
+and smoothen&nbsp;out processes.
+But many people think that a system is
+just a list of steps where you hire people
+to fill those roles.
+For example, an assembly line
+might&nbsp;have spots for 3 people.
+A packer, an inspector, and a sealer.
+The first person is responsible
+for packing the box.
+Then it moves down the conveyor&nbsp;belt to
+the second person, who's responsible for
+inspecting the contents.
+Then it moves down again&nbsp;to
+the final person who seals the box.
+Everything runs like a well-oiled machine
+and each person is doing their part.
+Now, while this all seems well and good, complex
+systems will almost never work this smoothly.
+And there are two reasons for that.
+#1. Systems need to be customized for
+the organization and the people in it.
+For example,&nbsp;an organization may choose
+only to contact&nbsp;editors with bespoke emails
+to protect potential&nbsp;damage done to
+their brand via. templated emails.
+Or a company that outsources link building,
+may&nbsp;not want to give you an @ domain email,
+which can potentially change
+the angle you go in with.
+And #2. The efficiency of a system is fragile.
+For example, if the first person in our assembly
+line were to quit, then the other two people have
+nothing to do.
+But that's an easy fix.
+Just hire and train someone else.
+The real fragility in a system that's
+built for&nbsp;scale is alignment.
+For example, let's say the first person packs
+the box and then the package moves down
+to the second person.
+They check the contents and they're like...
+"Hey, you can't just&nbsp;throw the item
+in the box like this.
+You need to place the item so it's facing this way."
+And then the first person might
+be like... "who cares?"&nbsp;
+They might continue to argue
+with&nbsp;no real conclusion.
+All the while, the third person is just
+waiting to seal the box and the queue
+of items are just building up.
+In other words, while the system is
+designed to move in the same direction,
+the people aren't aligned, which
+makes their impact null.
+Now, because of these reasons, I'm going
+to share the 5 key components to create
+a link building system that will
+be&nbsp;right for your organization.
+Alright, so the first component
+is the structure of the team.
+Ideally, you want to have different&nbsp;team
+members handle different parts of the link
+building process.
+This helps to create your assembly line
+from a structural standpoint and it also
+helps&nbsp;individuals to develop
+mastery in their role.
+And as people get better at their jobs,
+things move faster and more effectively.
+The second is alignment
+in&nbsp;your company's goals.
+It might sound cheesy to some, but I think
+it's important to set specific goals for your
+link building team.
+For example, you may have a&nbsp;goal to get
+50 new referring domains each month
+to revenue-generating pages.
+And the purpose&nbsp;of these links is
+to rank higher in Google and get
+more traffic as a result.
+Now, when each member knows and
+understands this goal, it makes their
+work more meaningful because they know
+what they're working towards and what it'll
+take to get there.
+A common incentive I've seen companies
+do is to give their link building team monthly,
+quarterly, or annual performance bonuses.
+This can help to further incentivize the team
+as&nbsp;a unit because each person depends on
+the other to reach the company's goals.
+The third component is to create
+standard operating procedures or SOPs.
+These are detailed documents and
+videos that explain how to carry out
+a task from start to finish.
+They help to ensure that each person&nbsp;is
+moving in the same direction&nbsp;towards
+the same goal.
+And they're also great&nbsp;resources to
+have when onboarding new hires.
+Now, the best way to create SOPs is to
+actually go through the process yourself,
+or have a team lead do it.
+And while you're&nbsp;doing the prospecting,
+vetting, and outreach, you should document
+the process as if you're&nbsp;teaching
+someone who's never done it before.
+And when you hand these off to new employees,&nbsp;
+it should ease quite a bit of the hand holding&nbsp;&nbsp;
+that you'd have to do otherwise.
+At Ahrefs, we create SOPs for pretty
+much every marketing channel.
+We have them&nbsp;for our blog, for our
+YouTube channel, and of course,
+for link building.
+Alright, the fourth component is
+to use a project management tool.
+Project management tools like Trello,
+Notion, Airtable, and Asana are a great
+way&nbsp;to organize all your
+campaigns in one spot.
+And they're particularly useful if you have
+multiple campaigns running simultaneously.
+Let's look at an example using
+Kanban boards in Notion.
+As you can see, I've created 5 columns and
+named them Brainstorming, Prospecting,
+Vetting, Outreach, and Completed.
+These represent the various stages
+that&nbsp;a campaign may go through.
+I've also created&nbsp;some cards,
+which represent campaigns.
+Now, within each of these cards, you can
+assign&nbsp;it to a team member, change statuses,
+add custom fields and files, leave comments
+and tag other&nbsp;members in your organization,
+and add whatever you'd like
+in the description area.
+This will help you stay organized by keeping
+your assets in one place and also all relevant
+communications should take place there too.
+Now, to show you how this works, let's say
+that the&nbsp;brainstorming stage went well and
+it was time for prospecting.
+The person in charge of this step&nbsp;would
+then choose "prospecting" as the status,
+assign it to the prospector, and then
+leave a comment to let them know.
+Now, if we go back to the kanban board,
+you'll&nbsp;see that it's moved down the pipeline.
+And as you continue to progress through
+your campaign,&nbsp;it'll continue to move down
+the assembly line.
+Now, imagine you had 10 different&nbsp;campaigns
+running at once with a team of 5.
+At any given point, everyone&nbsp;on your
+team will be able to get a high level
+view of where each link building campaign
+is and what they're responsible for.
+Alright the fifth component of a link
+building&nbsp;system is to use a campaign
+management tool that supports
+simultaneous collaboration.
+Now, when I say campaign management,
+I'm referring to the actual campaign data
+you'll be working with.
+And the best tool for this is Google Sheets.
+You can customize your sheet however you'd
+like and multiple team members can work
+together simultaneously so no time is wasted.
+For example, if you had two vetters working
+on a campaign, one can start from the top
+of the list and another from the bottom
+to double the speed of vetting.
+You can also write your own functions
+in App Scripts, allowing you to connect
+to third party APIs.
+And this is how you'd&nbsp;run a blitz
+list right inside Sheets.
+On top of that, Google Sheets has a ton of built
+in functions like QUERY, FILTER, and VLOOKUP
+to name a few.
+These will help filter large&nbsp;datasets
+and match data from other sources.
+Now, no system is perfect and it's
+going to require some tweaking.
+So as you go through the process, be
+conscious of inefficiencies and blockers
+and find ways to eliminate them with the
+people&nbsp;who are involved in these processes.
+And I can't stress how important it is
+to&nbsp;solve these quickly because a lot of
+time can be wasted by just dealing with
+inconveniences&nbsp;that can potentially be
+solved easily.
+Now, the system is just the structure of
+your everyday link building operations.
+Workflows on the other hand
+are what fuel&nbsp;the system.
+And that's what your team will be using
+day in and day out to execute&nbsp;these link
+building campaigns.
+So in the next lesson, I'll show you what a
+hypothetical link building team's workflows
+might look like in action.
+I'll see you there.

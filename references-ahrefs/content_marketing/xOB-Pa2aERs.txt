@@ -1,0 +1,226 @@
+Kind: captions
+Language: en
+Some people say that content is king.
+But at Ahrefs, product is king and
+the&nbsp;content's job is to serve the king.
+This is actually our content marketing strategy
+in a nutshell and it's what people call "product-
+led content marketing."
+Now, if you're new to product-led content,
+it's simply content that helps people solve
+a problem with the help of your product.
+Again, product is king.
+It doesn't include hard sells or aggressive&nbsp;pitches
+and that's because product-led content&nbsp;shouldn't
+feel like a timeshare presentation.
+It's about strategically weaving your product
+and its use cases into content that'll actually
+help people solve a problem.
+For example, at Ahrefs,&nbsp;&nbsp;we have a tool
+called Keywords Explorer,&nbsp;which is our
+keyword research tool.
+Now, it would make total sense for us
+to create a post on how to do keyword
+research because you need a keyword
+research tool to actually do it well.
+A perfect opportunity for us to
+naturally plug our awesome tool.
+Now, product-led content serves three
+main purposes: it helps you bring&nbsp;awareness
+to your products at scale, acquire new
+customers, and retain your existing customers.
+Let's talk about how product-led content
+can do this starting with the first purpose.
+It's obvious why product-led content helps
+bring awareness to your product because your
+product should be the hero in solving a problem.
+For example, let's say you sell air compressors.
+Someone might go to Google and search for
+"how&nbsp;to winterize sprinkler system" because
+they don't want their pipes to burst in the winter.
+They see a page from some unknown company –
+that's&nbsp;you – click it, then read through the post.
+They'll see that winterizing sprinkler
+systems requires an air compressor
+to blow out excess water.
+Not just that, but the article actually&nbsp;recommends
+using a compressor called "ForeverAir",&nbsp;which is
+a 12-gallon air compressor with&nbsp;an automatic
+charging feature that's going&nbsp;to make the job
+10X faster and easier.
+There's now awareness that the compressor
+ForeverAir exists and readers are&nbsp;now aware
+of the USPs of the product.
+Now, the reason why I said&nbsp;that product-led
+content&nbsp;can bring awareness to your products
+at scale is because you're integrating your product
+into&nbsp;topics that people are actually interested in.
+I mean, no one is searching for "ForeverAir"&nbsp;
+because it might be a&nbsp;relatively unpopular product.
+But the query "how to winterize sprinkler
+system" gets an average of 2,700 monthly
+searches in the US alone.
+Now come up with 100 more&nbsp;topics where
+a ForeverAir would be&nbsp;the perfect solution
+to a problem, and you're now on your way
+to&nbsp;bringing product awareness at scale.
+The second purpose product-led content
+serves is to help acquire new customers.
+So going back to the air compressor company,
+someone might click a link in that article&nbsp;to their
+recommendation, see it's exactly what
+they're looking for and within budget.
+They add to cart and checkout.
+Customer acquired.
+Basically, people will come for the
+information and some will buy it.
+In general, the more indispensable your product is
+in solving a problem, the more people will buy it.
+And the third purpose product-led content
+serves is it helps retain customers.
+And this works particularly well for companies
+that thrive and survive off of a recurring&nbsp;revenue
+model like a software company.
+Alright, so let's walk through a real&nbsp;example
+of how a single piece of product-led&nbsp;content
+can help serve all three purposes.
+Take this blog post on how to do keyword research.
+Because you need a keyword research tool
+to do&nbsp;keyword research, it's easy for us to add
+some natural plugs of our tool,
+Keywords Explorer.
+So anyone who reads this article will know
+that Ahrefs has a keyword research tool.
+Now, according to Site Explorer, this page ranks
+for nearly a thousand keywords and as a result,
+gets tons and tons of search
+traffic every single month.
+So the blog post helps to bring
+product awareness at scale.
+Check.
+Now, someone reading&nbsp;this article will see
+use cases of our tool&nbsp;and think&nbsp;that it's
+perfect for their needs.
+So they sign up for an account.
+Check – customer acquired.
+Now, at the same time, an existing
+customer might read this post because
+of a recommendation from a colleague.
+She realizes that Ahrefs has a cool
+new metric called "traffic potential."
+She gets some ideas, logs into her Ahrefs account
+and spends some time doing keyword research.
+She also reports back to her team
+on Slack and&nbsp;tells them to try it out.
+Everyone loves it!
+Check.
+Customers retained.
+Now, as much as I love&nbsp;product-led content
+especially because&nbsp;I've experienced results
+first-hand, it may not be the best content
+marketing strategy for every business.
+As a general rule of thumb, product-led content
+works well when your product helps to solve
+common problems and you're able
+to serve and sell to these people.
+So that means that a local pub or a chiropractor
+might be better off looking at other&nbsp;marketing
+techniques like local SEO.
+Now, if you have a services based company,
+product-led content can still work for you.
+For example, let's say your business provides
+virtual fitness and nutrition coaching sessions.
+So basically any topic where you can talk about
+these things can be potential opportunities for
+you to create product-led content.
+Alright, so if you want to start&nbsp;creating
+product-led content,&nbsp;there are three things
+you need to do.
+#1. Make sure you know your product really well.
+And I don't want you to just brush this off.
+Having a deep understanding of your
+product and knowing how it helps
+solve different problems is the hardest
+part about creating product-led content.
+The better you know your product and the more
+you believe in its effectiveness and use cases,
+the better your content will be.
+For example, prior to joining Ahrefs,
+I was a paying customer for a few years.
+And anytime I talked with clients or if I
+ever blogged about anything SEO-related,
+I felt like I had to recommend Ahrefs,
+otherwise, I felt like I'd be&nbsp;doing
+a disservice to my readers.
+That's because I knew how to use the product
+pretty well and I truly believed that in many&nbsp;cases,
+Ahrefs was the best solution to a problem.
+So when I actually joined the company,
+it was a super-natural transition because
+I already knew the product pretty well.
+And today, I know the product better than ever.
+Possibly better than anyone in the entire world.
+Alright, the second thing you need to do is
+to find topics you'll create content around.
+And the way we choose topics is mostly
+based on search traffic potential because
+SEO is the primary distribution strategy
+we&nbsp;use to gain visibility to our content.
+To do that, you can use a keyword
+research tool like Keywords Explorer.
+Just search for topics in your niche and then
+head on over to the Matching terms&nbsp;report
+to get some keyword ideas.
+Now, because we're looking mostly for
+problems and things people want to learn,
+I'll head on over to the Questions report.
+And to narrow in on easy-to-rank-for keywords,
+you can set a keyword difficulty filter&nbsp;with&nbsp;a low
+maximum value like 10.
+From here, you can look at the traffic potential
+column to get an idea of how much search traffic
+you could get if you were
+to rank #1 for that keyword.
+Now, with this list, you can move on to&nbsp;
+the third step which is to prioritize&nbsp;your
+keywords using business potential.
+Business potential is simply a way we
+score topics based on how helpful we
+think&nbsp;our product is in solving
+a specific problem.
+And these scores range from 0 - 3.
+A score of 3 means that your product is
+an irreplaceable solution to a problem.
+For example, Ahrefs is indispensable for
+a&nbsp;topic like "how to rank higher in Google"
+because&nbsp;it's hard to do
+that without tools like ours.
+A score of 2 means that our product helps quite
+a&nbsp;bit, but it's not essential to solve the problem.
+For example, if the air compressor company had
+a post on "how to inflate your vehicle's tires,"
+their product wouldn't exactly be
+indispensable because there are
+tons of other ways you can do it.
+Now, a score of 1 means that our&nbsp;product
+can only be mentioned fleetingly.&nbsp;
+For example, if the fitness and nutrition
+coaching company created content&nbsp;on
+the best fitness trackers,&nbsp;it'd be tough
+to organically mention&nbsp;their service in
+a meaningful way.
+And a score of 0 means there's absolutely
+no way to mention your product.
+And these are topics that should&nbsp;be
+removed from your topic list&nbsp;or deprioritized
+to the bottom of the list.
+Because there's so many topics you can write
+about in just about any niche, I highly recommend
+trying this out for your company because&nbsp;
+we've found it to work extremely well.
+And if you want these pages to&nbsp;actually
+rank high in Google,&nbsp;then go and watch
+our step-by-step tutorial that'll show
+you exactly how to write content
+that's optimized to rank in search engines.
+I'll see you in the next tutorial.

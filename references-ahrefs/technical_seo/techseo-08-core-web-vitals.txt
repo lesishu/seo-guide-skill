@@ -1,0 +1,1028 @@
+as<c> of</c><c> this</c><c> month</c><c> core</c><c> web</c><c> vitals</c><c> will</c>
+as of this month core web vitals will
+become<c> a</c><c> part</c><c> of</c><c> google's</c><c> page</c>
+become a part of google's page
+experience<c> ranking</c><c> signals</c>
+experience ranking signals
+and<c> seeing</c><c> as</c><c> it's</c><c> fairly</c><c> new</c><c> there's</c><c> a</c>
+and seeing as it's fairly new there's a
+lot<c> of</c><c> misinformation</c>
+lot of misinformation
+and<c> misunderstandings</c><c> around</c><c> this</c><c> topic</c>
+and misunderstandings around this topic
+so<c> in</c><c> this</c><c> video</c>
+so in this video
+i'm<c> going</c><c> to</c><c> explain</c><c> exactly</c><c> what</c><c> core</c>
+i'm going to explain exactly what core
+web<c> vitals</c><c> are</c>
+web vitals are
+why<c> they're</c><c> important</c><c> and</c><c> how</c><c> to</c><c> improve</c>
+why they're important and how to improve
+them<c> for</c><c> seo</c>
+them for seo
+stay<c> tuned</c>
+core<c> web</c><c> vitals</c><c> are</c><c> made</c><c> up</c><c> of</c><c> three</c>
+core web vitals are made up of three
+metrics<c> that</c><c> measure</c><c> specific</c><c> aspects</c><c> of</c>
+metrics that measure specific aspects of
+page<c> speed</c>
+page speed
+and<c> these</c><c> metrics</c><c> include</c><c> visual</c><c> load</c>
+and these metrics include visual load
+measured<c> by</c><c> largest</c><c> contentful</c><c> paint</c>
+measured by largest contentful paint
+visual<c> stability</c><c> of</c><c> your</c><c> web</c><c> pages</c>
+visual stability of your web pages
+measured<c> by</c><c> cumulative</c><c> layout</c><c> shift</c>
+measured by cumulative layout shift
+and<c> interactivity</c><c> which</c><c> is</c><c> done</c><c> with</c>
+and interactivity which is done with
+first<c> input</c><c> delay</c>
+first input delay
+now<c> like</c><c> many</c><c> other</c><c> google</c><c> ranking</c>
+now like many other google ranking
+factors<c> the</c><c> core</c><c> web</c><c> vitals</c>
+factors the core web vitals
+can't<c> be</c><c> looked</c><c> at</c><c> independently</c><c> they're</c>
+can't be looked at independently they're
+a<c> part</c><c> of</c><c> google's</c><c> page</c><c> experience</c>
+a part of google's page experience
+ranking<c> signals</c>
+ranking signals
+which<c> also</c><c> include</c><c> things</c><c> like</c><c> mobile</c>
+which also include things like mobile
+friendliness
+safe<c> browsing</c><c> https</c><c> and</c><c> intrusive</c>
+safe browsing https and intrusive
+interstitials
+i.e<c> pop-ups</c><c> no</c><c> one</c><c> knows</c><c> exactly</c><c> how</c><c> big</c>
+i.e pop-ups no one knows exactly how big
+the<c> impact</c><c> will</c><c> be</c>
+the impact will be
+seeing<c> as</c><c> it's</c><c> still</c><c> very</c><c> young</c>
+seeing as it's still very young
+regardless<c> it's</c><c> probably</c><c> still</c><c> worth</c>
+regardless it's probably still worth
+improving<c> your</c><c> core</c><c> web</c><c> vitals</c>
+improving your core web vitals
+because<c> page</c><c> speed</c><c> improves</c><c> conversions</c>
+because page speed improves conversions
+in<c> fact</c>
+in fact
+google<c> found</c><c> that</c><c> when</c><c> a</c><c> site</c><c> meets</c><c> the</c>
+google found that when a site meets the
+optimal<c> thresholds</c><c> for</c><c> the</c><c> three</c><c> core</c>
+optimal thresholds for the three core
+web<c> vitals</c><c> metrics</c>
+web vitals metrics
+users<c> were</c><c> 24</c><c> percent</c><c> less</c><c> likely</c><c> to</c>
+users were 24 percent less likely to
+abandon<c> page</c><c> loads</c>
+abandon page loads
+on<c> top</c><c> of</c><c> that</c><c> they</c><c> saw</c><c> a</c><c> 22</c><c> decrease</c><c> in</c>
+on top of that they saw a 22 decrease in
+new<c> site</c><c> abandonments</c>
+new site abandonments
+and<c> a</c><c> 24</c><c> decrease</c><c> in</c><c> shopping</c><c> site</c>
+and a 24 decrease in shopping site
+abandonments
+now<c> before</c><c> we</c><c> get</c><c> into</c><c> the</c><c> actual</c>
+now before we get into the actual
+optimizations<c> you</c><c> need</c><c> to</c><c> understand</c><c> the</c>
+optimizations you need to understand the
+two<c> main</c><c> types</c><c> of</c><c> data</c><c> for</c><c> core</c><c> web</c>
+two main types of data for core web
+vitals<c> metrics</c>
+vitals metrics
+so<c> the</c><c> two</c><c> types</c><c> of</c><c> data</c><c> are</c><c> field</c><c> data</c>
+so the two types of data are field data
+and<c> lab</c><c> test</c><c> data</c>
+and lab test data
+field<c> data</c><c> includes</c><c> real</c><c> user</c><c> metrics</c>
+field data includes real user metrics
+and<c> is</c><c> generated</c><c> from</c><c> the</c><c> chrome</c><c> user</c>
+and is generated from the chrome user
+experience<c> report</c>
+experience report
+also<c> known</c><c> as</c><c> crux</c><c> basically</c><c> google</c>
+also known as crux basically google
+takes<c> data</c><c> from</c><c> chrome</c><c> users</c><c> who</c><c> have</c>
+takes data from chrome users who have
+opted<c> in</c><c> to</c><c> share</c>
+opted in to share
+information<c> like</c><c> browsing</c><c> history</c><c> they</c>
+information like browsing history they
+then<c> take</c><c> that</c><c> data</c>
+then take that data
+and<c> compute</c><c> the</c><c> three</c><c> core</c><c> web</c><c> vitals</c>
+and compute the three core web vitals
+metrics<c> which</c><c> are</c><c> intended</c><c> to</c><c> understand</c>
+metrics which are intended to understand
+how<c> real</c><c> world</c><c> chrome</c><c> users</c><c> experience</c>
+how real world chrome users experience
+the<c> web</c>
+the web
+you<c> can</c><c> see</c><c> a</c><c> summarized</c><c> view</c><c> of</c><c> your</c>
+you can see a summarized view of your
+site's<c> core</c><c> web</c><c> vitals</c><c> in</c><c> google</c><c> search</c>
+site's core web vitals in google search
+console
+and<c> page</c><c> level</c><c> metrics</c><c> in</c><c> page</c><c> speed</c>
+and page level metrics in page speed
+insights<c> under</c><c> the</c><c> field</c><c> data</c><c> category</c>
+insights under the field data category
+now<c> a</c><c> huge</c><c> con</c><c> is</c><c> that</c><c> field</c><c> data</c><c> is</c>
+now a huge con is that field data is
+based<c> on</c><c> a</c><c> rolling</c>
+based on a rolling
+28<c> day</c><c> average</c><c> meaning</c><c> if</c><c> you</c><c> change</c>
+28 day average meaning if you change
+something<c> on</c><c> your</c><c> site</c>
+something on your site
+the<c> full</c><c> impact</c><c> won't</c><c> be</c><c> reflected</c><c> until</c>
+the full impact won't be reflected until
+around<c> 28</c><c> days</c><c> later</c>
+around 28 days later
+this<c> is</c><c> where</c><c> lab</c><c> test</c><c> data</c><c> can</c><c> help</c>
+this is where lab test data can help
+this<c> data</c><c> is</c><c> usually</c>
+this data is usually
+generated<c> by</c><c> tools</c><c> and</c><c> lab</c><c> test</c><c> tools</c>
+generated by tools and lab test tools
+are<c> designed</c><c> to</c><c> run</c>
+are designed to run
+tests<c> consistently</c><c> under</c><c> the</c><c> same</c>
+tests consistently under the same
+conditions
+meaning<c> they</c><c> won't</c><c> necessarily</c><c> reflect</c>
+meaning they won't necessarily reflect
+real<c> world</c><c> data</c>
+real world data
+because<c> of</c><c> factors</c><c> like</c><c> location</c><c> and</c>
+because of factors like location and
+internet<c> speeds</c>
+internet speeds
+on<c> top</c><c> of</c><c> that</c><c> bots</c><c> aren't</c><c> going</c><c> to</c>
+on top of that bots aren't going to
+interact<c> with</c><c> your</c><c> content</c>
+interact with your content
+whereas<c> humans</c><c> will</c><c> you</c><c> can</c><c> see</c><c> lab</c><c> data</c>
+whereas humans will you can see lab data
+in<c> pagespeed</c><c> insights</c>
+in pagespeed insights
+with<c> the</c><c> lighthouse</c><c> chrome</c><c> extension</c><c> and</c>
+with the lighthouse chrome extension and
+in<c> chrome</c><c> dev</c><c> tools</c>
+in chrome dev tools
+now<c> there</c><c> are</c><c> two</c><c> important</c><c> things</c><c> to</c>
+now there are two important things to
+note<c> number</c><c> one</c>
+note number one
+the<c> metrics</c><c> are</c><c> assessed</c><c> at</c><c> the</c><c> 75th</c>
+the metrics are assessed at the 75th
+percentile<c> of</c>
+percentile of
+users<c> for</c><c> example</c><c> if</c><c> we</c><c> look</c><c> at</c><c> the</c><c> page</c>
+users for example if we look at the page
+speed<c> insights</c><c> report</c><c> for</c><c> our</c><c> seo</c><c> hub</c>
+speed insights report for our seo hub
+page
+you'll<c> see</c><c> that</c><c> all</c><c> core</c><c> web</c><c> vitals</c>
+you'll see that all core web vitals
+metrics<c> had</c><c> greater</c><c> than</c>
+metrics had greater than
+75<c> percent</c><c> good</c><c> loads</c><c> so</c><c> it</c><c> passes</c><c> the</c>
+75 percent good loads so it passes the
+core<c> web</c><c> vitals</c><c> assessment</c>
+core web vitals assessment
+whereas<c> our</c><c> guide</c><c> on</c><c> link</c><c> building</c>
+whereas our guide on link building
+doesn't<c> pass</c><c> the</c><c> core</c><c> web</c><c> vitals</c>
+doesn't pass the core web vitals
+assessment
+because<c> one</c><c> or</c><c> more</c><c> metrics</c><c> have</c><c> less</c>
+because one or more metrics have less
+than<c> 75</c><c> percent</c><c> good</c><c> loads</c>
+than 75 percent good loads
+the<c> second</c><c> thing</c><c> to</c><c> note</c><c> is</c><c> that</c><c> metrics</c>
+the second thing to note is that metrics
+are<c> measured</c><c> by</c><c> device</c><c> type</c>
+are measured by device type
+meaning<c> mobile</c><c> core</c><c> web</c><c> vitals</c><c> will</c><c> be</c>
+meaning mobile core web vitals will be
+assessed<c> separately</c><c> from</c><c> desktop</c>
+assessed separately from desktop
+and<c> since</c><c> google</c><c> has</c><c> switched</c><c> to</c><c> mobile</c>
+and since google has switched to mobile
+first<c> indexing</c><c> we're</c><c> most</c><c> interested</c>
+first indexing we're most interested
+in<c> the</c><c> mobile</c><c> scores</c><c> from</c><c> a</c><c> ranking</c>
+in the mobile scores from a ranking
+perspective
+now<c> the</c><c> downside</c><c> to</c><c> these</c><c> tools</c><c> is</c><c> that</c>
+now the downside to these tools is that
+you<c> can</c><c> only</c><c> check</c>
+you can only check
+one<c> url</c><c> at</c><c> a</c><c> time</c><c> or</c><c> for</c><c> tools</c><c> like</c>
+one url at a time or for tools like
+google<c> search</c><c> console</c>
+google search console
+you'll<c> only</c><c> be</c><c> able</c><c> to</c><c> see</c><c> field</c><c> data</c><c> so</c>
+you'll only be able to see field data so
+we're<c> actually</c><c> working</c><c> on</c><c> adding</c><c> core</c>
+we're actually working on adding core
+web<c> vitals</c><c> in</c><c> our</c><c> site</c><c> audit</c><c> tool</c>
+web vitals in our site audit tool
+where<c> you'll</c><c> be</c><c> able</c><c> to</c><c> see</c><c> both</c><c> field</c>
+where you'll be able to see both field
+and<c> lab</c><c> test</c><c> data</c><c> for</c>
+and lab test data for
+all<c> your</c><c> pages</c><c> and</c><c> you</c><c> can</c><c> use</c><c> site</c>
+all your pages and you can use site
+audit<c> free</c><c> with</c><c> an</c><c> ahrefs</c><c> webmaster</c>
+audit free with an ahrefs webmaster
+tools<c> account</c>
+tools account
+all<c> right</c><c> so</c><c> we're</c><c> ready</c><c> to</c><c> start</c>
+all right so we're ready to start
+analyzing<c> and</c><c> optimizing</c><c> pages</c><c> for</c><c> the</c>
+analyzing and optimizing pages for the
+three<c> metrics</c>
+three metrics
+but<c> before</c><c> you</c><c> get</c><c> started</c><c> it's</c>
+but before you get started it's
+important<c> that</c><c> you</c><c> handle</c><c> the</c><c> other</c>
+important that you handle the other
+basics<c> of</c><c> google's</c><c> page</c><c> experience</c>
+basics of google's page experience
+signals
+like<c> mobile</c><c> friendliness</c><c> https</c><c> etc</c>
+like mobile friendliness https etc
+again<c> core</c><c> web</c><c> vitals</c><c> are</c><c> a</c><c> part</c><c> of</c><c> the</c>
+again core web vitals are a part of the
+page<c> experience</c><c> ranking</c><c> signals</c>
+page experience ranking signals
+also<c> you</c><c> should</c><c> take</c><c> care</c><c> of</c><c> basic</c><c> page</c>
+also you should take care of basic page
+speed<c> optimizations</c><c> like</c>
+speed optimizations like
+having<c> good</c><c> hosting</c><c> caching</c><c> your</c><c> content</c>
+having good hosting caching your content
+compressing<c> and</c><c> lazy</c><c> loading</c><c> your</c><c> images</c>
+compressing and lazy loading your images
+and<c> setting</c><c> up</c><c> a</c><c> cdn</c><c> all</c><c> of</c><c> these</c><c> things</c>
+and setting up a cdn all of these things
+can<c> help</c><c> improve</c><c> your</c><c> core</c><c> web</c><c> vitals</c>
+can help improve your core web vitals
+now<c> if</c><c> you</c><c> don't</c><c> know</c><c> how</c><c> to</c><c> do</c><c> these</c>
+now if you don't know how to do these
+optimizations<c> and</c><c> you</c><c> use</c><c> wordpress</c>
+optimizations and you use wordpress
+then<c> i</c><c> highly</c><c> recommend</c><c> watching</c><c> our</c>
+then i highly recommend watching our
+tutorial<c> on</c><c> how</c><c> to</c><c> speed</c><c> up</c><c> a</c><c> wordpress</c>
+tutorial on how to speed up a wordpress
+website
+alright<c> so</c><c> with</c><c> the</c><c> housekeeping</c><c> stuff</c>
+alright so with the housekeeping stuff
+out<c> of</c><c> the</c><c> way</c><c> let's</c><c> dig</c><c> deeper</c><c> into</c>
+out of the way let's dig deeper into
+each<c> metric</c>
+each metric
+recommended<c> thresholds</c><c> and</c><c> get</c><c> technical</c>
+recommended thresholds and get technical
+with<c> solutions</c><c> to</c><c> common</c><c> issues</c>
+with solutions to common issues
+the<c> first</c><c> metric</c><c> is</c><c> largest</c><c> contentful</c>
+the first metric is largest contentful
+paint<c> or</c><c> lcp</c>
+paint or lcp
+which<c> tells</c><c> us</c><c> about</c><c> visual</c><c> loading</c>
+which tells us about visual loading
+performance
+lcp<c> is</c><c> simply</c><c> the</c><c> single</c><c> largest</c><c> visible</c>
+lcp is simply the single largest visible
+element
+loaded<c> in</c><c> the</c><c> viewport</c><c> which</c><c> is</c><c> the</c><c> area</c>
+loaded in the viewport which is the area
+of<c> the</c><c> web</c><c> page</c><c> that's</c><c> visible</c><c> to</c><c> a</c><c> user</c>
+of the web page that's visible to a user
+for<c> example</c><c> the</c><c> lcp</c><c> for</c><c> our</c><c> blog</c><c> post</c><c> on</c>
+for example the lcp for our blog post on
+keyword<c> research</c>
+keyword research
+is<c> the</c><c> featured</c><c> image</c><c> other</c><c> common</c><c> areas</c>
+is the featured image other common areas
+might<c> be</c><c> a</c><c> background</c><c> image</c>
+might be a background image
+the<c> h1</c><c> tag</c><c> or</c><c> even</c><c> a</c><c> paragraph</c><c> in</c><c> the</c>
+the h1 tag or even a paragraph in the
+content
+the<c> recommended</c><c> target</c><c> is</c><c> to</c><c> have</c><c> your</c>
+the recommended target is to have your
+lcp<c> load</c><c> in</c><c> under</c><c> two</c><c> and</c><c> a</c><c> half</c><c> seconds</c>
+lcp load in under two and a half seconds
+to<c> check</c><c> lcp</c><c> for</c><c> a</c><c> page</c><c> you</c><c> can</c><c> use</c><c> any</c>
+to check lcp for a page you can use any
+of<c> the</c><c> aforementioned</c><c> tools</c><c> like</c>
+of the aforementioned tools like
+pagespeed<c> insights</c><c> the</c><c> lighthouse</c>
+pagespeed insights the lighthouse
+extension<c> or</c><c> chrome</c><c> dev</c><c> tools</c>
+extension or chrome dev tools
+now<c> when</c><c> you</c><c> use</c><c> page</c><c> speed</c><c> insights</c><c> or</c>
+now when you use page speed insights or
+lighthouse<c> you</c><c> can</c><c> use</c>
+lighthouse you can use
+lab<c> data</c><c> as</c><c> you</c><c> make</c><c> updates</c><c> because</c>
+lab data as you make updates because
+again<c> the</c><c> field</c><c> data</c><c> is</c><c> a</c><c> rolling</c>
+again the field data is a rolling
+average<c> of</c><c> the</c><c> last</c><c> 28</c><c> days</c>
+average of the last 28 days
+to<c> see</c><c> the</c><c> largest</c><c> element</c><c> that</c><c> was</c>
+to see the largest element that was
+measured<c> scroll</c><c> near</c><c> the</c><c> bottom</c><c> of</c><c> the</c>
+measured scroll near the bottom of the
+report
+and<c> click</c><c> largest</c><c> contentful</c><c> paint</c>
+and click largest contentful paint
+element<c> so</c><c> for</c><c> our</c><c> keyword</c><c> research</c>
+element so for our keyword research
+guide
+that<c> would</c><c> be</c><c> our</c><c> featured</c><c> image</c><c> now</c><c> if</c>
+that would be our featured image now if
+you're<c> working</c><c> on</c><c> a</c><c> dev</c><c> site</c><c> that's</c><c> not</c>
+you're working on a dev site that's not
+available<c> to</c><c> the</c><c> public</c>
+available to the public
+you<c> may</c><c> want</c><c> to</c><c> use</c><c> chrome</c><c> dev</c><c> tools</c><c> to</c>
+you may want to use chrome dev tools to
+get<c> started</c>
+get started
+right<c> click</c><c> anywhere</c><c> on</c><c> the</c><c> page</c><c> you</c>
+right click anywhere on the page you
+want<c> to</c><c> test</c><c> and</c><c> click</c>
+want to test and click
+inspect<c> element</c><c> make</c><c> sure</c><c> you</c><c> have</c><c> the</c>
+inspect element make sure you have the
+device<c> set</c><c> to</c><c> a</c><c> mobile</c><c> device</c>
+device set to a mobile device
+click<c> on</c><c> performance</c><c> hit</c><c> the</c><c> record</c>
+click on performance hit the record
+button
+and<c> refresh</c><c> the</c><c> page</c><c> after</c><c> the</c><c> refresh</c>
+and refresh the page after the refresh
+is<c> done</c>
+is done
+hit<c> stop</c><c> you</c><c> should</c><c> then</c><c> see</c><c> lcp</c><c> in</c><c> the</c>
+hit stop you should then see lcp in the
+timing<c> graph</c>
+timing graph
+and<c> if</c><c> you</c><c> hover</c><c> over</c><c> it</c><c> you'll</c><c> see</c><c> the</c>
+and if you hover over it you'll see the
+largest<c> visible</c><c> element</c><c> in</c><c> the</c><c> viewport</c>
+largest visible element in the viewport
+in<c> this</c><c> case</c><c> our</c><c> featured</c><c> image</c><c> click</c><c> it</c>
+in this case our featured image click it
+and<c> you'll</c><c> see</c><c> more</c><c> details</c><c> below</c><c> now</c>
+and you'll see more details below now
+according<c> to</c><c> google</c><c> the</c><c> four</c><c> most</c><c> common</c>
+according to google the four most common
+causes<c> of</c><c> poor</c><c> lcp</c>
+causes of poor lcp
+are<c> slow</c><c> server</c><c> response</c><c> times</c><c> render</c>
+are slow server response times render
+blocking<c> javascript</c><c> and</c><c> css</c>
+blocking javascript and css
+slow<c> resource</c><c> load</c><c> times</c><c> and</c><c> client-side</c>
+slow resource load times and client-side
+rendering
+if<c> you've</c><c> implemented</c><c> the</c><c> basic</c>
+if you've implemented the basic
+optimizations<c> for</c><c> page</c><c> speed</c><c> like</c>
+optimizations for page speed like
+good<c> hosting</c><c> caching</c><c> image</c><c> optimizations</c>
+good hosting caching image optimizations
+and<c> the</c><c> use</c><c> of</c><c> a</c><c> cdn</c><c> then</c><c> that</c><c> should</c>
+and the use of a cdn then that should
+help<c> with</c><c> loading</c><c> performance</c>
+help with loading performance
+but<c> if</c><c> you</c><c> have</c><c> issues</c><c> with</c><c> render</c>
+but if you have issues with render
+blocking<c> js</c><c> or</c><c> css</c>
+blocking js or css
+then<c> it</c><c> gets</c><c> a</c><c> bit</c><c> more</c><c> technical</c><c> and</c><c> in</c>
+then it gets a bit more technical and in
+order<c> to</c><c> make</c><c> optimizations</c><c> effectively</c>
+order to make optimizations effectively
+you<c> need</c><c> to</c><c> have</c><c> a</c><c> basic</c><c> understanding</c>
+you need to have a basic understanding
+of<c> how</c><c> browsers</c><c> render</c><c> pages</c>
+of how browsers render pages
+so<c> let's</c><c> say</c><c> a</c><c> user</c><c> enters</c><c> a</c><c> url</c><c> in</c>
+so let's say a user enters a url in
+their<c> browser</c>
+their browser
+the<c> browser</c><c> will</c><c> then</c><c> send</c><c> a</c><c> get</c><c> request</c>
+the browser will then send a get request
+to<c> get</c><c> the</c><c> contents</c><c> of</c><c> the</c><c> requested</c><c> url</c>
+to get the contents of the requested url
+then<c> a</c><c> dns</c><c> lookup</c><c> happens</c><c> which</c>
+then a dns lookup happens which
+basically<c> maps</c><c> out</c><c> domain</c><c> names</c>
+basically maps out domain names
+to<c> ip</c><c> addresses</c><c> of</c><c> servers</c><c> once</c><c> the</c>
+to ip addresses of servers once the
+server<c> ip</c><c> is</c><c> found</c>
+server ip is found
+the<c> request</c><c> is</c><c> sent</c><c> through</c><c> a</c><c> connection</c>
+the request is sent through a connection
+is<c> made</c><c> with</c><c> the</c><c> server</c>
+is made with the server
+and<c> then</c><c> the</c><c> server</c><c> will</c><c> search</c><c> for</c><c> the</c>
+and then the server will search for the
+file<c> of</c><c> the</c><c> url</c>
+file of the url
+and<c> once</c><c> it</c><c> finds</c><c> it</c><c> it'll</c><c> send</c><c> that</c>
+and once it finds it it'll send that
+data<c> back</c><c> to</c><c> the</c><c> browser</c>
+data back to the browser
+which<c> will</c><c> then</c><c> process</c><c> the</c><c> file</c><c> to</c><c> show</c>
+which will then process the file to show
+the<c> web</c><c> visitor</c><c> the</c><c> contents</c><c> of</c><c> the</c><c> page</c>
+the web visitor the contents of the page
+now<c> we</c><c> won't</c><c> go</c><c> further</c><c> into</c><c> dns</c><c> or</c>
+now we won't go further into dns or
+hosting<c> because</c><c> i</c><c> want</c><c> to</c><c> spend</c><c> our</c><c> time</c>
+hosting because i want to spend our time
+focusing<c> on</c><c> what</c>
+focusing on what
+actually<c> happens</c><c> during</c><c> that</c><c> processing</c>
+actually happens during that processing
+stage
+assuming<c> you</c><c> requested</c><c> an</c><c> html</c><c> file</c><c> the</c>
+assuming you requested an html file the
+browser<c> first</c><c> needs</c><c> to</c><c> parse</c><c> the</c>
+browser first needs to parse the
+contents
+which<c> basically</c><c> means</c><c> to</c><c> extract</c><c> the</c>
+which basically means to extract the
+code<c> into</c><c> bits</c><c> and</c><c> pieces</c>
+code into bits and pieces
+and<c> some</c><c> of</c><c> these</c><c> bits</c><c> and</c><c> pieces</c><c> are</c>
+and some of these bits and pieces are
+going<c> to</c><c> be</c><c> links</c><c> to</c><c> resources</c><c> like</c>
+going to be links to resources like
+images
+css<c> and</c><c> javascript</c><c> files</c><c> so</c><c> then</c><c> all</c><c> of</c>
+css and javascript files so then all of
+these<c> resources</c>
+these resources
+need<c> to</c><c> go</c><c> through</c><c> the</c><c> same</c><c> process</c>
+need to go through the same process
+which<c> can</c><c> be</c><c> time</c><c> consuming</c><c> if</c><c> you</c><c> have</c>
+which can be time consuming if you have
+a<c> lot</c><c> of</c><c> resources</c><c> you're</c><c> requesting</c>
+a lot of resources you're requesting
+to<c> add</c><c> on</c><c> to</c><c> that</c><c> if</c><c> these</c><c> files</c><c> need</c><c> to</c>
+to add on to that if these files need to
+load<c> one</c><c> by</c><c> one</c>
+load one by one
+in<c> order</c><c> to</c><c> paint</c><c> the</c><c> contents</c><c> of</c><c> the</c>
+in order to paint the contents of the
+screen<c> then</c><c> your</c><c> lcp</c>
+screen then your lcp
+is<c> going</c><c> to</c><c> get</c><c> destroyed</c><c> but</c><c> there</c><c> are</c>
+is going to get destroyed but there are
+ways<c> you</c><c> can</c><c> optimize</c><c> this</c><c> process</c><c> to</c>
+ways you can optimize this process to
+improve<c> loading</c><c> performance</c>
+improve loading performance
+so<c> let's</c><c> talk</c><c> about</c><c> optimizing</c><c> the</c>
+so let's talk about optimizing the
+rendering<c> process</c><c> for</c><c> the</c><c> three</c><c> main</c>
+rendering process for the three main
+types<c> of</c><c> resources</c>
+types of resources
+images<c> css</c><c> and</c><c> js</c><c> files</c>
+images css and js files
+let's<c> start</c><c> with</c><c> images</c><c> aside</c><c> from</c><c> the</c>
+let's start with images aside from the
+things<c> that</c><c> i've</c><c> already</c><c> mentioned</c><c> like</c>
+things that i've already mentioned like
+lazy<c> loading</c><c> and</c><c> compression</c><c> preloading</c>
+lazy loading and compression preloading
+images<c> can</c><c> significantly</c><c> reduce</c><c> page</c>
+images can significantly reduce page
+load<c> times</c>
+load times
+and<c> preloading</c><c> basically</c><c> tells</c><c> browsers</c>
+and preloading basically tells browsers
+the<c> resources</c><c> you</c><c> want</c><c> to</c><c> load</c>
+the resources you want to load
+first<c> for</c><c> example</c><c> if</c><c> you</c><c> have</c><c> a</c><c> featured</c>
+first for example if you have a featured
+image<c> in</c><c> the</c><c> viewport</c>
+image in the viewport
+then<c> that's</c><c> something</c><c> you'd</c><c> probably</c>
+then that's something you'd probably
+want<c> to</c><c> preload</c><c> and</c><c> preloading</c><c> can</c>
+want to preload and preloading can
+actually<c> be</c><c> used</c><c> in</c><c> css</c>
+actually be used in css
+js<c> and</c><c> fonts</c><c> too</c><c> this</c><c> topic</c><c> goes</c>
+js and fonts too this topic goes
+pretty<c> deep</c><c> so</c><c> i'll</c><c> leave</c><c> a</c><c> link</c><c> to</c><c> this</c>
+pretty deep so i'll leave a link to this
+great<c> article</c><c> on</c><c> preloading</c><c> responsive</c>
+great article on preloading responsive
+images
+if<c> you</c><c> want</c><c> to</c><c> learn</c><c> more</c><c> as</c><c> for</c><c> css</c>
+if you want to learn more as for css
+files<c> there</c><c> are</c><c> a</c><c> few</c><c> things</c><c> you</c><c> can</c><c> do</c>
+files there are a few things you can do
+number<c> one</c><c> minify</c><c> them</c><c> minification</c>
+number one minify them minification
+removes<c> all</c>
+removes all
+unnecessary<c> characters</c><c> from</c><c> source</c><c> code</c>
+unnecessary characters from source code
+which<c> leads</c><c> to</c><c> smaller</c><c> file</c><c> sizes</c>
+which leads to smaller file sizes
+and<c> faster</c><c> load</c><c> times</c><c> number</c><c> two</c>
+and faster load times number two
+inline<c> your</c><c> critical</c><c> css</c><c> for</c><c> above</c><c> the</c>
+inline your critical css for above the
+fold<c> content</c>
+fold content
+this<c> might</c><c> include</c><c> your</c><c> website's</c><c> font</c>
+this might include your website's font
+viewport<c> settings</c>
+viewport settings
+background<c> color</c><c> and</c><c> an</c><c> h1</c><c> style</c><c> to</c><c> name</c>
+background color and an h1 style to name
+a<c> few</c>
+a few
+doing<c> this</c><c> will</c><c> allow</c><c> your</c><c> viewers</c><c> to</c>
+doing this will allow your viewers to
+see<c> content</c><c> above</c><c> the</c><c> fold</c>
+see content above the fold
+before<c> all</c><c> of</c><c> those</c><c> round</c><c> trips</c><c> are</c>
+before all of those round trips are
+completed<c> in</c><c> the</c><c> processing</c><c> stage</c><c> be</c>
+completed in the processing stage be
+talked<c> about</c>
+talked about
+and<c> number</c><c> three</c><c> remove</c><c> unused</c><c> css</c>
+and number three remove unused css
+and<c> defer</c><c> non-critical</c><c> css</c>
+and defer non-critical css
+to<c> find</c><c> css</c><c> that</c><c> your</c><c> page</c><c> isn't</c><c> using</c>
+to find css that your page isn't using
+go<c> to</c><c> chrome</c><c> dev</c><c> tools</c>
+go to chrome dev tools
+click<c> on</c><c> the</c><c> vertical</c><c> ellipsis</c><c> and</c><c> hit</c>
+click on the vertical ellipsis and hit
+run<c> command</c>
+run command
+then<c> search</c><c> for</c><c> show</c><c> coverage</c><c> click</c><c> the</c>
+then search for show coverage click the
+reload<c> button</c><c> here</c>
+reload button here
+and<c> you'll</c><c> be</c><c> able</c><c> to</c><c> see</c><c> the</c><c> css</c><c> and</c><c> or</c>
+and you'll be able to see the css and or
+js<c> that</c><c> hasn't</c><c> been</c>
+js that hasn't been
+executed<c> in</c><c> red</c><c> click</c><c> one</c><c> of</c><c> the</c><c> urls</c>
+executed in red click one of the urls
+and<c> you'll</c><c> see</c><c> the</c><c> exact</c><c> lines</c><c> of</c><c> code</c>
+and you'll see the exact lines of code
+that<c> haven't</c><c> been</c><c> executed</c><c> on</c><c> that</c><c> page</c>
+that haven't been executed on that page
+from<c> here</c><c> you</c><c> can</c><c> remove</c><c> anything</c><c> that</c>
+from here you can remove anything that
+your<c> site</c><c> isn't</c><c> using</c>
+your site isn't using
+or<c> move</c><c> unused</c><c> code</c><c> to</c><c> a</c><c> separate</c><c> file</c>
+or move unused code to a separate file
+and<c> only</c><c> load</c><c> that</c><c> resource</c><c> on</c><c> pages</c>
+and only load that resource on pages
+that
+need<c> it</c><c> now</c><c> for</c><c> javascript</c><c> you</c><c> can</c><c> do</c>
+need it now for javascript you can do
+pretty<c> much</c><c> the</c><c> same</c><c> things</c>
+pretty much the same things
+minify<c> it</c><c> where</c><c> it</c><c> won't</c><c> break</c><c> your</c><c> site</c>
+minify it where it won't break your site
+and<c> remove</c><c> non-critical</c><c> js</c>
+and remove non-critical js
+now<c> two</c><c> other</c><c> things</c><c> worth</c><c> doing</c><c> is</c><c> to</c>
+now two other things worth doing is to
+defer<c> or</c><c> asynchronously</c><c> load</c><c> js</c><c> where</c>
+defer or asynchronously load js where
+appropriate
+and<c> you</c><c> can</c><c> do</c><c> this</c><c> by</c><c> using</c><c> the</c><c> defer</c>
+and you can do this by using the defer
+or<c> async</c><c> attributes</c><c> in</c><c> your</c><c> script</c><c> tags</c>
+or async attributes in your script tags
+now<c> to</c><c> better</c><c> understand</c><c> these</c>
+now to better understand these
+attributes<c> you</c><c> need</c><c> to</c><c> understand</c><c> what</c>
+attributes you need to understand what
+happens<c> when</c><c> javascript</c><c> files</c><c> are</c><c> in</c>
+happens when javascript files are in
+your<c> html</c><c> code</c>
+your html code
+assuming<c> we</c><c> have</c><c> a</c><c> regular</c><c> script</c><c> tag</c>
+assuming we have a regular script tag
+without<c> any</c><c> attributes</c>
+without any attributes
+the<c> html</c><c> file</c><c> will</c><c> start</c><c> parsing</c><c> until</c>
+the html file will start parsing until
+it<c> hits</c><c> that</c><c> script</c><c> file</c>
+it hits that script file
+parsing<c> is</c><c> then</c><c> paused</c><c> while</c><c> the</c><c> script</c>
+parsing is then paused while the script
+is<c> downloaded</c>
+is downloaded
+and<c> then</c><c> executed</c><c> then</c><c> the</c><c> remainder</c><c> of</c>
+and then executed then the remainder of
+the<c> html</c><c> contents</c><c> get</c>
+the html contents get
+parsed<c> so</c><c> as</c><c> a</c><c> result</c><c> the</c><c> javascript</c><c> is</c>
+parsed so as a result the javascript is
+blocking
+and<c> will</c><c> delay</c><c> lcp</c><c> now</c><c> if</c><c> you</c><c> add</c><c> the</c>
+and will delay lcp now if you add the
+async<c> attribute</c><c> to</c><c> the</c><c> script</c><c> tag</c>
+async attribute to the script tag
+then<c> the</c><c> js</c><c> file</c><c> can</c><c> actually</c><c> be</c>
+then the js file can actually be
+downloaded<c> while</c><c> the</c><c> html</c><c> is</c><c> parsing</c>
+downloaded while the html is parsing
+and<c> even</c><c> though</c><c> asynchronously</c><c> loaded</c><c> js</c>
+and even though asynchronously loaded js
+can<c> still</c><c> block</c>
+can still block
+lcp<c> it</c><c> ensures</c><c> that</c><c> important</c><c> scripts</c>
+lcp it ensures that important scripts
+are<c> run</c>
+are run
+earlier<c> finally</c><c> is</c><c> the</c><c> defer</c><c> attribute</c>
+earlier finally is the defer attribute
+when<c> added</c><c> javascript</c><c> files</c><c> will</c><c> be</c>
+when added javascript files will be
+downloaded<c> while</c><c> the</c><c> html</c><c> is</c><c> parsed</c>
+downloaded while the html is parsed
+but<c> js</c><c> will</c><c> only</c><c> be</c><c> executed</c><c> after</c><c> the</c>
+but js will only be executed after the
+parser<c> has</c><c> completed</c>
+parser has completed
+so<c> it's</c><c> not</c><c> blocking</c><c> very</c><c> generally</c>
+so it's not blocking very generally
+speaking
+you<c> want</c><c> to</c><c> use</c><c> the</c><c> async</c><c> attribute</c><c> for</c>
+you want to use the async attribute for
+scripts<c> needed</c><c> earlier</c><c> in</c><c> the</c><c> page</c><c> load</c>
+scripts needed earlier in the page load
+and<c> defer</c><c> anything</c><c> that</c><c> can</c><c> wait</c><c> until</c>
+and defer anything that can wait until
+later<c> now</c><c> if</c><c> you</c><c> don't</c><c> quite</c><c> have</c><c> the</c>
+later now if you don't quite have the
+technical<c> skills</c><c> to</c><c> do</c><c> this</c><c> on</c><c> your</c><c> own</c>
+technical skills to do this on your own
+then<c> it</c><c> may</c><c> be</c><c> worth</c><c> hiring</c><c> a</c><c> developer</c>
+then it may be worth hiring a developer
+and<c> or</c><c> technical</c><c> seo</c><c> who</c><c> can</c><c> help</c>
+and or technical seo who can help
+all<c> right</c><c> the</c><c> next</c><c> metric</c><c> is</c><c> cumulative</c>
+all right the next metric is cumulative
+layout<c> shift</c><c> or</c><c> cls</c>
+layout shift or cls
+which<c> measures</c><c> visual</c><c> stability</c><c> cls</c>
+which measures visual stability cls
+looks<c> at</c><c> how</c><c> much</c><c> visible</c><c> content</c><c> has</c>
+looks at how much visible content has
+shifted<c> in</c><c> the</c><c> viewport</c>
+shifted in the viewport
+it<c> measures</c><c> the</c><c> distance</c><c> the</c><c> affected</c>
+it measures the distance the affected
+elements<c> were</c><c> shifted</c>
+elements were shifted
+for<c> example</c><c> if</c><c> we</c><c> visit</c><c> this</c><c> page</c><c> and</c>
+for example if we visit this page and
+start<c> scrolling</c><c> down</c>
+start scrolling down
+you'll<c> see</c><c> that</c><c> out</c><c> of</c><c> nowhere</c><c> ads</c><c> start</c>
+you'll see that out of nowhere ads start
+to<c> appear</c><c> shifting</c><c> the</c><c> content</c>
+to appear shifting the content
+it's<c> annoying</c><c> causes</c><c> a</c><c> bad</c><c> user</c>
+it's annoying causes a bad user
+experience
+and<c> that's</c><c> probably</c><c> the</c><c> reason</c><c> why</c><c> cls</c>
+and that's probably the reason why cls
+exists<c> now</c><c> the</c><c> way</c><c> they</c><c> used</c><c> to</c><c> measure</c>
+exists now the way they used to measure
+this<c> metric</c>
+this metric
+was<c> to</c><c> continually</c><c> measure</c><c> stability</c>
+was to continually measure stability
+even<c> after</c><c> the</c><c> page</c><c> had</c><c> loaded</c>
+even after the page had loaded
+but<c> recently</c><c> google</c><c> decided</c><c> to</c><c> measure</c>
+but recently google decided to measure
+cls<c> in</c><c> five</c>
+cls in five
+second<c> sessions</c><c> and</c><c> the</c><c> metric</c><c> they</c><c> now</c>
+second sessions and the metric they now
+report
+is<c> the</c><c> five</c><c> second</c><c> time</c><c> frame</c><c> where</c><c> the</c>
+is the five second time frame where the
+most<c> shifting</c><c> occurred</c>
+most shifting occurred
+so<c> it's</c><c> not</c><c> really</c><c> cumulative</c><c> anymore</c>
+so it's not really cumulative anymore
+but<c> i</c><c> guess</c><c> that's</c><c> besides</c><c> the</c><c> point</c>
+but i guess that's besides the point
+now<c> the</c><c> recommended</c><c> threshold</c><c> by</c><c> google</c>
+now the recommended threshold by google
+is<c> to</c><c> have</c><c> a</c><c> score</c><c> of</c><c> less</c><c> than</c><c> 0.1</c>
+is to have a score of less than 0.1
+and<c> you</c><c> can</c><c> check</c><c> these</c><c> in</c><c> the</c><c> same</c>
+and you can check these in the same
+tools<c> that</c><c> i've</c><c> already</c><c> discussed</c>
+tools that i've already discussed
+so<c> if</c><c> we</c><c> look</c><c> at</c><c> the</c><c> example</c><c> pages</c>
+so if we look at the example pages
+scores<c> and</c><c> page</c><c> speed</c><c> insights</c>
+scores and page speed insights
+you'll<c> see</c><c> that</c><c> the</c><c> majority</c><c> of</c><c> page</c>
+you'll see that the majority of page
+loads<c> are</c><c> way</c><c> off</c><c> the</c><c> mark</c>
+loads are way off the mark
+now<c> if</c><c> you</c><c> want</c><c> to</c><c> actually</c><c> see</c><c> these</c>
+now if you want to actually see these
+layout<c> shifts</c><c> you</c><c> can</c><c> scroll</c><c> to</c><c> the</c>
+layout shifts you can scroll to the
+bottom<c> of</c><c> the</c><c> page</c>
+bottom of the page
+and<c> click</c><c> on</c><c> avoid</c><c> large</c><c> layout</c><c> shifts</c>
+and click on avoid large layout shifts
+to<c> see</c><c> the</c><c> exact</c><c> parts</c><c> that</c><c> are</c><c> affected</c>
+to see the exact parts that are affected
+now<c> the</c><c> most</c><c> common</c><c> causes</c><c> of</c><c> cls</c><c> are</c>
+now the most common causes of cls are
+images<c> without</c><c> dimensions</c>
+images without dimensions
+ads<c> embeds</c><c> and</c><c> iframes</c><c> without</c>
+ads embeds and iframes without
+dimensions
+dynamically<c> injected</c><c> content</c><c> and</c><c> when</c>
+dynamically injected content and when
+fonts<c> or</c><c> styles</c><c> are</c><c> applied</c><c> too</c><c> late</c><c> in</c>
+fonts or styles are applied too late in
+the<c> code</c>
+the code
+fixing<c> any</c><c> of</c><c> these</c><c> issues</c><c> without</c>
+fixing any of these issues without
+dimensions<c> is</c><c> pretty</c><c> easy</c>
+dimensions is pretty easy
+for<c> images</c><c> and</c><c> videos</c><c> just</c><c> add</c><c> width</c><c> and</c>
+for images and videos just add width and
+height<c> attributes</c><c> to</c><c> your</c><c> elements</c>
+height attributes to your elements
+alternatively<c> you</c><c> can</c><c> use</c><c> css</c><c> aspect</c>
+alternatively you can use css aspect
+ratio<c> boxes</c>
+ratio boxes
+for<c> ads</c><c> embeds</c><c> and</c><c> iframes</c><c> you</c><c> can</c>
+for ads embeds and iframes you can
+create
+static<c> elements</c><c> to</c><c> reserve</c><c> space</c><c> for</c>
+static elements to reserve space for
+them<c> for</c><c> example</c>
+them for example
+i'm<c> sure</c><c> you've</c><c> seen</c><c> ads</c><c> that</c><c> suddenly</c>
+i'm sure you've seen ads that suddenly
+appear<c> and</c><c> push</c>
+appear and push
+all<c> the</c><c> content</c><c> down</c><c> instead</c><c> you</c><c> can</c>
+all the content down instead you can
+define<c> width</c><c> and</c><c> height</c><c> attributes</c><c> for</c>
+define width and height attributes for
+the<c> element</c>
+the element
+in<c> this</c><c> case</c><c> they've</c><c> added</c><c> placeholder</c>
+in this case they've added placeholder
+text<c> which</c><c> eventually</c><c> changes</c><c> to</c><c> an</c>
+text which eventually changes to an
+ad<c> once</c><c> rendered</c><c> now</c><c> if</c><c> you're</c><c> unsure</c><c> as</c>
+ad once rendered now if you're unsure as
+to<c> the</c><c> exact</c><c> parts</c><c> of</c><c> the</c><c> page</c><c> that</c><c> are</c>
+to the exact parts of the page that are
+causing<c> cls</c><c> related</c><c> issues</c>
+causing cls related issues
+you<c> can</c><c> use</c><c> webpagetest.org</c><c> just</c><c> enter</c><c> a</c>
+you can use webpagetest.org just enter a
+url
+and<c> then</c><c> run</c><c> the</c><c> test</c><c> next</c><c> find</c><c> the</c><c> film</c>
+and then run the test next find the film
+strip<c> view</c>
+strip view
+and<c> click</c><c> it</c><c> make</c><c> sure</c><c> to</c><c> set</c><c> the</c>
+and click it make sure to set the
+thumbnail<c> size</c><c> to</c><c> huge</c>
+thumbnail size to huge
+and<c> the</c><c> thumbnail</c><c> interval</c><c> to</c><c> 0.1</c>
+and the thumbnail interval to 0.1
+seconds
+finally<c> check</c><c> the</c><c> highlight</c><c> layout</c>
+finally check the highlight layout
+shifts<c> box</c>
+shifts box
+now<c> as</c><c> you</c><c> scroll</c><c> through</c><c> the</c><c> film</c><c> strip</c>
+now as you scroll through the film strip
+any<c> frames</c><c> with</c><c> dash</c><c> borders</c><c> are</c><c> ones</c>
+any frames with dash borders are ones
+that<c> had</c><c> a</c><c> layout</c><c> shift</c>
+that had a layout shift
+and<c> the</c><c> parts</c><c> that</c><c> are</c><c> highlighted</c><c> in</c>
+and the parts that are highlighted in
+the<c> frames</c><c> are</c><c> where</c><c> layout</c><c> shifts</c>
+the frames are where layout shifts
+occurred
+if<c> you</c><c> want</c><c> to</c><c> learn</c><c> more</c><c> about</c>
+if you want to learn more about
+optimizing<c> cls</c><c> i'll</c><c> leave</c><c> a</c><c> link</c><c> to</c><c> an</c>
+optimizing cls i'll leave a link to an
+article<c> in</c><c> the</c><c> description</c><c> below</c>
+article in the description below
+alright<c> the</c><c> third</c><c> and</c><c> final</c><c> metric</c><c> is</c>
+alright the third and final metric is
+first<c> input</c><c> delay</c><c> or</c><c> fid</c>
+first input delay or fid
+which<c> measures</c><c> interactivity</c><c> the</c><c> purpose</c>
+which measures interactivity the purpose
+of<c> this</c><c> metric</c><c> is</c><c> to</c><c> get</c><c> an</c>
+of this metric is to get an
+understanding<c> of</c><c> a</c><c> user's</c><c> first</c>
+understanding of a user's first
+impression<c> of</c><c> a</c><c> site's</c><c> interactivity</c>
+impression of a site's interactivity
+and<c> responsiveness</c><c> it</c><c> measures</c><c> the</c><c> time</c>
+and responsiveness it measures the time
+from<c> when</c><c> a</c><c> user</c><c> first</c><c> interacts</c><c> with</c>
+from when a user first interacts with
+the<c> page</c>
+the page
+to<c> the</c><c> time</c><c> when</c><c> the</c><c> browser</c><c> is</c><c> able</c><c> to</c>
+to the time when the browser is able to
+respond<c> to</c><c> that</c><c> interaction</c>
+respond to that interaction
+for<c> example</c><c> if</c><c> you</c><c> look</c><c> at</c><c> this</c><c> gif</c><c> from</c>
+for example if you look at this gif from
+requestmetrics.com
+you'll<c> see</c><c> that</c><c> they've</c><c> created</c><c> what</c>
+you'll see that they've created what
+appears<c> to</c><c> be</c><c> a</c><c> simple</c><c> script</c>
+appears to be a simple script
+click<c> the</c><c> button</c><c> and</c><c> it</c><c> stops</c><c> running</c>
+click the button and it stops running
+the<c> heavy</c><c> javascript</c>
+the heavy javascript
+but<c> the</c><c> time</c><c> between</c><c> clicking</c><c> and</c>
+but the time between clicking and
+completing<c> the</c><c> script</c>
+completing the script
+took<c> over</c><c> 1.4</c><c> seconds</c><c> which</c><c> isn't</c><c> ideal</c>
+took over 1.4 seconds which isn't ideal
+for<c> users</c>
+for users
+the<c> recommended</c><c> speed</c><c> for</c><c> fid</c><c> is</c><c> to</c><c> stay</c>
+the recommended speed for fid is to stay
+under<c> 100</c><c> milliseconds</c>
+under 100 milliseconds
+now<c> different</c><c> types</c><c> of</c><c> interactions</c><c> will</c>
+now different types of interactions will
+include<c> clicking</c><c> a</c><c> link</c><c> or</c><c> button</c>
+include clicking a link or button
+inputting<c> text</c><c> into</c><c> a</c><c> blank</c><c> field</c>
+inputting text into a blank field
+selecting<c> a</c><c> drop</c><c> down</c><c> menu</c>
+selecting a drop down menu
+or<c> whatever</c><c> now</c><c> the</c><c> main</c><c> cause</c><c> for</c><c> slow</c>
+or whatever now the main cause for slow
+fid
+is<c> heavy</c><c> javascript</c><c> execution</c><c> basically</c>
+is heavy javascript execution basically
+a<c> user</c><c> is</c><c> trying</c><c> to</c><c> interact</c><c> with</c><c> the</c>
+a user is trying to interact with the
+website
+but<c> the</c><c> browser</c><c> isn't</c><c> able</c><c> to</c><c> respond</c>
+but the browser isn't able to respond
+because<c> the</c><c> main</c><c> thread</c><c> is</c><c> busy</c><c> doing</c>
+because the main thread is busy doing
+something<c> else</c>
+something else
+so<c> the</c><c> four</c><c> recommendations</c><c> that</c><c> google</c>
+so the four recommendations that google
+provides<c> is</c><c> to</c><c> break</c><c> up</c><c> long</c><c> tasks</c>
+provides is to break up long tasks
+optimize<c> your</c><c> pages</c><c> for</c><c> interaction</c>
+optimize your pages for interaction
+readiness<c> use</c><c> a</c><c> web</c><c> worker</c>
+readiness use a web worker
+and<c> reduce</c><c> javascript</c><c> execution</c><c> time</c><c> i</c>
+and reduce javascript execution time i
+won't<c> go</c><c> further</c><c> on</c><c> this</c>
+won't go further on this
+as<c> first</c><c> input</c><c> delay</c><c> is</c><c> a</c><c> field</c><c> metric</c>
+as first input delay is a field metric
+meaning<c> you</c><c> can't</c><c> get</c><c> lab</c><c> data</c><c> for</c><c> it</c>
+meaning you can't get lab data for it
+google<c> recommends</c><c> using</c><c> total</c><c> blocking</c>
+google recommends using total blocking
+time<c> but</c><c> they</c><c> measure</c><c> completely</c>
+time but they measure completely
+different<c> things</c>
+different things
+plus<c> editing</c><c> js</c><c> is</c><c> going</c><c> to</c><c> be</c><c> very</c>
+plus editing js is going to be very
+situational
+for<c> each</c><c> individual</c><c> person's</c><c> scripts</c>
+for each individual person's scripts
+instead<c> i'll</c><c> leave</c><c> a</c><c> link</c><c> to</c><c> google's</c>
+instead i'll leave a link to google's
+guide<c> on</c>
+guide on
+optimizing<c> fid</c><c> in</c><c> the</c><c> description</c><c> so</c>
+optimizing fid in the description so
+with
+all<c> of</c><c> this</c><c> said</c><c> the</c><c> big</c><c> question</c><c> is</c><c> do</c>
+all of this said the big question is do
+core<c> web</c><c> vitals</c>
+core web vitals
+really<c> matter</c><c> that</c><c> much</c><c> that</c><c> you</c><c> should</c>
+really matter that much that you should
+put<c> the</c><c> time</c><c> effort</c>
+put the time effort
+and<c> potentially</c><c> money</c><c> into</c><c> and</c><c> like</c><c> all</c>
+and potentially money into and like all
+answers<c> to</c><c> seo</c><c> questions</c>
+answers to seo questions
+it<c> depends</c><c> do</c><c> i</c><c> personally</c><c> think</c><c> that</c>
+it depends do i personally think that
+core<c> web</c><c> vitals</c><c> will</c><c> be</c><c> the</c><c> difference</c>
+core web vitals will be the difference
+in<c> ranking</c><c> number</c><c> one</c>
+in ranking number one
+and<c> number</c><c> fifteen</c><c> no</c><c> i</c><c> don't</c><c> it's</c><c> still</c>
+and number fifteen no i don't it's still
+very<c> new</c><c> and</c><c> not</c>
+very new and not
+all<c> webmasters</c><c> have</c><c> the</c><c> technical</c>
+all webmasters have the technical
+knowledge<c> to</c><c> optimize</c><c> for</c><c> these</c><c> metrics</c>
+knowledge to optimize for these metrics
+and<c> i</c><c> highly</c><c> doubt</c><c> that</c><c> google</c><c> will</c><c> be</c>
+and i highly doubt that google will be
+penalizing
+karen's<c> fashion</c><c> blog</c><c> or</c><c> joey's</c><c> recipe</c>
+karen's fashion blog or joey's recipe
+site<c> because</c><c> their</c><c> ads</c><c> move</c><c> the</c><c> content</c>
+site because their ads move the content
+a<c> bit</c>
+a bit
+john<c> mueller</c><c> said</c><c> quality</c><c> content</c><c> still</c>
+john mueller said quality content still
+comes
+first<c> page</c><c> experience</c><c> becomes</c><c> more</c>
+first page experience becomes more
+important
+when<c> there</c><c> are</c><c> multiple</c><c> similar</c><c> results</c>
+when there are multiple similar results
+that's<c> up</c><c> for</c><c> interpretation</c>
+that's up for interpretation
+but<c> the</c><c> way</c><c> i</c><c> see</c><c> it</c><c> is</c><c> that</c><c> core</c><c> web</c>
+but the way i see it is that core web
+vitals<c> will</c><c> play</c><c> as</c><c> more</c><c> of</c><c> a</c><c> tie</c>
+vitals will play as more of a tie
+breaker
+than<c> a</c><c> make</c><c> it</c><c> or</c><c> break</c><c> it</c><c> kind</c><c> of</c>
+than a make it or break it kind of
+ranking<c> signal</c><c> let</c><c> me</c><c> know</c><c> what</c><c> you</c>
+ranking signal let me know what you
+think<c> about</c><c> google's</c><c> new</c><c> core</c><c> web</c><c> vitals</c>
+think about google's new core web vitals
+release
+and<c> if</c><c> you</c><c> found</c><c> this</c><c> video</c><c> to</c><c> be</c>
+and if you found this video to be
+helpful<c> make</c><c> sure</c><c> to</c><c> like</c><c> share</c><c> and</c>
+helpful make sure to like share and
+subscribe<c> for</c><c> more</c><c> actionable</c><c> seo</c><c> and</c>
+subscribe for more actionable seo and
+marketing<c> tutorials</c>
+marketing tutorials
+i'll<c> see</c><c> you</c><c> in</c><c> the</c><c> next</c><c> one</c>

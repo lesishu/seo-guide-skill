@@ -1,0 +1,320 @@
+when doing keyword research you'll
+usually start with a broad seed
+toss it into a keyword research tool go
+to a keyword ideas report
+and then pick a needle from the haystack
+there's nothing wrong with this because
+it's important to tackle popular keyword
+phrases
+now on the flip side if everyone is
+doing keyword research this way
+then everyone will be finding the same
+keywords
+ignoring hundreds or maybe even
+thousands of perfectly good
+opportunities
+but there are ways to find untapped
+keyword opportunities
+where competition is low but search
+traffic potential is
+medium to high so in this tutorial i'm
+going to show you a few advanced keyword
+research tips
+to find untapped keyword opportunities
+that are worth going after
+stay tuned
+now the word untapped in the context of
+seo
+is kind of a buzzword but i want to put
+some meaning behind the idea of
+untapped keyboards because they do exist
+an untapped keyword is one that's flown
+under the radar
+it still has search demand but is less
+competitive than the obvious targets
+now there isn't exactly a cookie-cutter
+way to find these keywords and if there
+was
+then these keywords wouldn't be untapped
+finding gold and keyword opportunities
+is more about identifying patterns
+and then using your keyword research
+skills to follow a rabbit hole
+which can often lead you to an
+opportunity a detour and sometimes
+a dead end but you need to follow the
+rabbit hole to find out
+so let's kick this tutorial off with the
+easiest tactic and that's to look at
+your competitor's low competition topics
+this is by far the easiest place to
+start because by looking at your
+competitors most traffic pages
+you'll be looking at relevant topics to
+your niche along with organic traffic
+metrics
+and i'll be using ahrefs site explorer
+to do this
+so to get started enter one of your
+organic search competitors domains
+i'll go with nerdwallet.com next go to
+the top pages report which shows you the
+pages that send the site for most search
+traffic
+next let's set a keyword difficulty
+filter with a maximum value
+of something low like 20 considering the
+personal finance niche
+is pretty competitive now before i apply
+the filter it's important to note that
+the numbers in the data table will
+change meaning once i hit apply things
+like traffic
+value and keywords will all decrease
+and that's because the results will
+change to reflect the set filters
+in this case pages that have keyword
+rankings with difficulty scores
+of 20 or less let's hit apply
+now when you skim through this list
+you'll want to use some common sense
+and compare the url slugs with the top
+keyword
+and what you're looking for is to see if
+the top keyword is the one that the page
+is actually targeting which you can kind
+of tell from the url
+slugs for example this url is clearly
+targeting
+weibull versus robinhood and that's also
+the top keyword so this is potentially a
+lower competition topic
+that gets a decent amount of search
+traffic now to see the total global
+traffic to this page
+just click the caret and you'll see that
+it gets a similar amount of monthly
+search visits
+when compared to the filtered amount of
+search traffic
+but the fund doesn't have to stop here
+after you've gone through your first
+competitor's top pages report
+go to the competing domains report to
+find other competitors
+with similar keyword rankings then just
+rinse and repeat as
+many times as you like the next method
+is to identify
+unique keyword modifiers a modifier is
+an add-on to a base keyword
+for example if your head term is credit
+cards then modifiers could be top
+best the current year or any combination
+now the type of modifiers we're looking
+for are ones that would alter the search
+results
+for example if you search for best
+credit cards
+and best credit cards 2021 the results
+will be near identical
+on the other hand if you compare the
+search results for best rap albums
+2020 and best wrap albums 2000
+you'll have completely different search
+results because the modifier changes the
+searcher's expectations
+so if we go back to the top pages report
+from nerd wallet
+where the kd filter is set to 20 you'll
+see that this page is on
+colorado first time homebuyer programs
+the top keyword seems like the one the
+page is targeting and if i click the
+caret
+you'll see the total global traffic
+potential isn't far off from the filter
+traffic number
+now if you use some common sense then
+you'll know that the keyword
+first time home buyer is going to be
+more competitive
+than first first-time homebuyer colorado
+and you'll also know that first-time
+homebuyer programs
+will generally be slightly different
+from state to state
+so in this case we've identified a
+modifier to a competitive phrase
+now it's time to follow the rabbit hole
+so i'll go to google and search for
+50 u.s states copy and paste let's click
+through to the first result
+and click copy list to clipboard next
+i'm going to format these so that each
+state is separated by commas
+instead of new lines using this tool
+i'll paste in my list of u.s states
+copy the comma separated list and then
+head on over to ahrefs keywords explorer
+let's add our seed first time homebuyer
+and run the search
+next i'll go to the phrase match report
+now all you have to do is hit the
+include box
+paste in your comma separated list of 50
+usdates
+and hit the any word tab so when i hit
+apply
+it'll show us any keywords that includes
+the phrase first time homebuyer
+as well as one of the us states and now
+we have at least 50 pages we can create
+content around
+where many are low competition and
+they're all closely related which could
+work well from a site structure
+perspective
+all right the next way to find untapped
+keywords is to look for
+uncommon seeds as i showed you before
+the most common way to do keyword
+research is to enter a few broad seeds
+in a keyword research tool
+go to a keyword ideas report and then
+sift through the results
+but because tons of people are doing the
+exact same thing
+everyone will be looking at similar sets
+of keywords
+to prove my point let's say you have a
+content site on
+beards now i want you to take the next
+five seconds
+to think of seed keywords related to
+beards
+ready
+so how many did you come up with i came
+up with three
+beard beards and mustache
+and i'm guessing there's some overlap
+between your list and mine
+so to separate yourself from others you
+need to find seeds that are lesser known
+but still popular to do that go to hr
+site explorer
+and enter a competitor's domain i'll go
+with beardaholic.com
+next go to version 2 of the organic
+keywords report
+which shows you the site's keyword
+rankings now let's add a keyword filter
+to exclude common seeds
+so i'll hit the keywords filter and set
+the rules to
+doesn't contain beard and then i'll set
+a second rule
+to doesn't contain mustache let's hit
+and now you'll see some great topics
+like best double trimmer
+goatee styles and mutton chops to name a
+few
+now we're not looking for keyword ideas
+here we're looking for
+seeds so that would be keywords like
+stubble
+goatee mutton chops laser comb
+and monkeytail so let's go back to
+keywords explorer and run a new search
+then we'll hit the phrase match report
+and as you can see
+we have quite a few potential low
+competition topics
+and it would just be a matter of looking
+at the serps and deciding whether the
+keywords are worth targeting
+all right the next way is one of my
+favorite tactics for affiliate sites
+and that's defined versus in review
+keywords at scale for affiliate sites
+versus and review type keywords are
+awesome to rank for because people who
+are searching for them
+are likely very close to making a
+purchase and these keywords tell us that
+searchers have likely done some research
+and narrowed down their purchasing
+decision to just a couple different
+products
+meaning your content could be the last
+touch point before they hit that buy
+button
+now more likely than not you won't know
+all of the brand names
+for all the different types of products
+in your niche
+but you know who does e-commerce sites
+most ecommerce search and category pages
+will have a brand facet
+where they list all or some of the more
+popular brands within their store
+so let's say we have a site on baby
+products i'll start by heading over to
+an ecommerce store like
+strolleria.com which sells baby
+strollers
+next i'll click on the shop brands menu
+item and seeing as they're all listed
+here
+i'll scrape the list using a chrome
+extension called scraper
+just right click on one of the links in
+chrome and hit scrape similar
+i'll clean up the list a bit since we
+don't need the links and then copy it to
+my clipboard
+next let's head on over to keywords
+explorer and paste these brand names
+into the search box
+and then let's head on over to the
+phrase match report
+now since we're looking for verses and
+review keywords
+i'll hit the include filter and type in
+verses
+and review with an asterisk at the end
+which will act as a wild card catching
+words like
+reviews reviewing etc finally i'll hit
+the any word tab
+and hit apply now there's going to be
+some irrelevant keywords in here
+because brand names are often popular
+words that hold different meanings like
+apple amazon and coach in our case
+bob seems to be producing some unwanted
+so let's hit the exclude button and add
+bob
+and now you'll see some great keywords
+like nina rava review
+alpha baby cruise versus vista and bric
+tax marathon click type reviews
+all of which seem to have barely any
+competition from a link's perspective
+now these are just a few keyword
+research tactics that i've used
+to find untapped keyword ideas but the
+one thing i want you to take away from
+this video
+is that when you're doing keyword
+research or any seo tactic for that
+matter
+your best tool is going to be your
+ability to recognize patterns within
+data and some creativity won't hurt
+so go and try these tactics out for your
+site try and go beyond what i've taught
+and if you enjoyed this video make sure
+to like share and subscribe for more
+actionable seo and marketing tutorials
+i'll see you in the next one

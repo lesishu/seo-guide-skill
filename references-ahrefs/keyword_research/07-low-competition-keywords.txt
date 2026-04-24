@@ -1,0 +1,348 @@
+everyone wants to rank for competitive
+keywords but sometimes
+it's just not possible in the short term
+and that's why everyone
+loves low competition keywords they're
+easy to rank for
+you don't need many and in some cases
+any backlinks to the page
+and they send you a decent amount of
+consistent search traffic
+month over month so in this video i'll
+show you how to find
+low competition keywords and to
+confidently determine
+if they are indeed low competition stay
+tuned
+first let's get on the same page and
+talk about what a low competition
+keyword
+is simply put it's a keyword that's easy
+to rank for
+now with so many different factors that
+go into ranking on google
+people generally think of low
+competition keywords as topics that
+don't require a lot of backlinks to rank
+high
+but the thing is ranking high on google
+isn't
+always just about backlinks so for the
+rest of this tutorial
+we'll go through a five step process
+which will help you find low competition
+keywords
+and more importantly validate that these
+keywords are indeed easy to rank for
+so the first step is to brainstorm a
+list of topics
+and when i say topics i'm talking about
+broad keywords that are related to your
+niche
+these are called seed keywords for
+example
+if we have a site on parenting some
+broad keywords might include
+parenting stroller pregnancy
+babies and car seat try to think of five
+to ten
+broad topics within your niche but try
+to be specific enough
+that the keywords can't be interpreted
+in too many different ways
+all right step two is to expand your
+topics with the keyword research tool
+keyword research tools give you
+information about how often words
+and phrases are searched they're also
+the main way seos generate keyword lists
+and the one i'll be using is ahrefs
+keywords explorer
+so to get started enter your list of
+seed keywords you just brainstormed
+and then run the search next go to the
+phrase match report
+now with well over 3 million keyword
+ideas
+we'll need to narrow this down this
+brings us to step 3 which is to filter
+keywords for low difficulty scores
+a lot of keyword research tools provide
+some kind of ranking difficulty metric
+at ahrefs we call ours keyword
+difficulty or kd
+our kd score runs on a scale of 0 to 100
+and tries to determine how hard it will
+be to rank in google's top 10 results
+for a given search query and the way we
+calculate it
+is based on a weighted average of the
+number of websites
+that link to the top 10 pages this means
+that the top 10 pages for low difficulty
+scores
+won't have many linking domains pointing
+at them so let's set a keyword
+difficulty filter with a minimum value
+of 0
+and a maximum value of 20. and now we
+have over 160 000
+potential low competition topics the key
+word here
+is potential again ranking isn't just
+about
+backlinks there are lots of other things
+you need to consider
+and we'll go deep into some examples of
+false positives in a bit
+for now let's move on to the next step
+which is to check if you can match
+search or intent
+search intent tells us the reason behind
+the searches query
+and if you can't match search or intent
+you won't be able to rank
+even if the query is so called low
+competition
+for example when someone searches for
+best baby strollers
+are they looking for blog posts product
+pages or ecommerce category pages
+the easiest way to find out is to just
+google the query
+and look at the top ranking pages for
+what we call the three
+c's of search intent the first c is
+content type
+so are the top ranking pages blog posts
+product or category pages
+in this case they're all blog posts the
+second c
+is content format so are they listicle
+type pages
+how-to's opinion pieces or step-by-step
+tutorials
+for this query they're all listicle
+styled posts
+and the third c is content angle this is
+the dominant selling proposition
+that the top ranking pages are using in
+this case
+they've gone with the freshness angle
+seeing as the top pages are using the
+current year and their titles
+assuming you have a blog you should be
+able to match search or intent
+now what about a query like baby
+strollers looking at the top pages
+you'll see that they're mostly
+e-commerce category pages
+so if you don't actually sell baby
+strollers it would be tough to rank
+there's more to search in 10 than the
+3cs but this should be enough to get you
+set on the right path
+but i highly recommend watching the
+lesson on search intent
+from our seo course for beginners so
+i'll link that up in the description
+all right the final step is probably the
+most important
+and that's to assess whether the query
+is actually low difficulty
+metrics like keyword difficulty and
+referring domains can only tell you so
+much
+and while combining these metrics can be
+helpful they don't always paint a full
+picture
+for example the query compact flash card
+reader
+has a low keyword difficulty score and
+if we scroll down to the serp
+you'll see that the top 10 pages don't
+really have that many links pointing at
+them
+but that doesn't mean if you can get
+more links and match search intent
+that you'll be able to outrank these
+sites now you might be thinking
+well it's because all these websites
+have high authority
+well in my opinion more than dr it's
+about brand equity
+sites like amazon best buy and bh photo
+video
+are places people trust and want to buy
+products from
+they've built trust and topical
+authority in the area of electronics
+and photo and video gear and i won't
+even get into on-page considerations
+like
+facets so is this a low competition
+topic
+definitely not unless you're an equal to
+one of these brands
+the big thing to take away from this is
+that there's no tool that can
+accurately determine ranking difficulty
+with a one to three digit number
+and this is one of the reasons why we've
+made our keyword difficulty score
+based on just linking domains backlinks
+are generally a prominent ranking signal
+with that said
+you need to manually assess each
+individual serp to understand whether
+the quarry is indeed a low competition
+now we've looked at an example of a
+false positive so let's look at an
+example of an actual low competition
+and how we come to that conclusion so
+the key word we'll be looking at is best
+convertible car seat for
+small cars looking at kd you'll see that
+it's relatively low
+so what that tells us is that the top
+ranking pages for the most part
+don't have many referring domains
+pointing at them so that's a good sniff
+test
+but nothing more let's scroll down to
+the serp
+now the first thing i'm going to look at
+is whether i can match the dominant
+search intent
+because if i can't then there's no point
+in looking further
+and you'll see that they're all listicle
+style blog posts which will be easy to
+match
+next let's do a quick check of the dr
+column and it looks like there's a
+mixture of both low
+and high dr sites which is promising
+because it tells us that the quarry
+probably isn't going to be
+a matter of just brand and the fact that
+very low authority websites were able to
+penetrate the top 10
+tells us that our hypothetical website
+could probably compete too
+so far so good now let's look at the
+domains that are ranking to get an idea
+of topical authority
+meaning do these sites likely have lots
+of content
+related to babies parenting or baby
+products like car seats
+and it looks like they all do now
+assuming our site is related to babies
+baby products parenting or whatever
+closely related topics
+then we'd likely be on a similar playing
+field the next thing i'd want to look at
+is relevance of the top ranking pages
+looking at the top page
+the title specifically says best
+convertible car seats
+for small cars it exactly matches the
+query
+now it's not to say that they're ranking
+high because of an exact match keyword
+but convertible car seats for small cars
+actually serve a very specific need and
+this is likely why some of these lower
+authority websites
+with low page authority are ranking
+ahead of bigger players
+for example this page is targeting just
+the best convertible car
+seats in general and finally let's look
+at the referring domains column
+as you can see the top ranking page only
+has a handful of referring domains
+in fact if we click on the referring
+domains number for the page
+you'll see that all the links come from
+relatively low authority sites
+and if i click the link type filter
+you'll see that only one of those links
+is followed so assuming we can outdo
+these pages on the content side of
+things
+this to me looks like a low competition
+as a final tip i want to show you one
+super cool trick to find low competition
+with high traffic potential not just
+that but it'll help you find
+totally new groups of low competition
+keywords in virtually any niche
+so to get started go to ahrefs content
+explorer which is a searchable database
+of over 5 billion pages and since we're
+working on a hypothetical parenting site
+let's set our query to parenting and run
+the search
+now we need to set a few filters first
+i'll set a referring domains filter with
+a maximum value
+of something low like 10 meaning the
+pages for our search query
+won't have many links next i'll set an
+organic traffic filter
+to show pages with a minimum of at least
+500 monthly organic visits
+and right away you'll see over 3 500
+pages
+that mention parenting get at least 500
+monthly organic visits
+and have 10 or fewer referring domains
+now it's just a matter of looking at the
+titles for topic ideas
+that would be appropriate for your site
+for example this one on coconut oil for
+diaper rash
+seems promising so i'll click on the
+page traffic box
+to see the top keywords the page ranks
+for and judging by the kd values
+it does look like another low
+competition topic
+but you still need to manually assess
+the search results
+now if you happen to be in a niche
+without a ton of low competition
+or you just have an unhealthy obsession
+with easy to rank for topics
+then you can use these keywords as news
+feeds and go through the first steps i
+showed you in the tutorial again
+so i'll go back to keywords explorer but
+this time
+i'll search for diaper rash as my seed
+next i'll go to the phrase match report
+and finally i'll set the maximum kd
+value to 20 again
+and now we have even more great keyword
+ideas where some will likely be
+very easy to rank for now while low
+competition keywords are great to target
+when your website is
+fairly new or has low authority they
+shouldn't be the only strategy you use
+higher competition topics generally lead
+to more traffic
+and links two things that all seos are
+after
+plus competitive topics usually have
+higher commercial value
+so it's worth going after competitive
+topics but you should set your time
+horizon realistically
+now go and try this out for your site
+and if you enjoyed this video
+make sure to like share and subscribe
+for more actionable seo and marketing
+i'll see you in the next one

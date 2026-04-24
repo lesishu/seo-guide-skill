@@ -1,0 +1,306 @@
+Kind: captions
+Language: en
+Digital marketing is one of the fastest-growing
+industries and even during times of uncertainty,
+jobs in advertising and marketing
+continued to grow.
+So today, I'm going to show you how to start
+a career in digital marketing and grow both
+your knowledge and salary.
+Stay tuned.
+[music]
+I've been in digital marketing since 2009.
+And throughout my 11 years, I've built and
+sold my own sites, freelanced, ran an agency,
+consulted, and today, I have the privilege
+of being an employee at Ahrefs.
+Now, I actually have a degree in health science,
+some certifications in investments and insurance,
+but my knowledge in digital marketing
+comes from the school of hard knocks.
+Part of the reason is because I'm stubborn,
+but it's mainly because in 2009, there really
+wasn't any good material online or in
+schools that would give you practical
+guidance and advice.
+So I want to walk you through the stages that
+you might go through in your path to become
+a professional digital marketer.
+Alright, so the first thing you'll want to
+do is to create your own website or blog.
+Creating your own website gives
+you your own testing grounds.
+It lets you get practical experience with
+marketing strategies without worrying
+about hurting someone else's site.
+Just choose a niche that you're interested
+in and create a site using WordPress.
+And there are literally thousands of
+tutorials out there to help you get started.
+Now, don't bother overthinking things
+like what your logo should be or how
+you'll make money from it.
+These things can come later.
+And if you're completely stuck, then create
+a site that's built around your name.
+The important part is that you invest a bit
+of money into your own website because
+you're less likely to give up
+without giving it a fair shot.
+Now, once you've gotten your site setup,
+I highly recommend focusing on just one
+area of digital marketing.
+Let's go through the pros and cons of a
+couple popular online marketing strategies.
+First up are online ads.
+And these are great to get
+immediate traffic to your site.
+But I wouldn't recommend trying these until
+you've gotten some experience under your belt.
+Reason being, you're more likely to burn
+through money before you make it.
+Second is social media marketing.
+And this is great if you already have a large
+following, but if you're just starting out that
+probably won't be the case.
+In my opinion, this is something to consider
+further down the road once you've built
+a steady stream of traffic and an audience
+who cares about your work.
+And third is SEO, which stands for
+search engine optimization.
+The great thing about SEO traffic is that
+once you're ranking, you'll be getting free,
+passive, and consistent traffic
+from search engines like Google.
+Meaning, you'll be consistently reaching new
+audiences and experience compounded traffic.
+Now, the downside is that it works a lot
+slower than advertising and social media.
+But if long term growth is what you're after,
+then in my completely biased opinion, SEO
+is the strategy that I'd recommend
+starting with because the skills you'll
+learn are transferable to many other
+facets of online marketing.
+Alright, so the next thing you need to do is
+spend some time learning about the area
+of internet marketing you want to pursue.
+The best place to start is by reading or watching
+a beginner's guide on the topic from a reputable
+person or company.
+And we have a lot of tutorials for beginners
+on both our YouTube channel and blog.
+Beginner's guides will help you get a general
+overview of the marketing method and also
+act as a "hub" for subtopics to research after.
+For example, in our SEO for beginners video,
+I talk about how SEO works, then go on to
+talk about things like keyword research, on-
+page SEO, link building, and technical SEO.
+And while much of the content is basic,
+you can use those as pivot points to go
+and research those subtopics in further detail.
+Alright, the next and most important part
+is to actually execute on the things you learn.
+Consuming too much content can and
+will lead to analysis paralysis; where you
+end up over-analyzing things and
+end up getting nothing done.
+So don't bother reading about super-technical
+things like crawl budget or wasting your time
+on split-testing, when you don't even
+have a meaningful amount of traffic.
+Instead, focus on mastering the fundamentals.
+So for SEO, that would be things like keyword
+research, content creation, and link building.
+These three things alone will move
+the needle more than spending hours
+worrying if you should use
+category pages for your blog.
+Lastly, get acquainted with some
+free digital marketing tools.
+If you're just starting out, I'm sure it'll be
+tough to pay for premium marketing tools.
+But there are some free ones that I highly
+recommend getting acquainted with because
+a) they're awesome, and b) you'll need to get
+familiar with them as you progress in your career.
+The first is Google Analytics, which is a web
+analytics platform that shows you things
+like the number of people visiting your site,
+which pages they go to, how long they stay,
+and hundreds of other actionable metrics.
+The second is Google Search Console, which
+allows you to see how your website is performing
+in Google search.
+You can see which pages are indexed in
+Google, the keywords your site ranks for,
+and the websites that link to you.
+The third is Ahrefs' Webmaster Tools.
+This is similar to Google Search Console
+since we show your site's backlinks and
+keyword rankings, but you also get access to
+a website audit tool which will scan your website
+for common and often easily fixable issues
+that can be hurting your site's performance.
+The fourth is ConvertKit, which
+is an email marketing tool.
+Their free plan lets you manage up to 1,000
+subscribers and is super easy to use.
+I strongly recommend building
+an email list right from the start.
+Think about it like this: if you're not giving
+visitors an option to subscribe, then you
+could be missing out on opportunities to grow
+an audience who wants to get updates from you.
+Now, whether you're a student or you're
+in another job, starting your own site is
+something you can do on the side.
+It's going to give you exposure to digital
+marketing and it's going to prepare you
+for the next stage, which is to get a job or
+internship at a digital marketing agency.
+Getting a job today is different
+than it was 10 years ago.
+Before you had to have a degree in marketing,
+business, or whatever in order to even qualify.
+But from my experience, tons of digital marketing
+agencies are more interested in hiring creative
+people who have produced results.
+Working at an agency is a great way to learn
+digital marketing fast because you'll have
+the opportunity to work with people
+who are ahead of you in your career.
+It's also a place you can find mentors and
+you'll also get a ton of hands-on experience
+working on various types of client sites.
+Work your way up to a more senior position,
+learn from people in your company, and if your
+goal is to become independent, then learn
+how agencies and businesses are run.
+And this will happen naturally as you speak
+with clients as well as senior-level management.
+Now, it's important to note that you shouldn't
+necessarily give up on your other sites.
+A lot of good companies will actually
+encourage you to spend time on your
+side projects to improve your craft.
+These are usually the types of people you
+want to work for because they'll challenge
+you to become masters of your work.
+Alright, next up is to consider freelancing.
+Freelancing is a great way to get more hands
+-on experience while increasing your income.
+And if by now, you're 3+ years into your digital
+marketing career, then there's a good chance
+you already have some freelance
+work lined up for you.
+Now, the two great things about freelancing
+after you've gotten a job are
+a) You'll have more experience to do good
+work for clients, and b) you'll still have
+a steady salary to pay the bills.
+Now, if you aren't getting referrals or inbound
+requests for work, then you can sign up for
+general sites like Upwork or People Per Hour,
+and apply for jobs where you think you can do
+a great job.
+And these jobs will help you build
+up your personal portfolio.
+Now, if you've chosen something more specialized
+like copywriting or blogging, then I'd spend
+time picking up side gigs at Problogger Jobs
+or other places that attract a specific audience.
+After you've built up a portfolio and somewhat
+of a positive reputation in your industry,
+you can consider going full-time into consulting.
+And the keyword here is "consider."
+There's nothing wrong with staying in your
+job, working your way up and retiring.
+Not everyone is meant to be a consultant
+and to be frank, not everyone should be.
+But for those who have really mastered their
+craft and want to maximize their earnings
+potential, they'll generally go on
+to do one of two things.
+#1. They'll start their own agency.
+And this requires hiring a team and usually
+involves doing both the strategy and execution.
+Now, one of the great things about agency
+work is that you can work with a lot of clients
+at the same time, since you'll have
+teams to manage client accounts.
+You're also able to provide more services
+since your team will likely be diversified.
+And being a one-stop shop allows you to
+maximize your earnings potential on upsells.
+One downside is that it can be quite costly,
+since you're dealing with salaries and potentially
+office space.
+The second route is to do independent consulting.
+From my experience, this has a far better
+net margin and hourly rates often range
+from hundreds to thousands of dollars.
+The downside is that you'll usually be limited
+in the number of clients you can take.
+Businesses often hire consultants who
+specialize in an area to solve higher-level
+business problems.
+So they might just want strategy.
+Or just training, or just execution.
+And although you may have a smaller
+team to handle the more systematized
+parts of your business, clients will
+be hiring you for your expertise.
+So naturally, you'll be limited to the number
+of clients you can take simultaneously.
+Now, regardless if you go the agency or consulting
+route, networks will be critical to your success.
+And this is why all of the other
+steps are important to go through.
+When you create a website, you
+learn and get practical experience
+with digital marketing strategies.
+When you get a job, you learn from
+those who are ahead of you.
+When you freelance, you get a feel for what
+it's like to actually run projects on your own.
+And as you're creating your personal brand,
+this helps in developing your networks as
+well as authority in your niche.
+Two other avenues to consider at this stage
+are to speak at events where your clients
+might be and to do a push with
+inbound marketing.
+Speaking engagements are usually unpaid.
+But if the room is full of your target audience
+and you have 30-60 minutes to show off your
+expertise, then it can be an extremely
+lucrative trip.
+For example, I spoke at a conference with
+a primary audience of decision makers.
+And a lot of these people worked
+at startups with funding.
+And after my talk was done, I had three
+people approach me for consulting work.
+As for inbound marketing, that's
+what we do at Ahrefs.
+We write and produce videos about problems
+that our target audience might face.
+And even though we don't have sales pitches
+in our content, there's no shortage of requests
+for consultations.
+So no matter where you are in your career,
+it's not too late to start in digital marketing.
+And just like any other career, it
+takes time to learn and grow.
+So if you're new, then I highly recommend
+watching our beginner's tutorial
+on the 7 digital marketing strategies that work,
+choose one to focus on, and then niche down
+from there.
+And if you enjoyed this video, then make
+sure to like, share and subscribe for more
+actionable SEO and online marketing tutorials.
+I'll see you in the next one.

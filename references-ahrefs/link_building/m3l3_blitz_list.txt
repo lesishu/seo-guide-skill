@@ -1,0 +1,167 @@
+# Module 3.3: The Blitz List: How to Start Link Building Campaigns Fast
+
+Hey, it's Sam Oh and welcome to
+the&nbsp;third lesson in the vetting module.
+In this lesson, we're going to talk
+about what I call a "blitz list."
+And a blitz list is simply a fully "ready-to-send"
+outreach list which is generated based on
+a sample of your vetted prospects.
+And in my opinion, this is the key to testing
+outreach campaigns efficiently because
+the blitz list serves two distinct purposes.
+#1. It's going to save you a ton of time
+from finding emails because it’s all
+done programmatically.
+And #2, because only a sample of your big
+prospects list will be contacted, it's going
+to help you validate your outreach pitch.
+Basically, you'll get an idea of how successful
+your campaign will be in under an hour so you
+can make an educated decision of whether&nbsp;
+it's worth continuing with the campaign,
+pivoting, or cancelling it altogether.
+Now, before we get to this scaling process,
+let's briefly look at how single emails are
+usually found.
+So assuming you're contacting the author of
+a&nbsp;post, you'd take that author's name and run
+a search through an email finding tool like Hunter.
+And if you were taking an extra step to clean
+your list of prospects, you'd verify that the email
+is deliverable using a tool like Neverbounce.
+Now, when you're finding someone that's not
+the&nbsp;author, the process takes significantly longer.
+You might look through a team page
+or the employee directory on LinkedIn
+to find the most appropriate contact.
+Then you'd have to run the names and domains
+through Hunter and validate again with Neverbounce.
+Now, assuming there is no team page or
+employee directory, you might look at their
+Facebook About page or a Terms and Conditions
+page only to find generic email addresses.
+And by this point, if we're being honest,
+we're kind of getting desperate.
+The process of finding and validating email&nbsp;
+addresses is extremely painful and time-consuming,
+which is why people look to networks
+like Upwork and Mechanical Turk to&nbsp;get
+people who will find emails for you.
+And while this might sound smart, I've personally
+worked with over 100 different email finders on
+various networks and my experience
+was nothing but awful.
+Some freelancers will find people's&nbsp;personal
+email addresses like a gmail address, but you
+shouldn't be contacting them there
+unless it's stated on their site.
+Others will provide lists&nbsp;of invalid email
+addresses&nbsp;or generic email addresses
+when there are better options.
+Plus, human error is real.
+Now, for those of you with deep pockets, you
+might do it in-house where your link builders
+create content, find prospects, vet them, find
+the emails, and then send the outreach pitch.
+The quality is usually much better, but
+it's&nbsp;a super inefficient way to build links.
+So is good quality email finding
+at affordable&nbsp;rates a lost cause?
+No, because there's the blitz list which
+is going to help you find&nbsp;valid email
+addresses programmatically.
+Now, at a high level, you run your list of URLs
+through Hunter's Author API, where Hunter will
+search for the author of the page and
+show&nbsp;you the email address if it exists.
+Then you use Never Bounce's API&nbsp;to validate
+whether the emails are likely to be deliverable
+or not.
+To give you an understanding of the scale
+of this method, assuming you had a list of
+1,000 prospects, it's very possible to find
+60-120 email addresses from your vetted
+list of prospects and start your outreach
+campaign, all within 15-30 minutes.
+Now, there are 3 ways you
+can create your blitz list.
+The first way is to use Google Sheets.
+Ideally, you'll want the help of a developer
+to create some App Scripts around Hunter's
+author finder call and Neverbounce's
+email&nbsp;verification call.
+This will give you maximum flexibility
+in how you format your sheets.
+Now, if you want something quick and dirty,
+you can start by using Hunter for Sheets,
+which&nbsp;is a Google Sheets add-on
+made by Hunter.io.
+Once you have it installed, all you
+need to do is go to the Finder tab,
+make sure author finder is selected,&nbsp;choose
+the column of your URLs in this box,&nbsp;and when
+you're ready, hit the&nbsp;"Find Email Addresses" button.
+Hunter will then search for author names
+and email addresses and print them into
+the corresponding cells when available.
+But as you can see, it's not perfect.
+And this is why you need to use an email
+verification API like Neverbounce.
+Again, a custom app script is ideal in
+this situation for the sake of speed,
+but if you want to go the quick and dirty
+route, just go to Neverbounce's Clean tool,
+upload a CSV of found email addresses,
+and&nbsp;then hit the "Clean my list button."
+Once it's completed, hit the&nbsp;Download
+button, select ‘All results'&nbsp;and download
+your CSV file.
+Now, the CSV should&nbsp;look like this, so
+you can import that into Google&nbsp;Sheets
+and use the VLOOKUP function to match
+statuses with your found email addresses.
+Alright, the second way is to create
+your own custom coded program.
+This in my opinion is the best route to
+go if you plan to scale email finding
+and have detailed specifications on
+how you want your workflow to go.
+So if you have a link building agency, this
+in&nbsp;my opinion, is well worth the investment.
+Hunter and Neverbounce's APIs are really easy
+to work with and for the basic functionality of
+finding and verifying emails, you should be
+able to get a basic job done for under $50.
+More robust systems will obviously
+be much more expensive.
+And the third option is to use Google
+Sheets with a nocode tool like Zapier.
+This is basically like a blended version
+of the first two ways I showed you.
+You get the simplicity of Google Sheets
+with&nbsp;the flexibility of custom coded.
+The downside is that it can take a
+while to set up if you're not&nbsp;familiar
+with logic programming.
+Plus, you'll have to use one of Zapier's paid
+plans when Appscripts&nbsp;would just be a one-time
+fee to a developer.
+I won't expand on how to use Zapier because
+I already made a full tutorial on creating&nbsp;this
+method with the APIs I mentioned so
+I'll&nbsp;link that video up in the description.
+Now, after you've run your URLs through
+these APIs, you should have your blitz list
+of ready-to-send emails based on a small
+segment of your vetted list of prospects.
+But before we can actually send these emails,
+you need to choose the outreach approach you'll
+go with and write up an email template.
+And that's what the next module is all about.
+We'll be talking about three different link
+outreach approaches, dive deep into what
+I think is the best one, and we'll&nbsp;end it off with
+a tutorial on how you can write good outreach
+templates without it sounding too templated.
+I'll see you there.

@@ -1,0 +1,253 @@
+# How to Do Local Keyword Research for Your Small Business
+
+﻿88% of people who do a local search on
+their smartphone will visit a related&nbsp;store
+within a week.
+So if your local&nbsp;SEO game is weak, then
+chances are you're leaving a lot on the table.
+Now, the first and arguably most important
+step of local SEO is local keyword&nbsp;research.
+And this is when you find&nbsp;keywords that
+people actually search for&nbsp;to find local
+products and services.
+And the reason why this step is so&nbsp;important
+is because if you get it right,&nbsp;then your local
+business will have&nbsp;the potential to rank for
+keywords&nbsp;that can drive targeted local traffic
+to your&nbsp;website and send
+more customers your way.
+So let's go through a step-by-step process
+to find keywords that your local business
+should be targeting so you can&nbsp;get
+more customers through your doors.
+The first step is simple: jot down
+a&nbsp;list of all services you offer.
+For example, a plumber might offer
+services&nbsp;like drain unblocking, boiler
+repairs, boiler installation, and radiator&nbsp;
+installations to name a few things.
+A dentist might offer comprehensive&nbsp;dental
+exams, cleanings, teeth whitenings,&nbsp;fillings,
+and crowns.
+Take your time going through&nbsp;this
+brainstorming stage because we want
+to make sure that your website will be
+searchable for all the services you provide.
+Now, once you've completed your list,
+we'll want to&nbsp;expand on these ideas
+for good measure.
+As a starting point, I recommend digging
+through your competitors' websites.
+For&nbsp;example, if you hover over the plumbing
+services menu for this company, you'll see
+they also have services pages for toilet
+and sink installations and repairs, sump
+pump&nbsp;replacements and frozen
+pipes to name a few.
+If you offer these services,
+then&nbsp;add them to your list.
+Another thing you can do is use a keyword
+research&nbsp;tool like Ahrefs' Keywords Explorer.
+Just paste in your brainstormed list of services,
+set the country to where your business operates,
+and run the search.
+Next, go to the Matching&nbsp;terms
+report to find more keyword ideas.
+Now, because our goal is to expand our list
+of services, we just want to scan the list of
+keywords and look for other
+services we might have&nbsp;missed.
+For example, you'll see new ideas like
+servicing gas boilers, commercial boiler
+repairs, and combi boiler installations
+to name a few.
+If you offer these services, then
+they're worth jotting down.
+Once you have a comprehensive list
+of services, move on to the next step
+which is to check for local intent.
+Local intent refers to queries where Google
+assumes the user is looking for a local&nbsp;result.
+And an easy way to infer local intent
+is by looking for map packs and local
+organic listings.
+For example, if you search for Mexican
+restaurants, you'll see that there's&nbsp;clear
+local intent because there's a map
+pack that lists local restaurants and
+the organic results are all directories
+and local businesses in the area.
+So to check for local intent, you can search
+for&nbsp;each service one by one in Google and
+check for a map pack and/or
+local organic results.
+Alternatively, you can bulk-check
+them&nbsp;in Keywords Explorer.
+Just paste in your&nbsp;list of
+services and run the search.
+Then set a SERP features filter to only show
+keywords where a local pack is in the SERP.
+Hit Apply, and you'll see
+keywords with local intent.
+Alright, the next step is to
+check for search volumes.
+Now, because nearly every keyword research
+tool is country specific, it's challenging to find
+local search volumes.
+As far as I know, Google Keyword
+Planner is about the only source for this.
+And&nbsp;unless you're already advertising with
+them,&nbsp;you'll see broad search volume ranges
+which aren't helpful at all.
+For that reason, checking the relative
+popularity of keywords at the national
+level will probably be more productive.
+This&nbsp;is because what happens in one
+city is likely&nbsp;to be similar in the next,
+seeing as we're&nbsp;looking at
+data for the same country.
+You can do this with a keyword research
+tool like Ahrefs' Keywords Explorer.
+Just paste in your list of services, run
+the search, and use the volumes to get
+a general idea of how you might prioritize
+creating and ranking these pages.
+Alright, let's move on to the next step&nbsp;
+which is to group keywords by page.
+Now, this part of the keyword research process
+often gets ignored but it's super-important.
+In short, we want to do two main things.
+First, we want to find out which
+services will need a dedicated page.
+And second,&nbsp;we want to get a general idea
+of the&nbsp;content type and format we should
+use to give ourselves the best
+chance at ranking.
+Take these services.
+Based on the keywords&nbsp;alone, it's tough
+to know whether we need&nbsp;dedicated pages
+for each one or whether&nbsp;we can rank
+for all of these terms with&nbsp;one page
+about boiler installations.
+To find out, you'll want to analyze the current
+top-ranking results for each target keyword.
+For example, if we look at the search results
+for the query "oil boiler installation," you'll&nbsp;see
+that this result is from a local company&nbsp;in
+the New York area that offers specifically
+an oil boiler installation – not just
+a general&nbsp;boiler installation.
+To top it off, all the top&nbsp;results
+are specifically about oil boilers.
+So in my opinion, our site should have
+a&nbsp;dedicated page specifically targeting
+"oil boiler installation" – and the type of
+content we should&nbsp;create is a landing page
+that tells people details about
+our service – just like this page.
+Now, if we do the same thing for "gas
+boiler installation," you'll see that a bunch
+of&nbsp;the top 10 results are just about
+regular boiler installations despite
+the&nbsp;query including the word "gas".
+So we probably don't need a dedicated page
+for&nbsp;gas boiler installations and can try to rank
+for this and related terms with a broader page
+about&nbsp;just boiler installations and replacements.
+Now, if we look at the search results for "combi
+boiler installation", you'll see that there isn't
+a local pack and the top results are all mainly
+informational results with instructions showing
+how to install your own combi boiler.
+Seeing as there isn't local intent, it probably
+wouldn't be worth creating a services landing
+page&nbsp;– from an SEO perspective at least.
+But if this is a service you provide, then you may
+still&nbsp;want to create it for business purposes.
+Alright, the next step is to look for things
+to mention on your services pages.
+Now, the way many local companies
+approach&nbsp;service page copy is by just
+straight up keyword stuffing.
+For example, if we look at this&nbsp;page that
+ranks for "boiler repair" in Albany,&nbsp;New York,
+you'll see they've intentionally&nbsp;tried to
+mention "boiler repair" and&nbsp;"albany ny"
+as many times as possible.
+This is the wrong approach because it's not
+helpful to visitors in understanding if you're
+the&nbsp;right company to help
+them solve their problem.
+Now, while you shouldn't stuff keywords,
+it's still worth looking for relevant&nbsp;‘things
+to mention' for a few reasons.
+#1. It can help improve ‘topical relevance'.
+#2. It can help you rank for
+long-tail keywords.
+And #3. It helps you to better serve your
+visitors by addressing questions they
+might have when they land on your page.
+For example,&nbsp;that might include details of your
+service,&nbsp;pricing, and other important details.
+Now, to find things worth mentioning,
+the first place I'd look is at the top-ranking
+competitors' pages.
+And what you're looking for
+are potential talking points.
+For example, this page ranks for "teeth
+whitening"&nbsp;in Los Angeles, California.
+Their content uses&nbsp;words like
+"stained" and "discolored teeth."
+It talks about "bleaching" your teeth.
+It talks about over the counter vs.
+professional&nbsp;grade teeth whitening.
+It tells you&nbsp;that it's a one-hour procedure.
+That the results are long-lasting.
+It addresses tooth sensitivity during
+whitening as well as the costs&nbsp;associated
+with the service.
+These are all important things that I think
+a)&nbsp;helps Google better understand what
+the page is about; and b) provides a great
+user experience for&nbsp;those looking for teeth
+whitening services.
+The second place you can look&nbsp;is in
+the People also ask box or in this case,
+a Buyer's guide box.
+As you can see, the search results for the
+query "teeth whitening" shows questions
+like "can sensitive teeth be whitened",
+how much does a teeth whitener cost,
+what is&nbsp;the best teeth
+whitener brand, and more.
+Now, if you want to cut out some of
+the guesswork,&nbsp;you can try the third
+method and that's to look at your
+competitors' organic keyword rankings.
+To find these keywords, we can paste our
+competitors' URL into Ahrefs' Site&nbsp;Explorer
+and then head on over to
+the organic keywords report.
+Next, let's set a filter to only show
+keywords that rank in the top 10 to
+keep&nbsp;our results relevant.
+And as you can see,&nbsp;the page ranks
+for things mentioning specific&nbsp;cities
+like Los Angeles, Beverly Hills,
+and even a specific zip code.
+It also ranks for things related
+to tooth bleachings.
+So these are some things that you'd&nbsp;want
+to consider talking about in the&nbsp;content of
+your service landing page.
+Now all you have to do is rinse and repeat&nbsp;
+these steps and you should know exactly
+which service pages you'll need to create
+and&nbsp;what key points to talk about in them.
+Keyword research is in the books and&nbsp;now
+it's time to actually create the content for
+those pages.
+Watch our video on&nbsp;content writing
+for SEO to learn how you can best
+optimize your pages to rank higher in&nbsp;Google.
+And I'll see you in the next tutorial.

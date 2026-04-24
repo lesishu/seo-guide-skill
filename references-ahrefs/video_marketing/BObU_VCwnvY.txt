@@ -1,0 +1,307 @@
+Kind: captions
+Language: en
+Last year, our channel got over 172,000 views
+from Google search alone.
+And it wasn't just luck.
+We focused heavily on video SEO.
+Now, there are 3 reasons why you should try
+and rank your YouTube videos on Google.
+First, it's much easier to rank high for competitive
+terms compared to web pages.
+Second, the traffic you get is free and pretty consistent.
+And third, the extra things you need to do
+aren't that difficult or time consuming.
+So today, I'm going to walk you through the
+step-by-step process to rank your YouTube
+videos on the first page of Google.
+Stay tuned.
+[music]
+What's up creators?
+As I'm sure you know, videos have been appearing
+more and more in Google's search results.
+In fact, video carousels nearly doubled in
+the SERPs in 2017.
+Now, video SEO is a bit different from YouTube SEO.
+Video SEO is the process of increasing visibility
+and ranking in search engines like Google.
+Whereas YouTube SEO is the process of increasing
+visibility and rankings in YouTube search.
+The good news: properly optimized videos for
+Google can also rank in YouTube and vice versa
+with just a few additional things.
+So let's get started with the step-by-step process to get
+more views to your YouTube videos through search.
+Step one is to find video topics with ranking
+and traffic potential.
+Google ranks content that best serves a user's query.
+And generally speaking, if videos are ranking
+high OR are prominent in the SERP, it's a sign
+that creating a video on this topic has
+potential to get views from Google.
+For example, if you search for "best iphone cases,"
+you'll see all results are more or less blog posts.
+So trying to rank a video for this keyword
+would be pointless because you won't rank
+and therefore you won't get views through
+Google search.
+Now, key in something like "iphone x unboxing,"
+and you'll see all results are from YouTube.
+So in addition to YouTube search traffic, there's
+potential to get views from Google's audience too.
+To measure the total traffic potential of a video
+topic, just copy and paste a top-ranking video URL
+in Ahrefs' Site Explorer, and you'll see the estimated
+amount of monthly search traffic it gets.
+Now, just because a video ranks high in Google,
+it doesn't mean it gets a meaningful amount
+of search traffic since some keywords rarely
+get searched.
+So there are 3 ways to find video topics with
+both ranking and traffic potential.
+First is to use Content Explorer, which is
+a searchable database with over a billion pages.
+To find YouTube videos with traffic, just search
+for site:youtube.com which will narrow results
+to only YouTube.com.
+Then add inurl:watch, which narrows it down
+to just videos.
+Finally, add title:your topic, which will
+search all YouTube videos in our database
+with the word or phrase in the title.
+Alright, let's sort the results by organic traffic.
+And there are tons of relevant topics that have
+high potential to send more views your way.
+It's also worth looking at the organic traffic
+graphs to look for consistency of traffic.
+So I'll set the trends graph to the past three
+years and you can instantly see which topics
+would likely result in consistent views from Google.
+The second method is to search through YouTube's
+organic keyword rankings.
+Just enter youtube.com in Site Explorer, then
+go to the organic keywords report to see
+all keywords the site ranks for.
+Next, use the Include search box to search
+for a broad keyword related to your niche.
+To see the total search traffic potential,
+click on the caret beside the URL you want
+to investigate and you'll see an estimation
+of total monthly search traffic for that video.
+Again, if you find a topic that seems like it's worth
+going after, click through to the Overview page,
+and click on the Organic traffic tab.
+Ideally, you'll want to see somewhat consistent
+traffic like this rather than inconsistent spikes
+and drop-offs like this.
+The third way is to scrape and analyze Google
+search results.
+You'll need a Chrome extension called "Scraper"
+to do this efficiently.
+Start by going to Google and search for
+site:youtube.com
+and then a title related to your niche.
+Next, click on Settings, then Search Settings, and
+make sure that you set the results per page to 100.
+Click Save and you'll be taken back to the
+search results page.
+Now, you can right-click on any link on the
+page and click Scrape similar.
+From here, you should have all of the YouTube
+URLs you can copy to your clipboard.
+And if it doesn't work for you, you'll need to copy
+and paste some code into your XPath Reference.
+I've left the code for you in the pinned comment
+just in case so you can copy and paste it yourself.
+Let's clean this up by removing all columns
+except the href column.
+I'll click Scrape one last time and then copy
+the URLs to the clipboard.
+Finally, go to Ahrefs' Batch Analysis tool
+and paste your list of scraped URLs.
+And after you run the search, you should be
+able to see how much traffic each of these
+videos get from Google.
+You can click on the Traffic column to sort
+them in descending order and click through
+to the videos you want to analyze.
+Awesome, so after using these three methods, you
+should have some great video topics with ranking
+and traffic potential.
+Let's move on to the next step which is to
+create an optimized video.
+It goes without saying that your videos need
+to engage your audience, meaning long watch
+times, high audience retention, and
+boast-worthy session watch times.
+But you probably already knew that.
+Now, something a lot of creators forget is
+that the Internet is more or less text-based.
+So if Google, YouTube or whatever search engine
+can't interpret the text attached to your video,
+then you'll never rank.
+So optimizing videos aside from engagement,
+is all about giving as much context as possible
+to search engines.
+And the way you do that boils down to the
+words spoken in the video, matching visuals,
+and metadata.
+All of these are easy to implement but they
+require some planning.
+Let's go through some strategies.
+For speech in video, I highly recommend
+scripting your content or outlining them in detail
+so you don't go off on tangents.
+Plus, YouTube is able to extract some meaning
+from the audio and video.
+And I believe this is how auto-generated closed
+captions happen.
+Scripts and outlines help you to be concise,
+and they also allow you to mention specific
+keywords you want Google to pick up.
+For example, in the beginning of this video, I said:
+"Last year, our channel got over 172,000 views
+from Google search alone.
+And it wasn't just luck.
+We focused heavily on video SEO."
+My goal is obviously to rank this video on
+both YouTube and Google for "video SEO."
+But don't get me wrong.
+You're not going to start magically ranking
+on YouTube or Google because you said
+your primary keyword.
+There's more that goes into this.
+In fact, the words and phrases you use can
+contribute massively to earning big features
+like suggested clips.
+A suggested clip is a featured snippet in Google
+that's time-stamped to a YouTube video.
+They attract a ton of attention considering
+the amount of space they take up in the SERP.
+Based on Google's research paper they parse
+instructions using automatically processed transcripts.
+They then analyze the steps within videos
+using transitive verbs, which are action words
+about an object,
+i. e. "mix the eggs" or "grind the beans."
+Also, since they originally tested their
+technology on recipe videos, they state:
+"any recipe step that is missing a verb
+is considered noise and discarded."
+So if you're creating step-by-step instructional
+videos, use transitive verbs for your steps
+and keep them concise.
+More on this in a bit.
+The second thing you should do is match your
+visuals with your speech.
+And this can all be done using planned b-roll
+clips in post.
+For example, if I was creating a video on how
+to make perfect aeropress coffee, I'd say:
+"Grind your beans using a burr grinder.
+Add the beans into your aeropress .
+Boil your water to 183 degrees Fahrenheit.
+Now, pour the water slowly in a circular motion."
+You should't say… "grind the beans with
+a manual hand grinder.
+This is mine which I got for Christmas.
+It grinds decently, but, boy, can it get tiring!"
+This is also a key factor to earning suggested clips
+as indicated in the same Google research paper.
+Third, you need to optimize your metadata.
+This includes things like your title, description,
+and, I guess, tags but as a less valuable component.
+Generally speaking, you'll want to include your
+primary keyword in both the title and description.
+Also based on my own observations, I've found
+that adding a detailed description of the video
+helps us rank for more keywords.
+There's more information on optimizing titles,
+descriptions, and tags in our YouTube SEO video,
+so I'll link that up in the description.
+Now, these are the basics of video optimization,
+and in my opinion, the three most important things
+you should do for every video you create.
+By using these tips and creating an engaging
+video, you'll heighten your chances of getting
+in video carousels and earning suggested clips.
+But there's still work to be done.
+The next step is to add closed captions to
+your instructional videos.
+Remember: we want to help YouTube and
+Google understand the contents of our video
+as much as possible.
+And since the words that are spoken can easily
+be transcribed to text, this is probably the best
+and easiest way to add context to your video.
+So if you've scripted your video, it's a cinch.
+Just add your transcript to YouTube and sync
+them with your speech.
+Now, if your videos aren't scripted, YouTube
+will automatically generate closed captions
+if your video is in English.
+It's gotten pretty good, but it's not quite perfect.
+For example, in this video, Tim is saying:
+"Hey guys, this is Tim Soulo from Ahrefs and
+right now you're watching episode number 3."
+So bottom line: polish those auto-generated
+captions or upload your own.
+In addition to context, YouTube says in a
+Creator Academy video that text on screen
+has proven to be so engaging that it increases
+the watch to completion rate.
+These two factors lead to a monumental gain
+in SEO ranking and engagement.
+So by using closed captions, you're creating a better
+user experience for people with hearing loss,
+non-native speakers, and for those at
+work or in a noisy coffee shop.
+Alright, step 4 is to create an enticing thumbnail.
+It's no secret that great thumbnails lead
+to more clicks.
+So I have a few tips to help you out.
+First, don't use a screenshot or a still from your video.
+Instead, create a custom thumbnail that contrasts
+from both Google and YouTube's SERP.
+As you can see, we use blue and orange which
+makes our thumbnails standout.
+Now, compare that to a thumbnail that uses
+Google's colors and you'll see it doesn't
+create the same effect.
+Tip two is to make your images congruent with
+the video title.
+Here's one of ours on long-tail keywords.
+When possible, we try to go beyond the typical
+"business smile and title," which in my opinion,
+makes our thumbnails stand out from
+competing videos.
+The final step is to add timestamps to your videos.
+And this can help you get the "key moments"
+feature in Google.
+Google explains: when you search for things
+like how-to videos that have multiple steps,
+or long videos like speeches or a documentary,
+Search will provide links to key moments within
+the video, based on timestamps provided by
+content creators.
+As far as I've seen, key moments are only
+shown on mobile at this time.
+But as you can see, this video is spliced
+up with screenshots and timestamps to
+different parts of the video.
+To do this for your own video, just add timecodes
+along with a short description beside it.
+We try and keep it simple with basic phrases
+and an easy-to-read format.
+It's estimated that video will represent 82%
+of all IP traffic in 2021.
+And the fact that video is starting to dominate
+Google's SERP is a good indicator that it's time
+for you to up your video SEO game.
+We have a bunch of videos on YouTube SEO, video SEO, and getting more views to your YouTube videos.
+So I recommend checking those out.
+And if you enjoyed this video, make
+sure to like share and subscribe for more
+actionable marketing tutorials.
+So keep grinding away, get your videos
+on the first page of Google and YouTube,
+and I'll see you in the next tutorial.

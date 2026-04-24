@@ -1,0 +1,352 @@
+hey it's ammo and welcome to the third
+lesson in our keyword research module
+in this lesson i'm going to show you how
+to find keywords for your website
+based on the things you learn in lesson
+one and two of this module
+let's get started so keyword research is
+the process of finding keywords that
+people are searching for
+in search engines and the general
+process can be divided into two macro
+steps
+step one is to generate keyword ideas
+and step two is to validate whether
+those keywords are worth going after
+now this lesson is mostly about step one
+generating keyword ideas for your
+website
+and in order to do that you need a
+keyword research tool
+keyword research tools show you
+information on keywords like
+their search volume keyword difficulty
+scores and other seo metrics
+plus they should help you discover
+potential topics worth going after
+there are a lot of tools out there and
+you're free to use whichever ones you
+want
+but for this course i'll be using ahrefs
+keywords explorer
+now i also understand that some people
+may not be in a place to purchase
+seo software right now if that's you
+then we also have a free tool called
+ahrefs keyword generator
+which is a good place to start i'll
+leave links to both tools in the
+description
+all right so we're going to be doing
+some keyword research for the rest of
+this lesson
+so let's say that the website we're
+doing keyword research for is a golf
+blog
+and the way this blog generates revenue
+is through affiliate commissions
+meaning they promote other people's
+products and when someone clicks on one
+of the links and makes a purchase
+you're compensated with a commission so
+the first step is to come up with a list
+of seed keywords
+and a seed keyword is just a broad
+keyword related to your niche
+so i'll go to hf's keywords explorer and
+add a few seeds for our golf site
+so that might be golf balls golf clubs
+and golf hats to name a few next i'll go
+to the phrase match report which will
+show us keywords that include
+any of these phrases and just like that
+we have around 125 000 keyword ideas
+with search volumes and a ton of other
+helpful metrics
+some of which we'll touch on later now
+125 000 keywords is just
+way too much to filter through so before
+we continue
+let's take a second and revisit the five
+point checklist from the first lesson in
+this module
+again the five things we're looking for
+when it comes to choosing keywords
+are one we want keywords that have
+search demand
+two keywords with traffic potential
+three keywords with business potential
+four we need to be able to match search
+intent
+and five we wanna know how hard it'll be
+to rank
+at the top of google for that keyword
+so when we're generating keyword ideas
+we'll be able to check off the first
+four points
+as for the fifth we'll tackle that in
+the next lesson
+all right let's look back at our list of
+keyword ideas and start checking off
+some of these boxes
+so first we need to find keywords that
+have search demand
+to do that you can set a search volume
+filter to show keywords
+with a minimum volume of at least 300
+monthly searches and now that list has
+just shrunk to 351 keyword ideas
+which will be easy to manually filter
+through
+the next point on this checklist is to
+see if they have traffic potential
+again traffic potential is a more
+reliable metric
+than search volume because not all
+searches result in clicks
+and at the end of the day we want
+traffic not searches
+to check the traffic potential of a
+topic you need to look at the top
+ranking pages
+and see how much traffic they're getting
+to do that you can click on the surf
+button beside any of these keywords
+so if we do that for the quarry golf
+clubs you'll see that the top page gets
+around sixteen
+thousand monthly search visits from the
+us
+now if you don't have an ahrefs account
+you can get a free version of the serp
+using hf's serp checker tool
+next up is business potential again
+business potential is simply the value a
+keyword has to your business
+and while 16 000 monthly search visits
+seems great
+you need to consider the fourth point on
+the checklist which is to ask yourself
+if you can match search intent
+as you can see almost all of the top
+ranking pages are ecommerce category
+pages
+so searchers are probably in shopping
+mode but we have a golf affiliate
+blog so the site probably isn't selling
+golf clubs
+meaning we can't create an ecommerce
+category page
+and therefore we won't be able to match
+search intent
+so seeing as this query doesn't fulfill
+the points on our checklist
+we wouldn't go after this keyword now
+looking further down the list
+you'll see the quarry best golf balls it
+has a high search volume
+and if i click on the search button
+you'll see that the traffic potential is
+around 5
+000 monthly visits from the us pretty
+good
+now in terms of business potential this
+keyword would have a value of 3
+because our site makes money by
+reviewing and recommending products
+so it would be super easy to organically
+recommend products
+in a best of post which i assume would
+lead to a fair amount of affiliate
+commissions
+as for search intent these are blog
+posts in the listicle format with the
+freshness content
+angle as you can see from the titles of
+the top ranking pages
+so this query checks all boxes and
+passed our initial sniff test
+so i'll click on the check box and add
+it to my golf keyword list now
+checking the serp for all of these
+keywords would be pretty time consuming
+so there's a quick technique you can use
+to find relevant keywords
+and that's to use keyword modifiers a
+modifier is an add-on to a base
+keyword for example if our base keyword
+is golf hats
+we can modify this keyword by adding
+best
+top or the current year and modifiers
+tell us a lot about search intent
+a word like best again tells us that a
+comparison needs to be made
+so searchers are probably looking for
+listicle blog posts
+with various different product
+recommendations
+now if a word like how or what is in the
+keyword
+then it tells us that the top pages will
+likely be blog posts or videos
+with step-by-step tutorials or some
+other informational content
+so with this knowledge we can actually
+filter this keyword list down to
+a keywords that likely have business
+potential
+and b keywords where we can match
+searcher intent
+for example since we're doing keyword
+research for an affiliate site
+modifiers like best top versus
+and review would likely bring up topics
+where we can organically
+recommend products so if we go back to
+the keyword list
+we can click on the include filter and
+paste this list there
+next i'll hit the any word tab since we
+want to find keywords that include
+any of these modifiers as well as one of
+our seed keywords
+hit apply and we now have a list of
+around 30 keywords
+that are most likely going to have high
+business potential
+plus we know that 99 of the time the
+results for any best type keyword
+will be listicle blog posts and we know
+that we can match searcher intent with
+our affiliate blog
+now if we switch the modifiers in the
+include filter to words like how
+what who where why
+guide and tutorial then we can apply the
+list
+to find informational topics that we
+could write about on our blog
+and pretty much all of these keywords
+will be fair game for our hypothetical
+golf blog
+now if you plan to use a list of
+modifiers then it's worth noting that
+you should probably do it with much
+broader seats
+for example you'll see that we only have
+10 keywords
+when using the search volume filter
+paired with our list of informational
+modifiers
+now if i change the c to just golf set
+the volume filter to a minimum
+of 300 monthly searches and then paste
+in my list of informational modifiers
+hit the any tab and click apply then
+you'll see we have a lot more topics
+that we could potentially create content
+around
+so if this is a method you want to try
+then take a screenshot of this list of
+and feel free to use them in your
+keyword research
+now after doing keyword research for
+exactly 33 minutes
+and 14 seconds i was able to compile a
+list of over 190 keyword ideas in my
+golf keyword list
+now one downside to using keyword
+research tools is that the list of
+ideas will usually be limited to words
+and phrases that include your seats
+but there are other great keywords that
+won't necessarily include your seeds
+so how do you find them well the best
+way to find these keywords is to look at
+pages that drive the most search traffic
+to your competitor sites because if your
+competitors are ranking for keywords
+that are sending them a ton of search
+traffic then i'm sure you'd want to get
+in on the action right
+now by competitor i'm not necessarily
+talking about your direct
+business competitors i'm referring to
+your organic search competitors
+which are websites that rank for
+keywords that you'd want to rank for
+so to find these competitors i'll go
+back to ahrefs keywords explorer
+but this time i'll click on my golf
+keyword list
+next i'll go to the traffic share by
+domains report which will show you the
+websites that get the most search
+traffic
+based on your keyword input in this case
+our golf keyword list
+so as you can see sites like golf digest
+golf.com
+and golf wrx are getting the most search
+from the keywords that i want to
+hypothetically rank for
+but we already know these keywords since
+we created the list
+so what you can do is click on the caret
+beside a domain you want to research
+further
+and then click top pages which will show
+you the pages that send the most search
+to a website and check this out golf
+digest page
+on game improvement irons gets around 5
+400 monthly search visits from the us
+this page that ranks for what degree is
+a sand wedge
+gets around 4 700 monthly search visits
+and we wouldn't have seen these in the
+keyword ideas report because they don't
+contain our seeds
+so you can just skim through this list
+look for potential topics
+then go through those four points in the
+checklist for keywords that are
+interesting to you
+add them to your keyword list and once
+you've exhausted a website's top pages
+rinse and repeat for the other organic
+search competitors
+until you're satisfied with your list
+and if you're still unhappy with your
+you can try and find other seeds within
+this report
+the two that stand out to me right away
+are sand wedge
+and fairway woods so i'll go back to
+and type those into the search box and
+seeing as both of these are different
+types of golf clubs
+you can add pitching wedge putter
+putting
+and so on and so forth bottom line there
+should be no shortage of keyword ideas
+and you should be able to use these two
+methods to build a solid list of topics
+to keep you busy for years but here's
+the thing
+even if you've checked off these four
+boxes on the checklist
+there's still one left and it won't
+matter if you don't rank for your
+keywords
+so tomorrow we'll be publishing the next
+lesson where we'll go through a simple
+process to understand how hard it'll be
+to rank for your keywords in google
+so make sure to subscribe so you don't
+miss that and if you're watching this
+video at a later date
+then check the description because we'll
+have a link to the entire course there
+i'll see you in the next lesson

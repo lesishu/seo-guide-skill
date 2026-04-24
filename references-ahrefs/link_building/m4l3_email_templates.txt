@@ -1,0 +1,349 @@
+# Module 4.3: How to Write Email Outreach Templates That Don't Sound Templated
+
+Hey, it's Sam Oh and welcome to the
+third&nbsp;lesson in the outreach module.
+In this lesson, we're going to talk about
+writing templated&nbsp;outreach emails that
+are personalized and don't
+feel or sound too templated.
+Now, why does this matter?
+Well, link building is often looked at as
+a spammy tactic from both SEO outsiders
+and insiders – and for good reason.
+People are&nbsp;sending emails like this that
+sound like they were&nbsp;swiped from templates
+on blog posts.
+They're&nbsp;disingenuous and clearly transactional.
+Now, if you're sending these generic templated
+emails, your chances of standing out are slim
+and link building is truly only a numbers game.
+In&nbsp;other words, emails like this are more likely
+to get marked as spam than to lead to a link.
+Now, there's no video, book, blog post,
+or course that's going to make you
+a master writer of outreach emails.
+Practice and feedback are what
+will help you&nbsp;get better at this skill.
+And for that reason, I'm going to walk you
+through some examples and&nbsp;an exercise
+to help you get your reps in.
+But before we get to this exercise, let's
+look at a typical templated email and
+talk about why it sounds templated.
+So, in my opinion, a huge reason for these
+robotic sounding emails is that people focus
+on&nbsp;creating templates rather than writing emails.
+And when you work off of a template, you're
+basically&nbsp;searching for predefined personalization
+fields to satisfy the template.
+When in reality, it should be the other way around.
+For example, a template&nbsp;might look like this.
+"Hi {name},
+I was reading your post on {topic} and really liked
+how you&nbsp;mentioned {something_that_you_liked}."
+No matter what you put into these
+blanks,&nbsp;it's going to sound unnatural.
+Now, a much better way to do this is to write
+a personalized email to one of your prospects
+and then extract personalization fields,
+if&nbsp;any, to see if it can be templated.
+Here's what an email might look like:
+"Hey Frank,
+Wondering if you've tried broken link building
+since you wrote this post (in 2019 it seems).
+I know that the Forbes writer you mentioned said
+they converted links at 20%, but boy oh boy… it's
+tough to believe you can still convert
+links like that today with BLB."
+So if we extract the personalization fields from
+this sample, then we'd need to find the URL of
+the contact's page, the publishing date,
+the competing&nbsp;page's company name,
+and the 20% part.
+Now, the beautiful thing about the&nbsp;hybrid
+method is that all of these&nbsp;personalization
+fields aside from the year&nbsp;of publishing can
+be easily templated because we're sending
+emails to segments.
+For example, our segment for the example
+we just went through would be people who
+link to&nbsp;Forbes' hypothetical page on broken
+link building because of their 20% success rate.
+Now, if we were to templatize this
+email, it'd look something like this:
+"Hey {name},
+Wondering if you've tried broken link building&nbsp;
+since you wrote this post (in year it seems))."
+And we'd link to the prospect's URL
+with some HTML and a merge field.
+And everything after that would be
+the same because we're only sending
+this email to our 20% segment.
+Now, if you struggle to write natural
+outreach emails, you can do this simple
+exercise of writing an email and
+extracting&nbsp;merge fields from it.
+Let's dig deeper into this exercise
+and write an email together.
+But&nbsp;first, we need a scenario to work with.
+Let's say that you have a personal finance blog&nbsp;
+and you wrote an awesome post on budgeting.
+Now, as you're researching a competing
+page's&nbsp;link profile, you notice that a good
+chunk of their links are attributable to a point&nbsp;
+around the 50/30/20 budgeting method.
+Now, for illustration purposes, we'll say
+that you have a way better budgeting
+method that you created.
+So a rough pitch angle can&nbsp;be something
+like, "the 50/30/20 budgeting rule sucks.
+I made this awesome new method that
+you're going to love because of X Y and Z."
+Great, we have a segment to work with
+and it's&nbsp;time to start drafting our email.
+The first thing to do in this exercise is to
+choose one prospect from your segment
+and write an email to them as if they're&nbsp;a friend.
+Let's choose this one.
+Now, the page is clearly recommending to
+use the 50/30/20 budget rule and again,
+our hypothetical post has a better method&nbsp;
+– let's call it "the 40/10/10/40 rule."
+So as a first draft, I might write:
+"Yo! Quick question: I'm seeing that you
+recommend&nbsp;the 50/30/20 budget rule
+on your blog.
+Are you personally using this?
+Because I think it's a super impractical way
+for millennials to save with mortgage
+payments, kids, college funds etc.
+Basically, the money printers are going brrr.
+If interested, I wrote about why the 50/30/20
+budget rule is impractical and an alternative
+method on my blog which is better for
+millennials (the 40/10/10/40 rule).
+There's a spreadsheet in&nbsp;there
+too if you want to give it a shot.
+Let me know what you think and a link to my
+post would be&nbsp;super appreciated if you agree
+with my method.
+And if you don't… fight me.
+Kidding. Miss you. Sam"
+This is obviously far from what you might
+send to someone, but the point of this step
+is to a) break away from templates so
+you sound&nbsp;a little bit more like yourself;
+and b) to go in with the mentality of delivering
+value because&nbsp;that's what friends do for each other.
+Alright, so that email took me
+around 4 minutes to write.
+So I'm going to move on to step 2 which
+is to go through our first round of edits.
+And at this stage, you'll want to remove any
+empty&nbsp;statements, false flattery, and language
+you typically wouldn't use with a stranger.
+So I'll change "Yo" to "Hey Frank" and
+remove the "Quick question" part
+because it's kind of pointless to have.
+Now, this part where I say that it's "a super
+impractical way to budget" comes off a bit
+strong and arrogant, so I'll change it to…
+"Are you using this method because I've
+personally found it to be an impractical
+way for millennials to save with mortgage
+payments, kids' college funds etc."
+And in my opinion, this "personal angle"
+changes the context from "people who
+use this&nbsp;method are dumb"
+to "it didn't work for me."
+Now, the "money printers going brrr" part
+is a finance meme related to the federal
+government printing money
+which has led to asset&nbsp;inflation.
+It doesn't really sit well with
+me, so I'll change this line to:
+"With rising inflation and wages having
+barely budged, allocating 30% to wants
+and 20% to&nbsp;savings seems
+like a recipe for disaster."
+The next part seems fine at first read.
+But the&nbsp;"lmk" part that comes
+after is a bit too informal.
+Plus "let me know what you
+think" is an empty&nbsp;statement.
+So I'll rework this sentence to…
+"If you agree with my method, a mention
+in&nbsp;your post would be super appreciated.
+Alright, so this looks okay for me so I'll
+move on to the next step which is to ask
+someone for feedback.
+And to give you a real&nbsp;simulation
+of what this might look like,
+I asked my friend and outreach
+extraordinaire, Bibi Raven, for input.
+Let's take a look through her feedback.
+So in the first part, "I'm seeing that you
+recommend", she says that it's good to
+get&nbsp;straight to the point but prefers to use
+some sort of "nicety" comment before the intro
+to make it sound more genuine
+and not like a&nbsp;zillion other emails.
+And the example she uses is&nbsp;wishing
+people an excellent cup of coffee.
+Now, she's not talking about
+fake flattery or anything like that.
+If you've ever talked with Bibi, when she says
+these things like hope you&nbsp;have an excellent
+cup of coffee, I think she actually means it.
+But it's just not me, so I'm&nbsp;not going
+to take her suggestion here.
+And I think an important takeaway from
+this is that you shouldn't try to sound or
+be like someone else because it will surface&nbsp;
+in your email copy and play against you.
+Alright, so next, she left a comment on this
+part: "your blog," and she suggests using
+the brand's name because a lot of link
+builders&nbsp;use this phrase in their outreach.
+Now, while I agree on the whole,&nbsp;there
+are 2 reasons why I'm hesitant&nbsp;to take
+the suggestion.
+#1. I don't think it'll be worth the additional
+effort to manually format each person's
+brand name.
+And #2. Emails sometimes look more templated to
+me when people use a personalization field here.
+For example, if I had a blog at samoh.com
+and someone said… "I'm seeing that you
+recommend the 50/30/20 rule on
+the Sam&nbsp;Oh blog," it just sounds weird.
+So rather than potentially&nbsp;overcomplicating
+this part, I'm going to pass on this suggestion.
+Now, the next part, I say: "are you using
+this method because I've personally
+found it to be an impractical way."
+And Bibi brings up a couple of great points.
+First, she says that I've made this email about
+me&nbsp;and the site owner/editor when it should be
+centered more on their audience.
+Agree!
+Second, she says that this isn't really a
+question, but it's actually implicit criticism.
+And the example she uses makes it crystal clear.
+"Are you still using hairspray
+because I think&nbsp;it's bad for you."
+It just sounds awful, so&nbsp;I think
+this needs to be rewritten.
+Now, the next comment is a small
+one and I&nbsp;fully agree with her.
+On the "etcetera" part, she says it just
+adds vagueness to the&nbsp;statement.
+There's no denying that.
+Moving on.
+The part where I say "if interested," she
+suggests a small edit so that I'm speaking
+directly to the reader – "If you're interested."
+But, she offers an alternative
+which I like better.
+She says to not make it an "if"
+thing but to write more confidently.
+So&nbsp;this sentence needs to be reworked too.
+Alright, on to the more critical stuff.
+For the pitch part, she tells me that
+it doesn't sound enthusiastic.
+Why not mention&nbsp;why it's better, why it fits
+their audience, results people have gotten,
+and more juicy stuff.
+Basically, she's pointed out how weak my
+pitch is&nbsp;and she is absolutely bang on.
+So there's&nbsp;another rewrite
+that I fully agree with.
+Now, on the spreadsheet part, she says it's good
+not to push too hard because from her point of
+view, it just sounds "whatever whatever."
+And if&nbsp;I take myself out of this bubble
+where all people&nbsp;love spreadsheets, it
+becomes clear that it truly
+is "whatever whatever."
+And within her comment, a suggestion
+that really resonated with me was to tell
+them how my budgeting method
+has&nbsp;brought value to others.&nbsp;
+So I'll definitely&nbsp;take that
+suggestion in my rewrite.
+As for the last part of the email, she tells
+me that this sentence sounds similar to
+what other link builders use so basically,&nbsp;
+another rewrite that I agree with.
+And for the sign off, she says to&nbsp;use
+a more creative, warmer sign off.
+I'm actually fine with cheers, but her "may
+the&nbsp;budget be with you" made me smile so&nbsp;&nbsp;
+I'll use something along those lines.
+Last but certainly not least, she made a
+comment on the overall flow of the email.
+She said: "Maybe it's weird, but I also like
+to look at how you start each section in
+your email.
+In this case, it's I'm, if, if."
+Now, when I saw that, I realized how focused the
+email&nbsp;is on myself and my passive statements.
+Alright, so after soaking in all of her feedback,&nbsp;I
+took another 15-20 minutes to rewrite the email
+and here's what I came up with.
+"Hey Frank, I see that you're recommending
+the 50/30/20 budget&nbsp;rule on your blog.
+It's definitely a great method if you own assets,
+but it has some drawbacks&nbsp;– especially for
+millennials and households that
+make under 80k/year in the US.
+With rising inflation (money printer go brrrr)
+and wages moving at a much slower pace,
+most&nbsp;households need to allocate more than
+50% to needs and have very little left for wants,
+let alone savings.
+Another budgeting method that your audience
+might&nbsp;appreciate is the 40/10/10/40 rule.
+It's when you [Whatever it does because
+it's&nbsp;not actually a real thing].
+It's worked for people like:
+Jane, a single mom from Ohio, who's now able
+to contribute to her children's college savings;
+Derek, a recent grad, who was able to pay
+off his student loans in 2 years with the help
+of our spreadsheet;
+Jamie, an executive at a tech company
+that's now saving 23% more each year,
+which she donates to charities.
+I wrote about this budgeting method
+on my blog and would love to get your
+thoughts and opinions.
+Also, if you dig it, a mention in your
+post would send me to the moon.
+Happy budgeting, Sam"
+It's a bit long, but I'm relatively happy&nbsp;with
+this email, so let's move on to the next step
+which is to see if it can be templated
+without sacrificing the personalized feel.
+So assuming we were sending this to anyone
+who's recommending the 50/30/20 budget rule,
+I think the only thing that would need
+to&nbsp;change is the name of the recipient.
+And the size of our segment in this
+case,&nbsp;would be up to 465 prospects.
+Now, all you have to do is rinse and repeat
+the same steps for your other segments
+and you should be able to do hybrid
+outreach&nbsp;in an effective and impactful way.
+Now, everything I've shared in this course from
+prospecting to vetting to outreach can be done
+by yourself.
+But if you really want to scale up your&nbsp;link
+building operations, then you'll need a team,
+a system, and workflows to follow.
+And that's what the next module is all about.
+In module 5, we'll be looking at link building
+from a managerial and operational perspective
+so you can help your team reach maximum
+efficiency&nbsp;in your link building efforts.
+I'll see you there.

@@ -1,0 +1,364 @@
+internal<c> linking</c><c> is</c><c> arguably</c><c> the</c><c> most</c>
+internal linking is arguably the most
+underrated<c> seo</c><c> strategy</c>
+underrated seo strategy
+you<c> don't</c><c> have</c><c> to</c><c> ask</c><c> anyone</c><c> to</c><c> link</c><c> to</c>
+you don't have to ask anyone to link to
+you<c> it's</c><c> completely</c><c> free</c>
+you it's completely free
+with<c> a</c><c> 100</c><c> success</c><c> rate</c><c> and</c><c> internal</c>
+with a 100 success rate and internal
+links<c> can</c>
+links can
+actually<c> help</c><c> you</c><c> rank</c><c> higher</c><c> in</c><c> google</c>
+actually help you rank higher in google
+so<c> today</c>
+so today
+i'm<c> going</c><c> to</c><c> show</c><c> you</c><c> how</c><c> to</c><c> use</c>
+i'm going to show you how to use
+internal<c> links</c><c> to</c><c> rank</c><c> higher</c><c> in</c><c> google</c>
+internal links to rank higher in google
+stay<c> tuned</c>
+stay tuned
+[Music]
+if<c> you're</c><c> new</c><c> to</c><c> seo</c><c> internal</c><c> links</c><c> are</c>
+if you're new to seo internal links are
+simply<c> links</c><c> from</c><c> one</c><c> page</c>
+simply links from one page
+to<c> another</c><c> on</c><c> the</c><c> same</c><c> website</c><c> and</c>
+to another on the same website and
+they're<c> important</c><c> for</c><c> three</c><c> main</c><c> reasons</c>
+they're important for three main reasons
+first<c> they</c><c> help</c><c> search</c><c> engines</c><c> like</c>
+first they help search engines like
+google<c> discover</c><c> new</c><c> pages</c>
+google discover new pages
+so<c> they</c><c> can</c><c> be</c><c> added</c><c> to</c><c> their</c><c> index</c>
+so they can be added to their index
+second
+internal<c> links</c><c> help</c><c> pass</c><c> page</c><c> rank</c>
+internal links help pass page rank
+around<c> your</c><c> site</c><c> effectively</c><c> powering</c>
+around your site effectively powering
+other<c> pages</c>
+other pages
+and<c> if</c><c> you're</c><c> unfamiliar</c><c> with</c><c> pagerank</c>
+and if you're unfamiliar with pagerank
+it's<c> a</c><c> mathematical</c><c> formula</c><c> that</c><c> tries</c>
+it's a mathematical formula that tries
+to<c> determine</c>
+to determine
+the<c> value</c><c> of</c><c> a</c><c> page</c><c> and</c><c> google</c>
+the value of a page and google
+themselves<c> have</c><c> said</c><c> that</c><c> after</c><c> 18</c><c> years</c>
+themselves have said that after 18 years
+they<c> still</c><c> use</c><c> pagerank</c><c> to</c><c> rank</c><c> pages</c>
+they still use pagerank to rank pages
+and<c> third</c><c> internal</c><c> links</c><c> help</c><c> search</c>
+and third internal links help search
+engines<c> to</c><c> better</c><c> understand</c><c> what</c><c> a</c><c> page</c>
+engines to better understand what a page
+is<c> about</c>
+is about
+and<c> they</c><c> do</c><c> this</c><c> by</c><c> looking</c><c> at</c><c> anchor</c>
+and they do this by looking at anchor
+text<c> in</c><c> the</c><c> text</c><c> that</c><c> surrounds</c><c> the</c><c> link</c>
+text in the text that surrounds the link
+so<c> with</c><c> these</c><c> three</c><c> things</c><c> in</c><c> mind</c>
+so with these three things in mind
+crawlability<c> authority</c><c> and</c><c> relevance</c>
+crawlability authority and relevance
+let's<c> go</c><c> through</c><c> a</c><c> few</c><c> ways</c><c> you</c><c> can</c>
+let's go through a few ways you can
+boost<c> your</c><c> rankings</c><c> with</c><c> internal</c><c> links</c>
+boost your rankings with internal links
+the<c> first</c><c> way</c><c> is</c><c> to</c><c> create</c><c> a</c><c> logical</c>
+the first way is to create a logical
+hierarchy<c> in</c><c> your</c><c> site</c><c> structure</c>
+hierarchy in your site structure
+think<c> of</c><c> site</c><c> structure</c><c> as</c><c> a</c><c> mind</c><c> map</c><c> at</c>
+think of site structure as a mind map at
+the<c> top</c><c> you'd</c><c> have</c><c> your</c><c> home</c><c> page</c>
+the top you'd have your home page
+then<c> you'd</c><c> probably</c><c> have</c><c> main</c><c> topics</c>
+then you'd probably have main topics
+that<c> branch</c><c> out</c><c> from</c><c> your</c><c> home</c><c> page</c><c> like</c>
+that branch out from your home page like
+your<c> services</c><c> page</c><c> your</c><c> blog</c><c> and</c><c> about</c>
+your services page your blog and about
+page
+then<c> from</c><c> these</c><c> main</c><c> topics</c><c> you'd</c>
+then from these main topics you'd
+probably<c> have</c><c> even</c><c> more</c><c> branches</c><c> to</c>
+probably have even more branches to
+other<c> pages</c>
+other pages
+structure<c> helps</c><c> search</c><c> engines</c><c> to</c>
+structure helps search engines to
+understand<c> the</c><c> relationship</c><c> between</c>
+understand the relationship between
+these<c> pages</c><c> where</c><c> branches</c><c> are</c><c> created</c>
+these pages where branches are created
+using<c> internal</c><c> links</c>
+using internal links
+now<c> this</c><c> mymap</c><c> is</c><c> pretty</c><c> basic</c><c> and</c>
+now this mymap is pretty basic and
+doesn't<c> really</c><c> give</c><c> that</c><c> much</c>
+doesn't really give that much
+information<c> to</c><c> search</c><c> engines</c>
+information to search engines
+so<c> let's</c><c> build</c><c> onto</c><c> this</c><c> example</c><c> using</c>
+so let's build onto this example using
+an<c> internal</c><c> linking</c><c> strategy</c>
+an internal linking strategy
+called<c> content</c><c> hubs</c><c> content</c><c> hubs</c><c> are</c>
+called content hubs content hubs are
+interlinked<c> collections</c><c> of</c><c> content</c>
+interlinked collections of content
+about<c> a</c><c> similar</c><c> topic</c><c> basically</c><c> you</c>
+about a similar topic basically you
+create<c> multiple</c><c> pages</c><c> on</c><c> a</c><c> topic</c>
+create multiple pages on a topic
+and<c> its</c><c> subtopics</c><c> then</c><c> interlink</c><c> between</c>
+and its subtopics then interlink between
+the<c> pages</c>
+the pages
+so<c> if</c><c> we</c><c> zoom</c><c> into</c><c> the</c><c> link</c><c> building</c>
+so if we zoom into the link building
+guide<c> you</c><c> might</c><c> add</c><c> more</c><c> pages</c><c> like</c>
+guide you might add more pages like
+one<c> about</c><c> broken</c><c> link</c><c> building</c><c> resource</c>
+one about broken link building resource
+page<c> link</c><c> building</c>
+page link building
+guest<c> posting</c><c> and</c><c> blogger</c><c> outreach</c><c> and</c>
+guest posting and blogger outreach and
+to<c> create</c><c> relationships</c><c> between</c><c> these</c>
+to create relationships between these
+posts
+you<c> can</c><c> link</c><c> to</c><c> these</c><c> posts</c><c> from</c><c> your</c>
+you can link to these posts from your
+link<c> building</c><c> guide</c>
+link building guide
+and<c> also</c><c> link</c><c> from</c><c> your</c><c> posts</c><c> to</c><c> your</c>
+and also link from your posts to your
+link<c> building</c><c> guide</c>
+link building guide
+not<c> only</c><c> does</c><c> this</c><c> help</c><c> to</c><c> create</c>
+not only does this help to create
+relevance<c> between</c><c> pages</c>
+relevance between pages
+but<c> as</c><c> each</c><c> of</c><c> these</c><c> pages</c><c> get</c><c> backlinks</c>
+but as each of these pages get backlinks
+pagerank<c> will</c><c> flow</c>
+pagerank will flow
+to<c> and</c><c> from</c><c> each</c><c> page</c><c> within</c><c> the</c><c> hub</c>
+to and from each page within the hub
+helping<c> all</c><c> of</c><c> your</c><c> pages</c><c> rank</c><c> higher</c><c> in</c>
+helping all of your pages rank higher in
+google<c> we</c><c> have</c><c> a</c><c> full</c><c> video</c><c> on</c><c> how</c><c> to</c>
+google we have a full video on how to
+create<c> and</c><c> use</c><c> content</c><c> hubs</c>
+create and use content hubs
+so<c> i'll</c><c> link</c><c> that</c><c> up</c><c> in</c><c> the</c><c> description</c>
+so i'll link that up in the description
+now<c> content</c><c> hubs</c><c> aren't</c><c> for</c><c> everyone</c>
+now content hubs aren't for everyone
+and<c> if</c><c> you've</c><c> already</c><c> created</c><c> a</c><c> ton</c><c> of</c>
+and if you've already created a ton of
+pages<c> without</c><c> any</c><c> kind</c><c> of</c><c> structure</c><c> in</c>
+pages without any kind of structure in
+mind
+there<c> are</c><c> three</c><c> easy</c><c> and</c><c> free</c><c> ways</c><c> you</c>
+there are three easy and free ways you
+can<c> find</c><c> internal</c><c> linking</c><c> opportunities</c>
+can find internal linking opportunities
+the<c> first</c><c> way</c><c> is</c><c> to</c><c> use</c><c> the</c><c> site</c><c> search</c>
+the first way is to use the site search
+operator<c> in</c><c> google</c>
+operator in google
+so<c> let's</c><c> say</c><c> we</c><c> wanted</c><c> to</c><c> add</c><c> internal</c>
+so let's say we wanted to add internal
+links<c> to</c><c> our</c><c> guide</c><c> on</c><c> search</c><c> intent</c>
+links to our guide on search intent
+i'll<c> go</c><c> to</c><c> google</c><c> and</c><c> search</c><c> for</c>
+i'll go to google and search for
+sitecolon<c> ahrefs.com</c>
+sitecolon ahrefs.com
+blog<c> and</c><c> then</c><c> add</c><c> the</c><c> phrase</c><c> search</c>
+blog and then add the phrase search
+intent<c> wrapped</c><c> in</c><c> quotes</c>
+intent wrapped in quotes
+and<c> now</c><c> we</c><c> can</c><c> see</c><c> all</c><c> pages</c><c> on</c><c> our</c><c> blog</c>
+and now we can see all pages on our blog
+that<c> mention</c><c> this</c><c> phrase</c>
+that mention this phrase
+so<c> i'll</c><c> click</c><c> on</c><c> our</c><c> buyer's</c><c> journey</c>
+so i'll click on our buyer's journey
+guide<c> and</c><c> do</c><c> a</c><c> find</c>
+guide and do a find
+for<c> search</c><c> intent</c><c> and</c><c> it</c><c> looks</c><c> like</c><c> it's</c>
+for search intent and it looks like it's
+unlinked<c> so</c><c> it</c><c> could</c><c> be</c><c> a</c><c> perfectly</c><c> good</c>
+unlinked so it could be a perfectly good
+place<c> to</c><c> add</c><c> an</c>
+place to add an
+internal<c> link</c><c> the</c><c> second</c><c> way</c><c> is</c><c> to</c><c> use</c>
+internal link the second way is to use
+the<c> link</c><c> opportunities</c><c> report</c><c> in</c><c> ahrefs</c>
+the link opportunities report in ahrefs
+site<c> audit</c>
+site audit
+all<c> you</c><c> have</c><c> to</c><c> do</c><c> is</c><c> sign</c><c> up</c><c> for</c><c> a</c><c> free</c>
+all you have to do is sign up for a free
+ahrefs<c> webmaster</c><c> tools</c><c> account</c>
+ahrefs webmaster tools account
+verify<c> your</c><c> site</c><c> and</c><c> then</c><c> you</c><c> can</c><c> run</c><c> a</c>
+verify your site and then you can run a
+free<c> website</c><c> audit</c>
+free website audit
+after<c> your</c><c> audit</c><c> is</c><c> complete</c><c> head</c><c> on</c>
+after your audit is complete head on
+over<c> to</c><c> the</c><c> link</c><c> opportunities</c><c> report</c>
+over to the link opportunities report
+this<c> report</c><c> shows</c><c> you</c><c> internal</c><c> linking</c>
+this report shows you internal linking
+opportunities<c> based</c><c> on</c>
+opportunities based on
+keywords<c> your</c><c> pages</c><c> rank</c><c> for</c><c> so</c><c> we</c><c> show</c>
+keywords your pages rank for so we show
+the<c> page</c><c> we</c><c> recommend</c><c> you</c><c> link</c>
+the page we recommend you link
+from<c> the</c><c> keyword</c><c> that's</c><c> mentioned</c><c> on</c><c> the</c>
+from the keyword that's mentioned on the
+source<c> page</c>
+source page
+which<c> is</c><c> also</c><c> the</c><c> keyword</c><c> that</c><c> the</c>
+which is also the keyword that the
+target<c> page</c><c> ranks</c><c> for</c>
+target page ranks for
+and<c> the</c><c> page</c><c> we</c><c> recommend</c><c> you</c><c> link</c><c> to</c>
+and the page we recommend you link to
+on<c> top</c><c> of</c><c> that</c><c> we</c><c> show</c><c> the</c><c> context</c><c> of</c>
+on top of that we show the context of
+where<c> the</c><c> keyword</c><c> appears</c><c> on</c><c> the</c><c> source</c>
+where the keyword appears on the source
+page
+now<c> looking</c><c> at</c><c> an</c><c> entire</c><c> site's</c><c> internal</c>
+now looking at an entire site's internal
+linking<c> opportunities</c><c> can</c><c> be</c>
+linking opportunities can be
+overwhelming
+so<c> let's</c><c> add</c><c> a</c><c> target</c><c> page</c><c> filter</c><c> to</c><c> our</c>
+so let's add a target page filter to our
+search<c> intent</c><c> article</c>
+search intent article
+since<c> that's</c><c> where</c><c> we</c><c> want</c><c> to</c><c> add</c>
+since that's where we want to add
+internal<c> links</c><c> to</c>
+internal links to
+hit<c> apply</c><c> and</c><c> now</c><c> you'll</c><c> see</c><c> 23</c><c> internal</c>
+hit apply and now you'll see 23 internal
+linking<c> opportunities</c>
+linking opportunities
+and<c> unlike</c><c> the</c><c> google</c><c> search</c><c> method</c><c> the</c>
+and unlike the google search method the
+internal<c> linking</c><c> opportunities</c>
+internal linking opportunities
+aren't<c> dependent</c><c> on</c><c> exact</c><c> match</c><c> phrases</c>
+aren't dependent on exact match phrases
+one<c> other</c><c> cool</c><c> feature</c><c> about</c><c> this</c><c> report</c>
+one other cool feature about this report
+is<c> that</c><c> we</c><c> only</c><c> show</c>
+is that we only show
+internal<c> linking</c><c> opportunities</c><c> where</c><c> the</c>
+internal linking opportunities where the
+source<c> page</c>
+source page
+isn't<c> already</c><c> linking</c><c> to</c><c> the</c><c> target</c><c> page</c>
+isn't already linking to the target page
+so<c> you'll</c><c> find</c><c> the</c><c> suggestions</c><c> to</c><c> be</c>
+so you'll find the suggestions to be
+quite<c> good</c>
+quite good
+if<c> you're</c><c> new</c><c> to</c><c> site</c><c> audit</c><c> we</c><c> have</c><c> a</c>
+if you're new to site audit we have a
+full<c> video</c><c> on</c><c> our</c><c> free</c><c> seo</c><c> tool</c><c> called</c>
+full video on our free seo tool called
+ahrefs<c> webmaster</c><c> tools</c>
+ahrefs webmaster tools
+so<c> i'll</c><c> link</c><c> that</c><c> up</c><c> in</c><c> the</c><c> description</c>
+so i'll link that up in the description
+the<c> last</c><c> method</c><c> is</c><c> to</c><c> look</c><c> at</c><c> your</c>
+the last method is to look at your
+site's
+power<c> pages</c><c> naturally</c><c> some</c><c> pages</c><c> will</c>
+power pages naturally some pages will
+earn<c> more</c><c> links</c><c> than</c><c> others</c>
+earn more links than others
+so<c> they</c><c> have</c><c> more</c><c> so</c><c> called</c><c> authority</c>
+so they have more so called authority
+they<c> can</c><c> pass</c><c> to</c><c> other</c><c> pages</c><c> on</c><c> your</c>
+they can pass to other pages on your
+website
+again<c> if</c><c> you</c><c> have</c><c> an</c><c> ahrefs</c><c> webmaster</c>
+again if you have an ahrefs webmaster
+tools<c> account</c><c> you</c><c> can</c><c> do</c><c> this</c><c> for</c><c> free</c>
+tools account you can do this for free
+just<c> go</c><c> to</c><c> site</c><c> explorer</c><c> and</c><c> enter</c><c> your</c>
+just go to site explorer and enter your
+domain<c> then</c><c> go</c><c> to</c><c> the</c><c> best</c><c> buy</c><c> links</c>
+domain then go to the best buy links
+report
+here<c> you'll</c><c> see</c><c> the</c><c> pages</c><c> on</c><c> your</c><c> site</c>
+here you'll see the pages on your site
+ordered<c> by</c><c> url</c><c> rating</c>
+ordered by url rating
+which<c> represents</c><c> the</c><c> overall</c><c> strength</c><c> of</c>
+which represents the overall strength of
+a<c> page's</c><c> backlink</c><c> profile</c>
+a page's backlink profile
+just<c> skim</c><c> through</c><c> your</c><c> pages</c><c> and</c><c> see</c><c> if</c>
+just skim through your pages and see if
+there<c> are</c><c> any</c><c> relevant</c><c> pages</c><c> where</c><c> you'd</c>
+there are any relevant pages where you'd
+want<c> to</c><c> link</c><c> from</c>
+want to link from
+now<c> whichever</c><c> method</c><c> you</c><c> decide</c><c> to</c><c> use</c>
+now whichever method you decide to use
+the<c> most</c><c> important</c><c> thing</c><c> to</c><c> remember</c>
+the most important thing to remember
+is<c> that</c><c> you</c><c> don't</c><c> need</c><c> to</c><c> force</c><c> internal</c>
+is that you don't need to force internal
+links
+so<c> i</c><c> wouldn't</c><c> bother</c><c> linking</c><c> from</c>
+so i wouldn't bother linking from
+irrelevant<c> pages</c><c> and</c><c> that</c><c> also</c><c> means</c>
+irrelevant pages and that also means
+that<c> you</c><c> don't</c><c> need</c><c> to</c><c> overdo</c><c> it</c><c> now</c><c> if</c>
+that you don't need to overdo it now if
+you<c> don't</c><c> have</c><c> any</c><c> pages</c><c> with</c><c> link</c>
+you don't have any pages with link
+authority
+then<c> i</c><c> highly</c><c> recommend</c><c> watching</c><c> some</c><c> of</c>
+then i highly recommend watching some of
+our<c> link</c><c> building</c><c> tutorials</c>
+our link building tutorials
+or<c> if</c><c> you're</c><c> the</c><c> type</c><c> that</c><c> prefers</c><c> to</c>
+or if you're the type that prefers to
+learn<c> from</c><c> case</c><c> studies</c><c> then</c><c> check</c><c> out</c>
+learn from case studies then check out
+our<c> three-part</c><c> series</c><c> on</c><c> how</c><c> we</c><c> built</c><c> a</c>
+our three-part series on how we built a
+page
+designed<c> to</c><c> attract</c><c> backlinks</c><c> and</c><c> if</c><c> you</c>
+designed to attract backlinks and if you
+enjoyed<c> this</c><c> tutorial</c>
+enjoyed this tutorial
+then<c> make</c><c> sure</c><c> to</c><c> like</c><c> share</c><c> and</c>
+then make sure to like share and
+subscribe<c> for</c><c> more</c><c> actionable</c><c> seo</c><c> and</c>
+subscribe for more actionable seo and
+marketing<c> tutorials</c>
+marketing tutorials
+i'll<c> see</c><c> you</c><c> in</c><c> the</c><c> next</c><c> one</c>

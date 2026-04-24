@@ -1,0 +1,255 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+
+[5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research)
+
+[6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## Keyword Research
+
+### Understand what your audience wants to find
+
+Now that you’ve learned how to show up in search results, let’s determine which strategic keywords to target in your website’s content, and how to craft that content to satisfy both users and search engines.
+
+The power of keyword research lies in better understanding your target market and how they are searching for your content, services, or products.
+
+Keyword research provides you with specific search data that can help you answer questions like:
+
+  * What are people searching for?
+  * How many people are searching for it?
+  * In what format do they want that information?
+
+In this chapter, you'll get tools and strategies for uncovering that information, as well as learn tactics that'll help you avoid keyword research foibles and build strong content. Once you uncover how your target audience is searching for your content, you begin to uncover a whole new world of strategic SEO!
+
+### We've got a tool for that
+
+Moz has a free tool that can help you discover and analyze keywords. When you're ready to get your hands dirty with keyword research, give it a try!
+
+[ Try Keyword Explorer  ](/explorer)
+
+## Before keyword research, ask questions
+
+Before you can help a business grow through search engine optimization, you first have to understand who they are, who their customers are, and their goals.
+
+This is where corners are often cut. Too many people bypass this crucial planning step because keyword research takes time, and why spend the time when you already know what you want to rank for?
+
+The answer is that what you want to rank for and what your audience actually wants are often two wildly different things. Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords.
+
+Here’s an example. Frankie & Jo’s (a Seattle-based vegan, gluten-free ice cream shop) is seeking digital marketing advice to improve how often their pages appear in organic search results in order to bring in more online traffic, more in-store traffic, and more paying customers. In order to help them, you need to first understand a little more about who their customers are. To do so, you might ask questions such as:
+
+  * What types of ice cream, desserts, snacks, etc. are people searching for?
+  * Who is searching for these terms?
+  * When are people searching for ice cream, snacks, desserts, etc.?
+    * Are there seasonality trends throughout the year?
+  * How are people searching for ice cream?
+    * What words do they use?
+    * What questions do they ask?
+    * Are more searches performed on mobile devices?
+  * Why are people seeking ice cream?
+    * Are individuals looking for health-conscious ice cream specifically or just looking to satisfy a sweet tooth?
+  * Where are potential customers located — locally, nationally, or internationally?
+
+And finally — here's the kicker — how can you help provide the best content about ice cream to cultivate a community and fulfill what all those people are searching for? Asking these questions is a crucial planning step that will guide your keyword research and help you craft better content.
+
+## Discover what keywords you're already ranking for
+
+Keyword Explorer can show you which keywords your pages are ranking for, their search volume, difficulty, and more.
+
+[ See my ranking keywords ](/explorer)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Keyword-Research.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855252&s=a0f13ab27cde45208f08d8269288c98d)
+
+## What terms are people searching for?
+
+You may have a way of describing what you do, but how does your audience search for the product, service, or information you provide? Answering this question is a crucial first step in the keyword research process.
+
+### Discovering keywords
+
+You likely have a few keywords in mind for which you would like to rank. These will be things like your products, services, or other topics your website addresses, and they are great seed keywords for your research, so start there! You can enter those keywords into a [keyword research tool](/explorer) to discover the average monthly search volume and similar keywords. We’ll get into search volume in greater depth in the next section, but during the discovery phase, it can help you determine which variations of your keywords are most popular amongst searchers.
+
+Once you enter your seed keywords into a keyword research tool, you will begin to discover other keywords, common questions, and topics for your content that you might have otherwise missed.
+
+Let’s use the example of a florist that specializes in weddings.
+
+Typing “wedding” and “florist” into a keyword research tool, you may discover highly relevant, highly searched-for related terms such as:
+
+  * Wedding bouquets
+  * Bridal flowers
+  * Wedding flower shop
+
+In the process of discovering relevant keywords for your content, you will likely notice that the search volume of those keywords varies greatly. While you definitely want to target terms that your audience is searching for, in some cases, it may be more advantageous to target terms with lower search volume because they're far less competitive.
+
+Since both high- and low-competition keywords can be advantageous for your website, learning more about search volume can help you prioritize keywords and pick the ones that will give your website the biggest strategic advantage.
+
+### Diversify!
+
+It’s important to note that entire websites don’t rank for keywords — _pages_ do. With big brands, we often see the homepage ranking for many keywords, but for most websites this isn’t usually the case. Many websites receive more organic traffic to pages other than the homepage, which is why it’s so important to diversify your website’s pages by optimizing each for uniquely valuable keywords.
+
+[ Learn more about optimizing a single page for multiple keywords  ](/blog/target-multiple-keywords-next-level)
+
+## How often are those terms searched?
+
+### Uncovering search volume
+
+The higher the search volume for a given keyword or keyword phrase, the more work is typically required to achieve higher rankings. This is often referred to as keyword difficulty and occasionally incorporates SERP features; for example, if many SERP features (like featured snippets, knowledge graph, carousels, etc) are clogging up a keyword’s result page, difficulty will increase. Big brands often take up the top 10 results for high-volume keywords, so if you’re just starting out on the web and going after the same keywords, the uphill battle for ranking can take years of effort.
+
+Typically, the higher the search volume, the greater the competition and effort required to achieve organic ranking success. Go too low, though, and you risk not drawing any searchers to your site. In many cases, it may be most advantageous to target highly specific, lower competition search terms. In SEO, we call those long-tail keywords.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Tom-Capper-Try-Keyword-Explorer.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760470406&s=01109bad966ca1a1b6c952d1bcabd105)](/explorer)
+
+### Understanding the long tail
+
+It would be great to rank #1 for the keyword "shoes"... or would it?
+
+It's wonderful to deal with keywords that have 50,000 searches a month, or even 5,000 searches a month, but in reality, these popular search terms only make up a fraction of all searches performed on the web. In fact, keywords with very high search volumes may even indicate ambiguous intent, which, if you target these terms, it could put you at risk for drawing visitors to your site whose goals don't match the content your page provides.
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-23.png?auto=compress%2Cformat&fit=crop&dm=1554095877&s=acb94158150c707845e7256d31e5d48b)
+
+Does the searcher want to know the nutritional value of pizza? Order a pizza? Find a restaurant to take their family? Google doesn’t know, so they offer these features to help you refine. Targeting “pizza” means that you’re likely casting too wide a net.
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-16.png?auto=compress%2Cformat&fit=crop&dm=1554095902&s=578f735abf89e7321d84f193c9260287)
+
+If you're searching for "pizza," Google thinks you may also be interested in "cheese." They're not wrong...
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-18.png?auto=compress%2Cformat&fit=crop&dm=1554095934&s=42d7126cd8517c17db120651162b6f54)
+
+Was your intent to find a pizza place for lunch? The "Discover more places" SERP feature has that covered.
+
+The remaining 75% lie in the "chunky middle" and "long tail" of search.
+
+![A depiction of the search demand curve, showing the 'fat head' \(top keywords with high traffic and competition\), the 'chunky middle' \(medium keywords with medium traffic and competition\), and the 'long tail' \(less popular and longer keyword phrases with less traffic and lower competition\)](https://moz.com/files/learn/guides/Moz-BGSEO-Ch3-02-v2-outlines-01.svg?dm=1554155731)
+
+Don’t underestimate these less popular keywords. Long tail keywords with lower search volume often convert better, because searchers are more specific and intentional in their searches. For example, a person searching for "shoes" is probably just browsing. On the other hand, someone searching for "best price red womens size 7 running shoe" practically has their wallet out!
+
+### Do you know the 4 main types of search intent?
+
+Understanding how Google and other search engines understand intent can help you create the right type of content for your audience
+
+[ Learn more about search intent  ](/learn/seo/search-intent)
+
+### Questions are SEO gold!
+
+Discovering what questions people are asking in your space — and adding those questions and their answers to an FAQ page — can yield incredible organic traffic for your website.
+
+[ Learn more about how to target the long tail of search  ](/blog/diving-for-pearls-guide-long-tail-keywords-next-level)
+
+## Getting strategic with search volume
+
+Now that you’ve discovered relevant search terms for your site and their corresponding search volumes, you can get even more strategic by looking at your competitors and figuring out how searches might differ by season or location.
+
+### Keywords by competitor
+
+You’ll likely compile a lot of keywords. How do you know which to tackle first? It could be a good idea to prioritize high-volume keywords that your competitors are not currently ranking for. On the flip side, you could also see which keywords from your list your competitors are already ranking for and prioritize those. The former is great when you want to take advantage of your competitors’ missed opportunities, while the latter is an aggressive strategy that sets you up to compete for keywords your competitors are already performing well for.
+
+### Keywords by season
+
+Knowing about seasonal trends can be advantageous in setting a content strategy. For example, if you know that [“christmas box” starts to spike in October through December](https://trends.google.com/trends/explore?date=all&geo=GB&q=christmas%20box) in the United Kingdom, you can prepare content months in advance and give it a big push around those months.
+
+### Keywords by region
+
+You can more strategically target a specific location by narrowing down your keyword research to specific towns, counties, or states in the [Google Keyword Planner](http://adwords.google.com/keywordplanner), or evaluate "interest by subregion" in [Google Trends](https://trends.google.com/trends). Geo-specific research can help make your content more relevant to your target audience. For example, you might find out that in Texas, the preferred term for a large truck is “big rig,” while in New York, “tractor trailer” is the preferred terminology.
+
+If you're enjoying this chapter so far, be sure to check out the keyword research episode of our One-Hour Guide to SEO video series!
+
+[ Watch the video  ](/blog/one-hour-seo-guide-part-2-keyword-research)
+
+## Which format best suits the searcher's intent?
+
+In Chapter 2, we learned about SERP features. That background is going to help us understand how searchers want to consume information for a particular keyword. The format in which Google chooses to display search results depends on intent, and every query has a unique one. Google describes these intents in their [Quality Rater Guidelines](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) as either “know” (find information), “do” (accomplish a goal), “website” (find a specific website), or “visit-in-person” (visit a local business).
+
+While there are thousands of possible search types, let’s take a closer look at five major categories of intent:
+
+**1.** **Informational queries:** The searcher needs information, such as the name of a band or the height of the Empire State Building.
+
+![A screenshot of the SERP feature result for the query 'who sings Sweet Caroline' \(the answer is Neil Diamond.\)](https://moz.com/images/learn/guides/BGSEOAsset-25.png?auto=compress%2Cformat&fit=crop&dm=1554095973&s=b50c65f4858e61b6021f41a82cf9d4fd)
+
+**2.[Navigational queries](/learn/seo/navigational-keywords): **The searcher wants to go to a particular place on the Internet, such as Facebook or the homepage of the NFL.
+
+![A screenshot of the query 'moz blog' and resulting SERP.](https://moz.com/images/learn/guides/BGSEOAsset-22.png?auto=compress%2Cformat&fit=crop&dm=1554096012&s=b7ba3fcf25ee2a66d9b490a464f06e8b)
+
+**3\. Transactional queries:** The searcher wants to do something, such as buy a plane ticket or listen to a song.
+
+![A screenshot of the query 'plane tickets to seattle' and resulting SERP.](https://moz.com/images/learn/guides/BGSEOAsset-26.png?auto=compress%2Cformat&fit=crop&dm=1554096047&s=3c4c9b9af48ec2a03334e98a23573ef2)
+
+**4\. Commercial investigation:** The searcher wants to compare products and find the best one for their specific needs.
+
+![A screenshot of the query 'ps4 vs ps4 pro' and resulting SERP.](https://moz.com/images/learn/guides/BGSEOAsset-17.png?auto=compress%2Cformat&fit=crop&dm=1554096075&s=1b02a48bbcfdff4e91946fa7ad627f16)
+
+**5\. Local queries:** The searcher wants to find something locally, such as a nearby coffee shop, doctor, or music venue.
+
+![A screenshot of the query 'coffee shop near me' and resulting SERP with local results.](https://moz.com/images/learn/guides/BGSEOAsset-21.png?auto=compress%2Cformat&fit=crop&dm=1554096106&s=fb4c06abdcee6dff131073712578f623)
+
+An important step in the keyword research process is surveying the SERP landscape for the keyword you want to target in order to get a better gauge of searcher intent. If you want to know what type of content your target audience wants, look to the SERPs!
+
+Google has closely evaluated the behavior of trillions of searches in an attempt to provide the most desired content for each specific keyword search.
+
+Take the search “dresses,” for example:
+
+![A screenshot of the query 'dresses' and resulting carousel.](https://moz.com/images/learn/guides/BGSEOAsset-19.png?auto=compress%2Cformat&fit=crop&dm=1554096133&s=be5cf06bedabfa674d5e6581f9502a73)
+
+By the shopping carousel, you can infer that Google has determined many people who search for “dresses” want to shop for dresses online.
+
+![A screenshot of the local results for the query 'dresses.'](https://moz.com/images/learn/guides/BGSEOAsset-20.png?auto=compress%2Cformat&fit=crop&dm=1554096159&s=e4f7ded41ef8745d8ac6bac3ea7e85ed)
+
+There is also a Local Pack feature for this keyword, indicating Google’s desire to help searchers who may be looking for local dress retailers.
+
+![A screenshot of the Refine By results for the query 'dresses.'](https://moz.com/images/learn/guides/BGSEOAsset-24.png?auto=compress%2Cformat&fit=crop&dm=1554096185&s=03549ad1f261ea90c602089df05a172d)
+
+If the query is ambiguous, Google will also sometimes include the “refine by” feature to help searchers specify what they’re looking for further. By doing so, the search engine can provide results that better help the searcher accomplish their task.
+
+Google has a wide array of result types it can serve up depending on the query, so if you’re going to target a keyword, look to the SERP to understand what type of content you need to create.
+
+Learn more about user intent in Rejoice Ojiaku's Whiteboard Friday: [Map Your Keywords to the Buyer's Journey and User Intent](https://moz.com/blog/buyers-journey-and-user-intent-whiteboard-friday):
+
+![](https://fast.wistia.com/embed/medias/d09pw4wat8/swatch)
+
+### Download our free template!
+
+Keyword research can yield a _ton_ of data. Stay organized by downloading our free keyword research template. Customize the template to fit your unique needs. Happy keyword researching!
+
+[ Download the template  ](https://docs.google.com/spreadsheets/d/1j_rqwa-kNh-uCaVngM7Bfv8SM5tT09qvezDTclhbhrI/copy)
+
+## Tools for determining the value of a keyword
+
+How much value would a keyword add to your website? These tools can help you answer that question, so they’d make great additions to your keyword research arsenal:
+
+  * [Moz Keyword Explorer](/explorer#index2) \- Input a keyword in Keyword Explorer and get information like monthly search volume and SERP features (like local packs or featured snippets) that are ranking for that term. The tool extracts accurate search volume data by using live clickstream data. To learn more about how we're producing our keyword data, check out [Announcing Keyword Explorer](/blog/announcing-keyword-explorer-mozs-new-keyword-research-tool).
+
+[![](https://moz.com/images/learn/Learn-CTAs/Lily-Ray-Try-Keyword-Explorer.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760470662&s=bd53ef21920bb5b3305d7627904cccca)](/explorer)
+
+  * **Bonus!** Keyword Explorer’s "Difficulty" score can also help you narrow down your keyword options to the phrases you have the best shot at ranking for. The higher a keyword’s score, the more difficult it would be to rank for that term. [More about Keyword Difficulty](https://moz.com/help/keyword-explorer/keyword-metrics/difficulty).
+  * [Google Keyword Planner](http://adwords.google.com/keywordplanner) \- Google's AdWords Keyword Planner has historically been the most common starting point for SEO keyword research. However, Keyword Planner does restrict search volume data by lumping keywords together into large search volume range buckets. To learn more, check out [Google Keyword Planner’s Dirty Secrets](/blog/google-keyword-planner-dirty-secrets).
+  * [Google Trends](https://www.google.com/trends/) \- Google’s keyword trend tool is great for finding seasonal keyword fluctuations. For example, “funny halloween costume ideas” will peak in the weeks before Halloween.
+  * [AnswerThePublic](http://answerthepublic.com/) \- This free tool populates commonly searched for questions around a specific keyword. Bonus! You can use this tool in tandem with another free tool, [Keywords Everywhere](https://keywordseverywhere.com/), to prioritize ATP’s suggestions by search volume.
+  * [SpyFu Keyword Research Tool](https://www.spyfu.com/) \- Provides some really neat competitive keyword data.
+
+### Hungry for more keyword research?
+
+We've got a whole _'nother_ guide for that. When you're ready, check out our new **Keyword Research Master Guide** to seriously level-up your skills.
+
+[ Check out the guide  ](/keyword-research-guide)
+
+#####
+
+Now that you know how to uncover what your target audience is searching for and how often, it’s time to move onto the next step: crafting pages in a way that users will love and search engines can understand. Head to [Chapter 4 (On-Site Optimization)](/beginners-guide-to-seo/on-page-seo#index)!
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz staff.
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

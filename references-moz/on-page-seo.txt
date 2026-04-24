@@ -1,0 +1,500 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research)
+
+[6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo)
+
+[7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo) [8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links) [9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## On-Page SEO
+
+### Use your research to craft your message
+
+Now that you know how your target market is searching, it’s time to dive into on-page SEO, the practice of crafting web pages that answer searcher’s questions. On-page SEO is multifaceted, and extends beyond content into other things like [schema](/learn/seo/schema-structured-data) and [meta tags](/blog/the-ultimate-guide-to-seo-meta-tags), which we’ll discuss more at length in the next chapter on [technical optimization](/beginners-guide-to-seo/technical-seo#index). For now, put on your wordsmithing hats — it’s time to create your content!
+
+### What's that word mean?
+
+There are bound to be a few stumpers in this hefty chapter on on-page optimization — be prepared for unknown terms with our SEO glossary!
+
+[ See Chapter 4 definitions  ](/beginners-guide-to-seo/seo-glossary#chapter4)
+
+## Creating your content
+
+### Applying your keyword research
+
+In the [last chapter](/beginners-guide-to-seo/keyword-research#index), we learned methods for discovering how your target audience is searching for your content. Now, it’s time to put that research into practice. Here is a simple outline to follow for applying your keyword research:
+
+  1. Survey your keywords and group those with similar topics and intent. Those groups will be your pages, rather than creating individual pages for every keyword variation.
+  2. If you haven’t done so already, evaluate the SERP for each keyword or group of keywords to determine what type and format your content should be. Some characteristics of ranking pages to take note of:
+    1. Are they image- or video-heavy?
+    2. Is the content long-form or short and concise?
+    3. Is the content formatted in lists, bullets, or paragraphs?
+  3. Ask yourself, “What unique value could I offer to make my page better than the pages that are currently ranking for my keyword?”
+
+On-page SEO allows you to turn your research into content your audience will love. Just make sure to avoid falling into the trap of low-value tactics that could hurt more than help!
+
+## Try Moz Pro, Free!
+
+Moz Pro offers robust page optimization tools to help you improve both user experience and rankings. Try it free for and see why so many marketers trust our SEO tools!
+
+[ Start my free trial ](/checkout/freetrial)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Competitive-Research.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855249&s=0d98edb7c84b3459b7e8461c51ef4201)
+
+### Low-value tactics to avoid
+
+Your web content should exist to answer searchers’ questions, to guide them through your site, and to help them understand your site’s purpose. Content should not be created for the purpose of ranking highly in search alone. Ranking is a means to an end, the end being to help searchers. If we put the cart before the horse, we risk falling into the trap of low-value content tactics.
+
+Some of these tactics were introduced in [Chapter 2](https://moz.com/beginners-guide-to-seo/how-search-engines-operate), but by way of review, let’s take a deeper dive into some low-value tactics you should avoid when crafting search engine optimized content.
+
+#### Thin content
+
+While it’s common for a website to have unique pages on different topics, an older content strategy was to create a page for every single iteration of your keywords in order to rank on page 1 for those highly specific queries.
+
+For example, if you were selling bridal dresses, you might have created individual pages for bridal gowns, bridal dresses, wedding gowns, and wedding dresses, even if each page was essentially saying the same thing. A similar tactic for local businesses was to create multiple pages of content for each city or region from which they wanted clients. These “geo pages” often had the same or very similar content, with the location name being the only unique factor.
+
+Tactics like these clearly weren’t helpful for users, so why did publishers do it? Google wasn’t always as good as it is today at understanding the relationships between words and phrases (or semantics). So, if you wanted to rank on page 1 for “bridal gowns” but you only had a page on “wedding dresses,” that may not have cut it.
+
+This practice created tons of thin, low-quality content across the web, which Google addressed specifically with its 2011 update known as [Panda](/learn/seo/google-panda). This algorithm update penalized low-quality pages, which resulted in more quality pages taking the top spots of the SERPs. Google continues to iterate on this process of demoting low-quality content and promoting high-quality content today.
+
+Google is clear that you should have a comprehensive page on a topic instead of multiple, weaker pages for each variation of a keyword.
+
+![A depiction of four pages targeting similar keywords with a red X over them, and one page targeting multiple keyword variants with a green checkmark.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch4-01-outlines-01.svg?dm=1554155331)
+
+#### Duplicate content
+
+Like it sounds, “[duplicate content](https://moz.com/learn/seo/duplicate-content)” refers to content that is shared between domains or between multiple pages of a single domain. “Scraped” content goes a step further, and entails the blatant and unauthorized use of content from other sites. This can include taking content and republishing as-is, or modifying it slightly before republishing, without adding any original content or value.
+
+![A depiction of two pages with the exact same content, barring specific location information.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch4-02-2-outlines-01.svg?dm=1554155395)
+
+There are plenty of legitimate reasons for internal or cross-domain duplicate content, so Google encourages the use of a [rel=canonical tag](/learn/seo/canonicalization) to point to the original version of the web content. While you don’t need to know about this tag just yet, the main thing to note for now is that your content should be unique in word and in value.
+
+### Debunking the "duplicate content penalty" myth
+
+There is no Google penalty for duplicate content. That is to say, for example, if you take an article from the Associated Press and post it on your blog, you won’t get penalized with something like a Manual Action from Google. Google does, however, filter duplicate versions of content from their search results. If two or more pieces of content are substantially similar, Google will choose a canonical (source) URL to display in its search results and hide the duplicate versions. That’s not a penalty. That’s Google filtering to show only one version of a piece of content to improve the searcher’s experience.
+
+[ Learn more about canonicalization  ](/learn/seo/canonicalization)
+
+#### Cloaking
+
+A basic tenet of search engine guidelines is to show the same content to the engine's crawlers that you'd show to a human visitor. This means that you should never hide text in the HTML code of your website that a normal visitor can't see.
+
+When this guideline is broken, search engines call it "cloaking" and take action to prevent these pages from ranking in search results. Cloaking can be accomplished in any number of ways and for a variety of reasons, both positive and negative. Below is an example of an instance where [Spotify](https://www.sistrix.com/blog/case-study-spotify-com-violates-google-webmaster-guidelines%E2%80%A8/) showed different content to users than to Google.
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-33.png?auto=compress%2Cformat&fit=crop&dm=1554096589&s=64a4bddaa3f1bc34512e3668a4affc1a)
+
+Users were presented with a login screen in Spotify when searching for the National Philharmonic orchestra.
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-34.png?auto=compress%2Cformat&fit=crop&dm=1554096609&s=5a8f6df6074a3be9968c54c6d416f347)
+
+Viewing Google's cached version of the page shows the content Spotify provided to the search engine.
+
+In some cases, Google may let practices that are technically cloaking pass because they contribute to a positive user experience. For more on the subject of hidden content and how Google handles it, see our Whiteboard Friday entitled [How Does Google Handle CSS + Javascript "Hidden" Text?](/blog/google-css-javascript-hidden-text)
+
+#### Keyword stuffing
+
+If you’ve ever been told, “You need to include {critical keyword} on this page X times,” you’ve seen the confusion over keyword usage in action. Many people mistakenly think that if you just include a keyword within your page’s content X times, you will automatically rank for it. The truth is, although Google looks for mentions of keywords and related concepts on your site’s pages, the page itself has to add value outside of pure keyword usage. If a page is going to be valuable to users, it won’t sound like it was written by a robot, so incorporate your keywords and phrases naturally in a way that is understandable to your readers.
+
+Below is an example of a keyword-stuffed page of content that also uses another old method: bolding all your targeted keywords. Oy.
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-30.png?auto=compress%2Cformat&fit=crop&dm=1554096640&s=cdde2f0bfbe736ab6cd8a4fb073af4af)
+
+An example of a keyword-stuffed paragraph, bolding all the target keywords.
+
+#### Auto-generated content
+
+Arguably one of the most offensive forms of low-quality content is the kind that is auto-generated, or created programmatically with the intent of manipulating search rankings and not helping users. You may recognize some auto-generated content by how little it makes sense when read — they are technically words, but strung together by a program rather than a human being.
+
+It is worth noting that advancements in machine learning have contributed to more sophisticated auto-generated content that will only get better over time. This is likely why in [Google’s quality guidelines on automatically generated content](https://support.google.com/webmasters/answer/2721306?hl=en&ref_topic=6001971), Google specifically calls out the brand of auto-generated content that attempts to manipulate search rankings, rather than any-and-all auto-generated content.
+
+### What to do instead: 10x it!
+
+There is no “secret sauce” to ranking in search results. Google ranks pages highly because it has determined they are the best answers to the searcher’s questions. In today’s search engine, it’s not enough that your page [isn’t duplicate](/blog/why-good-unique-content-needs-to-die-whiteboard-friday), spamming, or broken. Your page has to provide value to searchers and be better than any other page Google is currently serving as the answer to a particular query. Here’s a simple formula for content creation:
+
+  * Search the keyword(s) you want your page to rank for
+  * Identify which pages are ranking highly for those keywords
+  * Determine what qualities those pages possess
+  * Create content that’s better than that
+
+We like to call this [10x content](/blog/how-to-create-10x-content-whiteboard-friday). If you create a page on a keyword that is 10x better than the pages being shown in search results (for that keyword), Google will reward you for it, and better yet, you’ll naturally get people linking to it! Creating 10x content is hard work, but will pay dividends in organic traffic.
+
+### A competitor analysis can help!
+
+When you're researching how to 10x your content, performing an in-depth competitive analysis is your edge. Luckily, we've got _another_ guide devoted to just that! ;-)
+
+[ Read the Guide to SEO Competitor Analysis  ](/seo-competitor-analysis)
+
+Just remember, there’s no magic number when it comes to words on a page. What we should be aiming for is whatever sufficiently satisfies user intent. Some queries can be answered thoroughly and accurately in 300 words while others might require 1,000 words!
+
+### Don’t reinvent the wheel!
+
+If you already have content on your website, save yourself time by evaluating which of those pages are already bringing in good amounts of organic traffic and converting well. Refurbish that content on different platforms to help get more visibility to your site. On the other side of the coin, evaluate what existing content isn’t performing as well and adjust it, rather than starting from square one with all new content.
+
+[ Learn more about refurbishing your top content  ](/blog/refurbishing-top-content-whiteboard-friday)
+
+### NAP: A note for local businesses
+
+If you’re a business that makes in-person contact with your customers, be sure to include your business name, address, and phone number (NAP) prominently, accurately, and consistently throughout your site’s content. This information is often displayed in the footer or header of a local business website, as well as on any "contact us" pages. You’ll also want to mark up this information using [local business schema](https://developers.google.com/search/docs/data-types/local-business). Schema and structured data are discussed more at length in the “Other optimizations” section of this chapter.
+
+If you are a multi-location business, it’s best to build unique, optimized pages for each location. For example, a business that has locations in Seattle, Tacoma, and Bellevue should consider having a page for each:
+
+    example.com/
+    seattleexample.com/
+    tacomaexample.com/
+    bellevueexample.com/
+
+Each page should be uniquely optimized for that location, so the Seattle page would have unique content discussing the Seattle location, list the Seattle NAP, and even testimonials specifically from Seattle customers. If there are dozens, hundreds, or even thousands of locations, a [store locator widget](/blog/getting-local-store-locator-seo-right) could be employed to help you scale.
+
+#### Local vs national vs international
+
+Just remember that not all businesses operate at the local level and perform what we call “[local SEO](/learn/seo/local).” Some businesses want to attract customers on a national level (ex: the entire United States) and others want to attract customers from multiple countries (“[international SEO](/learn/seo/international-seo)”). Take Moz, for example. Our product (SEO software) is not tied to a specific location, whereas a coffee shop’s is, since customers have to travel to the location to get their caffeine fix.
+
+In this scenario, the coffee shop should optimize their website for their physical location, whereas Moz would target “SEO software” without a location-specific modifier like “Seattle.”
+
+How you choose to optimize your site depends largely on your audience, so make sure you have them in mind when crafting your website content.
+
+Hope you still have some energy left after handling the difficult-yet-rewarding task of putting together a page that is 10x better than your [competitors](https://moz.com/seo-competitor-analysis)’ pages, because there are just a few more things needed before your page is complete! In the next sections, we’ll talk about the other on-page optimizations your pages need, as well as naming and organizing your content.
+
+## Beyond content: Other optimizations your pages need
+
+_Can I just bump up the font size to create paragraph headings?_
+
+_How can I control what title and description show up for my page in search results?_
+
+After reading this section, you’ll understand other important on-page elements that help search engines understand the 10x content you just created, so let’s dive in!
+
+## Identify opportunities to improve your pages
+
+Use Moz Pro to see which pages are well-optimized, which have room to grow, and what changes will have the most impact. Take a free trial and start optimizing today:
+
+[ Start my free trial ](/checkout/freetrial)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Search-Intent.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855262&s=2e2c5838e6c7b5e4d71545b66c66290a)
+
+### Header tags
+
+Header tags are an HTML element used to designate headings on your page. The main header tag, called an H1, is typically reserved for the title of the page. It looks like this:
+
+    <h1>Page Title</h1>
+
+There are also sub-headings that go from H2 to H6 tags, although using all of these on a page is not required. The hierarchy of header tags goes from H1 to H6 in descending order of importance.
+
+Each page should have a unique H1 that describes the main topic of the page, this is often automatically created from the title of a page. As the main descriptive title of the page, the H1 should contain that page’s primary keyword or phrase. You should avoid using header tags to mark up non-heading elements, such as navigational buttons and phone numbers. Use header tags to introduce what the following content will discuss.
+
+Take this page about touring Copenhagen, for example:
+
+    <h1>Copenhagen Travel Guide</h1>
+    <h2>Copenhagen by the Seasons</h2>
+    <h3>Visiting in Winter</h3>
+    <h3>Visiting in Spring</h3>
+
+The main topic of the page is introduced in the main <h1> heading, and each additional heading is used to introduce a new sub-topic. In this example, the <h2> is more specific than the <h1>, and the <h3> tags are more specific than the <h2>. This is just an example of a structure you could use.
+
+Although what you choose to put in your header tags can be used by search engines to evaluate and rank your page, it’s important to avoid inflating their importance. Header tags are one among many on-page SEO factors, and typically would not move the needle like quality backlinks and content would, so focus on your site visitors when crafting your headings.
+
+### Internal links
+
+In Chapter 2, we discussed the importance of having a crawlable website. Part of a website’s crawlability lies in its [internal linking](/learn/seo/internal-link) structure. When you link to other pages on your website, you ensure that search engine crawlers can find all your site’s pages, you pass link equity (ranking power) to other pages on your site, and you help visitors navigate your site.
+
+For example, if we wanted to emphasize the importance of our newly [updated SEO Beginner's Guide](https://moz.com/beginners-guide-to-seo#internal-links), we'd simply add a link like that! (and it's a really good guide)
+
+The importance of internal linking is well established, but there can be confusion over how this looks in practice.
+
+#### Link accessibility
+
+Links that require a click (like a navigation drop-down to view) are often hidden from search engine crawlers, so if the only links to internal pages on your website are through these types of links, you may have trouble getting those pages indexed. Opt instead for links that are directly accessible on the page.
+
+#### Anchor text
+
+[Anchor text](/learn/seo/anchor-text) is the text with which you link to pages. Below, you can see an example of what a hyperlink without anchor text and a hyperlink with anchor text would look like in the HTML.
+
+    <a href="http://www.example.com/"></a>
+    <a href="http://www.example.com/" title="Keyword Text">Keyword Text</a>
+
+On live view, that would look like this:
+
+> <http://www.example.com/>
+
+> [Keyword Text](http://www.example.com/)
+
+The anchor text sends signals to search engines regarding the content of the destination page. For example, if I link to a page on my site using the anchor text “learn SEO,” that’s a good indicator to search engines that the targeted page is one at which people can learn about SEO. Be careful not to overdo it, though. Too many internal links using the same, keyword-stuffed anchor text can appear to search engines that you’re trying to manipulate a page’s ranking. It’s best to make anchor text natural rather than formulaic.
+
+#### Link volume
+
+In Google’s [General Webmaster Guidelines](https://support.google.com/webmasters/answer/35769?hl=en), they say to “limit the number of links on a page to a reasonable number (a few thousand at most).” This is part of Google’s technical guidelines, rather than the quality guideline section, so having too many internal links isn’t something that on its own is going to get you penalized, but it does affect how Google finds and evaluates your pages.
+
+The more links on a page, the less equity each link can pass to its destination page. A page only has so much equity to go around.
+
+So it’s safe to say that you should only link when you mean it! You can [learn more about link equity](/learn/seo/what-is-link-equity) from our SEO Learning Center.
+
+Aside from passing authority between pages, a link is also a way to help users navigate to other pages on your site. This is a case where doing what’s best for search engines is also doing what’s best for searchers. Too many links not only dilute the authority of each link, but they can also be unhelpful and overwhelming. Consider how a searcher might feel landing on a page that looks like this:
+
+> Welcome to our [gardening website](http://www.example.com/)! We have many [articles on gardening](http://www.example.com/), [how to garden](http://www.example.com/), and [helpful tips](http://www.example.com/) on [herbs](http://www.example.com/), [fruits](http://www.example.com/), [vegetables](http://www.example.com/), [perennials](http://www.example.com/), and [annuals](http://www.example.com/). Learn more about [gardening](http://www.example.com/) from our [gardening blog](http://www.example.com/).
+
+_Whew!_ Not only is that a lot of links to process, but it also reads pretty unnaturally and doesn’t contain much substance (which could be considered “thin content” by Google). Focus on quality and helping your users navigate your site, and you likely won’t have to worry about too many links.
+
+#### Redirection
+
+Removing and renaming pages is a common practice, but in the event that you do move a page, make sure to update the links to that old URL! At the very least, you should make sure to [redirect the URL](https://moz.com/learn/seo/redirection) to its new location, but if possible, update all internal links to that URL at the source so that users and crawlers don’t have to pass through redirects to arrive at the destination page. If you choose to redirect only, be careful to avoid redirect chains that are too long ([Google says](https://support.google.com/webmasters/answer/6033086?hl=en), "Avoid chaining redirects... keep the number of redirects in the chain low, ideally no more than 3 and fewer than 5.")
+
+Example of a redirect chain:
+
+    (original location of content) example.com/location1 →
+    example.com/location2 →
+    (current location of content) example.com/location3
+
+Better:
+
+    example.com/location1 → example.com/location3
+
+![A depiction of 301 redirecting an old page to a new page.](https://moz.com/files/learn/guides/Moz-BGSEO-Ch5-03-outlines-01.svg?dm=1554154778)
+
+### Image optimization
+
+Images are the biggest culprits of slow web pages! The best way to solve for this is to compress your images. While there is no one-size-fits-all when it comes to image compression, testing various options like "save for web," image sizing, and compression tools like [Optimizilla](https://imagecompressor.com/) or [ImageOptim](https://imageoptim.com/mac) for Mac (or [Windows alternatives](https://imageoptim.com/versions.html)), as well as evaluating what works best is the way to go.
+
+Another way to help optimize your images (and improve your page speed) is by choosing the right image format.
+
+#### How to choose which image format to use:
+
+  * If your image requires animation, use a GIF.
+  * If you don’t need to preserve high image resolution, use JPEG (and test out different compression settings).
+  * If you do need to preserve high image resolution, use PNG.
+    * If your image has a lot of colors, use PNG-24.
+    * If your image doesn’t have a lot of colors, use PNG-8.
+
+Learn more about choosing image formats in [Google's image optimization guide](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization).
+
+There are different ways to keep visitors on a semi-slow loading page by using images that produce a colored box or a very blurry/low resolution version while rendering to help visitors feel as if things are loading faster. We'll discuss these options in more detail in Chapter 5.
+
+### Don’t forget about thumbnails!
+
+Thumbnails (_especially_ for e-commerce sites) can be a huge page speed slow down. Optimize thumbnails properly to avoid slow pages and to help retain more qualified visitors.
+
+#### Alt text
+
+[Alt text](/learn/seo/alt-text) (alternative text) within images is a principle of web accessibility, and is used to describe images to the visually impaired via screen readers. It’s important to have alt text descriptions so that any visually impaired person can understand what the pictures on your website depict.
+
+Search engine bots also crawl alt text to better understand your images, which gives you the added benefit of providing better image context to search engines. Just ensure that your alt descriptions reads naturally for people, and avoid stuffing keywords for search engines.
+
+Bad:
+
+    <img src="grumpycat.gif" alt="grumpy cat, cat is grumpy, grumpy cat gif">
+
+Good:
+
+    <img src="grumpycat.gif" alt="A black cat looking very grumpy at a big spotted dog">
+
+### Web accessibility and SEO
+
+There's a great deal of intersection between web accessibility and SEO. Much of our work can help or harm online experiences for non-sighted Internet users. Be sure to check out our blog post series on this important topic — we have the opportunity to help make the web a better place for everyone!
+
+[ Learn more about accessibility and SEO  ](/blog/accessibility-seo-1)
+
+### Submit an image sitemap
+
+To ensure that Google can crawl and index your images, [submit an image sitemap](https://support.google.com/webmasters/answer/178636) in your Google Search Console account. This helps Google discover images they may have otherwise missed.
+
+### Formatting for readability & featured snippets
+
+Your page could contain the best content ever written on a subject, but if it’s formatted improperly, your audience might never read it! While we can never guarantee that visitors will read our content, there are some principles that can promote readability, including:
+
+  * **Text size and color -** Avoid fonts that are too tiny. Google recommends 16-point font and above to minimize the need for “pinching and zooming” on mobile. The text color in relation to the page’s background color should also promote readability. Additional information on text can be found in the [website accessibility guidelines](https://www.ada.gov/pcatoolkit/chap5toolkit.htm) and via [Google’s web accessibility fundamentals](https://developers.google.com/web/fundamentals/accessibility/).
+  * **Headings -** Breaking up your content with helpful headings can help readers navigate the page. This is especially useful on long pages where a reader might be looking only for information from a particular section.
+  * **Bullet points -** Great for lists, bullet points can help readers skim and more quickly find the information they need.
+  * **Paragraph breaks -** Avoiding walls of text can help prevent page abandonment and encourage site visitors to read more of your page.
+  * **Supporting media -** When appropriate, include images, videos, and widgets that would complement your content.
+  * **Bold and italics for emphasis -** Putting words in bold or italics can add emphasis, so they should be the exception, not the rule. Appropriate use of these formatting options can call out important points you want to communicate.
+
+Formatting can also affect your page’s ability to show up in featured snippets, those “position 0” results that appear above the rest of organic results.
+
+![](https://moz.com/images/learn/guides/BGSEOAsset-27.png?auto=compress%2Cformat&fit=crop&dm=1554096711&s=9360a8f50aaad73479ef73b49a23881f)
+
+An example of a featured snippet, appearing in "position 0" at the top of a SERP.
+
+There is no special code that you can add to your page to show up here, nor can you pay for this placement, but taking note of the query intent can help you better [structure your content for featured snippets](/blog/target-featured-snippet-opportunities). For example, if you’re trying to rank for “cake vs. pie,” it might make sense to include a table in your content, with the benefits of cake in one column and the benefits of pie in the other. Or if you’re trying to rank for “best restaurants to try in Portland,” that could indicate Google wants a list, so formatting your content in bullets could help.
+
+## Take SEO on the go with MozBar Premium
+
+Get page optimization tips and content suggestions as you browse your website with our Chrome browser extension, the [MozBar SEO toolbar](https://moz.com/products/pro/seo-toolbar). See what's possible with a free trial of Moz Pro:
+
+[ Start my free trial ](/checkout/freetrial)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Domain-Authority.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855251&s=6ed9313fb099b155b64ed31e408cb970)
+
+### Title tags
+
+A page’s [title tag](/learn/seo/title-tag) is a descriptive, HTML element that specifies the title of a particular web page. They are nested within the head tag of each page and look like this:
+
+    <head> <title>Example Title</title></head>
+
+Each page on your website should have a unique, descriptive title tag. What you input into your title tag field will show up here in search results, although in some cases Google may adjust how your title tag appears in search results.
+
+![A screenshot of how a page title appears in the SERPs.](https://moz.com/images/learn/guides/BGSEOAsset-36.png?auto=compress%2Cformat&fit=crop&dm=1554096752&s=3b4867e1cff9ae38736c5dc1a228cf9d)
+
+It can also show up in web browsers…
+
+![A screenshot of how a page title appears in a browser tab.](https://moz.com/images/learn/guides/BGSEOAsset-35.png?auto=compress%2Cformat&fit=crop&dm=1554096781&s=440f35d0971a52cb542e1e676e01b126)
+
+Or when you share the link to your page on certain external websites…
+
+![A screenshot of how a page title looks when shared on an external site, like Facebook.](https://moz.com/images/learn/guides/BGSEOAsset-37.png?auto=compress%2Cformat&fit=crop&dm=1554096816&s=776d60756690fc317976d39149a14bcf)
+
+Your title tag has a big role to play in people’s first impression of your website, and it’s an incredibly effective tool for drawing searchers to your page over any other result on the SERP. The more compelling your title tag, combined with high rankings in search results, the more visitors you’ll attract to your website. This underscores that SEO is not only about search engines, but rather the entire user experience.
+
+#### What makes an effective title tag?
+
+  * **Keyword usage:** Having your target keyword in the title can help both users and search engines understand what your page is about. Also, the closer to the front of the title tag your keywords are, the more likely a user will be to read them (and hopefully click) and the more helpful they can be for ranking.
+  * **Length:** On average, search engines display the first 50–60 characters (~512 pixels) of a title tag in search results. If your title tag exceeds the characters allowed on that SERP, an ellipsis "..." will appear where the title was cut off. While sticking to 50–60 characters is safe, never sacrifice quality for strict character counts. If you can’t get your title tag down to 60 characters without harming its readability, go longer (within reason).
+  * **Branding:** At Moz, we love to end our title tags with a brand name mention because it promotes brand awareness and creates a higher click-through rate among people who are familiar with Moz. Sometimes it makes sense to place your brand at the beginning of the title tag, such as on your homepage, but be mindful of what you're trying to rank for and place those words closer toward the beginning of your title tag.
+
+### Meta descriptions
+
+Like title tags, [meta descriptions](/learn/seo/meta-description) are HTML elements that describe the contents of the page that they’re on. They are also nested in the head tag, and look like this:
+
+    <head>
+    <meta name=”description” content=”Description of page here.”/>
+    </head>
+
+What you input into the description field will show up here in search results:
+
+### Title tag tips for better traffic
+
+While there are no shortcuts in SEO, there are absolutely a ton of tips and tricks that can boost a page title's clickability and attractiveness in the SERPs. Check out our Whiteboard Friday on the subject!
+
+[ Watch the video  ](/blog/title-tag-hacks-whiteboard-friday)
+
+![A screenshot of how a meta description looks in the SERPs.](https://moz.com/images/learn/guides/BGSEOAsset-31.png?auto=compress%2Cformat&fit=crop&dm=1554096867&s=b39feaa047b41c1aaa42c19d87d3743b)
+
+For example, if you search “find backlinks,” Google will provide this meta description as it deems it more relevant to the specific search:
+
+![A screenshot of the meta description for the query 'find backlinks' in the SERPs.](https://moz.com/images/learn/guides/BGSEOAsset-29.png?auto=compress%2Cformat&fit=crop&dm=1554096931&s=fa5bdf044d6a34beb5811ec258b36f73)
+
+While the actual meta description is:
+
+![A screenshot of the source code for the actual meta description on the page, which differs from what the SERP shows above.](https://moz.com/images/learn/guides/BGSEOAsset-28.png?auto=compress%2Cformat&fit=crop&dm=1554096974&s=0a5ce5cb7202b7024582684d4e0ff858)
+
+This often helps to improve your meta descriptions for unique searches. However, don’t let this deter you from writing a default page meta description — they're still extremely valuable.
+
+#### What makes an effective meta description?
+
+The qualities that make an effective title tag also apply to effective meta descriptions. Although Google says that meta descriptions are not a ranking factor, like title tags, they are incredibly important for click-through rate.
+
+  * **Relevance:** Meta descriptions should be highly relevant to the content of your page, so it should summarize your key concept in some form. You should give the searcher enough information to know they've found a page relevant enough to answer their question, without giving away so much information that it eliminates the need to click through to your web page.
+  * **Length:** Search engines tend to truncate meta descriptions to around 155 characters. It’s best to write meta descriptions between 150–300 characters in length. On some SERPs, you’ll notice that Google gives much more real estate to the descriptions of some pages. This usually happens for web pages ranking right below a featured snippet.
+
+## URL structure: Naming and organizing your pages
+
+URL stands for Uniform Resource Locator. URLs are the locations or addresses for individual pieces of content on the web. Like title tags and meta descriptions, search engines display URLs on the SERPs, so URL naming and format can impact click-through rates. Not only do searchers use them to make decisions about which web pages to click on, but URLs are also used by search engines in evaluating and ranking pages.
+
+### Clear page naming
+
+Search engines require unique URLs for each page on your website so they can display your pages in search results, but clear URL structure and naming is also helpful for people who are trying to understand what a specific URL is about. For example, which URL is clearer?
+
+    example.com/desserts/chocolate-pie
+
+or
+
+    example.com/asdf/453?=recipe-23432-1123
+
+Searchers are more likely to click on URLs that reinforce and clarify what information is contained on that page, and less likely to click on URLs that confuse them.
+
+The URL is a minor ranking signal, but you cannot expect to rank on the basis of the words in your domain/page names alone (see [Google EMD update](https://searchengineland.com/low-quality-exact-match-domains-are-googles-next-target-134889)). When naming your pages or selecting a domain name, have your audience in mind first.
+
+### Page organization
+
+If you discuss multiple topics on your website, you should also make sure to avoid nesting pages under irrelevant folders. For example:
+
+    example.com/commercial-litigation/alimony
+
+It would have been better for this fictional multi-practice law firm website to nest alimony under “/family-law/” than to host it under the irrelevant "/commercial-litigation/" section of the website.
+
+The folders in which you locate your content can also send signals about the type, not just the topic, of your content. For example, dated URLs can indicate time-sensitive content. While appropriate for news-based websites, dated URLs for evergreen content can actually turn searchers away because the information seems outdated. For example:
+
+    example.com/2015/april/what-is-seo/
+
+vs.
+
+    example.com/what-is-seo/
+
+Since the topic “What is SEO?” isn’t confined to a specific date, it’s best to host on a non-dated URL structure or else risk your information appearing stale.
+
+As you can see, what you name your pages, and in what folders you choose to organize your pages, is an important way to clarify the topic of your page to users and search engines.
+
+### URL length
+
+While it is not necessary to have a completely flat URL structure, many click-through rate studies indicate that, when given the choice between a URL and a shorter URL, searchers often prefer shorter URLs. Like title tags and meta descriptions that are too long, too-long URLs will also be cut off with an ellipsis. Just remember, having a descriptive URL is just as important, so don’t cut down on URL length if it means sacrificing the URL's descriptiveness.
+
+    example.com/services/plumbing/plumbing-repair/toilets/leaks/
+
+vs.
+
+    example.com/plumbing-repair/toilets/
+
+Minimizing length, both by including fewer words in your page names and removing unnecessary subfolders, makes your URLs easier to copy and paste, as well as more clickable.
+
+### Keywords in URL
+
+If your page is targeting a specific term or phrase, make sure to include it in the URL. However, don't go overboard by trying to stuff in multiple keywords for purely SEO purposes. It’s also important to watch out for repeat keywords in different subfolders. For example, you may have naturally incorporated a keyword into a page name, but if located within other folders that are also optimized with that keyword, the URL could begin to appear keyword-stuffed.
+
+Example:
+
+    example.com/seattle-dentist/dental-services/dental-crowns/
+
+Keyword overuse in URLs can appear spammy and manipulative. If you aren’t sure whether your keyword usage is too aggressive, just read your URL through the eyes of a searcher and ask, “Does this look natural? Would I click on this?”
+
+### Static URLs
+
+The best URLs are those that can easily be read by humans, so you should avoid the overuse of parameters, numbers, and symbols. Using technologies like mod_rewrite for Apache and ISAPI_rewrite for Microsoft, you can easily transform dynamic URLs like this:
+
+    http://moz.com/blog?id=123
+
+into a more readable static version like this:
+
+    https://moz.com/google-algorithm-change
+
+### Hyphens for word separation
+
+Not all web applications accurately interpret separators like underscores (_), plus signs (+), or spaces (%20). Search engines also do not understand how to separate words in URLs when they run together without a separator (example.com/optimizefeaturedsnippets/). Instead, use the hyphen character (-) to separate words in a URL.
+
+### Case sensitivity
+
+Sites should avoid case sensitive URLs. Instead of example.com/desserts/Chocolate-Pie-Recipe it would be better to use example.com/desserts/chocolate-pie-recipe. If the site you're working on has lots of mixed-case URLs indexed, don't fret — your developers can help. Ask them about adding a rewrite formula to something known as the .htaccess file to automatically make any uppercase URLs lowercase.
+
+### Geographic modifiers in URLs
+
+Some local business owners omit geographic terms that describe their physical location or service area because they believe that search engines can figure this out on their own. On the contrary, it’s vital that local business websites’ content, URLs, and other on-site assets make specific mention of city names, neighborhood names, and other regional descriptors. Let both consumers and search engines know exactly where you are and where you serve, rather than relying on your physical location alone.
+
+### Protocols: HTTP vs HTTPS
+
+A protocol is that “http” or “https” preceding your domain name. Google recommends that all websites have a secure protocol (the “s” in “https” stands for “secure”). To ensure that your URLs are using the https:// protocol instead of http://, you must obtain an SSL (Secure Sockets Layer) certificate. SSL certificates are used to encrypt data. They ensure that any data passed between the web server and browser of the searcher remains private. As of July 2018, Google Chrome displays “not secure” for all HTTP sites, which could cause these sites to appear untrustworthy to visitors and result in them leaving the site.
+
+![A screenshot of how a non-secure website appears in a browser tab.](https://moz.com/images/learn/guides/BGSEOAsset-32.png?auto=compress%2Cformat&fit=crop&dm=1554097049&s=003d694f347715f909fa4d04086636e5)
+
+### Try HTTP/2 for improved efficiency
+
+HTTP/2 is an improvement to the traditional HTTP network protocol and makes sending your resources from your server to your browser more efficient. This update improves the "fetch and load" part of your critical rendering path (discussed more at length in Chapter 5), helps increase the security of your website, and [can help improve performance](https://docs.google.com/document/d/1K0NykTXBbbbTlv60t5MyJvXjqKGsCVNYHyLEXIxYMv0/edit). You must be on HTTPS to migrate to HTTP/2.
+
+#####
+
+If you’ve made it this far, congratulations on surpassing the halfway point of the Beginner’s Guide to SEO! So far, we’ve learned how search engines crawl, index, and rank content, how to find keyword opportunities to target, and now, you know the on-page SEO strategies that can help your pages get found. Next, buckle up, because we’ll be diving into the exciting world of technical SEO in [Chapter 5](/beginners-guide-to-seo/technical-seo#index3)!
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz staff.
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

@@ -1,0 +1,285 @@
+Kind: captions
+Language: en
+In this video, I'll share 11 in-demand digital
+marketing skills that'll help you get hired,
+make more money, and become
+a better rounded marketer.
+Stay tuned.
+[music]
+So being a good digital marketer
+requires two different sets of skills.
+Hard skills and soft skills.
+Hard skills are basically learned abilities
+that are sharpened through experience and
+education, while soft skills are more about
+character traits and interpersonal skills.
+In other words, hard skills show employers
+how good you'll be at your job from a technical
+standpoint, while soft skills show whether
+you'll be a good employee, teammate, or manager.
+Now, many people focus just on improving
+hard skills like coding, SEO, or paid advertising.
+But soft skills are equally important.
+In fact, a 2018 study from LinkedIn shows
+that 57% of employers value soft skills more
+than hard skills.
+Now, in terms of what employers look
+for in a digital marketer will vary based
+on the position and responsibilities.
+For example, when we hired a video editor,
+hard skills weighed heavier than soft.
+And when I hired an outreach manager, soft
+skills weighed heavier than hard because
+interpersonal skills are more important
+than knowing how software works.
+Now, while I won't be able to cover every
+single skill that'll be helpful in your digital
+marketing career, I'll share 5 hard skills
+and 6 soft skills that I personally look for
+when hiring digital marketers.
+And I'll explain why these skills are valuable
+for almost any digital marketing role.
+Let's get started with the hard skills.
+The first skill worth mastering is copywriting.
+Copy is often the bridge between
+company and customer.
+It lives on blog posts, landing pages, emails,
+and even videos as tons of them are scripted.
+This makes copywriting arguably the most
+transferable skill in online marketing.
+It applies to SEO, content marketing, email
+marketing, outreach, social media, paid
+advertising, and the list goes on.
+And because a big part of your job as a digital
+marketer will be to educate and influence your
+target audience with copy, this in my
+books is a skill worth improving.
+The second hard skill is SEO.
+SEO stands for search engine optimization
+and it's the process of optimizing web pages
+to rank higher in search engines.
+Now, the reason why it's an important skill
+to have is because you can use it to get free,
+passive, and consistent traffic
+that doesn't fade over time.
+And that's essentially what businesses want.
+In addition, the principles in SEO will help
+you understand how the web works, particularly
+with Google SEO.
+If you want to learn more about SEO,
+we have a free course that'll give you
+all of this technical knowledge and also
+help you get more traffic to your site.
+I'll link it up in the description.
+The next hard skill is in data
+analysis and interpretation.
+Data gives you something to analyze and
+your analysis will help you draw insights.
+And those insights are what marketers
+use to create marketing campaigns.
+This cycle is pretty important because if
+the data is bad, then everything else after
+will be flawed.
+Now, if your analysis is incorrect, then the insights
+you drew from them would be invalidated.
+And if your insights are wrong, then you might
+be leading your campaign in the wrong direction.
+So it's critical that you a) understand where
+your data comes from, and b) know how to
+analyze and interpret it.
+Sometimes you'll have great insights that
+come from your analysis and other times,
+you'll learn that there's no conclusive
+evidence to work with.
+Both outcomes are equally important because
+they're going to guide you in the right direction
+to save your company time, money and effort.
+Alright, the next hard skill is in user experience.
+While this is a common skill that designers
+need to have, it's important for digital marketers
+to at least have a high level understanding
+of UX best practices.
+After all, as marketers, we want to create
+interactions with customers and prospects
+so they have more meaningful and relevant
+experiences with our brand and content.
+On top of that, many marketing channels
+depend on user experience signals.
+For example, YouTube's and pretty much every
+single social media network's algorithm is
+driven by user experience signals.
+And even in Google SEO, user experience
+signals can impact ranking positions.
+Bottomline: the better experience you create
+for people, the better your marketing campaigns
+will be.
+And assuming your marketing campaigns
+are aligned with the business's bottom line,
+the better the company will perform.
+Alright, the last hard skill I want to talk
+about is expertise with Google Sheets.
+Now, I wouldn't typically list software as
+a must-have hard skill, but knowing how
+to use Google Sheets, beyond data entry
+and basic formulas is going to make you
+a more efficient marketer.
+And depending on your proficiency, it can be
+telling of your knowledge in logic programming.
+Google Sheets is arguably the most versatile tool.
+You can use it to create reports, analyze,
+interpret, and manipulate data, and create
+automations for monotonous tasks.
+The use cases are truly endless and it's a big
+plus that I love seeing for mid to high level roles.
+Alright, let's move on to the soft skills,
+starting with arguably the most important
+one in my books, and that's communication.
+Marketing is essentially a brand's way
+to communicate with customers and
+prospects so you can drive interest
+and desire for products and services.
+So if you're not able to communicate
+effectively, your marketing will be ineffective.
+Now, you might be thinking… big whoop.
+But the repercussions of poor
+communication can be severe.
+It can impact people's first impressions of
+your company, damage your brand reputation,
+and lead to wasted time for marketers
+and anyone else involved in a campaign
+like developers, designers, and outsourced teams.
+Beyond that, marketing also involves developing
+relationships with customers, affiliates, influencers,
+and brand evangelists.
+Fail to communicate effectively and
+you'll have a very bumpy road ahead.
+Next up are problem solving skills.
+Marketing campaigns rarely go smoothly and
+you will run into problems and unexpected
+bumps along the way.
+The thing is, nobody wants to hold your
+hand through every single problem.
+Employers hire employees to solve problems.
+So naturally, a big part of your job will be
+to solve problems with creative solutions
+even if company policies or budgets
+may play against you.
+A common example in the SEO
+world is buying backlinks.
+A lot of companies have no problems doing
+this but if your company is like ours and has
+policies against these practices, you have
+to come up with creative ways to compete.
+Another common disadvantage I see in
+competitive industries are with ad budgets.
+Leaders in an industry will often have
+what seems to be an infinite budget.
+And if you're working at a bootstrapped start-up
+with 1/100th of your competitors' budgets,
+you'll have to get extremely creative to have
+a fighting chance at winning, let alone surviving.
+The best marketing is when your product and
+marketing align to solve peoples' problems.
+But that in and of itself is a problem that
+marketers are often tasked with solving.
+Alright, the next soft skill
+on my list is creativity.
+Creativity is something that's
+incredibly difficult to teach.
+In fact, according to George Land, a famous
+researcher and scientist, non-creative behavior
+is learned.
+Meaning, we learn to become
+less creative as we get older.
+In his 1968 study, he gave 1,600
+five-year-olds a creativity test.
+And this is the same test that was used by NASA
+to select innovative engineers and scientists.
+And to his surprise, 98% of five-year-olds
+scored in the 'highly creative range.'
+But when he retested them at 10 and 15 years
+old, there was a dramatic drop in the percentage
+of people who scored in
+the ‘highly creative range.'
+Now, Land also tested 280,000
+adults with the same test.
+And only 2% of this group scored
+in the highly creative range.
+Meaning, for those that are actually creative,
+it's going to be one of your greatest assets.
+And when you pair creativity with the hard
+skill of data analysis, you end up having
+a very powerful combination of skills that
+will play in your favor as a digital marketer.
+Alright, the next soft skill is teachability.
+Now, the reason why I think this is
+a critical soft skill to have is because
+marketing is collaborative.
+And if you're the stubborn type who refuses
+to hear feedback from your managers and
+teammates, you will naturally
+be an awful team player.
+In my opinion, teachability shows humility,
+adaptability, and one's desire for growth.
+This is why after doing hundreds of interviews,
+if a candidate doesn't seem teachable, it's
+a "break it" kind of attribute for me.
+Now, that doesn't mean you need to be a yes-man
+and make other people feel better about themselves.
+It's about being open to others' opinions
+and collaboratively coming to the best ideas
+for your marketing campaigns.
+Alright, the next soft skill is self-motivation.
+This is a skill that I think separates
+the wheat from the chaff.
+Naturally, there are going to be people who
+show up to work and do the bare minimum.
+After all, we alls gots to make
+monies to pay the bills.
+But there'll be a few individuals who'll put
+in the extra time, effort, thought, and focus
+simply because they want to produce good work.
+These are self-motivated people.
+They're willing to go the extra mile
+to make their work great.
+They don't define themselves from
+their salary, mentions or accolades.
+But ironically, self-motivated people
+with raw talent tend to get paid more
+and praised publicly.
+They're a rare breed and in my opinion, it's
+a skill that's nearly impossible to fake over
+the long haul.
+And the final soft skill is dependability.
+Because marketing usually happens in a team
+setting, you need to be able to depend on your
+teammates to do their part.
+It makes marketing operations much smoother
+and the result is a highly effective team.
+A standout example that immediately
+comes to mind is our video team.
+From the day I started working at Ahrefs,
+they have not once missed a deadline.
+But deadlines aren't a be all and
+end all of dependable people.
+Our entire video team is directly
+impacted by the invasion in Ukraine.
+And even though I've told them countless times
+that our videos can wait, they all continue to go
+above and beyond despite
+being in a freaking war.
+Frankly speaking, I have never worked
+with a team that's this dependable.
+It says a lot about character and
+plays directly into team dynamics.
+Now, as I'm sure you caught on, hard and
+soft skills tend to complement each other.
+For example, creativity is intertwined
+with copywriting.
+Problem solving helps in SEO and SEO
+helps you become a better problem solver.
+So whether you want to become a better marketing
+leader, get a performance-based raise, or get started
+with your first job in internet marketing, honing
+these skills is going to help you achieve that.
+And I only wish you the best.

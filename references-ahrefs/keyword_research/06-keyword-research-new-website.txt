@@ -1,0 +1,502 @@
+which keywords should you target when
+you're just starting out and can you
+actually rank for them in today's
+keyword research tutorial I'm gonna show
+you how to do keyword research for a
+brand new website stay tuned
+[Music]
+what's up SEO Sam oh here with HFS the
+SEO tool that helps you grow your search
+traffic research your competitors and
+dominate your niche
+now this tutorial isn't full of rainbows
+and butterflies there isn't exactly a
+cookie cutter formula that'll solve all
+of your keyword research woes if you're
+not willing to put in the work or you're
+not willing to pay someone to do it for
+you then don't bother watching this
+video but if you want to get results and
+predictably rank for keywords that are
+going to drive traffic and revenue for
+your business then let's get to it
+so to make this tutorial as actionable
+as possible I wanted a keyword research
+with you in a completely random niche so
+last week I searched for lists of niches
+in google clicked on the first result
+copy the categories down and put them
+into this random wheel spinner I spun
+the wheel dating and relationships
+dating in relationships and here's our
+topic for the day
+alright so the first step is to generate
+keyword ideas using two or three seed
+keywords a seed keyword is usually a
+broad term related to your niche
+generally speaking there'll be one or
+two words long so in our case fitness
+and weight loss would be our seats now
+it's drill down on the idea of seeds
+let's say we had a site on pet care our
+seed keywords might be pet pets dog dogs
+cat cats you get the point now in order
+to research keywords you'll need a
+keyword research tool the two tools I
+recommend our keywords everywhere in HFS
+keywords explore keywords everywhere is
+great because you can get basic keyword
+metrics like search volume and CPC data
+for free so if you're just starting out
+this might be a good tool to try but
+naturally it'll come with some
+limitations HFC keywords explore on the
+other hand has all the bells and
+whistles a massive database of around
+eight billion keywords and will give you
+numerous layers of data that are
+critical for keyword analysis so I'll be
+using that tool for the rest of the
+toriel so let's start by taking our seed
+keywords and enter them in keywords
+Explorer now I'll run the search next
+I'll go to the all keywords report in
+the sidebar and you'll see a massive
+list of 2.6 million keyword ideas now if
+you look at the keywords you'll see that
+a lot of them are irrelevant so I'll
+need to brainstorm a list of keywords
+that are relevant to your seats since
+we're talking about fitness and weight
+loss some words that come to mind for me
+would be diet bodybuilding training
+calorie and dumbbells so let's make a
+note of these on our relevant keywords
+list next look to Google autos chest
+first I'll type in to weight loss you
+know see words like pills smoothies
+foods and programs so let's add these to
+our list too now I'll do the same for
+fitness but it doesn't look like there's
+anything relevant so I'm actually going
+to run the search next I'll scroll to
+the bottom of the page and look at the
+related searches so we have workouts and
+body let's add these to our list too now
+if you find the auto suggestions to be
+helpful that you can get a much larger
+list using the search suggestions report
+in keywords Explorer if we go to that
+report with fitness and weight loss as
+their seeds then you'll see around 2600
+keywords to look through so equipment
+shakes and real plans will be good ones
+to add to our list one last place you
+can look is Google Coralie so I'll
+search for weight loss and now we can
+see some more interesting words like fat
+abs birth weight or protein in fact the
+word abs makes me think of other body
+parts like chest shoulders and legs now
+that we have a list of relevant keywords
+to our seeds let's go back to the all
+keywords report and filter our list down
+to ones we can consider targeting to
+remove a lot of these irrelevant
+keywords let's click on the include
+filter and paste in a comma separated
+list of our relevant keywords I'll also
+set it to show any word which will
+narrow down our list to only keywords
+that contain any of these words and
+we're now down to around a hundred and
+eighty eight thousand keywords from 2.6
+million and as you can see the list
+looks much better alright so rather than
+skimming through a hundred and eighty
+eight thousand keywords we're going to
+start adding additional layers to
+filters to
+even more targeted now generally
+speaking you're going to see three types
+of keywords the first are money terms
+and these will usually be your core
+business drivers they're generally hard
+to rank for it because people don't want
+to link to pages that target these kinds
+of keywords because there's very little
+value add for them and their audiences
+next our keywords around topics that
+generate backlinks the primary goal of
+creating content around these keywords
+isn't about ranking or getting a ton of
+search traffic it's about creating
+content around these linkable topics so
+you can generate as many quality links
+as possible and the goal is to build
+authority to these pages and funnel
+PageRank to other topically relevant
+pages finally our low competition
+keywords these are keywords you can rank
+for without building a ton of Link's
+targeting these keywords are important
+because they'll help you get some search
+traffic faster and slowly start the
+progression of natural link growth now
+at this stage of keyword generation all
+we're trying to do is find as many
+keywords that are relevant to your
+business so for now don't worry about
+keyword analysis because we'll dive deep
+into that later so let's start off by
+finding low competition keywords let's
+go back to where we left off in the all
+keywords report since we still have a
+pretty large pool of keywords let's
+narrow this down to keywords that have
+at least 500 monthly searches much
+better now to find low competition
+topics let's set a keyword difficulty
+filter to a maximum something lowish
+like 20 looking at the keyword list
+you'll see a couple of irrelevant ones
+at the top related to planet fitness
+which are clearly branded corney's so
+let's exclude these from our keyword
+list by clicking on the exclude filter
+and I'll type planet and apply the
+filter since our list looks pretty clean
+the last thing I'm going to do is sort
+the list by parent topic if you're
+unfamiliar with parent topic it
+determines if you can rank for your
+target keyword while targeting a more
+general topic instead for example rather
+than creating a post on what is the best
+diet for me and then another one on best
+diet for me
+the parent topic is telling us that we
+really only need to create one post and
+we could rank for both keywords as a
+result now before you go off and start
+targeting only parent topics
+take note that if the parent topic is
+different from the quarry in the keyword
+column then you should check its keyword
+difficulty scores too for example the
+keyword whey protein for weight loss has
+a KD of 13 but if we click on the parent
+topic whey protein you'll see that it
+has a much higher keyword difficulty
+score so what should you do that'll
+depend on what you see in your keyword
+analysis which again we'll dive into
+later so for now I'll quickly sift
+through this list and rather than
+analyzing every keyword I'm just going
+to add a checkmark beside the ones that
+seem like interesting topics to create
+content around after I've gone through
+the first page I'll scroll back to the
+top to create a list let's call this one
+weight loss low competition then go
+through the remaining pages until you're
+satisfied with the number of keyword
+ideas next let's fill our second bucket
+of keywords with potentially linked bait
+worthy topics again the purpose of these
+pages is to get quality backlinks so you
+can build Authority to your pages and
+pass PageRank by linking internally to
+your other pages this will help you rank
+your low competition pages money pages
+or both so the way we're gonna discover
+these keywords is by finding pages that
+have already generated a ton of links
+reverse-engineer why they might have had
+such great success and then take that
+angle but create better content for some
+skyscraper styled link building so let's
+start by entering some seed keywords and
+keywords explorable
+next I'll go to the phrase match report
+to find keywords that contain our seed
+keywords in the order they're written
+now we're actually gonna do the opposite
+of what we did for low competition
+keywords we're gonna set a minimum
+keyword difficulty score to something
+high like 70 and the reason we're doing
+this is because hsq are difficult to
+score is calculated by taking a weighted
+average of the number of referring
+domains pointing at the top ranking
+pages meaning the higher the KD score
+the more links there are pointing at the
+top 10 pages and I can't take credit for
+this little hack this is something that
+Gale Breton from Authority hacker shared
+with me at a conference last year so
+thank you again I'm going to sort this
+keyword list by parent topic to group
+our list of potential link bait topics
+together now to remove some of the ultra
+longtail keywords in this list I'm gonna
+set a filter to only show keywords with
+at least a hundred monthly searches
+rather than scanning two keyword ideas
+column I'm going to scan the parent
+topic column and that's because we're
+looking for topics to create link worthy
+pieces on rather than keywords to target
+for example we could create a tool
+that's a weight loss calculator and
+you'll see below are a bunch of brand
+new queries that we probably won't go
+after so I'll go to the next page then
+we see a couple topics on losing weight
+and losing weight fast based on the surf
+for this topic a well research guide
+with a case study might work well to
+generate links now looking further we
+have the parent topic of fitness tracker
+and based on the keyword ideas under
+this parent topic
+I'm guessing this has something to do
+with fitness tracker reviews and
+comparisons now since most affiliates
+aren't actually buying the products
+testing them in reporting back that's
+something I might do to gain a bit of an
+edge and have plenty of link prospects
+to reach out to now in terms of the SEO
+strategy that goes along with these link
+beat style pages I'll link up our video
+on the middleman method in the
+description so you can carry this out to
+completion
+finally our finding money terms now
+money terms will vary depending on the
+nature of your business for example an
+ecommerce store might want to rank for
+keywords that have transactional intent
+like by product name and an affiliate
+site might want to rank for queries that
+include words like best top comparison
+verses or review so assuming our fitness
+and weight loss website monetizes
+through affiliate commissions I'll go to
+a filter list version of the phrase
+match report and add those keywords in
+the include filter I'll also want to set
+the option to any word so I can see all
+phrases that mention any of these words
+and just like that I have a massive list
+of keywords that will be easy plugs for
+affiliate products like best fitness
+tracker best fitness watch and more from
+here you can create your own combination
+of filters to target low competition
+keywords keywords with decent search
+volume or both again sift through the
+list add check marks to anything that
+interests you and create a new list I'll
+call this list weight lost money
+keywords at this point you should have a
+ton of keyword ideas but not all them
+will be worth going after so let's move
+on to the next step which is to identify
+search intent for each of the keywords
+on your list
+search intent basically means the reason
+behind the search is courting and here's
+a rule to follow what doing SEO if you
+can't match what searchers want then
+don't go after that keyword the easiest
+way to identify search intent is to look
+at the top 10 ranking pages for your
+target keyword most of the time you'll
+notice that all or most pages follow the
+same content format and type for example
+looking at the top 3 results for how to
+lose weight you can tell just by reading
+the titles that all the pages are
+informational blog posts if you have a
+blog and can write a guide on losing
+weight then yes you can fulfill search
+intent whereas a quarry like fitness
+equipment shows product and category
+pages for e-commerce stores if you don't
+have an e-commerce store then don't
+bother going after this quarry because
+you won't be able to match search intent
+there's no proven trick around this and
+it literally takes 10 seconds to do so
+do it for all keywords that you're
+interested in going after and make a
+known assertion 10 now if you set up a
+list in keywords Explorer like I did
+earlier than instead of googling every
+single keyword you can just click on the
+search button to see the top 10 ranking
+pages and in first search intent from
+the titles this brings us to the next
+step which is to assess ranking
+difficulty now SEO and ranking on Google
+is like a game certain levels are easy
+to beat and others require you to level
+up before you can beat the bigger bosses
+for example if you couldn't see the
+health bar for your opponents then you'd
+have no idea what it would take to win
+in the same way you need to know who
+you're up against so you'll know what it
+takes to rank them and for that reason
+you need SEO metrics to create some sort
+of predictability in ranking the way we
+assess ranking difficulty is by
+analyzing the SEO metrics of the top 10
+ranking pages now there are three things
+you need to look at first are the number
+of referring domains which are unique
+websites linking to the page second is
+the authority of the ranking domains and
+third is topical relevance of the top
+ranking pages and websites let's run
+through some examples here if we look at
+the syrup for weight loss workout for
+men you'll see that there aren't a whole
+lot of unique websites linking to the
+pages in fact this one here has zero
+links yet ranks pretty high not bad on
+that front
+next is to look at the authority of the
+ranking domains and we can do this by
+using the dr or domain rating metric
+which represents the overall strength of
+a website's backing profile looking
+through the results you'll see these two
+with lowest domain ratings at 34 which
+have managed to rank pretty high in the
+organic search results and with a little
+bit of link building they can probably
+be out right finally we'll look at the
+relevance of the top ranking pages as
+well as their domains as a whole just by
+looking at the domain names you can tell
+that all of them are related to health
+and fitness so overall the top pages
+come from relevant domains now when
+you're looking at topical relevance of
+the page we're focusing on a bit of the
+on-page SEO part and oftentimes the
+title will give us enough context on
+whether they've optimized for your
+target keyword generally speaking people
+tend to use their primary keyword in the
+title or a modified version of it and it
+looks like only results number three and
+for doing that which also happened to be
+from the lower authority domain so as a
+new or developing website this might be
+an opportunity to leverage specificity
+and generate more clicks by speaking to
+the target audience so in my opinion it
+wouldn't be too difficult to rank in the
+top five for this keyword if a you have
+a topically relevant domain B you can
+get some quality backlinks to your page
+from different websites and see your
+pages targeted specifically at men the
+last layer to look at here is the
+traffic column looking at the top of the
+irrelevant pages for our target keyword
+you'll see that this page gets around
+2,000 monthly search visits from the US
+alone use these numbers to make informed
+decisions on whether ranking your page
+will be worth your time money and effort
+in my opinion this one is worth the
+perceived effort now if we were to do
+this for another one of our so called
+low competition topics like weight loss
+workouts for women then we'll come up
+with a slightly different analysis for
+the most part they seem to have double
+digit referring domains they all come
+from highly authoritative websites in
+topical relevance of the pages are quite
+high for example you'll see that the
+first two results from self calm and
+shape com don't have mentions of women's
+but these two websites create content
+that's mostly targeted at women
+and these two articles are no different
+the next result from LIVESTRONG is
+clearly about workouts for women than
+the one from bodybuilding calm doesn't
+appear to be targeted at a specific
+gender but when you look at the content
+you'll see that the writer wrote it for
+women by saying but for some reason when
+we women decide it's time to lose fat
+bla bla bla so all things considered
+this may not be as easy of a keyword to
+rank for considering the current
+competition in the top ten but looking
+at the global traffic potential you
+might think that getting somewhere in
+the ballpark range of 10,000 monthly
+search visits will be well worth the
+work this is why it's important you
+analyze every single topic before you
+start creating content if you're going
+to spend hours writing a new piece or
+spend hundreds or thousands of dollars
+for production then it's important to
+know what you're getting yourself into
+now after you've qualified your target
+keywords and you're ready to start
+writing there's one last piece two
+keyword research that I highly recommend
+and that's to extract subtopics based on
+the keyword rankings from the top five
+relevant pages by looking at the keyword
+rankings for the top pages you can
+essentially get clues of related
+subtopics you should include in your
+post so using the example of weight loss
+workouts for women I'll click through on
+the keywords number to see the pages
+organic rankings to keep things relevant
+I'll set a filter to only show keywords
+that rank in positions one through five
+now it's important to note that this
+step isn't about stuffing keywords in
+your post instead use it to form an
+angle for your post and extract
+subtopics that you should cover
+throughout your content for example
+you'll see that people searching for
+this are likely beginners they want a
+routine for the gym and an interesting
+angle to take might be to create it as a
+one week workout plan take all these
+points create an outline and you'll have
+a data-driven way to create your content
+as you can see keyword research isn't
+rocket science but it's a process and
+there's a ton of different ways to do it
+so I highly recommend digging through
+some of our other keyword research
+tutorials on topics like longtail
+keywords and mapping keywords to your
+sales funnel and before we wrap this up
+make sure to like share and subscribe
+for more actionable SEO and marketing
+tutorials like
+and if you have any questions on keyword
+research leave one in the comments below
+and I'd be happy to help
+so keep running away and I'll see you in
+the next tutorial

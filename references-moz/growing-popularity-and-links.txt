@@ -1,0 +1,487 @@
+#### Table of Contents:
+
+[1\. Introduction](https://moz.com/beginners-guide-to-seo) [2\. Quick Start Guide to SEO](https://moz.com/beginners-guide-to-seo/quick-start-guide) [3\. SEO 101](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary) [4\. How Search Engines Work: Crawling, Indexing, and Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate) [5\. Keyword Research](https://moz.com/beginners-guide-to-seo/keyword-research) [6\. On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo) [7\. Technical SEO](https://moz.com/beginners-guide-to-seo/technical-seo)
+
+[8\. Link Building & Establishing Authority](https://moz.com/beginners-guide-to-seo/growing-popularity-and-links)
+
+[9\. Measuring, Prioritizing, & Executing SEO Success](https://moz.com/beginners-guide-to-seo/measuring-and-tracking-success) [10\. SEO Glossary of Terms](https://moz.com/beginners-guide-to-seo/seo-glossary)
+
+##### Share
+
+  *   *   *   * Copied!
+
+## Link Building & Establishing Authority
+
+### Turn up the volume
+
+You've created content that people are searching for, that answers their questions, and that search engines can understand, but those qualities alone don't mean it'll rank. To outrank the rest of the sites with those qualities, you have to establish authority. That can be accomplished by earning links from authoritative websites, building your brand, and nurturing an audience who will help amplify your content.
+
+Google has [confirmed](https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) that links and quality content (which we covered back in [Chapter 4](/beginners-guide-to-seo/on-page-seo)) are two of the three most important ranking factors for SEO. Trustworthy sites tend to link to other trustworthy sites, and spammy sites tend to link to other spammy sites.
+
+But what is a link, exactly? How do you go about earning them from other websites? Let's start with the basics.
+
+### What's that word mean?
+
+There's a lot to remember when it comes to the wide world of link building. Check out more definitions for this section in the SEO glossary.
+
+[ See Chapter 6 definitions  ](/beginners-guide-to-seo/seo-glossary#chapter6)
+
+## What are links?
+
+**Inbound links** , also known as [backlinks](/learn/seo/backlinks) or [external links](/learn/seo/external-link), are HTML hyperlinks that point from one website to another. They're the currency of the Internet, as they act a lot like real-life reputation. If you went on vacation and asked three people (all completely unrelated to one another) what the best coffee shop in town was, and they all said, "Cuppa Joe on Main Street," you would feel confident that Cuppa Joe is indeed the best coffee place in town. Links do that for search engines.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-01-v3.svg?dm=1553886588)
+
+Since the late 1990s, search engines have treated links as votes for popularity and importance on the web.
+
+[**Internal links**](/learn/seo/internal-link), or links that connect internal pages of the same domain, work very similarly for your website. A high amount of internal links pointing to a particular page on your site [will provide a signal to Google](/blog/should-seos-care-about-internal-links-whiteboard-friday) that the page is important, so long as it's done naturally and not in a spammy way.
+
+The engines themselves have refined the way they view links, now using algorithms to evaluate sites and pages based on the links they find. But what's in those algorithms? How do the engines evaluate all those links? It all starts with the concept of E-E-A-T.
+
+### Build better links
+
+Want a deep-dive on link building for beginners? We have just the thing: the [Beginner's Guide to Link Building](https://moz.com/beginners-guide-to-link-building). Check it out and build some great links!
+
+[ Read the guide  ](https://moz.com/beginners-guide-to-link-building)
+
+## You are what you E-E-A-T
+
+Google's [Search Quality Rater Guidelines](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) put a great deal of importance on the [concept of E-E-A-T](/learn/seo/google-eat) — an acronym for experience, expertise, authoritativeness, and trustworthiness. Sites that don't display these characteristics tend to be seen as lower-quality in the eyes of the engines, while those that do are subsequently rewarded. E-E-A-T is becoming more and more important as search evolves and increases the importance of solving for [user intent](/learn/seo/search-intent).
+
+Creating a site that's considered expert, authoritative, and trustworthy should be your guiding light as you practice SEO. Not only will it simply result in a better site, but it's future-proof. After all, providing great value to searchers is what Google itself is trying to do.
+
+### What is user intent?
+
+"User intent" refers to the driving reason behind a searcher's query. A search for "puppy" doesn't have a strong intent — are they looking for pictures? Facts about breeds? Care information? On the other hand, a search for "puppy training in Seattle, WA" has a very strong intent: this user wants to train their puppy, they're probably looking for help in Seattle, and they may wish to sign up for a class. Try to craft content that satisfies your searchers' intent.
+
+[ Learn more about user intent  ](/learn/seo/search-intent)
+
+### E-E-A-T and links to your site
+
+The more popular and important a site is, the more weight the links from that site carry. A site like Wikipedia, for example, has thousands of diverse sites linking to it. This indicates it provides lots of expertise, has cultivated authority, and is trusted among those other sites.
+
+To earn trust and authority with search engines, you'll need links from websites that display the qualities of E-E-A-T. These don't have to be Wikipedia-level sites, but they should provide searchers with credible, trustworthy content.
+
+Moz has proprietary metrics to help you determine how authoritative a site is: [Domain Authority](/learn/seo/domain-authority), [Page Authority](/learn/seo/page-authority), and [Spam Score](/help/link-explorer/link-building/spam-score). In general, you'll want links from sites with a higher Domain Authority than your sites.
+
+## Followed vs. nofollowed links
+
+Remember how links act as votes? The rel=nofollow attribute (pronounced as two words, "no follow") allows you to link to a resource while removing your "vote" for search engine purposes.
+
+Just like it sounds, "nofollow" tells search engines not to follow the link. Some engines still follow them simply to discover new pages, but these links don't pass link equity (the "votes of popularity" we talked about above), so they can be useful in situations where a page is either linking to an untrustworthy source or was paid for or created by the owner of the destination page (making it an unnatural link).
+
+Say, for example, you write a post about link building practices, and want to call out an example of poor, spammy link building. You could link to the offending site without signaling to Google that you trust it.
+
+Standard links (ones that haven't had nofollow added) look like this:
+
+    <a href="">I love Moz</a>
+
+Nofollow link markup looks like this:
+
+    <a href="" rel="nofollow">I love Moz</a>
+
+### If follow links pass all the link equity, shouldn't that mean you want _only_ follow links?
+
+Not necessarily. Think about all the legitimate places you can create links to your own website: a Facebook profile, a Yelp page, a Twitter account, etc. These are all natural places to add links to your website, but they shouldn't count as votes for your website. (Setting up a Twitter profile with a link to your site isn't a vote from Twitter that they like your site.)
+
+It's natural for your site to have a balance between nofollowed and followed backlinks in its link profile (more on link profiles below). A nofollow link might not pass authority, but it could send valuable traffic to your site and even lead to future followed links.
+
+Use the MozBar extension for Google Chrome to highlight links on any page to find out whether they're nofollow or follow without ever having to view the source code!
+
+[ Download the MozBar  ](/products/pro/seo-toolbar)
+
+## Your link profile
+
+Your link profile is an overall assessment of all the inbound links your site has earned: the total number of links, their quality (or spamminess), their diversity (is one site linking to you hundreds of times, or are hundreds of sites linking to you once?), and more. The state of your link profile helps search engines understand how your site relates to other sites on the Internet. There are various SEO tools that allow you to analyze your link profile and begin to understand its overall makeup.
+
+[![](https://moz.com/images/learn/Learn-CTAs/John-Varghese-Try-Link-Explorer.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760467213&s=bc104910782552b0f70dca8cd9fe0cf7)](/link-explorer)
+
+### What are the qualities of a healthy link profile?
+
+When people began to learn about the power of links, they began manipulating them for their benefit. They'd find ways to gain artificial links just to increase their search engine rankings. While these dangerous tactics can sometimes work, they are against Google's terms of service and can get a website deindexed (removal of web pages or entire domains from search results). **You should always try to maintain a healthy link profile.**
+
+A healthy link profile is one that indicates to search engines that you're earning your links and authority fairly. Just like you shouldn't lie, cheat, or steal, you should strive to ensure your link profile is honest and earned via good, old-fashioned hard work.
+
+#### Links are earned or editorially placed
+
+Editorial links are links added naturally by sites and pages that want to link to your website.
+
+The foundation of acquiring earned links is almost always through creating high-quality content that people genuinely wish to reference. This is where creating [10X content](/blog/why-good-unique-content-needs-to-die-whiteboard-friday) (a way of describing extremely high-quality content) is essential! If you can provide the best and most interesting resource on the web, people will naturally link to it.
+
+Naturally earned links require no specific action from you, other than the creation of worthy content and the ability to create awareness about it.
+
+### Earned mentions are often unlinked!
+
+When websites are referring to your brand or a specific piece of content you've published, they will often mention it without linking to it. To find these earned mentions, head to Google and do a site: search for your brand, product, name, etc. within quotes and analyze the first few pages of results for opportunities. You can then reach out to those publishers to see if they'll update those mentions with links.
+
+[ Learn more ways to earn backlinks  ](https://moz.com/blog/how-to-get-backlinks)
+
+#### Links are relevant and from topically similar websites
+
+Links from websites within a topic-specific community are generally better than links from websites that aren't relevant to your site. If your website sells dog houses, a link from the Society of Dog Breeders matters much more than one from the Roller Skating Association. Additionally, links from topically irrelevant sources can send confusing signals to search engines regarding what your page is about.
+
+Linking domains don't have to match the topic of your page exactly, but they should be related. Avoid pursuing backlinks from sources that are completely off-topic; there are far better uses of your time.
+
+#### Anchor text is descriptive and relevant, without being spammy
+
+[Anchor text](/learn/seo/anchor-text) helps tell Google what the topic of your page is about. If dozens of links point to a page with a variation of a word or phrase, the page has a higher likelihood of ranking well for those types of phrases. However, proceed with caution! Too many backlinks with the same anchor text could indicate to the search engines that you're trying to manipulate your site's ranking in search results.
+
+Consider this. You ask ten separate friends at separate times how their day was going, and they each responded with the same phrase:
+
+> "Great! I started my day by walking my dog, Peanut, and then had a picante beef Top Ramen for lunch."
+
+That's _strange_ , and you'd be quite suspicious of your friends. The same goes for Google. Describing the content of the target page with the anchor text helps them understand what the page is about, but the same description over and over from multiple sources starts to look suspicious. Aim for relevance; avoid spam.
+
+Use the "Anchor Text" report in [Moz's Link Explorer](/link-explorer) to see what anchor text other websites are using to link to your content.
+
+#### Links send qualified traffic to your site
+
+Link building should never be solely about search engine rankings. Esteemed SEO and link building thought leader [Eric Ward](https://www.ericward.com/) used to say that you should build your links as though Google might disappear tomorrow. In essence, you should focus on acquiring links that will bring qualified traffic to your website — another reason why it's important to acquire links from relevant websites whose audience would find value in your site, as well.
+
+Use the "Referral Traffic" report in Google Analytics to evaluate websites that are currently sending you traffic. How can you continue to build relationships with similar types of websites?
+
+### Link building don'ts & things to avoid
+
+Spammy link profiles are just that: full of links built in unnatural, sneaky, or otherwise low-quality ways. Practices like buying links or engaging in a link exchange might seem like the easy way out, but doing so is dangerous and could put all of your hard work at risk. [Google penalizes sites with spammy link profiles](/blog/rules-of-link-building), so don't give in to temptation.
+
+A guiding principle for your link building efforts is to never try to manipulate a site's ranking in search results.
+
+_But isn't that the entire goal of SEO? To increase a site's ranking in search results?_ And herein lies the confusion. Google wants you to earn links, not build them, but the line between the two is often blurry. To avoid penalties for unnatural links (known as "link spam"), Google has made clear what should be avoided.
+
+#### 🚫 Purchased links
+
+Google and Bing both seek to discount the influence of paid links in their organic search results. While a search engine can't know which links were earned vs. paid for from viewing the link itself, there are clues it uses to detect patterns that indicate foul play. Websites caught buying or selling followed links risk severe penalties that will severely drop their rankings. (By the way, exchanging goods or services for a link is also a form of payment and qualifies as buying links.)
+
+#### 🚫 Link exchanges / reciprocal linking
+
+If you've ever received a "you link to me and I'll link to you" email from someone you have no affiliation with, you've been targeted for a link exchange. Google's quality guidelines caution against "excessive" link exchange and similar partner programs conducted exclusively for the sake of cross-linking, so there is some indication that this type of exchange on a smaller scale might not trigger any link spam alarms.
+
+It is acceptable, and even valuable, to link to people you work with, partner with, or have some other affiliation with and have them link back to you.
+
+It's the exchange of links at mass scale with unaffiliated sites that can warrant penalties.
+
+#### 🚫 Low-quality directory links
+
+These used to be a popular source of manipulation. A large number of pay-for-placement web directories exist to serve this market and pass themselves off as legitimate, with varying degrees of success. These types of sites tend to look very similar, with large lists of websites and their descriptions (typically, the site's critical keyword is used as the anchor text to link back to the submittor's site).
+
+There are [many more manipulative link building tactics](https://support.google.com/webmasters/answer/66356?hl=en) that search engines have identified. In most cases, they have found algorithmic methods for reducing their impact. As new spam systems emerge, engineers will continue to fight them with targeted algorithms, human reviews, and the collection of spam reports from webmasters and SEOs. By and large, it isn't worth finding ways around them.
+
+If your site does get a manual penalty, there are [steps you can take to get it lifted](/blog/ultimate-guide-to-google-penalty-removal).
+
+## Links should always:
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-02-earned-editorial.svg?dm=1553128561)
+
+#####
+
+Be earned/editorial
+
+####
+
+##### Be earned/editorial
+
+It's called "earning" links for a reason: they should never be bought, traded, or otherwise self-created.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-03-authoritative-pages.svg?dm=1553201218)
+
+#####
+
+Come from authoritative pages
+
+####
+
+##### Come from authoritative pages
+
+Try to ensure you earn links from authoritative sources, rather than low-quality ones.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-04-increase-with-time.svg?dm=1553201366)
+
+#####
+
+Increase with time
+
+####
+
+##### Increase with time
+
+The amount of earned links should increase over time, rather than be created in bulk once and never grown again.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-05-topically-relevant-sources.svg?dm=1553128893)
+
+#####
+
+Come from topically relevant sources
+
+####
+
+##### Come from topically relevant sources
+
+Try not to earn links from sources that don’t match your page’s topic.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-06-relevant-anchor-text.svg?dm=1553129055)
+
+#####
+
+Use relevant, natural anchor text
+
+####
+
+##### Use relevant, natural anchor text
+
+It's the rule of law in modern SEO: don't keyword-stuff!
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-07-bring-qualified-traffic.svg?dm=1553129138)
+
+#####
+
+Bring qualified traffic to your site
+
+####
+
+##### Bring qualified traffic to your site
+
+Links exist for people to use, not just search engines. Earn links that will send high-quality visitors to your page, not ones that will sit there and never be clicked.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-08-mix-of-follow-nofollow.svg?dm=1553201619)
+
+#####
+
+Be a healthy mix of follow and nofollow
+
+####
+
+##### Be a healthy mix of follow and nofollow
+
+Healthy link profiles include both follow links and legitimate nofollow links.
+
+![](https://moz.com/files/learn/guides/Moz-BGSEO-Ch6-09-strategically-targeted.svg?dm=1553201655)
+
+#####
+
+Be strategically targeted or naturally earned
+
+####
+
+##### Be strategically targeted or naturally earned
+
+Links should be thoughtfully given, not automatically generated.
+
+## Find link building opportunities at scale
+
+**with Moz Link Explorer**
+
+[ Build backlinks with ease ](/link-explorer)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Link-Building.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855256&s=a826947148cebce23a61b6b6f0fee078)
+
+## How to build high-quality backlinks
+
+Link building comes in many shapes and sizes, but one thing is always true: link campaigns should always match your unique goals. With that said, there are some popular methods that tend to work well for most campaigns. This is not an exhaustive list, so visit [Moz's blog posts on link building](/blog/category/link-building) for more detail on this topic.
+
+### Find customer and partner links
+
+If you have partners you work with regularly, or loyal customers that love your brand, there are ways to earn links from them with relative ease. You might send out partnership badges (graphic icons that signify mutual respect), or offer to write up testimonials of their products. Both of those offer things they can display on their website along with links back to you.
+
+### Publish a blog
+
+This content and link building strategy is so popular and valuable that it's one of the few recommended personally by the engineers at Google. Blogs have the unique ability to contribute fresh material on a consistent basis, generate conversations across the web, and earn listings and links from other blogs.
+
+Careful, though — you should avoid low-quality guest posting just for the sake of link building. Google has advised against this and your energy is better spent elsewhere.
+
+### Create unique resources
+
+Creating unique, high-quality resources is no easy task, but it's well worth the effort. High quality content that is promoted in the right ways can be widely shared. It can help to create pieces that have the following traits:
+
+  * Elicits strong emotions (joy, sadness, etc.)
+  * Something new, or at least communicated in a new way
+  * Visually appealing
+  * Addresses a timely need or interest
+  * Location-specific (example: [the most searched-for halloween costumes by state](https://frightgeist.withgoogle.com/)).
+
+Creating a resource like this is a great way to attract a lot of links with one page. You could also create a highly-specific resource — without as broad of an appeal — that targeted a handful of websites. You might see a higher rate of success, but that approach isn't as scalable.
+
+Users who see this kind of unique content often want to share it with friends, and bloggers/tech-savvy webmasters who see it will often do so through links. These high-quality, editorially earned votes are invaluable to building trust, authority, and rankings potential.
+
+### Build resource pages
+
+Resource pages are a great way to build links. However, to find them you'll want to know some [advanced Google operators](/learn/seo/search-operators) to make discovering them a bit easier.
+
+For example, if you were doing link building for a company that made pots and pans, you could search for:
+
+    cooking intitle:"resources"
+
+...and see which pages might be good link targets.
+
+This can also give you great ideas for content creation — just think about which types of resources you could create that these pages would all like to reference and link to.
+
+### Use advanced search operators in Google
+
+From content research to plagiarism checks to technical audits and beyond, using advanced Google search operators can power up your SEO research.
+
+[ Learn more  ](/learn/seo/search-operators)
+
+### Get involved in your local community
+
+For a local business (one that meets its customers in person), community outreach can result in some of the most valuable and influential links.
+
+  * Engage in sponsorships and scholarships
+  * Host or participate in community events, seminars, workshops, and organizations
+  * Donate to worthy local causes and join local business associations
+  * Post jobs and offer internships
+  * Promote loyalty programs
+  * Run a local competition
+  * Develop real-world relationships with related local businesses to discover how you can team up to improve the health of your local economy
+
+All of these smart and authentic strategies provide good local link opportunities.
+
+### Link building for local SEO
+
+Building linked unstructured citations — references to a business' contact information on a non-directory platform, like a blog or a news site — is important for moving the ranking needle for local SEO. It's also a great way to earn valuable links when you're marketing a local business. Learn more in our guide:
+
+[ Follow the tutorial  ](/blog/linked-unstructured-citations)
+
+### Refurbish top content
+
+You likely already know which of your site's content earns the most traffic, converts the most customers, or retains visitors for the longest amount of time.
+
+Take that content and [refurbish it for other platforms](/blog/refurbishing-top-content-whiteboard-friday) (Slideshare, YouTube, Instagram, Quora, etc.) to expand your acquisition funnel beyond Google.
+
+You can also dust off, update, and simply republish older content on the same platform. If you discover that a few trusted industry websites all linked to a popular resource that's gone stale, update it and let those industry websites know — you may just earn a good link.
+
+You can also [do this with images](/blog/image-link-building). Reach out to websites that are using your images and not citing you or linking back to you and ask if they'd mind including a link.
+
+### Be newsworthy
+
+Earning the attention of the press, bloggers, and news media is an effective, time-honored way to earn links. Sometimes this is as simple as giving something away for free, releasing a great new product, or stating something controversial. Since so much of SEO is about creating a digital representation of your brand in the real world, to succeed in SEO, you have to be a great brand.
+
+### Be personal and genuine
+
+The most common mistake new SEOs make when trying to build links is not taking the time to craft a custom, personal, and valuable initial outreach email. You know as well as anyone how annoying spammy emails can be, so make sure yours doesn't make people roll their eyes.
+
+Your goal for an initial outreach email is simply to get a response. These tips can help:
+
+  * Make it personal by mentioning something the person is working on, where they went to school, their dog, etc.
+  * Provide value. Let them know about a broken link on their website or a page that isn't working on mobile.
+  * Keep it short.
+  * Ask one simple question (typically not for a link; you'll likely want to build a rapport first).
+
+### Earning links is resource-intensive, so measure your success to prove value
+
+Metrics for link building should match up with the site's overall KPIs. These might be sales, email subscriptions, page views, etc. You should also evaluate Domain Authority and/or Page Authority scores, the ranking of desired keywords, and the amount of traffic to your content. We'll talk more about measuring the success of your SEO campaigns [in Chapter 7](/beginners-guide-to-seo/measuring-and-tracking-success).
+
+## Measuring and improving your link efforts
+
+So far, we've gone over the importance of earning quality links to your site over time, as well as some common tactics for doing so. Now, we’ll cover ways to measure the returns on your link building investment and strategies for sustaining quality backlink growth over time.
+
+### Total number of links
+
+The most direct way to measure your link building efforts is by tracking the growth of total links to your site or page. Moz’s [Link Explorer](/link-explorer) is a great tool for doing that. For example, say you recently published a blog post that received a lot of attention and you want to track total links that resource earned.
+
+Pop the URL into Link Explorer…
+
+![A screenshot of the Link Explorer main page.](https://moz.com/images/learn/guides/BGSEOAsset-42.png?auto=compress%2Cformat&fit=crop&dm=1554097927&s=d713a52a5b2354e4a7b604f3b2e93926)
+
+And then select "linking domains" from the "metrics over time" section to see month-over-month link growth.
+
+![A screenshot of the Metrics Over Time graph in Link Explorer.](https://moz.com/images/learn/guides/BGSEOAsset-43.png?auto=compress%2Cformat&fit=crop&dm=1554097963&s=4b09d939a06ae7d55ef6dbb4f6457edd)
+
+You could also do this with a root domain, subdomain, or a specific page.
+
+### A note on link cleanup
+
+Some SEOs not only need to build good links, but need to get rid of bad ones as well. If you’re performing link cleanup while simultaneously building good links, just keep in mind that a stagnating or declining "linking domains over time" graph is completely normal. You might also want to check out Link Explorer’s "Discovered and Lost" tool to keep track of exactly which links you’ve gained and lost.
+
+[ See your discovered and lost links  ](/link-explorer)
+
+If you didn’t see the number of backlinks come in that you were aiming for, all hope is not lost! Each link building campaign is something you can learn from. If you want to improve the total links you earn for your next campaign, consider these questions:
+
+#### Did you create content that was 10x better than anything else out there?
+
+It’s possible that the reason your link building efforts fell flat is that your content wasn’t substantially more valuable than anything else like it. Take a look back at the pages ranking for that term you’re targeting and see if there’s anything else you could do to improve.
+
+#### Did you promote your content? How?
+
+Promotion is perhaps one of the most difficult aspects of link building, but letting people know about your content and convincing them to link to you is what’s really going to move the needle. For great tips on content promotion, visit [Chapter 7 of our Beginner's Guide to Content Marketing](/beginners-guide-to-content-marketing/content-promotion).
+
+#### How many links do you actually need?
+
+Consider how many backlinks you might actually need to rank for the keyword you were targeting. In Keyword Explorer’s "SERP Analysis" report, you can view the pages that are ranking for the term you're targeting, as well as how many backlinks those URLs have. This will give you a good benchmark for determining how many links you actually need in order to compete and which websites might be a good link target.
+
+#### What was the quality of the links you received?
+
+One link from a very authoritative source is more valuable than ten from low-quality sites, so keep in mind that quantity isn’t everything. When targeting sites for backlinks, you can prioritize by how authoritative they are using Domain Authority and Page Authority metrics.
+
+[![](https://moz.com/images/learn/Learn-CTAs/Will-Critchlow-Try-Link-Explorer.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760466404&s=323838f945b2817cd403c9615a32073a)](/link-explorer)
+
+## Beyond links: How awareness, amplification, and sentiment impact authority
+
+A lot of the methods you'd use to build links will also indirectly build your brand. In fact, you can view link building as a great way to increase awareness of your brand, the topics on which you're an authority, and the products or services you offer. We know that brands matter online _and_ in the real world, but it can be a challenge to untangle the relationship between the value of a brand and search engine results. Google defines “quality backlink” based on a site’s content, the content creator’s expertise, experience, authority, and trustworthiness, and the company or people behind it. Fortunately, you can measure the strength of your brand with the Moz metric [Brand Authority](https://moz.com/learn/seo/brand-authority)™. This metric will provide you with insight into the authority of your brand, your competitive landscape, and potential growth opportunities.
+
+## How strong is your brand?
+
+**Calculate your Brand Authority with precision in Moz Pro**
+
+[ Show my Brand Authority ](/checkout/freetrial/signup/pro_medium/monthly)
+
+![](https://moz.com/images/assets/CTAs/Illustrations/Brand-Authority.png?w=290&h=200&auto=compress%2Cformat&fit=crop&dm=1733855247&s=2c27f56ed1dc6bff92f3e0d86467f8d7)
+
+## Why Should SEOs Measure Brand? - Whiteboard Friday
+
+![](https://fast.wistia.com/embed/medias/04xba5hb0g/swatch)
+
+Learn about why SEOs should measure brand in Tom Capper's Whiteboard Friday.
+
+Once your target audience is familiar with you and you have valuable content to share, let your audience know about it! Sharing your content on social platforms will not only make your audience aware of your content, but it can also encourage them to amplify that awareness to their own networks, thereby extending your own reach.
+
+Are social shares the same as links? No. But shares to the right people can result in links. Social shares can also promote an increase in traffic and new visitors to your website, which can grow brand awareness, and with a growth in brand awareness can come a growth in trust and links. The connection between social signals and rankings seems indirect, but even indirect correlations can be helpful for informing strategy.
+
+### Trustworthiness goes a long way
+
+For search engines, trust is largely determined by the quality and quantity of the links your domain has earned, but that's not to say that there aren't other factors at play that can influence your site's authority. Think about all the different ways you come to trust a brand:
+
+  * Awareness (you know they exist)
+  * Helpfulness (they provide answers to your questions)
+  * Integrity (they do what they say they will)
+  * Quality (their product or service provides value, possibly more than others you've tried)
+  * Continued value (they continue to provide value even after you've gotten what you needed)
+  * Voice (they communicate in unique, memorable ways)
+  * Sentiment (others have good things to say about their experience with the brand)
+
+That last point is what we're going to focus on here. Reviews of your brand, its products, or its services can make or break a business.
+
+In your effort to establish authority from reviews, follow these review rules of thumb:
+
+  * Never pay any individual or agency to create a fake positive review for your business or a fake negative review of a competitor.
+  * Don't review your own business or the businesses of your competitors. Don't have your staff do so, either.
+  * Never offer incentives of any kind in exchange for reviews.
+  * All reviews must be left directly by customers in their own accounts; never post reviews on behalf of a customer or employ an agency to do so.
+  * Don't set up a review station/kiosk in your place of business; many reviews stemming from the same IP can be viewed as spam.
+  * Read the guidelines of each review platform where you're hoping to earn reviews.
+
+Be aware that review spam is a problem that's taken on global proportions, and that violation of governmental truth-in-advertising guidelines has led to legal prosecution and heavy fines. It's just too dangerous to be worth it. Playing by the rules and offering exceptional customer experiences is the winning combination for building both trust and authority over time.
+
+Authority is built when brands are doing great things in the real-world, making customers happy, creating and sharing great content, and earning links from reputable sources.
+
+## Try Link Explorer free
+
+[![](https://moz.com/images/learn/Learn-CTAs/Lily-Ray-Try-Link-Explorer-1.png?w=1920&h=500&auto=compress%2Cformat&fit=crop&dm=1760466668&s=7403b3485dd1e79742d4f456dfb0c81c)](/link-explorer)
+
+#####
+
+In the next and final section, you'll learn how to measure the success of all your efforts, as well as tactics for iterating and improving upon them. To [Chapter 7 (Measuring, Prioritizing, & Executing SEO)](/beginners-guide-to-seo/measuring-and-tracking-success)!
+
+* * *
+
+Written by [Britney Muller](/community/users/514135) and the Moz Staff.
+
+* * *
+
+#### Scale revenue from SEO with Moz Pro
+
+Get started with the all-in-one SEO tool marketers trust
+
+[ Start your free trial ](/checkout/freetrial/signup/pro_medium/monthly?utm_campaign=scalerevenue&utm_content=yellow_cta_button)
+
+#### Get the latest SEO tips and strategies in your inbox
+
+Back to Top

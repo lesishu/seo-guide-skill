@@ -9,6 +9,7 @@ description:
 # SEO Guide Skill
 
 SEO 全流程技能。默认来源：Google 官方文档（86篇）+ Moz 精炼指南 + Ahrefs Academy 课程。
+3层分级（SKILL - INDEX - 原始内容），减少Token消耗。
 最后更新：2026-04-24
 
 ---

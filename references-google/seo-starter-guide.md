@@ -3,16 +3,6 @@
 > 来源：Google Search Central (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 > 抓取时间：2026-04-22
 
----
-
-  * [ Home ](https://developers.google.com/)
-  * [ Search Central ](https://developers.google.com/search)
-  * [ Documentation ](https://developers.google.com/search/docs)
-
-
-
-Send feedback 
-
 # Search Engine Optimization (SEO) Starter Guide
 
 When you built your website, you likely created it with your users in mind, trying to make it easy for them to find and explore your content. One of those users is a search engine, which helps people discover your content. SEO--short for search engine optimization--is about helping search engines understand your content, and helping users find your site and make a decision about whether they should visit your site through a search engine. 
@@ -259,6 +249,4 @@ As you embark on your SEO journey, here are some resources that can help you sta
   * [Google Search Central YouTube Channel](https://www.youtube.com/c/GoogleSearchCentral): Watch hundreds of helpful videos created for website owners. 
 
   
----|---|---  
-  
-Send feedback 
+---|---|---

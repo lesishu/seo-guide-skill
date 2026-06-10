@@ -4,56 +4,6 @@
 
 ---
 
-** Crawling infrastructure **
-
-  ** Home  **
-  ** Docs  **
-
-  **Intro**
-  **About Google's web crawling**
-  * How to...
-
-  **Verify requests from Google**
-  **Reduce Google's crawl rate**
-  * Use robots.txt to manage crawling
-
-    **Create and submit a robots.txt file**
-    **How Google interprets the robots.txt specification**
-    **Update your robots.txt file**
-    **List of useful robots.txt rules**
-
-  * Optimize crawling performance
-
-    **Optimize your crawl budget**
-    **Myths about crawling**
-    **Improve crawling of faceted navigation URLs**
-
-  * Reference
-
-  **Common crawlers**
-  **Special case crawlers**
-  **User-triggered fetchers**
-  * Specific crawlers and user-triggered fetchers
-
-    **APIs-Google**
-    **Feedfetcher**
-    **Googlebot**
-    **Google Read Aloud**
-
-  * Troubleshooting
-
-  **HTTP status codes**
-  **Network and DNS errors**
-  * What's new
-
-  **Changelog**
-
-  ** Home **
-  ** Crawling infrastructure **
-  ** Docs **
-
-Send feedback  Stay organized with collections  Save and categorize content based on your preferences. 
-
 # Verify requests from Google crawlers and fetchers
 
 You can verify if a request to your server really is [from Google](/crawling/docs/crawlers-fetchers/overview-google-crawlers). Verification is possible for crawlers such as Googlebot, as well as other requests. This is useful if you're concerned that spammers or other troublemakers are accessing your site while claiming to be from Google. 
@@ -116,71 +66,9 @@ Alternatively, you can identify Googlebot by IP address by matching the crawler'
   **User-triggered fetchers (Google)**
   **User-triggered agents**
 
-For other Google IP addresses from where your site may be accessed (for example, [Apps Scripts](/apps-script)), match the accessing IP address against the general [list of Google IP addresses](https://www.gstatic.com/ipranges/goog.json). Note that the IP addresses in the JSON files are represented in [CIDR format](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing). 
+For other Google IP addresses from where your site may be accessed (for example, [Apps Scripts](/apps-script)), match the accessing IP address against the general [list of Google IP addresses](https://www.gstatic.com/ipranges/goog.json). Note that the IP addresses in the JSON files are represented in [CIDR format](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing).
 
-Send feedback 
-
+---
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
 Last updated 2026-03-20 UTC.
-
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-03-20 UTC."],[],[]] 
-
-  * ### Connect
-
-    ** Blog **
-    ** Bluesky **
-    ** Instagram **
-    ** LinkedIn **
-    ** X (Twitter) **
-    ** YouTube **
-  * ### Programs
-
-    ** Google Developer Program **
-    ** Google Developer Groups **
-    ** Google Developer Experts **
-    ** Accelerators **
-    ** Google Cloud & NVIDIA **
-  * ### Developer consoles
-
-    ** Google API Console **
-    ** Google Cloud Platform Console **
-    ** Google Play Console **
-    ** Firebase Console **
-    ** Actions on Google Console **
-    ** Cast SDK Developer Console **
-    ** Chrome Web Store Dashboard **
-    ** Google Home Developer Console **
-
-[ ](https://developers.google.com/)
-
-  ** Android **
-  ** Chrome **
-  ** Firebase **
-  ** Google Cloud Platform **
-  ** Google AI **
-  ** All products **
-
-  ** Terms **
-  ** Privacy **
-  * Manage cookies 
-
-  * English
-  * Deutsch
-  * Español
-  * Español – América Latina
-  * Français
-  * Indonesia
-  * Italiano
-  * Polski
-  * Português – Brasil
-  * Tiếng Việt
-  * Türkçe
-  * Русский
-  * العربيّة
-  * हिंदी
-  * ภาษาไทย
-  * 中文 – 简体
-  * 中文 – 繁體
-  * 日本語
-  * 한국어

@@ -4,56 +4,6 @@
 
 ---
 
-** Crawling infrastructure **
-
-  ** Home  **
-  ** Docs  **
-
-  **Intro**
-  **About Google's web crawling**
-  * How to...
-
-  **Verify requests from Google**
-  **Reduce Google's crawl rate**
-  * Use robots.txt to manage crawling
-
-    **Create and submit a robots.txt file**
-    **How Google interprets the robots.txt specification**
-    **Update your robots.txt file**
-    **List of useful robots.txt rules**
-
-  * Optimize crawling performance
-
-    **Optimize your crawl budget**
-    **Myths about crawling**
-    **Improve crawling of faceted navigation URLs**
-
-  * Reference
-
-  **Common crawlers**
-  **Special case crawlers**
-  **User-triggered fetchers**
-  * Specific crawlers and user-triggered fetchers
-
-    **APIs-Google**
-    **Feedfetcher**
-    **Googlebot**
-    **Google Read Aloud**
-
-  * Troubleshooting
-
-  **HTTP status codes**
-  **Network and DNS errors**
-  * What's new
-
-  **Changelog**
-
-  ** Home **
-  ** Crawling infrastructure **
-  ** Docs **
-
-Send feedback  Stay organized with collections  Save and categorize content based on your preferences. 
-
 # Managing crawling of faceted navigation URLs
 
 Faceted navigation is a common feature of websites that allows its visitors to change how items (for example, products, articles, or events) are displayed on a page. It's a popular and useful feature, however its most common implementation, which is based on URL parameters, can generate infinite URL spaces which harms the website in a couple ways: 
@@ -101,71 +51,9 @@ Keep in mind that having these URLs crawled means an increased resource usage on
 
   1. Use the industry standard URL parameter separator '`&`'. Characters like comma (`,`), semicolon (`;`), and brackets (`[` and `]`) are hard for crawlers to detect as parameter separators (because most often they're not separators). 
   2. If you're encoding filters in the URL path, such as `/products/fish/green/tiny`, ensure that the logical order of the filters always stays the same and that no duplicate filters can exist. 
-  3. Return an HTTP `404` status code when a filter combination doesn't return results. If there are no green fish in the site's inventory, users as well as crawlers should receive a "not found" error with the proper HTTP status code (`404`). This should also be the case if the URL contains duplicate filters or otherwise nonsensical filter combinations, and nonexistent pagination URLs. Similarly, if a filter combination has no results, don't redirect to a common "not found" error page. Instead, serve a "not found" error with the `404` HTTP status code under the URL where it was encountered.  If [you have a single-page app](/search/docs/crawling-indexing/javascript/javascript-seo-basics#avoid-soft-404s) this might not be possible. Follow the best practices for single page apps. 
+  3. Return an HTTP `404` status code when a filter combination doesn't return results. If there are no green fish in the site's inventory, users as well as crawlers should receive a "not found" error with the proper HTTP status code (`404`). This should also be the case if the URL contains duplicate filters or otherwise nonsensical filter combinations, and nonexistent pagination URLs. Similarly, if a filter combination has no results, don't redirect to a common "not found" error page. Instead, serve a "not found" error with the `404` HTTP status code under the URL where it was encountered.  If [you have a single-page app](/search/docs/crawling-indexing/javascript/javascript-seo-basics#avoid-soft-404s) this might not be possible. Follow the best practices for single page apps.
 
-Send feedback 
-
+---
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
 Last updated 2025-12-18 UTC.
-
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2025-12-18 UTC."],[],[]] 
-
-  * ### Connect
-
-    ** Blog **
-    ** Bluesky **
-    ** Instagram **
-    ** LinkedIn **
-    ** X (Twitter) **
-    ** YouTube **
-  * ### Programs
-
-    ** Google Developer Program **
-    ** Google Developer Groups **
-    ** Google Developer Experts **
-    ** Accelerators **
-    ** Google Cloud & NVIDIA **
-  * ### Developer consoles
-
-    ** Google API Console **
-    ** Google Cloud Platform Console **
-    ** Google Play Console **
-    ** Firebase Console **
-    ** Actions on Google Console **
-    ** Cast SDK Developer Console **
-    ** Chrome Web Store Dashboard **
-    ** Google Home Developer Console **
-
-[ ](https://developers.google.com/)
-
-  ** Android **
-  ** Chrome **
-  ** Firebase **
-  ** Google Cloud Platform **
-  ** Google AI **
-  ** All products **
-
-  ** Terms **
-  ** Privacy **
-  * Manage cookies 
-
-  * English
-  * Deutsch
-  * Español
-  * Español – América Latina
-  * Français
-  * Indonesia
-  * Italiano
-  * Polski
-  * Português – Brasil
-  * Tiếng Việt
-  * Türkçe
-  * Русский
-  * العربيّة
-  * हिंदी
-  * ภาษาไทย
-  * 中文 – 简体
-  * 中文 – 繁體
-  * 日本語
-  * 한국어

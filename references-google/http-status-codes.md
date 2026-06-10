@@ -4,56 +4,6 @@
 
 ---
 
-** Crawling infrastructure **
-
-  ** Home  **
-  ** Docs  **
-
-  **Intro**
-  **About Google's web crawling**
-  * How to...
-
-  **Verify requests from Google**
-  **Reduce Google's crawl rate**
-  * Use robots.txt to manage crawling
-
-    **Create and submit a robots.txt file**
-    **How Google interprets the robots.txt specification**
-    **Update your robots.txt file**
-    **List of useful robots.txt rules**
-
-  * Optimize crawling performance
-
-    **Optimize your crawl budget**
-    **Myths about crawling**
-    **Improve crawling of faceted navigation URLs**
-
-  * Reference
-
-  **Common crawlers**
-  **Special case crawlers**
-  **User-triggered fetchers**
-  * Specific crawlers and user-triggered fetchers
-
-    **APIs-Google**
-    **Feedfetcher**
-    **Googlebot**
-    **Google Read Aloud**
-
-  * Troubleshooting
-
-  **HTTP status codes**
-  **Network and DNS errors**
-  * What's new
-
-  **Changelog**
-
-  ** Home **
-  ** Crawling infrastructure **
-  ** Docs **
-
-Send feedback  Stay organized with collections  Save and categorize content based on your preferences. 
-
 # How HTTP status codes affect Google's crawlers
 
 This page describes how different [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), impact Google's ability to crawl your web content. We cover the top 20 status codes that Google encounters on the web. More exotic status codes, such as [`418 (I'm a teapot)`](https://developer.mozilla.org/docs/Web/HTTP/Status/418), aren't covered. 
@@ -108,71 +58,9 @@ While Google treats these status codes the same way, keep in mind that they're s
 |  `5xx` and `429` server errors prompt Google's crawlers to temporarily slow down with crawling. For Google Search, already indexed URLs are preserved in the index, but eventually dropped.  Any content Google receives from URLs that return a `5xx` status code is ignored. For robots.txt files, learn how [Google handles a robots.txt that returns a `5xx` status code](/crawling/docs/robots-txt/robots-txt-spec#server-error).  Once the server starts responding with a `2xx` status code, Google gradually increases the crawl rate for the site.  | `500 (internal server error)` |  Google decreases the crawl rate for the site. The decrease in crawl rate is proportionate to the number of individual URLs that are returning a server error. For Google Search, Google's indexing pipeline removes from the index URLs that persistently return a server error.   
 ---|---  
 `502 (bad gateway)`  
-`503 (service unavailable)`  
-  
-Send feedback 
+`503 (service unavailable)`
 
+---
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
 Last updated 2026-02-04 UTC.
-
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-02-04 UTC."],[],[]] 
-
-  * ### Connect
-
-    ** Blog **
-    ** Bluesky **
-    ** Instagram **
-    ** LinkedIn **
-    ** X (Twitter) **
-    ** YouTube **
-  * ### Programs
-
-    ** Google Developer Program **
-    ** Google Developer Groups **
-    ** Google Developer Experts **
-    ** Accelerators **
-    ** Google Cloud & NVIDIA **
-  * ### Developer consoles
-
-    ** Google API Console **
-    ** Google Cloud Platform Console **
-    ** Google Play Console **
-    ** Firebase Console **
-    ** Actions on Google Console **
-    ** Cast SDK Developer Console **
-    ** Chrome Web Store Dashboard **
-    ** Google Home Developer Console **
-
-[ ](https://developers.google.com/)
-
-  ** Android **
-  ** Chrome **
-  ** Firebase **
-  ** Google Cloud Platform **
-  ** Google AI **
-  ** All products **
-
-  ** Terms **
-  ** Privacy **
-  * Manage cookies 
-
-  * English
-  * Deutsch
-  * Español
-  * Español – América Latina
-  * Français
-  * Indonesia
-  * Italiano
-  * Polski
-  * Português – Brasil
-  * Tiếng Việt
-  * Türkçe
-  * Русский
-  * العربيّة
-  * हिंदी
-  * ภาษาไทย
-  * 中文 – 简体
-  * 中文 – 繁體
-  * 日本語
-  * 한국어

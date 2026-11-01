@@ -190,3 +190,8 @@ seo-guide/
 也可以遵循已学习的指南，定制SEO流程、方法。
 
 核心要点就一个：让AI做SEO时，有权威、标准的参考。
+
+## 项目介绍与使用背景
+
+- [SEO Guide Skill：项目介绍与使用方法](https://lesishu.online/archives/seo-guide-skill)：阅读作者对资料来源、使用场景及精炼 SEO 能力的说明。实际文件与能力以本仓库当前版本为准。
+- [作者网站：乐思蜀的乐](https://lesishu.online/)：SEO、AI 应用与技术实践文章。
